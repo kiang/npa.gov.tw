@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>內政部警政署鐵路警察局防空疏散避難圖</name>
+    <description>內政部警政署鐵路警察局防空疏散避難圖</description>
+    <Style id="icon-1731-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>內政部警政署鐵路警察局防空疏散避難圖</name>
+      <Placemark>
+        <name>本局臺北分局</name>
+        <description><![CDATA[類別: 南港車站<br>電腦編號: 1<br>村里別: 南港里<br>地址: 25.052684423775755, 121.60528519736332<br>地下樓層數: 1、2<br>可容納人數: 1128人<br>備註: 臺北市南港區南港里南港路一段313號]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>南港車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>1.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>南港里</value>
+          </Data>
+          <Data name="地址">
+            <value>25.052684423775755, 121.60528519736332</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1、2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1128人</value>
+          </Data>
+          <Data name="備註">
+            <value>臺北市南港區南港里南港路一段313號</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.605285197363,25.0526844237758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本局臺北分局</name>
+        <address>臺北市信義區永吉里008鄰松山路11號</address>
+        <description><![CDATA[類別: 松山車站<br>電腦編號: 2<br>村里別: 永吉里<br>地址: 臺北市信義區永吉里008鄰松山路11號<br>地下樓層數: 1<br>可容納人數: 1030人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>松山車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>2.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>永吉里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺北市信義區永吉里008鄰松山路11號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1030人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局臺北分局</name>
+        <address>臺北市中正區黎明里003鄰北平西路3號</address>
+        <description><![CDATA[類別: 臺北車站<br>電腦編號: 3<br>村里別: 黎明里<br>地址: 臺北市中正區黎明里003鄰北平西路3號<br>地下樓層數: 1<br>可容納人數: 2000人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>臺北車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>3.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>黎明里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺北市中正區黎明里003鄰北平西路3號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2000人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局臺北分局</name>
+        <address>新北市板橋區新民里001鄰縣民大道二段7號</address>
+        <description><![CDATA[類別: 板橋車站<br>電腦編號: 4<br>村里別: 樹北里<br>地址: 新北市板橋區新民里001鄰縣民大道二段7號<br>地下樓層數: 1、2、3<br>可容納人數: 2000人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>板橋車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>4.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>樹北里</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市板橋區新民里001鄰縣民大道二段7號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1、2、3</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2000人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局臺北分局</name>
+        <address>新北市樹林區樹北里016鄰鎮前街112號</address>
+        <description><![CDATA[類別: 樹林車站<br>電腦編號: 5<br>村里別: 樹北里<br>地址: 新北市樹林區樹北里016鄰鎮前街112號<br>地下樓層數: 1<br>可容納人數: 265人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>樹林車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>5.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>樹北里</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市樹林區樹北里016鄰鎮前街112號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>265人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局臺北分局</name>
+        <address>新北市樹林區樹北里016鄰鎮前街86巷3號</address>
+        <description><![CDATA[類別: 臺鐵員工宿舍<br>電腦編號: 6<br>村里別: 樹北里<br>地址: 新北市樹林區樹北里016鄰鎮前街86巷3號<br>地下樓層數: 1<br>可容納人數: 230人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>臺鐵員工宿舍</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>6.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>樹北里</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市樹林區樹北里016鄰鎮前街86巷3號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>230人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局臺北分局</name>
+        <address>新北市樹林區東山里012鄰東佳路7號</address>
+        <description><![CDATA[類別: 樹林調車場<br>電腦編號: 7<br>村里別: 東山里<br>地址: 新北市樹林區東山里012鄰東佳路7號<br>地下樓層數: 1<br>可容納人數: 1162人<br><br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>樹林調車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>7.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>東山里</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市樹林區東山里012鄰東佳路7號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1162人
+</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局臺中分局</name>
+        <address>苗栗縣竹南鎮照南里1鄰中山路162號</address>
+        <description><![CDATA[類別: 竹南車站<br>電腦編號: 8<br>村里別: 照南里<br>地址: 苗栗縣竹南鎮照南里1鄰中山路162號<br>地下樓層數: 1<br>可容納人數: 37人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>竹南車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>8.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>照南里</value>
+          </Data>
+          <Data name="地址">
+            <value>苗栗縣竹南鎮照南里1鄰中山路162號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>37人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局臺中分局</name>
+        <address>臺中市清水區頂湳里11鄰甲南路2號</address>
+        <description><![CDATA[類別: 臺中港車站<br>電腦編號: 9<br>村里別: 頂湳里<br>地址: 臺中市清水區頂湳里11鄰甲南路2號<br>地下樓層數: 1<br>可容納人數: 40人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>臺中港車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>9.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>頂湳里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺中市清水區頂湳里11鄰甲南路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>40人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局高雄分局</name>
+        <address>高雄市路竹區甲南里20鄰天祐路24號</address>
+        <description><![CDATA[類別: 大湖車站<br>電腦編號: 10<br>村里別: 甲南里<br>地址: 高雄市路竹區甲南里20鄰天祐路24號<br>地下樓層數: 1<br>可容納人數: 146人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大湖車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>10.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>甲南里</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市路竹區甲南里20鄰天祐路24號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>146人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局高雄分局</name>
+        <address>高雄市大樹區久堂里3鄰久堂路鐵路巷15號</address>
+        <description><![CDATA[類別: 九曲堂火車站 <br>電腦編號: 11<br>村里別: 久堂里<br>地址: 高雄市大樹區久堂里3鄰久堂路鐵路巷15號<br>地下樓層數: 1<br>可容納人數: 192人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>九曲堂火車站 </value>
+          </Data>
+          <Data name="電腦編號">
+            <value>11.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>久堂里</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市大樹區久堂里3鄰久堂路鐵路巷15號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>192人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局高雄分局</name>
+        <address>屏東縣南州鄉仁里村4鄰仁里路86號</address>
+        <description><![CDATA[類別: 南州車站<br>電腦編號: 12<br>村里別: 仁里村<br>地址: 屏東縣南州鄉仁里村4鄰仁里路86號<br>地下樓層數: 1<br>可容納人數: 460人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>南州車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>12.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>仁里村</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣南州鄉仁里村4鄰仁里路86號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>460人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局高雄分局</name>
+        <address>屏東縣佳冬鄉六根村21鄰復興路21號</address>
+        <description><![CDATA[類別: 佳冬車站<br>電腦編號: 13<br>村里別: 六根村<br>地址: 屏東縣佳冬鄉六根村21鄰復興路21號<br>地下樓層數: 1<br>可容納人數: 260人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>佳冬車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>13.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>六根村</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣佳冬鄉六根村21鄰復興路21號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>260人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局高雄分局</name>
+        <address>屏東縣枋寮鄉枋寮村1鄰儲運路2號</address>
+        <description><![CDATA[類別: 枋寮車站<br>電腦編號: 14<br>村里別: 枋寮村<br>地址: 屏東縣枋寮鄉枋寮村1鄰儲運路2號<br>地下樓層數: 1<br>可容納人數: 160人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>枋寮車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>14.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>枋寮村</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣枋寮鄉枋寮村1鄰儲運路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>160人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局高雄分局</name>
+        <address>屏東縣枋山鄉加祿村6鄰會社路53號</address>
+        <description><![CDATA[類別: 加祿車站<br>電腦編號: 15<br>村里別: 加祿村<br>地址: 屏東縣枋山鄉加祿村6鄰會社路53號<br>地下樓層數: 1<br>可容納人數: 213人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>加祿車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>15.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>加祿村</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣枋山鄉加祿村6鄰會社路53號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>213人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局高雄分局</name>
+        <address>屏東縣獅子鄉內獅村7鄰內獅巷84號</address>
+        <description><![CDATA[類別: 枋山車站<br>電腦編號: 16<br>村里別: 內獅村<br>地址: 屏東縣獅子鄉內獅村7鄰內獅巷84號<br>地下樓層數: 1<br>可容納人數: 320人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>枋山車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>16.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>內獅村</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣獅子鄉內獅村7鄰內獅巷84號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>320人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局花蓮分局</name>
+        <address>臺東縣臺東市岩灣里16鄰岩灣路101巷598號</address>
+        <description><![CDATA[類別: 臺東車站(RMA213)<br>電腦編號: 17<br>村里別: 岩灣里<br>地址: 臺東縣臺東市岩灣里16鄰岩灣路101巷598號<br><br>地下樓層數: 1<br>可容納人數: 900人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>臺東車站(RMA213)</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>17.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>岩灣里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺東縣臺東市岩灣里16鄰岩灣路101巷598號
+</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>900人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局花蓮分局</name>
+        <address>臺東縣臺東市岩灣里16鄰岩灣路101巷598號</address>
+        <description><![CDATA[類別: 臺東車站(RMA214)<br>電腦編號: 18<br>村里別: 岩灣里<br>地址: 臺東縣臺東市岩灣里16鄰岩灣路101巷598號<br><br>地下樓層數: 1<br>可容納人數: 900人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>臺東車站(RMA214)</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>18.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>岩灣里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺東縣臺東市岩灣里16鄰岩灣路101巷598號
+</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>900人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局花蓮分局</name>
+        <address>臺東縣關山鎮里瓏里3鄰博愛路2號</address>
+        <description><![CDATA[類別: 關山車站<br>電腦編號: 19<br>村里別: 關山鎮<br>地址: 臺東縣關山鎮里瓏里3鄰博愛路2號<br>地下樓層數: 1<br>可容納人數: 156人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>關山車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>19.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>關山鎮</value>
+          </Data>
+          <Data name="地址">
+            <value>臺東縣關山鎮里瓏里3鄰博愛路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>156人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局花蓮分局</name>
+        <address>花蓮縣瑞穗村009鄰四維街13號</address>
+        <description><![CDATA[類別: 瑞穗車站<br>電腦編號: 20<br>村里別: 瑞穗村<br>地址: 花蓮縣瑞穗村009鄰四維街13號<br>地下樓層數: 1<br>可容納人數: 100人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>瑞穗車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>20.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>瑞穗村</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣瑞穗村009鄰四維街13號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>100人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局花蓮分局</name>
+        <address>花蓮縣鳳林鎮鳳智里019鄰中山路43號</address>
+        <description><![CDATA[類別: 鳳林車站<br>電腦編號: 21<br>村里別: 鳳智里<br>地址: 花蓮縣鳳林鎮鳳智里019鄰中山路43號<br>地下樓層數: 1<br>可容納人數: 170人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>鳳林車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>21.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>鳳智里</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣鳳林鎮鳳智里019鄰中山路43號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>170人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局花蓮分局</name>
+        <address>花蓮縣花蓮市國聯里35鄰國聯一路100號</address>
+        <description><![CDATA[類別: 花蓮車站<br>電腦編號: 22<br>村里別: 國聯里<br>地址: 花蓮縣花蓮市國聯里35鄰國聯一路100號<br>地下樓層數: 1<br>可容納人數: 750人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>花蓮車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>22.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>國聯里</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣花蓮市國聯里35鄰國聯一路100號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>750人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局花蓮分局</name>
+        <address>宜蘭縣宜蘭市和睦里001鄰光復路1號</address>
+        <description><![CDATA[類別: 宜蘭車站<br>電腦編號: 23<br>村里別: 和睦里<br>地址: 宜蘭縣宜蘭市和睦里001鄰光復路1號<br>地下樓層數: 1<br>可容納人數: 200人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>宜蘭車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>23.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>和睦里</value>
+          </Data>
+          <Data name="地址">
+            <value>宜蘭縣宜蘭市和睦里001鄰光復路1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>200人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局花蓮分局</name>
+        <address>宜蘭縣礁溪鄉德陽村004鄰溫泉路1號</address>
+        <description><![CDATA[類別: 礁溪車站<br>電腦編號: 24<br>村里別: 德陽村<br>地址: 宜蘭縣礁溪鄉德陽村004鄰溫泉路1號<br>地下樓層數: 1<br>可容納人數: 100人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>礁溪車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>24.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>德陽村</value>
+          </Data>
+          <Data name="地址">
+            <value>宜蘭縣礁溪鄉德陽村004鄰溫泉路1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>100人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>本局花蓮分局</name>
+        <address>宜蘭縣頭城鎮006鄰纘祥路59號</address>
+        <description><![CDATA[類別: 頭城車站<br>電腦編號: 25<br>村里別: 頭城鎮<br>地址: 宜蘭縣頭城鎮006鄰纘祥路59號<br>地下樓層數: 1<br>可容納人數: 100人<br>備註: ]]></description>
+        <styleUrl>#icon-1731-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>頭城車站</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>25.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>頭城鎮</value>
+          </Data>
+          <Data name="地址">
+            <value>宜蘭縣頭城鎮006鄰纘祥路59號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>100人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>基隆港務警察總隊</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>基隆港務警察總隊</name>
+      <Placemark>
+        <name>老碼頭中隊</name>
+        <address>基隆市仁愛區港西街6號</address>
+        <description><![CDATA[類別: 海港大樓<br>電腦編號: 1<br>村里別: <br>地址: 基隆市仁愛區港西街6號<br>地下樓層數: 1<br>可容納人數: 746<br>備註: ]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>海港大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>1.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>基隆市仁愛區港西街6號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>746.0</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>大沙灣中隊</name>
+        <address>基隆市中正區東海街8號之1</address>
+        <description><![CDATA[類別: 大沙灣中隊<br>電腦編號: 2<br>村里別: <br>地址: 基隆市中正區東海街8號之1<br>地下樓層數: 1<br>可容納人數: 154<br>備註: ]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大沙灣中隊</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>2.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>基隆市中正區東海街8號之1</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>154.0</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>新碼頭中隊</name>
+        <address>基隆市仙洞里中山四路1號</address>
+        <description><![CDATA[類別: 陽明海運<br>電腦編號: 3<br>村里別: 仙洞里<br>地址: 基隆市仙洞里中山四路1號<br>地下樓層數: 1<br>可容納人數: 92<br>備註: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>陽明海運</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>3.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>仙洞里</value>
+          </Data>
+          <Data name="地址">
+            <value>基隆市仙洞里中山四路1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>92.0</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>臺北中隊</name>
+        <address>新北市八里區商港路120號</address>
+        <description><![CDATA[類別: 臺北中隊<br>電腦編號: 4<br>村里別: <br>地址: 新北市八里區商港路120號<br>地下樓層數: 1<br>可容納人數: 165<br>備註: ]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>臺北中隊</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>4.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新北市八里區商港路120號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>165.0</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>臺北中隊</name>
+        <address>新北市八里區商港路123號</address>
+        <description><![CDATA[類別: 基隆港務分公司臺北營運處<br>電腦編號: 5<br>村里別: <br>地址: 新北市八里區商港路123號<br>地下樓層數: 1<br>可容納人數: 175<br>備註: ]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>基隆港務分公司臺北營運處</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>5.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新北市八里區商港路123號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>175.0</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>臺北中隊</name>
+        <address>新北市八里區商港路122號</address>
+        <description><![CDATA[類別: 臺北港務消防隊<br>電腦編號: 6<br>村里別: <br>地址: 新北市八里區商港路122號<br>地下樓層數: 1<br>可容納人數: 86<br>備註: ]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>臺北港務消防隊</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>6.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新北市八里區商港路122號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>86.0</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>蘇澳中隊</name>
+        <address>宜蘭縣蘇澳鎮蘇東里港區路7號</address>
+        <description><![CDATA[類別: 蘇澳中隊<br>電腦編號: 7<br>村里別: 蘇東里<br>地址: 宜蘭縣蘇澳鎮蘇東里港區路7號<br>地下樓層數: 1<br>可容納人數: 28<br>備註: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>蘇澳中隊</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>7.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>蘇東里</value>
+          </Data>
+          <Data name="地址">
+            <value>宜蘭縣蘇澳鎮蘇東里港區路7號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>28.0</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>蘇澳中隊</name>
+        <address>宜蘭縣蘇澳鎮蘇東里港區路1號</address>
+        <description><![CDATA[類別: 基隆港務分公司蘇澳營運處<br>電腦編號: 8<br>村里別: <br>地址: 宜蘭縣蘇澳鎮蘇東里港區路1號<br>地下樓層數: 1<br>可容納人數: 250<br>備註: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>基隆港務分公司蘇澳營運處</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>8.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>宜蘭縣蘇澳鎮蘇東里港區路1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>250.0</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

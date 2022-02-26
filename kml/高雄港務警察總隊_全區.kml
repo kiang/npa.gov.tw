@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>高雄港務警察總隊</name>
+    <description/>
+    <Style id="icon-1899-006064-labelson">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-01579B-labelson">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-labelson">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-labelson">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-labelson">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-labelson">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-labelson">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-E65100-labelson">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-labelson">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-labelson">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-labelson">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-labelson">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>高雄港務警察總隊N</name>
+      <Placemark>
+        <name>高雄港務分公司員訓教室</name>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 1<br>村里別: 光明里<br>地址: 22.619899617417044, 120.28068595284229<br>地下樓層數: 1<br>可容納人數: 90<br>轄管分局: 三號碼頭中隊]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>公寓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>1.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>光明里</value>
+          </Data>
+          <Data name="地址">
+            <value>22.619899617417044, 120.28068595284229</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>90.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>三號碼頭中隊</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.280685952842,22.619899617417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高雄港務警察總隊</name>
+        <address>高雄市鼓山區麗興里004鄰蓬萊路1號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 2<br>村里別: 麗興里<br>地址: 高雄市鼓山區麗興里004鄰蓬萊路1號<br>地下樓層數: 1<br>可容納人數: 108<br>轄管分局: 三號碼頭中隊]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>公寓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>2.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>麗興里</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市鼓山區麗興里004鄰蓬萊路1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>108.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>三號碼頭中隊</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高雄港務分公司船機處</name>
+        <address>高雄市鼓山區麗興里004鄰蓬萊路8號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 3<br>村里別: 麗興里<br>地址: 高雄市鼓山區麗興里004鄰蓬萊路8號<br>地下樓層數: 1<br>可容納人數: 80<br>轄管分局: 三號碼頭中隊]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>公寓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>3.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>麗興里</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市鼓山區麗興里004鄰蓬萊路8號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>80.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>三號碼頭中隊</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高雄港務分公司辦公室</name>
+        <address>高雄市鼓山區麗興里004鄰蓬萊路24號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 4<br>村里別: 麗興里<br>地址: 高雄市鼓山區麗興里004鄰蓬萊路24號<br>地下樓層數: 1<br>可容納人數: 262<br>轄管分局: 三號碼頭中隊]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>公寓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>4.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>麗興里</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市鼓山區麗興里004鄰蓬萊路24號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>262.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>三號碼頭中隊</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高雄港務分公司辦公室</name>
+        <address>高雄市鼓山區麗興里004鄰蓬萊路30號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 5<br>村里別: 麗興里<br>地址: 高雄市鼓山區麗興里004鄰蓬萊路30號<br>地下樓層數: 1<br>可容納人數: 128<br>轄管分局: 三號碼頭中隊]]></description>
+        <styleUrl>#icon-1899-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>公寓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>5.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>麗興里</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市鼓山區麗興里004鄰蓬萊路30號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>128.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>三號碼頭中隊</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高雄港務分公司辦公室</name>
+        <address>高雄市鼓山區哨船頭里015鄰蓮海路1-1號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 6<br>村里別: 哨船頭里<br>地址: 高雄市鼓山區哨船頭里015鄰蓮海路1-1號<br>地下樓層數: 1<br>可容納人數: 49<br>轄管分局: 三號碼頭中隊]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>公寓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>6.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>哨船頭里</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市鼓山區哨船頭里015鄰蓮海路1-1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>49.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>三號碼頭中隊</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>30號碼頭修車廠</name>
+        <address>高雄市前鎮區鎮北里001鄰高雄港30號碼頭</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 7<br>村里別: 鎮北里<br>地址: 高雄市前鎮區鎮北里001鄰高雄港30號碼頭<br>地下樓層數: 1<br>可容納人數: 322<br>轄管分局: 中島中隊]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>公寓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>7.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>鎮北里</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市前鎮區鎮北里001鄰高雄港30號碼頭</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>322.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>中島中隊</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>43號碼頭辦公室</name>
+        <address>高雄市前鎮區鎮北里001鄰高雄港43號碼頭</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 8<br>村里別: 鎮北里<br>地址: 高雄市前鎮區鎮北里001鄰高雄港43號碼頭<br>地下樓層數: 1<br>可容納人數: 253<br>轄管分局: 中島中隊]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>公寓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>8.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>鎮北里</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市前鎮區鎮北里001鄰高雄港43號碼頭</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>253.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>中島中隊</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>47號碼頭辦公室</name>
+        <address>高雄市前鎮區鎮北里001鄰高雄港47號碼頭</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 9<br>村里別: 鎮北里<br>地址: 高雄市前鎮區鎮北里001鄰高雄港47號碼頭<br>地下樓層數: 1<br>可容納人數: 64<br>轄管分局: 中島中隊]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>公寓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>9.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>鎮北里</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市前鎮區鎮北里001鄰高雄港47號碼頭</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>64.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>中島中隊</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>47號碼頭後線</name>
+        <address>高雄市前鎮區鎮北里001鄰高雄港47號碼頭</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 10<br>村里別: 鎮北里<br>地址: 高雄市前鎮區鎮北里001鄰高雄港47號碼頭<br>地下樓層數: 1<br>可容納人數: 25<br>轄管分局: 中島中隊]]></description>
+        <styleUrl>#icon-1899-4E342E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>公寓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>10.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>鎮北里</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市前鎮區鎮北里001鄰高雄港47號碼頭</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>25.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>中島中隊</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高雄港務分公司辦公室</name>
+        <address>高雄市前鎮區鎮北里001鄰大華三路16-1號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 11<br>村里別: 鎮北里<br>地址: 高雄市前鎮區鎮北里001鄰大華三路16-1號<br>地下樓層數: 1<br>可容納人數: 134<br>轄管分局: 中島中隊]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>公寓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>11.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>鎮北里</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市前鎮區鎮北里001鄰大華三路16-1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>134.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>中島中隊</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>47號碼頭倉庫</name>
+        <address>高雄市前鎮區鎮北里001鄰高雄港47號碼頭</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 12<br>村里別: 鎮北里<br>地址: 高雄市前鎮區鎮北里001鄰高雄港47號碼頭<br>地下樓層數: 1<br>可容納人數: 178<br>轄管分局: 中島中隊]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>公寓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>12.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>鎮北里</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市前鎮區鎮北里001鄰高雄港47號碼頭</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>178.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>中島中隊</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高雄港務分公司辦公室</name>
+        <address>高雄市前鎮區鎮北里001鄰大華一路32-1號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 13<br>村里別: 鎮北里<br>地址: 高雄市前鎮區鎮北里001鄰大華一路32-1號<br>地下樓層數: 1<br>可容納人數: 123<br>轄管分局: 中島中隊]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>公寓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>13.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>鎮北里</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市前鎮區鎮北里001鄰大華一路32-1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>123.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>中島中隊</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

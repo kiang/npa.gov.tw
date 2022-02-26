@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>花蓮港務警察總隊</name>
+    <description/>
+    <Style id="icon-1899-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>花蓮港務警察總隊</name>
+      <Placemark>
+        <name>保安警察隊</name>
+        <address>花蓮市民孝里港口路15號</address>
+        <description><![CDATA[類別: 交通部航港局東部航務中心<br>電腦編號: 1<br>村里別: 民孝里<br>地址: 花蓮市民孝里港口路15號<br>地下樓層數: 1<br>可容納人數: 290人。<br>備註: ]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>交通部航港局東部航務中心</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>1.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>民孝里</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮市民孝里港口路15號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>290人。</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>保安警察隊</name>
+        <address>花蓮市民德里海岸路66號</address>
+        <description><![CDATA[類別: 臺灣港務股份有限公司花蓮港務分公司<br>電腦編號: 2<br>村里別: 民德里<br>地址: 花蓮市民德里海岸路66號<br>地下樓層數: 1<br>可容納人數: 2903人<br>備註: ]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>臺灣港務股份有限公司花蓮港務分公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>2.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>民德里</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮市民德里海岸路66號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2903人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>東堤中隊</name>
+        <address>24.004948, 121.636618</address>
+        <description><![CDATA[類別: 中國鋼鐵公司花蓮石料廠<br>電腦編號: 3<br>村里別: 民孝里<br>地址: 24.004948, 121.636618<br>地下樓層數: 1<br>可容納人數: 170人<br>備註: 花蓮港區第12號碼頭]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>中國鋼鐵公司花蓮石料廠</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>3.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>民孝里</value>
+          </Data>
+          <Data name="地址">
+            <value>24.004948, 121.636618</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>170人</value>
+          </Data>
+          <Data name="備註">
+            <value>花蓮港區第12號碼頭</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

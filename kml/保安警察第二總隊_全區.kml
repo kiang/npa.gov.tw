@@ -1,0 +1,5385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>保安警察第二總隊</name>
+    <description/>
+    <Style id="icon-1603-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>保二總隊</name>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區大順三路6號</address>
+        <description><![CDATA[類別: 管理局璞園宿舍<br>地下停車場<br>電腦編號: 1<br>村里別: <br>地址: 臺南市新市區大順三路6號<br>地下樓層數: 2<br>可容納人數: 3247<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>管理局璞園宿舍
+地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>1.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區大順三路6號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>3247</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區大順三路111-119號</address>
+        <description><![CDATA[類別: 管理局馨園宿舍<br>地下停車場<br>電腦編號: 2<br>村里別: <br>地址: 臺南市新市區大順三路111-119號<br>地下樓層數: 2<br>可容納人數: 5823<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>管理局馨園宿舍
+地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>2.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區大順三路111-119號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>5823</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區大順五路1號</address>
+        <description><![CDATA[類別: 管理局華園1、2期宿舍<br>地下停車場<br>電腦編號: 3<br>村里別: <br>地址: 臺南市新市區大順五路1號<br>地下樓層數: 1<br>可容納人數: 9940<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>管理局華園1、2期宿舍
+地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>3.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區大順五路1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>9940</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區大順三路12號</address>
+        <description><![CDATA[類別: 管理局華園3期宿舍<br>地下停車場<br>電腦編號: 4<br>村里別: <br>地址: 臺南市新市區大順三路12號<br>地下樓層數: 2<br>可容納人數: 17029<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>管理局華園3期宿舍
+地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>4.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區大順三路12號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>17029</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區大順三路125號</address>
+        <description><![CDATA[類別: 社區中心<br>地下停車場<br>電腦編號: 5<br>村里別: <br>地址: 臺南市新市區大順三路125號<br>地下樓層數: 2<br>可容納人數: 5174<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>社區中心
+地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>5.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區大順三路125號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>5174</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區大順六路12巷6號</address>
+        <description><![CDATA[類別: 南科實中<br>地下室<br>電腦編號: 6<br>村里別: <br>地址: 臺南市新市區大順六路12巷6號<br>地下樓層數: 1<br>可容納人數: 3435<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>南科實中
+地下室</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>6.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區大順六路12巷6號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>3435</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區南科三路22號</address>
+        <description><![CDATA[類別: 南科管理局<br>地下停車場<br>電腦編號: 7<br>村里別: <br>地址: 臺南市新市區南科三路22號<br>地下樓層數: 1<br>可容納人數: 24626<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>南科管理局
+地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>7.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區南科三路22號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>24626</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區南科三路6號</address>
+        <description><![CDATA[類別: 南科警察隊<br>地下室<br>電腦編號: 8<br>村里別: <br>地址: 臺南市新市區南科三路6號<br>地下樓層數: 1<br>可容納人數: 1817<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>南科警察隊
+地下室</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>8.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區南科三路6號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1817</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區南科三路1-17號</address>
+        <description><![CDATA[類別: 管理局第1期標準廠房<br>地下停車場<br>電腦編號: 9<br>村里別: <br>地址: 臺南市新市區南科三路1-17號<br>地下樓層數: 1<br>可容納人數: 8969<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>管理局第1期標準廠房
+地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>9.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區南科三路1-17號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>8969</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區南科三路17-27號</address>
+        <description><![CDATA[類別: 管理局第2期標準廠房<br>地下停車場<br>電腦編號: 10<br>村里別: <br>地址: 臺南市新市區南科三路17-27號<br>地下樓層數: 1<br>可容納人數: 14732<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>管理局第2期標準廠房
+地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>10.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區南科三路17-27號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>14732</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區環東路一段31巷2-30號</address>
+        <description><![CDATA[類別: 管理局第3期標準廠房<br>地下停車場<br>電腦編號: 11<br>村里別: <br>地址: 臺南市新市區環東路一段31巷2-30號<br>地下樓層數: 1<br>可容納人數: 18366<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>管理局第3期標準廠房
+地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>11.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區環東路一段31巷2-30號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>18366</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區南科二路5-15號</address>
+        <description><![CDATA[類別: 管理局第4期標準廠房<br>地下停車場<br>電腦編號: 12<br>村里別: <br>地址: 臺南市新市區南科二路5-15號<br>地下樓層數: 1<br>可容納人數: 5892<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>管理局第4期標準廠房
+地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>12.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區南科二路5-15號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>5892</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區創業路2-30號</address>
+        <description><![CDATA[類別: 管理局第5期標準廠房<br>地下停車場<br>電腦編號: 13<br>村里別: <br>地址: 臺南市新市區創業路2-30號<br>地下樓層數: 1<br>可容納人數: 18898<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>管理局第5期標準廠房
+地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>13.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區創業路2-30號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>18898</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區南科二路18號</address>
+        <description><![CDATA[類別: P1P2工廠A棟地下停車場<br>電腦編號: 14<br>村里別: <br>地址: 臺南市新市區南科二路18號<br>地下樓層數: 1<br>可容納人數: 4164<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>P1P2工廠A棟地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>14.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區南科二路18號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>4164</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區南科三路57號</address>
+        <description><![CDATA[類別: P5P6 工廠OB棟地下停車場<br>電腦編號: 15<br>村里別: <br>地址: 臺南市新市區南科三路57號<br>地下樓層數: 1<br>可容納人數: 21207<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>P5P6 工廠OB棟地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>15.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區南科三路57號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>21207</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區南科一路3號</address>
+        <description><![CDATA[類別: 防空避難室、停車空間<br>電腦編號: 16<br>村里別: <br>地址: 臺南市新市區南科一路3號<br>地下樓層數: 1<br>可容納人數: 6237<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>防空避難室、停車空間</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>16.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區南科一路3號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>6237</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市善化區南科北路1號</address>
+        <description><![CDATA[類別: 辦公室(F6) 地下停車場<br>電腦編號: 17<br>村里別: <br>地址: 臺南市善化區南科北路1號<br>地下樓層數: 2<br>可容納人數: 13030<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>辦公室(F6) 地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>17.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市善化區南科北路1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>13030</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市善化區南科北路1號</address>
+        <description><![CDATA[類別: 倉庫地下停車場<br>電腦編號: 18<br>村里別: <br>地址: 臺南市善化區南科北路1號<br>地下樓層數: 1<br>可容納人數: 6661<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>倉庫地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>18.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市善化區南科北路1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>6661</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市善化區南科北路1號之1</address>
+        <description><![CDATA[類別: 辦公室(F14P1) 地下停車場<br>電腦編號: 19<br>村里別: <br>地址: 臺南市善化區南科北路1號之1<br>地下樓層數: 2<br>可容納人數: 19667<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>辦公室(F14P1) 地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>19.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市善化區南科北路1號之1</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>19667</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市善化區三抱竹路1號</address>
+        <description><![CDATA[類別: 辦公室(F14P7) 地下停車場<br>電腦編號: 20<br>村里別: <br>地址: 臺南市善化區三抱竹路1號<br>地下樓層數: 1<br>可容納人數: 8223<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>辦公室(F14P7) 地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>20.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市善化區三抱竹路1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>8223</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區大利一路9號</address>
+        <description><![CDATA[類別: 工廠地下停車場<br>電腦編號: 21<br>村里別: <br>地址: 臺南市新市區大利一路9號<br>地下樓層數: 1<br>可容納人數: 7484<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>工廠地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>21.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區大利一路9號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>7484</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市善化區環東路二段28號</address>
+        <description><![CDATA[類別: 工廠地下停車場<br>電腦編號: 22<br>村里別: <br>地址: 臺南市善化區環東路二段28號<br>地下樓層數: 1<br>可容納人數: 1587<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>工廠地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>22.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市善化區環東路二段28號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1587</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區大業一路8號</address>
+        <description><![CDATA[類別: 停車空間<br>電腦編號: 23<br>村里別: <br>地址: 臺南市新市區大業一路8號<br>地下樓層數: 2<br>可容納人數: 5706<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>停車空間</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>23.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區大業一路8號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>5706</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市安定區蘇林里1鄰北園二路8號</address>
+        <description><![CDATA[類別: G2停車空間(18P1 O棟)<br>電腦編號: 24<br>村里別: <br>地址: 臺南市安定區蘇林里1鄰北園二路8號<br>地下樓層數: 2<br>可容納人數: 26329<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>G2停車空間(18P1 O棟)</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>24.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市安定區蘇林里1鄰北園二路8號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>26329</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市新市區大順七路92號</address>
+        <description><![CDATA[類別: 停車空間<br>電腦編號: 25<br>村里別: <br>地址: 臺南市新市區大順七路92號<br>地下樓層數: 1<br>可容納人數: 1879<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>停車空間</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>25.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市新市區大順七路92號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1879</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市善化區頂街里5鄰西善一路9號</address>
+        <description><![CDATA[類別: C1停車空間<br>電腦編號: 26<br>村里別: <br>地址: 臺南市善化區頂街里5鄰西善一路9號<br>地下樓層數: 1<br>可容納人數: 11794<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>C1停車空間</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>26.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市善化區頂街里5鄰西善一路9號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>11794</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市安定區蘇林里1鄰北園二路8號</address>
+        <description><![CDATA[類別: 停車空間(F18P1 P棟廠商停車場)<br>電腦編號: 27<br>村里別: <br>地址: 臺南市安定區蘇林里1鄰北園二路8號<br>地下樓層數: 1<br>可容納人數: 4667<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>停車空間(F18P1 P棟廠商停車場)</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>27.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市安定區蘇林里1鄰北園二路8號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>4667</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市安定區蘇林里1鄰北園二路8號</address>
+        <description><![CDATA[類別: 停車場(18P4辦公棟連通段)<br>電腦編號: 28<br>村里別: <br>地址: 臺南市安定區蘇林里1鄰北園二路8號<br>地下樓層數: 2<br>可容納人數: 5830<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>停車場(18P4辦公棟連通段)</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>28.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市安定區蘇林里1鄰北園二路8號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>5830</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市善化區南關里9鄰環東路二段30號</address>
+        <description><![CDATA[類別: 廠房地下停車場<br>電腦編號: 29<br>村里別: <br>地址: 臺南市善化區南關里9鄰環東路二段30號<br>地下樓層數: 3<br>可容納人數: 21394<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>廠房地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>29.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市善化區南關里9鄰環東路二段30號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>3</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>21394</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南科</name>
+        <address>臺南市安定區蘇林里1鄰北園二路8號</address>
+        <description><![CDATA[類別: 辦公室(F18P4)地下停車場<br>電腦編號: 30<br>村里別: <br>地址: 臺南市安定區蘇林里1鄰北園二路8號<br>地下樓層數: 2<br>可容納人數: 19839<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>辦公室(F18P4)地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>30.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>臺南市安定區蘇林里1鄰北園二路8號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>19839</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>路科</name>
+        <address>高雄市路竹區後鄉路35號</address>
+        <description><![CDATA[類別: 管理局宿舍<br>地下停車場<br>電腦編號: 1<br>村里別: <br>地址: 高雄市路竹區後鄉路35號<br>地下樓層數: 1<br>可容納人數: 19031<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>管理局宿舍
+地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>1.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市路竹區後鄉路35號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>19031</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>路科</name>
+        <address>高雄市路竹區路科五路23號</address>
+        <description><![CDATA[類別: 管理局行政大樓<br>地下室<br>電腦編號: 2<br>村里別: <br>地址: 高雄市路竹區路科五路23號<br>地下樓層數: 1<br>可容納人數: 6280<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>管理局行政大樓
+地下室</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>2.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市路竹區路科五路23號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>6280</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>路科</name>
+        <address>高雄市路竹區路科五路82號</address>
+        <description><![CDATA[類別: 管理局第1期標準廠房<br>地下停車場<br>電腦編號: 3<br>村里別: <br>地址: 高雄市路竹區路科五路82號<br>地下樓層數: 1<br>可容納人數: 9076<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>管理局第1期標準廠房
+地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>3.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市路竹區路科五路82號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>9076</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>路科</name>
+        <address>高雄市路竹區路科二路55號</address>
+        <description><![CDATA[類別: 管理局第2期標準廠房<br>地下停車場<br>電腦編號: 4<br>村里別: <br>地址: 高雄市路竹區路科二路55號<br>地下樓層數: 1<br>可容納人數: 6935<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>管理局第2期標準廠房
+地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>4.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市路竹區路科二路55號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>6935</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>興達</name>
+        <address>高雄市永安區興達路6號</address>
+        <description><![CDATA[類別: 辦公室(F18P4)地下停車場<br>電腦編號: 1<br>村里別: <br>地址: 高雄市永安區興達路6號<br>地下樓層數: 1<br>可容納人數: 500<br>轄管中隊: 保二一大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>辦公室(F18P4)地下停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>1.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市永安區興達路6號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>500</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高雄加工區</name>
+        <address>高雄市前鎮區南三路4號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 1<br>村里別: <br>地址: 高雄市前鎮區南三路4號<br>地下樓層數: 2<br>可容納人數: 429<br>轄管中隊: 保二一大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>1.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市前鎮區南三路4號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>429</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高雄加工區</name>
+        <address>高雄市前鎮區南二路1號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 2<br>村里別: <br>地址: 高雄市前鎮區南二路1號<br>地下樓層數: 2<br>可容納人數: 3,555<br>轄管中隊: 保二一大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>2.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市前鎮區南二路1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>3,555</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高雄加工區</name>
+        <address>高雄市前鎮區北一路18號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 3<br>村里別: <br>地址: 高雄市前鎮區北一路18號<br>地下樓層數: 2<br>可容納人數: 4,081<br>轄管中隊: 保二一大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>3.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市前鎮區北一路18號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>4,081</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高雄加工區</name>
+        <address>高雄市前鎮區南四路7號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 4<br>村里別: <br>地址: 高雄市前鎮區南四路7號<br>地下樓層數: 1<br>可容納人數: 1,020<br>轄管中隊: 保二一大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>4.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市前鎮區南四路7號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1,020</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高雄加工區</name>
+        <address>高雄市前鎮區南六路5號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 5<br>村里別: <br>地址: 高雄市前鎮區南六路5號<br>地下樓層數: 1<br>可容納人數: 4,153<br>轄管中隊: 保二一大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>5.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市前鎮區南六路5號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>4,153</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高雄加工區</name>
+        <address>高雄市前鎮區南七路2號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 6<br>村里別: <br>地址: 高雄市前鎮區南七路2號<br>地下樓層數: 1<br>可容納人數: 445<br>轄管中隊: 保二一大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>6.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市前鎮區南七路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>445</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高雄加工區</name>
+        <address>高雄市前鎮區中一路3-2號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 7<br>村里別: <br>地址: 高雄市前鎮區中一路3-2號<br>地下樓層數: 1<br>可容納人數: 120<br>轄管中隊: 保二一大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>7.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市前鎮區中一路3-2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>120</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>楠梓加工區</name>
+        <address>高雄市楠梓區經三路26號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 1<br>村里別: <br>地址: 高雄市楠梓區經三路26號<br>地下樓層數: 1<br>可容納人數: 1,044<br>轄管中隊: 保二一大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>1.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市楠梓區經三路26號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1,044</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>楠梓加工區</name>
+        <address>高雄市楠梓區開發路73號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 2<br>村里別: <br>地址: 高雄市楠梓區開發路73號<br>地下樓層數: 1<br>可容納人數: 3,127<br>轄管中隊: 保二一大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>2.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市楠梓區開發路73號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>3,127</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>楠梓加工區</name>
+        <address>高雄市楠梓區經六路66號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 3<br>村里別: <br>地址: 高雄市楠梓區經六路66號<br>地下樓層數: 1<br>可容納人數: 4,986<br>轄管中隊: 保二一大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>3.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市楠梓區經六路66號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>4,986</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>楠梓加工區</name>
+        <address>高雄市楠梓區內環北路107號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 4<br>村里別: <br>地址: 高雄市楠梓區內環北路107號<br>地下樓層數: 1<br>可容納人數: 9,270<br>轄管中隊: 保二一大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>4.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市楠梓區內環北路107號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>9,270</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>楠梓加工區</name>
+        <address>高雄市楠梓區開發路73號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 5<br>村里別: <br>地址: 高雄市楠梓區開發路73號<br>地下樓層數: 1<br>可容納人數: 3,199<br>轄管中隊: 保二一大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>5.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市楠梓區開發路73號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>3,199</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>楠梓加工區</name>
+        <address>高雄市楠梓區中央路30號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 6<br>村里別: <br>地址: 高雄市楠梓區中央路30號<br>地下樓層數: 1<br>可容納人數: 7,541<br>轄管中隊: 保二一大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>6.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市楠梓區中央路30號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>7,541</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>楠梓加工區</name>
+        <address>高雄市楠梓區開發路37之1號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 7<br>村里別: <br>地址: 高雄市楠梓區開發路37之1號<br>地下樓層數: 1<br>可容納人數: 4,395<br>轄管中隊: 保二一大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>7.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市楠梓區開發路37之1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>4,395</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>楠梓加工區</name>
+        <address>高雄市楠梓區創意南路2號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 8<br>村里別: <br>地址: 高雄市楠梓區創意南路2號<br>地下樓層數: 1、2<br>可容納人數: 12,216<br>轄管中隊: 保二一大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>8.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>高雄市楠梓區創意南路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1、2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>12,216</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二一大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區新安路3-1號</address>
+        <description><![CDATA[類別: 巡巴轉運站後棟<br>電腦編號: 1<br>村里別: <br>地址: 新竹科學園區新安路3-1號<br>地下樓層數: 1<br>可容納人數: 123<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>巡巴轉運站後棟</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>1.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區新安路3-1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>123</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區新安路3號</address>
+        <description><![CDATA[類別: 巡巴轉運站前棟<br>電腦編號: 2<br>村里別: <br>地址: 新竹科學園區新安路3號<br>地下樓層數: 1<br>可容納人數: 136<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>巡巴轉運站前棟</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>2.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區新安路3號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>136</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區新安路2號</address>
+        <description><![CDATA[類別: 科學園區管理局<br>電腦編號: 3<br>村里別: <br>地址: 新竹科學園區新安路2號<br>地下樓層數: 1<br>可容納人數: 562<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>科學園區管理局</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>3.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區新安路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>562</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區新安路2-1號</address>
+        <description><![CDATA[類別: 勞工育樂中心<br>電腦編號: 4<br>村里別: <br>地址: 新竹科學園區新安路2-1號<br>地下樓層數: 1<br>可容納人數: 1522<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>勞工育樂中心</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>4.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區新安路2-1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1522</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區工業東二路2-1號</address>
+        <description><![CDATA[類別: 新竹科學園郵局<br>電腦編號: 5<br>村里別: <br>地址: 新竹科學園區工業東二路2-1號<br>地下樓層數: 1<br>可容納人數: 151<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>新竹科學園郵局</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>5.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區工業東二路2-1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>151</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區園區一路8號</address>
+        <description><![CDATA[類別: 警察服務大樓<br>電腦編號: 6<br>村里別: <br>地址: 新竹科學園區園區一路8號<br>地下樓層數: 1<br>可容納人數: 2914<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>警察服務大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>6.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區園區一路8號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2914</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區園區三路121號</address>
+        <description><![CDATA[類別: 台灣積體電路公司<br>電腦編號: 7<br>村里別: <br>地址: 新竹科學園區園區三路121號<br>地下樓層數: 1<br>可容納人數: 5255<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>台灣積體電路公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>7.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區園區三路121號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>5255</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新一路11號</address>
+        <description><![CDATA[類別: 台灣光罩有限公司(汪其模)<br>電腦編號: 8<br>村里別: <br>地址: 新竹科學園區創新一路11號<br>地下樓層數: 3<br>可容納人數: 1770<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>台灣光罩有限公司(汪其模)</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>8.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新一路11號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>3</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1770</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新一路3號</address>
+        <description><![CDATA[類別: 漢磊科技股份有限公司<br>電腦編號: 9<br>村里別: <br>地址: 新竹科學園區創新一路3號<br>地下樓層數: 1<br>可容納人數: 1178<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>漢磊科技股份有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>9.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新一路3號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1178</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新一路5號</address>
+        <description><![CDATA[類別: 原相科技股份有限公司<br>電腦編號: 10<br>村里別: <br>地址: 新竹科學園區創新一路5號<br>地下樓層數: 1<br>可容納人數: 2979<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>原相科技股份有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>10.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新一路5號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2979</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區工業東九路3-7號</address>
+        <description><![CDATA[類別: 科學工業園區管理局<br>電腦編號: 11<br>村里別: <br>地址: 新竹科學園區工業東九路3-7號<br>地下樓層數: 1<br>可容納人數: 2040<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>科學工業園區管理局</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>11.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區工業東九路3-7號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2040</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新一路19-1號</address>
+        <description><![CDATA[類別: 凌陽科技股份有公司<br>電腦編號: 12<br>村里別: <br>地址: 新竹科學園區創新一路19-1號<br>地下樓層數: 2<br>可容納人數: 5036<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>凌陽科技股份有公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>12.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新一路19-1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>5036</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研發一路1號</address>
+        <description><![CDATA[類別: 南茂科技股份有限公司<br>電腦編號: 13<br>村里別: <br>地址: 新竹科學園區研發一路1號<br>地下樓層數: 2<br>可容納人數: 4504<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>南茂科技股份有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>13.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研發一路1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>4504</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新一路5-1號</address>
+        <description><![CDATA[類別: 均豪精密有限公司<br>電腦編號: 14<br>村里別: <br>地址: 新竹科學園區創新一路5-1號<br>地下樓層數: 2<br>可容納人數: 1944<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>均豪精密有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>14.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新一路5-1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1944</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研發一路8號</address>
+        <description><![CDATA[類別: 正崴精密工業公司<br>電腦編號: 15<br>村里別: <br>地址: 新竹科學園區研發一路8號<br>地下樓層數: 2<br>可容納人數: 2972<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>正崴精密工業公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>15.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研發一路8號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2972</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研發二路2號</address>
+        <description><![CDATA[類別: 乾坤企業有限公司<br>電腦編號: 16<br>村里別: <br>地址: 新竹科學園區研發二路2號<br>地下樓層數: 3<br>可容納人數: 3498<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>乾坤企業有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>16.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研發二路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>3</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>3498</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新一路17號</address>
+        <description><![CDATA[類別: 台灣高科技公司<br>電腦編號: 17<br>村里別: <br>地址: 新竹科學園區創新一路17號<br>地下樓層數: 1<br>可容納人數: 309<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>台灣高科技公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>17.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新一路17號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>309</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研發一路8號</address>
+        <description><![CDATA[類別: 正崴精密工業公司<br>電腦編號: 18<br>村里別: <br>地址: 新竹科學園區研發一路8號<br>地下樓層數: 1<br>可容納人數: 521<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>正崴精密工業公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>18.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研發一路8號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>521</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研發二路1號</address>
+        <description><![CDATA[類別: 神達電腦股份有限公司<br>電腦編號: 19<br>村里別: <br>地址: 新竹科學園區研發二路1號<br>地下樓層數: 1<br>可容納人數: 752<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>神達電腦股份有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>19.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研發二路1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>752</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新一路6號</address>
+        <description><![CDATA[類別: 普生股份有限公司<br>電腦編號: 20<br>村里別: <br>地址: 新竹科學園區創新一路6號<br>地下樓層數: 1<br>可容納人數: 190<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>普生股份有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>20.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新一路6號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>190</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研發二路2號</address>
+        <description><![CDATA[類別: 乾坤科技股份有限公司<br>電腦編號: 21<br>村里別: <br>地址: 新竹科學園區研發二路2號<br>地下樓層數: 1<br>可容納人數: 2648<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>乾坤科技股份有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>21.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研發二路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2648</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新一路12號</address>
+        <description><![CDATA[類別: 義隆電子股份有限公司<br>電腦編號: 22<br>村里別: <br>地址: 新竹科學園區創新一路12號<br>地下樓層數: 1<br>可容納人數: 4048<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>義隆電子股份有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>22.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新一路12號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>4048</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新一路3號</address>
+        <description><![CDATA[類別: 漢磊科技公司<br>電腦編號: 23<br>村里別: <br>地址: 新竹科學園區創新一路3號<br>地下樓層數: 1<br>可容納人數: 1178<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>漢磊科技公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>23.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新一路3號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1178</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區工業東十路18號</address>
+        <description><![CDATA[類別: 同亨科技公司<br>電腦編號: 24<br>村里別: <br>地址: 新竹科學園區工業東十路18號<br>地下樓層數: 1<br>可容納人數: 108<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>同亨科技公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>24.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區工業東十路18號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>108</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區園區三路101號</address>
+        <description><![CDATA[類別: 科學園區管局(保二總隊竹村分隊)<br>電腦編號: 25<br>村里別: <br>地址: 新竹科學園區園區三路101號<br>地下樓層數: 1<br>可容納人數: 405<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>科學園區管局(保二總隊竹村分隊)</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>25.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區園區三路101號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>405</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新一路9號</address>
+        <description><![CDATA[類別: 南茂科技(股)公司<br>電腦編號: 26<br>村里別: <br>地址: 新竹科學園區創新一路9號<br>地下樓層數: 2<br>可容納人數: 889<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>南茂科技(股)公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>26.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新一路9號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>889</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區園區二路40號</address>
+        <description><![CDATA[類別: 科學工業園區管理局<br>電腦編號: 27<br>村里別: <br>地址: 新竹科學園區園區二路40號<br>地下樓層數: 1<br>可容納人數: 1058<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>科學工業園區管理局</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>27.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區園區二路40號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1058</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新二路2號</address>
+        <description><![CDATA[類別: 瑞昱半導體有限公司<br>電腦編號: 28<br>村里別: <br>地址: 新竹科學園區創新二路2號<br>地下樓層數: 1<br>可容納人數: 1489<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>瑞昱半導體有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>28.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新二路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1489</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區工業東九路22號</address>
+        <description><![CDATA[類別: 科學工業園區管理局<br>電腦編號: 29<br>村里別: <br>地址: 新竹科學園區工業東九路22號<br>地下樓層數: 1<br>可容納人數: 997<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>科學工業園區管理局</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>29.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區工業東九路22號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>997</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區工業東九路9號</address>
+        <description><![CDATA[類別: 科學工業園區管理局<br>電腦編號: 30<br>村里別: <br>地址: 新竹科學園區工業東九路9號<br>地下樓層數: 1<br>可容納人數: 893<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>科學工業園區管理局</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>30.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區工業東九路9號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>893</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研發六路2號</address>
+        <description><![CDATA[類別: 亞太優勢微系統公司<br>電腦編號: 31<br>村里別: <br>地址: 新竹科學園區研發六路2號<br>地下樓層數: 1<br>可容納人數: 2479<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>亞太優勢微系統公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>31.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研發六路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2479</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區園區三路121號</address>
+        <description><![CDATA[類別: 台灣積體電路公司<br>電腦編號: 32<br>村里別: <br>地址: 新竹科學園區園區三路121號<br>地下樓層數: 1<br>可容納人數: 5254<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>台灣積體電路公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>32.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區園區三路121號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>5254</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新一路13號</address>
+        <description><![CDATA[類別: 研發大樓<br>電腦編號: 33<br>村里別: <br>地址: 新竹科學園區創新一路13號<br>地下樓層數: 1<br>可容納人數: 5205<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>研發大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>33.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新一路13號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>5205</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研發三路8號</address>
+        <description><![CDATA[類別: 福永生物科技股份有限公司<br>電腦編號: 34<br>村里別: <br>地址: 新竹科學園區研發三路8號<br>地下樓層數: 1<br>可容納人數: 1124<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>福永生物科技股份有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>34.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研發三路8號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1124</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研發六路2號</address>
+        <description><![CDATA[類別: 亞大優勢微系統公司<br>電腦編號: 35<br>村里別: <br>地址: 新竹科學園區研發六路2號<br>地下樓層數: 1<br>可容納人數: 1156<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>亞大優勢微系統公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>35.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研發六路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1156</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研發一路12號</address>
+        <description><![CDATA[類別: 聯亞科技公司<br>電腦編號: 36<br>村里別: <br>地址: 新竹科學園區研發一路12號<br>地下樓層數: 1<br>可容納人數: 190<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>聯亞科技公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>36.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研發一路12號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>190</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研發二路1號</address>
+        <description><![CDATA[類別: 南茂科技限公司<br>電腦編號: 37<br>村里別: <br>地址: 新竹科學園區研發二路1號<br>地下樓層數: 1<br>可容納人數: 8852<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>南茂科技限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>37.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研發二路1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>8852</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研新二路5號</address>
+        <description><![CDATA[類別: 盛群半導體公司<br>電腦編號: 38<br>村里別: <br>地址: 新竹科學園區研新二路5號<br>地下樓層數: 1<br>可容納人數: 2488<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>盛群半導體公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>38.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研新二路5號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2488</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新一路1-1號</address>
+        <description><![CDATA[類別: 長天科技公司<br>電腦編號: 39<br>村里別: <br>地址: 新竹科學園區創新一路1-1號<br>地下樓層數: 1<br>可容納人數: 2248<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>長天科技公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>39.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新一路1-1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2248</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研新一路8號</address>
+        <description><![CDATA[類別: 和喬科技有限公司<br>電腦編號: 40<br>村里別: <br>地址: 新竹科學園區研新一路8號<br>地下樓層數: 1<br>可容納人數: 1049<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>和喬科技有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>40.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研新一路8號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1049</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區園區三路123號</address>
+        <description><![CDATA[類別: 世界先進積體電路股份有限公司<br>電腦編號: 41<br>村里別: <br>地址: 新竹科學園區園區三路123號<br>地下樓層數: 1<br>可容納人數: 3201<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>世界先進積體電路股份有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>41.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區園區三路123號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>3201</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新一路8號</address>
+        <description><![CDATA[類別: 光磊科技<br>電腦編號: 42<br>村里別: <br>地址: 新竹科學園區創新一路8號<br>地下樓層數: 1<br>可容納人數: 1226<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>光磊科技</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>42.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新一路8號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1226</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區工業東九路30號</address>
+        <description><![CDATA[類別: 永進生物科技股份有限公司<br>電腦編號: 43<br>村里別: <br>地址: 新竹科學園區工業東九路30號<br>地下樓層數: 1<br>可容納人數: 6095<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>永進生物科技股份有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>43.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區工業東九路30號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>6095</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研新一路9號</address>
+        <description><![CDATA[類別: 台灣積體電路公司<br>電腦編號: 44<br>村里別: <br>地址: 新竹科學園區研新一路9號<br>地下樓層數: 2<br>可容納人數: 8765<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>台灣積體電路公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>44.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研新一路9號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>8765</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研新一路16號</address>
+        <description><![CDATA[類別: 聯華電子股份有限公司<br>電腦編號: 45<br>村里別: <br>地址: 新竹科學園區研新一路16號<br>地下樓層數: 2<br>可容納人數: 5126<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>聯華電子股份有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>45.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研新一路16號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>5126</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新二路6號</address>
+        <description><![CDATA[類別: 合勤科技公司<br>電腦編號: 46<br>村里別: <br>地址: 新竹科學園區創新二路6號<br>地下樓層數: 1<br>可容納人數: 4322<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>合勤科技公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>46.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新二路6號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>4322</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研新一路20號</address>
+        <description><![CDATA[類別: 虹光精密有限公司<br>電腦編號: 47<br>村里別: <br>地址: 新竹科學園區研新一路20號<br>地下樓層數: 1<br>可容納人數: 3303<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>虹光精密有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>47.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研新一路20號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>3303</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研新一路2號</address>
+        <description><![CDATA[類別: 中德電子材料有限公司<br>電腦編號: 48<br>村里別: <br>地址: 新竹科學園區研新一路2號<br>地下樓層數: 1<br>可容納人數: 2292<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>中德電子材料有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>48.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研新一路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2292</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研新一路2號</address>
+        <description><![CDATA[類別: 中德電子材料有限公司<br>電腦編號: 49<br>村里別: <br>地址: 新竹科學園區研新一路2號<br>地下樓層數: 1<br>可容納人數: 2417<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>中德電子材料有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>49.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研新一路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2417</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研新一路9號</address>
+        <description><![CDATA[類別: 台灣積體電路有限公司<br>電腦編號: 50<br>村里別: <br>地址: 新竹科學園區研新一路9號<br>地下樓層數: 2<br>可容納人數: 5318<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>台灣積體電路有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>50.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研新一路9號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>5318</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研新一路18號</address>
+        <description><![CDATA[類別: 漢民系統有限公司<br>電腦編號: 51<br>村里別: <br>地址: 新竹科學園區研新一路18號<br>地下樓層數: 2<br>可容納人數: 5096<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>漢民系統有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>51.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研新一路18號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>5096</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區園區三路123號</address>
+        <description><![CDATA[類別: 世界先進積體電路股份有限公司<br>電腦編號: 52<br>村里別: <br>地址: 新竹科學園區園區三路123號<br>地下樓層數: 1<br>可容納人數: 4329<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>世界先進積體電路股份有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>52.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區園區三路123號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>4329</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區工業東九路12號</address>
+        <description><![CDATA[類別: 台灣信越半導體公司<br>電腦編號: 53<br>村里別: <br>地址: 新竹科學園區工業東九路12號<br>地下樓層數: 2<br>可容納人數: 2967<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>台灣信越半導體公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>53.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區工業東九路12號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2967</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區工業東九路17號</address>
+        <description><![CDATA[類別: 復盛有限公司<br>電腦編號: 54<br>村里別: <br>地址: 新竹科學園區工業東九路17號<br>地下樓層數: 2<br>可容納人數: 1750<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>復盛有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>54.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區工業東九路17號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1750</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研新二路6號</address>
+        <description><![CDATA[類別: 台積電公司<br>電腦編號: 55<br>村里別: <br>地址: 新竹科學園區研新二路6號<br>地下樓層數: 2<br>可容納人數: 1371<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>台積電公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>55.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研新二路6號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1371</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區工業東九路2號</address>
+        <description><![CDATA[類別: 合勤科技公司<br>電腦編號: 56<br>村里別: <br>地址: 新竹科學園區工業東九路2號<br>地下樓層數: 1<br>可容納人數: 3655<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>合勤科技公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>56.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區工業東九路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>3655</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區創新一路19號</address>
+        <description><![CDATA[類別: 凌陽科技股份有限公司<br>電腦編號: 57<br>村里別: <br>地址: 新竹科學園區創新一路19號<br>地下樓層數: 1<br>可容納人數: 3965<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>凌陽科技股份有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>57.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區創新一路19號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>3965</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區研發二路1-1號</address>
+        <description><![CDATA[類別: 矽品精密股份有限公司<br>電腦編號: 58<br>村里別: <br>地址: 新竹科學園區研發二路1-1號<br>地下樓層數: 3<br>可容納人數: 9707<br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>矽品精密股份有限公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>58.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區研發二路1-1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>3</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>9707</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹科</name>
+        <address>新竹科學園區園區二路20號</address>
+        <description><![CDATA[類別: 啟碁科技公司<br>電腦編號: 59<br>村里別: <br>地址: 新竹科學園區園區二路20號<br>地下樓層數: 3<br>可容納人數: 12979 <br>轄管中隊: 保二三大一中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>啟碁科技公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>59.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>新竹科學園區園區二路20號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>3</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>12979 </value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大一中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>中科</name>
+        <address>台中市大雅區橫山里科雅西路2號</address>
+        <description><![CDATA[類別: 中科警察服務大樓<br>電腦編號: 1<br>村里別: <br>地址: 台中市大雅區橫山里科雅西路2號<br>地下樓層數: 1<br>可容納人數: 2324<br>轄管中隊: 保二三大二中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>中科警察服務大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>1.0</value>
+          </Data>
+          <Data name="村里別">
+            <value/>
+          </Data>
+          <Data name="地址">
+            <value>台中市大雅區橫山里科雅西路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2324</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大二中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>中港</name>
+        <address>臺中市梧棲區草湳里大觀路6號</address>
+        <description><![CDATA[類別: 經濟部加工出口區中港分處<br>電腦編號: 1<br>村里別: 草湳里<br>地址: 臺中市梧棲區草湳里大觀路6號<br>地下樓層數: 1<br>可容納人數: 6675<br>轄管中隊: 保二三大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>經濟部加工出口區中港分處</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>1.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>草湳里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺中市梧棲區草湳里大觀路6號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>6675</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>中港</name>
+        <address>臺中市梧棲區草湳里緯六路8號</address>
+        <description><![CDATA[類別: 大發公司<br>電腦編號: 2<br>村里別: 草湳里<br>地址: 臺中市梧棲區草湳里緯六路8號<br>地下樓層數: 1<br>可容納人數: 741<br>轄管中隊: 保二三大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大發公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>2.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>草湳里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺中市梧棲區草湳里緯六路8號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>741</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>中港</name>
+        <address>臺中市梧棲區草湳里經一路32號</address>
+        <description><![CDATA[類別: 今國光公司<br>電腦編號: 3<br>村里別: 草湳里<br>地址: 臺中市梧棲區草湳里經一路32號<br>地下樓層數: 1<br>可容納人數: 595<br>轄管中隊: 保二三大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>今國光公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>3.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>草湳里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺中市梧棲區草湳里經一路32號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>595</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>中港</name>
+        <address>臺中市梧棲區草湳里經一路12號</address>
+        <description><![CDATA[類別: 巨菱公司<br>電腦編號: 4<br>村里別: 草湳里<br>地址: 臺中市梧棲區草湳里經一路12號<br>地下樓層數: 1<br>可容納人數: 551<br>轄管中隊: 保二三大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>巨菱公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>4.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>草湳里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺中市梧棲區草湳里經一路12號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>551</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>中港</name>
+        <address>臺中市梧棲區草湳里大觀路37號</address>
+        <description><![CDATA[類別: 菱生公司<br>電腦編號: 5<br>村里別: 草湳里<br>地址: 臺中市梧棲區草湳里大觀路37號<br>地下樓層數: 1<br>可容納人數: 11816<br>轄管中隊: 保二三大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>菱生公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>5.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>草湳里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺中市梧棲區草湳里大觀路37號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>11816</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>中港</name>
+        <address>臺中市梧棲區草湳里建八路2號</address>
+        <description><![CDATA[類別: 達興公司<br>電腦編號: 6<br>村里別: 草湳里<br>地址: 臺中市梧棲區草湳里建八路2號<br>地下樓層數: 1<br>可容納人數: 2088<br>轄管中隊: 保二三大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>達興公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>6.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>草湳里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺中市梧棲區草湳里建八路2號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2088</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>潭子</name>
+        <address>臺中市潭子區南二路5號</address>
+        <description><![CDATA[類別: 經濟部加工出口區臺中分處<br>電腦編號: 1<br>村里別: 潭秀里<br>地址: 臺中市潭子區南二路5號<br>地下樓層數: 1<br>可容納人數: 3315<br>轄管中隊: 保二三大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>經濟部加工出口區臺中分處</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>1.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>潭秀里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺中市潭子區南二路5號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>3315</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>潭子</name>
+        <address>臺中市潭子區建國路15號</address>
+        <description><![CDATA[類別: 台灣佳能<br>電腦編號: 2<br>村里別: 潭秀里<br>地址: 臺中市潭子區建國路15號<br>地下樓層數: 1<br>可容納人數: 593<br>轄管中隊: 保二三大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>台灣佳能</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>2.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>潭秀里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺中市潭子區建國路15號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>593</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>潭子</name>
+        <address>臺中市潭子區建國路17號</address>
+        <description><![CDATA[類別: 安碁科技公司 <br>電腦編號: 3<br>村里別: 潭秀里<br>地址: 臺中市潭子區建國路17號<br>地下樓層數: 1<br>可容納人數: 598<br>轄管中隊: 保二三大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>安碁科技公司 </value>
+          </Data>
+          <Data name="電腦編號">
+            <value>3.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>潭秀里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺中市潭子區建國路17號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>598</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>潭子</name>
+        <address>臺中市潭子區建國路12號</address>
+        <description><![CDATA[類別: 光聯公司<br>電腦編號: 4<br>村里別: 潭秀里<br>地址: 臺中市潭子區建國路12號<br>地下樓層數: 1<br>可容納人數: 233<br>轄管中隊: 保二三大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>光聯公司</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>4.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>潭秀里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺中市潭子區建國路12號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>233</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>潭子</name>
+        <address>臺中市潭子區北環路23號</address>
+        <description><![CDATA[類別: 北環停車場<br>電腦編號: 5<br>村里別: 潭秀里<br>地址: 臺中市潭子區北環路23號<br>地下樓層數: 1<br>可容納人數: 1487<br>轄管中隊: 保二三大三中<br>unnamed (1): <br>unnamed (2): <br>unnamed (3): <br>unnamed (4): <br>unnamed (5): ]]></description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>北環停車場</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>5.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>潭秀里</value>
+          </Data>
+          <Data name="地址">
+            <value>臺中市潭子區北環路23號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1487</value>
+          </Data>
+          <Data name="轄管中隊">
+            <value>保二三大三中</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="unnamed (2)">
+            <value/>
+          </Data>
+          <Data name="unnamed (3)">
+            <value/>
+          </Data>
+          <Data name="unnamed (4)">
+            <value/>
+          </Data>
+          <Data name="unnamed (5)">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
