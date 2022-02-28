@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣埤頭鄉豊崙村光復路3號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[彰化縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+32),E:-1,N:-1",
+      "OutTraceInfo": "[彰化縣]\t { 模糊比對 } (埤頭鄉)\t找到符合的[鄉鎮市區]，(豊崙村)\t找到符合的[村里]，(光復路)\t找到符合的[路街名]，(3號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +32 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "彰化縣埤頭鄉豊崙村15鄰光復路35號",
+      "COUNTY": "彰化縣",
+      "TOWN": "埤頭鄉",
+      "VILLAGE": "豊崙村",
+      "NEIGHBORHOOD": "15鄰",
+      "ROAD": "光復路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "35號",
+      "X": 120.464903,
+      "Y": 23.924351,
+      "CODEBASE": "A0722-0010-00",
+      "CODE1": "A0722-01-003",
+      "CODE2": "A0722-01"
+    }
+  ]
+}

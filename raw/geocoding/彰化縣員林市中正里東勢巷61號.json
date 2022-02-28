@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣員林市中正里東勢巷61號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[彰化縣]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[彰化縣]\t { 模糊比對 } (員林市)\t找到符合的[鄉鎮市區]，(中正里)\t找到符合的[村里]，(東勢巷)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(61號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "彰化縣員林市中正里1鄰育英路61號",
+      "COUNTY": "彰化縣",
+      "TOWN": "員林市",
+      "VILLAGE": "中正里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "育英路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "61號",
+      "X": 120.574969,
+      "Y": 23.960232,
+      "CODEBASE": "A0709-0016-00",
+      "CODE1": "A0709-01-006",
+      "CODE2": "A0709-01"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "彰化縣員林市中正里25鄰三民東街61號",
+      "COUNTY": "彰化縣",
+      "TOWN": "員林市",
+      "VILLAGE": "中正里",
+      "NEIGHBORHOOD": "25鄰",
+      "ROAD": "三民東街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "61號",
+      "X": 120.576646,
+      "Y": 23.959320,
+      "CODEBASE": "A0709-0016-00",
+      "CODE1": "A0709-01-006",
+      "CODE2": "A0709-01"
+    }
+  ]
+}

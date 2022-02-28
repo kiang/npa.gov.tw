@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "南投縣鹿谷鄉永隆村仁義路80-32號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[南投縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[南投縣]\t { 模糊比對 } (鹿谷鄉)\t找到符合的[鄉鎮市區]，(永隆村)\t找到符合的[村里]，(仁義路)\t找到符合的[路街名]，(80-32號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "南投縣鹿谷鄉永隆村10鄰仁義路80之32號",
+      "COUNTY": "南投縣",
+      "TOWN": "鹿谷鄉",
+      "VILLAGE": "永隆村",
+      "NEIGHBORHOOD": "10鄰",
+      "ROAD": "仁義路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "80之32號",
+      "X": 120.774884,
+      "Y": 23.753670,
+      "CODEBASE": "A0807-0081-00",
+      "CODE1": "A0807-03-003",
+      "CODE2": "A0807-03"
+    }
+  ]
+}

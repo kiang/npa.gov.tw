@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "嘉義市西區書院里仁愛路405號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[嘉義市]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+2)(-4),E:-1,N:-1",
+      "OutTraceInfo": "[嘉義市]\t { 模糊比對 } (西區)\t找到符合的[鄉鎮市區]，(書院里)\t找到符合的[村里]，(仁愛路)\t找到符合的[路街名]，(405號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +2 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -4 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "嘉義市西區書院里13鄰仁愛路401號",
+      "COUNTY": "嘉義市",
+      "TOWN": "西區",
+      "VILLAGE": "書院里",
+      "NEIGHBORHOOD": "13鄰",
+      "ROAD": "仁愛路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "401號",
+      "X": 120.441940,
+      "Y": 23.476990,
+      "CODEBASE": "A2002-0362-00",
+      "CODE1": "A2002-26-003",
+      "CODE2": "A2002-26"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "嘉義市西區書院里13鄰仁愛路407號",
+      "COUNTY": "嘉義市",
+      "TOWN": "西區",
+      "VILLAGE": "書院里",
+      "NEIGHBORHOOD": "13鄰",
+      "ROAD": "仁愛路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "407號",
+      "X": 120.441930,
+      "Y": 23.477239,
+      "CODEBASE": "A2002-0362-00",
+      "CODE1": "A2002-26-003",
+      "CODE2": "A2002-26"
+    }
+  ]
+}

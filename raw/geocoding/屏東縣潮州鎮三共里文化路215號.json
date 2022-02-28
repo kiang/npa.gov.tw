@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "屏東縣潮州鎮三共里文化路215號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[屏東縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+58)(-4),E:-1,N:-1",
+      "OutTraceInfo": "[屏東縣]\t { 模糊比對 } (潮州鎮)\t找到符合的[鄉鎮市區]，(三共里)\t找到符合的[村里]，(文化路)\t找到符合的[路街名]，(215號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +58 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -4 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "屏東縣潮州鎮三共里30鄰文化路211號",
+      "COUNTY": "屏東縣",
+      "TOWN": "潮州鎮",
+      "VILLAGE": "三共里",
+      "NEIGHBORHOOD": "30鄰",
+      "ROAD": "文化路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "211號",
+      "X": 120.543694,
+      "Y": 22.558447,
+      "CODEBASE": "A1302-0031-00",
+      "CODE1": "A1302-01-003",
+      "CODE2": "A1302-01"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "屏東縣潮州鎮三共里31鄰文化路273號",
+      "COUNTY": "屏東縣",
+      "TOWN": "潮州鎮",
+      "VILLAGE": "三共里",
+      "NEIGHBORHOOD": "31鄰",
+      "ROAD": "文化路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "273號",
+      "X": 120.543802,
+      "Y": 22.558928,
+      "CODEBASE": "A1302-0023-00",
+      "CODE1": "A1302-01-003",
+      "CODE2": "A1302-01"
+    }
+  ]
+}

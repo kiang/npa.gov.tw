@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "屏東縣鹽埔鄉鹽南村興學路19號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[屏東縣]\tFULL:1",
+      "OutTraceInfo": "[屏東縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "屏東縣鹽埔鄉鹽南村2鄰興學路19號",
+      "COUNTY": "屏東縣",
+      "TOWN": "鹽埔鄉",
+      "VILLAGE": "鹽南村",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "興學路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "19號",
+      "X": 120.574921,
+      "Y": 22.755305,
+      "CODEBASE": "A1310-0091-00",
+      "CODE1": "A1310-02-005",
+      "CODE2": "A1310-02"
+    }
+  ]
+}

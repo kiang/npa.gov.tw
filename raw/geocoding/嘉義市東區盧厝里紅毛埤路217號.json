@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "嘉義市東區盧厝里紅毛埤路217號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[嘉義市]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[嘉義市]\t { 模糊比對 } (東區)\t找到符合的[鄉鎮市區]，(盧厝里)\t找到符合的[村里]，(紅毛埤路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(217號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "嘉義市東區盧厝里4鄰大雅路一段217號",
+      "COUNTY": "嘉義市",
+      "TOWN": "東區",
+      "VILLAGE": "盧厝里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "大雅路",
+      "SECTION": "1",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "217號",
+      "X": 120.499550,
+      "Y": 23.480979,
+      "CODEBASE": "A2001-0364-00",
+      "CODE1": "A2001-40-006",
+      "CODE2": "A2001-40"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "嘉義市東區盧厝里4鄰紅毛埤217號",
+      "COUNTY": "嘉義市",
+      "TOWN": "東區",
+      "VILLAGE": "盧厝里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "紅毛埤",
+      "NUMBER": "217號",
+      "X": 120.482590,
+      "Y": 23.479080,
+      "CODEBASE": "A2001-0402-00",
+      "CODE1": "A2001-40-006",
+      "CODE2": "A2001-40"
+    }
+  ]
+}
