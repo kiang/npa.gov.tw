@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市平鎮區北安里7鄰延平路一段37巷4弄9號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[桃園市]\tT:1,V:1,R:1,S:1,L:1,A:1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:0",
+      "OutTraceInfo": "[桃園市]\t { 模糊比對 } (平鎮區)\t找到符合的[鄉鎮市區]，(北安里)\t找到符合的[村里]，(延平路)\t找到符合的[路街名]，(1)\t找到符合的[路段]，(37巷)\t找到符合的[巷]，(4弄)\t找到符合的[弄]，(9號)\t找到符合的[門牌號碼]，進行[單號過濾]，進行[找最小門牌的號之、之號]，(7鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "桃園市平鎮區北安里8鄰延平路一段37巷4弄9之2號",
+      "COUNTY": "桃園市",
+      "TOWN": "平鎮區",
+      "VILLAGE": "北安里",
+      "NEIGHBORHOOD": "8鄰",
+      "ROAD": "延平路",
+      "SECTION": "1",
+      "LANE": "37巷",
+      "ALLEY": "4弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "9之2號",
+      "X": 121.220511,
+      "Y": 24.951568,
+      "CODEBASE": "A6810-0187-00",
+      "CODE1": "A6810-18-004",
+      "CODE2": "A6810-18"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "桃園市平鎮區北安里8鄰延平路一段37巷4弄9之3號",
+      "COUNTY": "桃園市",
+      "TOWN": "平鎮區",
+      "VILLAGE": "北安里",
+      "NEIGHBORHOOD": "8鄰",
+      "ROAD": "延平路",
+      "SECTION": "1",
+      "LANE": "37巷",
+      "ALLEY": "4弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "9之3號",
+      "X": 121.220511,
+      "Y": 24.951568,
+      "CODEBASE": "A6810-0187-00",
+      "CODE1": "A6810-18-004",
+      "CODE2": "A6810-18"
+    }
+  ]
+}

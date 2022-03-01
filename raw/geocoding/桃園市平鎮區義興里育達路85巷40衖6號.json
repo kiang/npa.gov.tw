@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市平鎮區義興里育達路85巷40衖6號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[桃園市]\tT:1,V:1,R:1,S:-1,L:1,A:-1,SA:0,T:-1,AR:-1,NO:0(+4),E:-1,N:-1",
+      "OutTraceInfo": "[桃園市]\t { 模糊比對 } (平鎮區)\t找到符合的[鄉鎮市區]，(義興里)\t找到符合的[村里]，(育達路)\t找到符合的[路街名]，(85巷)\t找到符合的[巷]，(40衖)\t找不到符合的[衖]，(6號)\t找不到符合的[門牌號碼]，進行轉換搜尋[衖視為號]，找不到符合的[門牌號碼]，進行轉換搜尋[巷視為號]，進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +4 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "桃園市平鎮區義興里13鄰育達路85巷10號",
+      "COUNTY": "桃園市",
+      "TOWN": "平鎮區",
+      "VILLAGE": "義興里",
+      "NEIGHBORHOOD": "13鄰",
+      "ROAD": "育達路",
+      "SECTION": "",
+      "LANE": "85巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "10號",
+      "X": 121.211062,
+      "Y": 24.951076,
+      "CODEBASE": "A6810-0199-00",
+      "CODE1": "A6810-14-003",
+      "CODE2": "A6810-14"
+    }
+  ]
+}

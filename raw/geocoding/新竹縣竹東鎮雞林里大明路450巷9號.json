@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹縣竹東鎮雞林里大明路450巷9號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新竹縣]\tT:1,V:0,R:1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:-1,NO:0(-62),E:-1,N:-1",
+      "OutTraceInfo": "[新竹縣]\t { 模糊比對 } (竹東鎮)\t找到符合的[鄉鎮市區]，(雞林里)\t找不到符合的[村里]，進行轉換搜尋[村變成里，里變成村]，轉換搜尋找不到進行[忽略村里]，(大明路)\t找到符合的[路街名]，(450巷)\t找不到符合的[巷]，(450)\t找不到符合的[門牌號碼]，進行轉換搜尋[巷視為號]，進行[雙號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -62 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹縣竹東鎮鷄林里1鄰大明路388號",
+      "COUNTY": "新竹縣",
+      "TOWN": "竹東鎮",
+      "VILLAGE": "鷄林里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "大明路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "388號",
+      "X": 121.101294,
+      "Y": 24.729699,
+      "CODEBASE": "A0402-0497-00",
+      "CODE1": "A0402-29-006",
+      "CODE2": "A0402-29"
+    }
+  ]
+}

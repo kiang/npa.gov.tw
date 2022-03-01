@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣彰化市東芳里彰馬路106號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[彰化縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+2)(-6),E:-1,N:-1",
+      "OutTraceInfo": "[彰化縣]\t { 模糊比對 } (彰化市)\t找到符合的[鄉鎮市區]，(東芳里)\t找到符合的[村里]，(彰馬路)\t找到符合的[路街名]，(106號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +2 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -6 號，進行[找最小門牌的號之、之號]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "彰化縣彰化市東芳里16鄰彰馬路100之1號",
+      "COUNTY": "彰化縣",
+      "TOWN": "彰化市",
+      "VILLAGE": "東芳里",
+      "NEIGHBORHOOD": "16鄰",
+      "ROAD": "彰馬路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "100之1號",
+      "X": 120.516122,
+      "Y": 24.063283,
+      "CODEBASE": "A0701-1182-00",
+      "CODE1": "A0701-75-002",
+      "CODE2": "A0701-75"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "彰化縣彰化市東芳里16鄰彰馬路100之3號",
+      "COUNTY": "彰化縣",
+      "TOWN": "彰化市",
+      "VILLAGE": "東芳里",
+      "NEIGHBORHOOD": "16鄰",
+      "ROAD": "彰馬路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "100之3號",
+      "X": 120.516476,
+      "Y": 24.063631,
+      "CODEBASE": "A0701-1182-00",
+      "CODE1": "A0701-75-002",
+      "CODE2": "A0701-75"
+    }
+  ]
+}

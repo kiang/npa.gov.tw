@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣田中鎮北路里員集路2段706巷26號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[彰化縣]\tT:1,V:1,R:1,S:1,L:1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+10),E:-1,N:-1",
+      "OutTraceInfo": "[彰化縣]\t { 模糊比對 } (田中鎮)\t找到符合的[鄉鎮市區]，(北路里)\t找到符合的[村里]，(員集路)\t找到符合的[路街名]，(2)\t找到符合的[路段]，(706巷)\t找到符合的[巷]，(26號)\t找不到符合的[門牌號碼]，進行轉換搜尋[巷視為號]，進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +10 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "彰化縣田中鎮北路里11鄰員集路二段706巷36號",
+      "COUNTY": "彰化縣",
+      "TOWN": "田中鎮",
+      "VILLAGE": "北路里",
+      "NEIGHBORHOOD": "11鄰",
+      "ROAD": "員集路",
+      "SECTION": "2",
+      "LANE": "706巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "36號",
+      "X": 120.586834,
+      "Y": 23.864971,
+      "CODEBASE": "A0712-0102-00",
+      "CODE1": "A0712-05-004",
+      "CODE2": "A0712-05"
+    }
+  ]
+}

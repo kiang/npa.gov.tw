@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市蘆竹區南崁路2段和美巷19號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[桃園市]\tT:1,V:-1,R:1,S:1,L:0,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[桃園市]\t { 模糊比對 } (蘆竹區)\t找到符合的[鄉鎮市區]，(南崁路)\t找到符合的[路街名]，(2)\t找到符合的[路段]，(和美巷)\t找不到符合的[巷]，(和美巷)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(19號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "桃園市蘆竹區長興里8鄰南崁路二段201巷19號",
+      "COUNTY": "桃園市",
+      "TOWN": "蘆竹區",
+      "VILLAGE": "長興里",
+      "NEIGHBORHOOD": "8鄰",
+      "ROAD": "南崁路",
+      "SECTION": "2",
+      "LANE": "201巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "19號",
+      "X": 121.274467,
+      "Y": 25.058441,
+      "CODEBASE": "A6805-0311-00",
+      "CODE1": "A6805-24-004",
+      "CODE2": "A6805-24"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "桃園市蘆竹區長興里9鄰南崁路二段142巷19號",
+      "COUNTY": "桃園市",
+      "TOWN": "蘆竹區",
+      "VILLAGE": "長興里",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "南崁路",
+      "SECTION": "2",
+      "LANE": "142巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "19號",
+      "X": 121.276086,
+      "Y": 25.060392,
+      "CODEBASE": "A6805-0256-00",
+      "CODE1": "A6805-11-005",
+      "CODE2": "A6805-11"
+    }
+  ]
+}

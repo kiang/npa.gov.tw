@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣埔心鄉瓦北村瑤鳳路1段340號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[彰化縣]\tT:1,V:1,R:1,S:1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[彰化縣]\t { 模糊比對 } (埔心鄉)\t找到符合的[鄉鎮市區]，(瓦北村)\t找到符合的[村里]，(瑤鳳路)\t找到符合的[路街名]，(1)\t找到符合的[路段]，(340號)\t找到符合的[門牌號碼]，進行[雙號過濾]，進行[找最小門牌的號之、之號]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "彰化縣埔心鄉瓦北村13鄰瑤鳳路一段340之2號",
+      "COUNTY": "彰化縣",
+      "TOWN": "埔心鄉",
+      "VILLAGE": "瓦北村",
+      "NEIGHBORHOOD": "13鄰",
+      "ROAD": "瑤鳳路",
+      "SECTION": "1",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "340之2號",
+      "X": 120.552818,
+      "Y": 23.957702,
+      "CODEBASE": "A0715-0053-00",
+      "CODE1": "A0715-05-001",
+      "CODE2": "A0715-05"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "彰化縣埔心鄉瓦北村13鄰瑤鳳路一段340之3號",
+      "COUNTY": "彰化縣",
+      "TOWN": "埔心鄉",
+      "VILLAGE": "瓦北村",
+      "NEIGHBORHOOD": "13鄰",
+      "ROAD": "瑤鳳路",
+      "SECTION": "1",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "340之3號",
+      "X": 120.552825,
+      "Y": 23.957889,
+      "CODEBASE": "A0715-0053-00",
+      "CODE1": "A0715-05-001",
+      "CODE2": "A0715-05"
+    }
+  ]
+}

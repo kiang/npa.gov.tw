@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹縣湖口鄉孝勢村忠孝路15號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新竹縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+2)(-2),E:-1,N:-1",
+      "OutTraceInfo": "[新竹縣]\t { 模糊比對 } (湖口鄉)\t找到符合的[鄉鎮市區]，(孝勢村)\t找到符合的[村里]，(忠孝路)\t找到符合的[路街名]，(15號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +2 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -2 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹縣湖口鄉孝勢村1鄰忠孝路13號",
+      "COUNTY": "新竹縣",
+      "TOWN": "湖口鄉",
+      "VILLAGE": "孝勢村",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "忠孝路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "13號",
+      "X": 121.044229,
+      "Y": 24.901312,
+      "CODEBASE": "A0405-0229-00",
+      "CODE1": "A0405-12-005",
+      "CODE2": "A0405-12"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹縣湖口鄉孝勢村15鄰忠孝路17號",
+      "COUNTY": "新竹縣",
+      "TOWN": "湖口鄉",
+      "VILLAGE": "孝勢村",
+      "NEIGHBORHOOD": "15鄰",
+      "ROAD": "忠孝路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "17號",
+      "X": 121.044515,
+      "Y": 24.901145,
+      "CODEBASE": "A0405-0237-00",
+      "CODE1": "A0405-13-006",
+      "CODE2": "A0405-13"
+    }
+  ]
+}

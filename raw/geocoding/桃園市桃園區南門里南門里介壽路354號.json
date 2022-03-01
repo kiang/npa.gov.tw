@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市桃園區南門里南門里介壽路354號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[桃園市]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[桃園市]\t { 模糊比對 } (桃園區)\t找到符合的[鄉鎮市區]，(南門里)\t找到符合的[村里]，(南門里介壽路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(354號)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "桃園市桃園區南門里10鄰三民路三段354號",
+      "COUNTY": "桃園市",
+      "TOWN": "桃園區",
+      "VILLAGE": "南門里",
+      "NEIGHBORHOOD": "10鄰",
+      "ROAD": "三民路",
+      "SECTION": "3",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "354號",
+      "X": 121.306983,
+      "Y": 24.987795,
+      "CODEBASE": "A6801-1585-00",
+      "CODE1": "A6801-94-008",
+      "CODE2": "A6801-94"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "桃園市桃園區南門里24鄰復興路354號",
+      "COUNTY": "桃園市",
+      "TOWN": "桃園區",
+      "VILLAGE": "南門里",
+      "NEIGHBORHOOD": "24鄰",
+      "ROAD": "復興路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "354號",
+      "X": 121.304327,
+      "Y": 24.989964,
+      "CODEBASE": "A6801-1434-00",
+      "CODE1": "A6801-94-004",
+      "CODE2": "A6801-94"
+    }
+  ]
+}

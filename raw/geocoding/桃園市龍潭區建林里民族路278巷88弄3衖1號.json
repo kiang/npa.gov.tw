@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市龍潭區建林里民族路278巷88弄3衖1號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[桃園市]\tFULL:1",
+      "OutTraceInfo": "[桃園市]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "桃園市龍潭區建林里12鄰民族路278巷88弄3衖1號",
+      "COUNTY": "桃園市",
+      "TOWN": "龍潭區",
+      "VILLAGE": "建林里",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "民族路",
+      "SECTION": "",
+      "LANE": "278巷",
+      "ALLEY": "88弄",
+      "SUB_ALLEY": "3衖",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1號",
+      "X": 121.233222,
+      "Y": 24.840872,
+      "CODEBASE": "A6809-0696-00",
+      "CODE1": "A6809-37-006",
+      "CODE2": "A6809-37"
+    }
+  ]
+}

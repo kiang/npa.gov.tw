@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市桃園區龍山里雙龍街8巷16弄1號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[桃園市]\tT:1,V:1,R:1,S:-1,L:1,A:0,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[桃園市]\t { 模糊比對 } (桃園區)\t找到符合的[鄉鎮市區]，(龍山里)\t找到符合的[村里]，(雙龍街)\t找到符合的[路街名]，(8巷)\t找到符合的[巷]，(16弄)\t找不到符合的[弄]，(1號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "桃園市桃園區龍山里8鄰雙龍街8巷16之1弄1號",
+      "COUNTY": "桃園市",
+      "TOWN": "桃園區",
+      "VILLAGE": "龍山里",
+      "NEIGHBORHOOD": "8鄰",
+      "ROAD": "雙龍街",
+      "SECTION": "",
+      "LANE": "8巷",
+      "ALLEY": "16之1弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1號",
+      "X": 121.267296,
+      "Y": 24.979357,
+      "CODEBASE": "A6801-1994-00",
+      "CODE1": "A6801-C9-010",
+      "CODE2": "A6801-C9"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "桃園市桃園區龍山里8鄰雙龍街8巷1號",
+      "COUNTY": "桃園市",
+      "TOWN": "桃園區",
+      "VILLAGE": "龍山里",
+      "NEIGHBORHOOD": "8鄰",
+      "ROAD": "雙龍街",
+      "SECTION": "",
+      "LANE": "8巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1號",
+      "X": 121.266921,
+      "Y": 24.979790,
+      "CODEBASE": "A6801-1922-00",
+      "CODE1": "A6801-C9-005",
+      "CODE2": "A6801-C9"
+    }
+  ]
+}

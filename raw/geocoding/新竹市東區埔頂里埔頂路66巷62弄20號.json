@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹市東區埔頂里埔頂路66巷62弄20號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新竹市]\tT:1,V:1,R:1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[新竹市]\t { 模糊比對 } (東區)\t找到符合的[鄉鎮市區]，(埔頂里)\t找到符合的[村里]，(埔頂路)\t找到符合的[路街名]，(66巷)\t找不到符合的[巷]，(66)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹市東區埔頂里1鄰埔頂路99巷66號",
+      "COUNTY": "新竹市",
+      "TOWN": "東區",
+      "VILLAGE": "埔頂里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "埔頂路",
+      "SECTION": "",
+      "LANE": "99巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "66號",
+      "X": 121.005968,
+      "Y": 24.797364,
+      "CODEBASE": "A1801-0481-00",
+      "CODE1": "A1801-23-007",
+      "CODE2": "A1801-23"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹市東區埔頂里9鄰埔頂路210巷66號",
+      "COUNTY": "新竹市",
+      "TOWN": "東區",
+      "VILLAGE": "埔頂里",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "埔頂路",
+      "SECTION": "",
+      "LANE": "210巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "66號",
+      "X": 121.011447,
+      "Y": 24.793261,
+      "CODEBASE": "A1801-0627-00",
+      "CODE1": "A1801-45-005",
+      "CODE2": "A1801-45"
+    }
+  ]
+}

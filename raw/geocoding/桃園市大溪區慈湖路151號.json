@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "桃園市大溪區慈湖路151號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[桃園市]\tT:1,V:-1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(-18),E:-1,N:-1",
+      "OutTraceInfo": "[桃園市]\t { 模糊比對 } (大溪區)\t找到符合的[鄉鎮市區]，(慈湖路)\t找到符合的[路街名]，(151號)\t進行[單號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -18 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "桃園市大溪區一心里25鄰慈湖路133號",
+      "COUNTY": "桃園市",
+      "TOWN": "大溪區",
+      "VILLAGE": "一心里",
+      "NEIGHBORHOOD": "25鄰",
+      "ROAD": "慈湖路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "133號",
+      "X": 121.288887,
+      "Y": 24.880931,
+      "CODEBASE": "A6803-0416-00",
+      "CODE1": "A6803-26-009",
+      "CODE2": "A6803-26"
+    }
+  ]
+}

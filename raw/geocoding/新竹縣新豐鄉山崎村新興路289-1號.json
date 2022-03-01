@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹縣新豐鄉山崎村新興路289-1號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新竹縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1(+1),E:-1,N:-1",
+      "OutTraceInfo": "[新竹縣]\t { 模糊比對 } (新豐鄉)\t找到符合的[鄉鎮市區]，(山崎村)\t找到符合的[村里]，(新興路)\t找到符合的[路街名]，(289-1號)\t找到符合的[門牌號碼]，進行[單號過濾]，進行[找大於且最接近門牌的號之、之號]，找到大於輸入的門牌的號之、之號 1 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹縣新豐鄉山崎村17鄰新興路289之2號",
+      "COUNTY": "新竹縣",
+      "TOWN": "新豐鄉",
+      "VILLAGE": "山崎村",
+      "NEIGHBORHOOD": "17鄰",
+      "ROAD": "新興路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "289之2號",
+      "X": 120.997670,
+      "Y": 24.871060,
+      "CODEBASE": "A0406-0450-00",
+      "CODE1": "A0406-19-005",
+      "CODE2": "A0406-19"
+    }
+  ]
+}

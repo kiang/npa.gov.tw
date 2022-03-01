@@ -138,6 +138,8 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
                         echo "[{$addressCount}]{$clearAddress}\n";
                     } elseif(false !== strpos($content, '資料行溢位')) {
                         continue;
+                    } elseif(false !== strpos($content, '語法不正確')) {
+                        continue;
                     } else {
                         echo $content . "\n";
                         exit();

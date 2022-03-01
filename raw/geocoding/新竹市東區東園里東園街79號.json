@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹市東區東園里東園街79號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新竹市]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+14)(-6),E:-1,N:-1",
+      "OutTraceInfo": "[新竹市]\t { 模糊比對 } (東區)\t找到符合的[鄉鎮市區]，(東園里)\t找到符合的[村里]，(東園街)\t找到符合的[路街名]，(79號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +14 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -6 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹市東區東園里5鄰東園街73號",
+      "COUNTY": "新竹市",
+      "TOWN": "東區",
+      "VILLAGE": "東園里",
+      "NEIGHBORHOOD": "5鄰",
+      "ROAD": "東園街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "73號",
+      "X": 120.984497,
+      "Y": 24.802871,
+      "CODEBASE": "A1801-0286-00",
+      "CODE1": "A1801-17-008",
+      "CODE2": "A1801-17"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹市東區東園里5鄰東園街93號",
+      "COUNTY": "新竹市",
+      "TOWN": "東區",
+      "VILLAGE": "東園里",
+      "NEIGHBORHOOD": "5鄰",
+      "ROAD": "東園街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "93號",
+      "X": 120.984303,
+      "Y": 24.803045,
+      "CODEBASE": "A1801-0286-00",
+      "CODE1": "A1801-17-008",
+      "CODE2": "A1801-17"
+    }
+  ]
+}

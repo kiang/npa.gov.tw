@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹市北區金竹里湳雅街311巷50弄9號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新竹市]\tT:1,V:1,R:1,S:-1,L:1,A:0,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[新竹市]\t { 模糊比對 } (北區)\t找到符合的[鄉鎮市區]，(金竹里)\t找到符合的[村里]，(湳雅街)\t找到符合的[路街名]，(311巷)\t找到符合的[巷]，(50弄)\t找不到符合的[弄]，(9號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹市北區金竹里12鄰湳雅街311巷42弄9號",
+      "COUNTY": "新竹市",
+      "TOWN": "北區",
+      "VILLAGE": "金竹里",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "湳雅街",
+      "SECTION": "",
+      "LANE": "311巷",
+      "ALLEY": "42弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "9號",
+      "X": 120.974618,
+      "Y": 24.823720,
+      "CODEBASE": "A1802-0128-00",
+      "CODE1": "A1802-10-007",
+      "CODE2": "A1802-10"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹市北區客雅里延平路一段214巷34弄14-18號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新竹市]\tT:1,V:1,R:1,S:1,L:1,A:1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[新竹市]\t { 模糊比對 } (北區)\t找到符合的[鄉鎮市區]，(客雅里)\t找到符合的[村里]，(延平路)\t找到符合的[路街名]，(1)\t找到符合的[路段]，(214巷)\t找到符合的[巷]，(34弄)\t找到符合的[弄]，(14-18號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹市北區客雅里2鄰延平路一段214巷34弄14號",
+      "COUNTY": "新竹市",
+      "TOWN": "北區",
+      "VILLAGE": "客雅里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "延平路",
+      "SECTION": "1",
+      "LANE": "214巷",
+      "ALLEY": "34弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "14號",
+      "X": 120.954085,
+      "Y": 24.806107,
+      "CODEBASE": "A1802-0512-00",
+      "CODE1": "A1802-42-003",
+      "CODE2": "A1802-42"
+    }
+  ]
+}

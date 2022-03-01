@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹市東區軍功里14鄰建功一路70巷1之6號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新竹市]\tT:1,V:1,R:1,S:-1,L:1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[新竹市]\t { 模糊比對 } (東區)\t找到符合的[鄉鎮市區]，(軍功里)\t找到符合的[村里]，(建功一路)\t找到符合的[路街名]，(70巷)\t找到符合的[巷]，(1之6號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹市東區軍功里34鄰建功一路70巷1號",
+      "COUNTY": "新竹市",
+      "TOWN": "東區",
+      "VILLAGE": "軍功里",
+      "NEIGHBORHOOD": "34鄰",
+      "ROAD": "建功一路",
+      "SECTION": "",
+      "LANE": "70巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1號",
+      "X": 120.997780,
+      "Y": 24.799168,
+      "CODEBASE": "A1801-0401-00",
+      "CODE1": "A1801-25-005",
+      "CODE2": "A1801-25"
+    }
+  ]
+}

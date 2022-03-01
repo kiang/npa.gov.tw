@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹縣竹北市隘口六街131號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新竹縣]\tT:1,V:-1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+8)(-26),E:-1,N:-1",
+      "OutTraceInfo": "[新竹縣]\t { 模糊比對 } (竹北市)\t找到符合的[鄉鎮市區]，(隘口六街)\t找到符合的[路街名]，(131號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +8 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -26 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹縣竹北市東平里30鄰隘口六街105號",
+      "COUNTY": "新竹縣",
+      "TOWN": "竹北市",
+      "VILLAGE": "東平里",
+      "NEIGHBORHOOD": "30鄰",
+      "ROAD": "隘口六街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "105號",
+      "X": 121.035150,
+      "Y": 24.802222,
+      "CODEBASE": "A0401-0999-00",
+      "CODE1": "A0401-49-007",
+      "CODE2": "A0401-49"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹縣竹北市東平里32鄰隘口六街139號",
+      "COUNTY": "新竹縣",
+      "TOWN": "竹北市",
+      "VILLAGE": "東平里",
+      "NEIGHBORHOOD": "32鄰",
+      "ROAD": "隘口六街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "139號",
+      "X": 121.035684,
+      "Y": 24.801907,
+      "CODEBASE": "A0401-1010-00",
+      "CODE1": "A0401-51-007",
+      "CODE2": "A0401-51"
+    }
+  ]
+}
