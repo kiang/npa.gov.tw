@@ -17,7 +17,7 @@ foreach (glob(__DIR__ . '/csv/pool/*.csv') as $csvFile) {
             'geometry' => [
                 'type' => 'Point',
                 'coordinates' => [
-                    $line[1], $line[0]
+                    floatval($line[1]), floatval($line[0])
                 ],
             ],
         ];
