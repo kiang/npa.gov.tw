@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市中山區中山北路一段5巷9弄10-16號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺北市]\tT:1,V:-1,R:1,S:1,L:1,A:0,SA:-1,T:-1,AR:-1,NO:0,E:-1,N:-1",
+      "OutTraceInfo": "[臺北市]\t { 模糊比對 } (中山區)\t找到符合的[鄉鎮市區]，(中山北路)\t找到符合的[路街名]，(1)\t找到符合的[路段]，(5巷)\t找到符合的[巷]，(9弄)\t找不到符合的[弄]，(10-16號)\t找不到符合的[門牌號碼]，進行轉換搜尋[弄視為號]，找不到符合的[門牌號碼]，進行轉換搜尋[巷視為號]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市中山區正得里4鄰中山北路一段5巷73弄4號",
+      "COUNTY": "臺北市",
+      "TOWN": "中山區",
+      "VILLAGE": "正得里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "中山北路",
+      "SECTION": "1",
+      "LANE": "5巷",
+      "ALLEY": "73弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "4號",
+      "X": 121.523550,
+      "Y": 25.048214,
+      "CODEBASE": "A6304-1113-00",
+      "CODE1": "A6304-72-006",
+      "CODE2": "A6304-72"
+    }
+  ]
+}

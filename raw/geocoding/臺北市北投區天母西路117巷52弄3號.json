@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市北投區天母西路117巷52弄3號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[臺北市]\tFULL:1",
+      "OutTraceInfo": "[臺北市]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市北投區永欣里9鄰天母西路117巷52弄3號",
+      "COUNTY": "臺北市",
+      "TOWN": "北投區",
+      "VILLAGE": "永欣里",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "天母西路",
+      "SECTION": "",
+      "LANE": "117巷",
+      "ALLEY": "52弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "3號",
+      "X": 121.524793,
+      "Y": 25.121340,
+      "CODEBASE": "A6312-0670-00",
+      "CODE1": "A6312-48-003",
+      "CODE2": "A6312-48"
+    }
+  ]
+}

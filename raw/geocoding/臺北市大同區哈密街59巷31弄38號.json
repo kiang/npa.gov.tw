@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市大同區哈密街59巷31弄38號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[臺北市]\tFULL:1",
+      "OutTraceInfo": "[臺北市]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市大同區重慶里1鄰哈密街59巷31弄38號",
+      "COUNTY": "臺北市",
+      "TOWN": "大同區",
+      "VILLAGE": "重慶里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "哈密街",
+      "SECTION": "",
+      "LANE": "59巷",
+      "ALLEY": "31弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "38號",
+      "X": 121.516643,
+      "Y": 25.074918,
+      "CODEBASE": "A6306-0040-00",
+      "CODE1": "A6306-05-004",
+      "CODE2": "A6306-05"
+    }
+  ]
+}

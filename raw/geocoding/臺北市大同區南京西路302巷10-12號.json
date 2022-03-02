@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市大同區南京西路302巷10-12號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺北市]\tT:1,V:-1,R:1,S:-1,L:1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺北市]\t { 模糊比對 } (大同區)\t找到符合的[鄉鎮市區]，(南京西路)\t找到符合的[路街名]，(302巷)\t找到符合的[巷]，(10-12號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市大同區建功里14鄰南京西路302巷10號",
+      "COUNTY": "臺北市",
+      "TOWN": "大同區",
+      "VILLAGE": "建功里",
+      "NEIGHBORHOOD": "14鄰",
+      "ROAD": "南京西路",
+      "SECTION": "",
+      "LANE": "302巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "10號",
+      "X": 121.513531,
+      "Y": 25.053447,
+      "CODEBASE": "A6306-0476-00",
+      "CODE1": "A6306-42-003",
+      "CODE2": "A6306-42"
+    }
+  ]
+}

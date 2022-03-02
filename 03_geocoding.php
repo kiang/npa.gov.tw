@@ -149,6 +149,8 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
                         continue;
                     } elseif (false !== strpos($content, '語法不正確')) {
                         continue;
+                    } elseif (false !== strpos($content, '轉換成資料類型')) {
+                        continue;
                     } else {
                         $geocodingEnabled = false;
                     }

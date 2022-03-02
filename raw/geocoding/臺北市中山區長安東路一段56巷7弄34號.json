@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市中山區長安東路一段56巷7弄34號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[臺北市]\tFULL:1",
+      "OutTraceInfo": "[臺北市]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市中山區正守里5鄰長安東路一段56巷7弄34號",
+      "COUNTY": "臺北市",
+      "TOWN": "中山區",
+      "VILLAGE": "正守里",
+      "NEIGHBORHOOD": "5鄰",
+      "ROAD": "長安東路",
+      "SECTION": "1",
+      "LANE": "56巷",
+      "ALLEY": "7弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "34號",
+      "X": 121.529670,
+      "Y": 25.046870,
+      "CODEBASE": "A6304-1154-00",
+      "CODE1": "A6304-76-005",
+      "CODE2": "A6304-76"
+    }
+  ]
+}
