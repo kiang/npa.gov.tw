@@ -4,8 +4,14 @@ $geocodingPath = __DIR__ . '/raw/geocoding';
 if (!file_exists($geocodingPath)) {
     mkdir($geocodingPath, 0777, true);
 }
+$poolPath = __DIR__ . '/csv/pool';
+if (!file_exists($poolPath)) {
+    mkdir($poolPath, 0777, true);
+}
 $addressCount = 0;
+$geocodingEnabled = true;
 
+$pool = [];
 foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
     $p = pathinfo($csvFile);
     $fh = fopen($csvFile, 'r');
@@ -65,6 +71,7 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
                 foreach ($point as $k => $v) {
                     $point[$k] = floatval($v);
                 }
+                $data['備註'] = '';
             } else {
                 $point = [];
             }
@@ -84,15 +91,17 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
                     floatval($lineParts[0]),
                     floatval($lineParts[1]),
                 ];
-                if (isset($data['備註']) && isset($data['地址'])) {
+                if (!empty($data['備註']) && !empty($data['地址'])) {
                     $data['地址'] = $data['備註'];
                     $data['備註'] = '';
+                    $address = $data['地址'];
                 }
                 if (empty($point[0])) {
                     $point = [];
                 }
             }
         }
+        $address = trim($address);
         if (empty($point)) {
             if (false !== strpos($p['filename'], '桃園市政府警察局') && !empty($address)) {
                 if (false === strpos($address, '桃園市')) {
@@ -105,7 +114,7 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
                 $pos = strpos($address, '號');
                 $clearAddress = substr($address, 0, $pos) . '號';
                 $geocodingFile = $geocodingPath . '/' . $clearAddress . '.json';
-                if (!file_exists($geocodingFile)) {
+                if (!file_exists($geocodingFile) && $geocodingEnabled) {
                     $apiUrl = $config['tgos']['url'] . '?' . http_build_query([
                         'oAPPId' => $config['tgos']['APPID'], //應用程式識別碼(APPId)
                         'oAPIKey' => $config['tgos']['APIKey'], // 應用程式介接驗證碼(APIKey)
@@ -136,16 +145,48 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
                     if (strlen($resultline) > 10) {
                         file_put_contents($geocodingFile, substr($content, $pos, $posEnd - $pos));
                         echo "[{$addressCount}]{$clearAddress}\n";
-                    } elseif(false !== strpos($content, '資料行溢位')) {
+                    } elseif (false !== strpos($content, '資料行溢位')) {
                         continue;
-                    } elseif(false !== strpos($content, '語法不正確')) {
+                    } elseif (false !== strpos($content, '語法不正確')) {
                         continue;
                     } else {
-                        echo $content . "\n";
-                        exit();
+                        $geocodingEnabled = false;
+                    }
+                }
+                if (file_exists($geocodingFile)) {
+                    $geo = json_decode(file_get_contents($geocodingFile), true);
+                    if (!empty($geo['AddressList'][0]['X'])) {
+                        $point = [
+                            floatval($geo['AddressList'][0]['Y']),
+                            floatval($geo['AddressList'][0]['X']),
+                        ];
                     }
                 }
             }
+        }
+        if (!empty($point)) {
+            if (false !== strpos($p['filename'], '警察局') && false === strpos($p['filename'], '鐵路警')) {
+                $city = mb_substr($p['filename'], 0, 3, 'utf-8');
+            } elseif (!empty($address)) {
+                $city = mb_substr($address, 0, 3, 'utf-8');
+            }
+            switch ($city) {
+                case '台中市':
+                case '臺中港':
+                    $city = '臺中市';
+                    break;
+                case '花蓮港':
+                    $city = '花蓮縣';
+                    break;
+                case '22.':
+                    $city = '高雄市';
+                    break;
+            }
+            if (!isset($pool[$city])) {
+                $pool[$city] = fopen($poolPath . '/' . $city . '.csv', 'w');
+                fputcsv($pool[$city], ['latitude', 'longitude', 'properties']);
+            }
+            fputcsv($pool[$city], [$point[0], $point[1], json_encode($data, JSON_UNESCAPED_UNICODE)]);
         }
     }
 }
