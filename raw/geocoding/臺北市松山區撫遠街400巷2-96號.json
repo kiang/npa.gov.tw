@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市松山區撫遠街400巷2-96號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺北市]\tT:1,V:-1,R:1,S:-1,L:1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺北市]\t { 模糊比對 } (松山區)\t找到符合的[鄉鎮市區]，(撫遠街)\t找到符合的[路街名]，(400巷)\t找到符合的[巷]，(2-96號)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市松山區莊敬里20鄰撫遠街400巷2號",
+      "COUNTY": "臺北市",
+      "TOWN": "松山區",
+      "VILLAGE": "莊敬里",
+      "NEIGHBORHOOD": "20鄰",
+      "ROAD": "撫遠街",
+      "SECTION": "",
+      "LANE": "400巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "2號",
+      "X": 121.565421,
+      "Y": 25.065515,
+      "CODEBASE": "A6301-0016-00",
+      "CODE1": "A6301-03-001",
+      "CODE2": "A6301-03"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市松山區莊敬里21鄰撫遠街400巷2號",
+      "COUNTY": "臺北市",
+      "TOWN": "松山區",
+      "VILLAGE": "莊敬里",
+      "NEIGHBORHOOD": "21鄰",
+      "ROAD": "撫遠街",
+      "SECTION": "",
+      "LANE": "400巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "2號",
+      "X": 121.565421,
+      "Y": 25.065515,
+      "CODEBASE": "A6301-0016-00",
+      "CODE1": "A6301-03-001",
+      "CODE2": "A6301-03"
+    }
+  ]
+}

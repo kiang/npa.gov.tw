@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市內湖區江南街段117巷8弄2號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺北市]\tT:1,V:-1,R:1,S:-1,L:0,A:1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺北市]\t { 模糊比對 } (內湖區)\t找到符合的[鄉鎮市區]，(江南街)\t找到符合的[路街名]，(段117巷)\t找不到符合的[巷]，(8弄)\t找到符合的[弄]，(段117巷)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(2號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市內湖區港墘里17鄰江南街117巷8弄2號",
+      "COUNTY": "臺北市",
+      "TOWN": "內湖區",
+      "VILLAGE": "港墘里",
+      "NEIGHBORHOOD": "17鄰",
+      "ROAD": "江南街",
+      "SECTION": "",
+      "LANE": "117巷",
+      "ALLEY": "8弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "2號",
+      "X": 121.576314,
+      "Y": 25.076022,
+      "CODEBASE": "A6310-0618-00",
+      "CODE1": "A6310-42-009",
+      "CODE2": "A6310-42"
+    }
+  ]
+}

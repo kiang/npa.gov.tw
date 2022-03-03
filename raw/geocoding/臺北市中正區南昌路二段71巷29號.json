@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市中正區南昌路二段71巷29號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺北市]\tT:1,V:-1,R:1,S:1,L:1,A:-1,SA:-1,T:-1,AR:-1,NO:0(-26),E:-1,N:-1",
+      "OutTraceInfo": "[臺北市]\t { 模糊比對 } (中正區)\t找到符合的[鄉鎮市區]，(南昌路)\t找到符合的[路街名]，(2)\t找到符合的[路段]，(71巷)\t找到符合的[巷]，(29號)\t找不到符合的[門牌號碼]，進行轉換搜尋[巷視為號]，進行[單號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -26 號，進行[找最小門牌的號之、之號]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市中正區南福里7鄰南昌路二段71巷3之1號",
+      "COUNTY": "臺北市",
+      "TOWN": "中正區",
+      "VILLAGE": "南福里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "南昌路",
+      "SECTION": "2",
+      "LANE": "71巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "3之1號",
+      "X": 121.520475,
+      "Y": 25.027863,
+      "CODEBASE": "A6305-0499-00",
+      "CODE1": "A6305-37-003",
+      "CODE2": "A6305-37"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市中正區南福里7鄰南昌路二段71巷3之2號",
+      "COUNTY": "臺北市",
+      "TOWN": "中正區",
+      "VILLAGE": "南福里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "南昌路",
+      "SECTION": "2",
+      "LANE": "71巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "3之2號",
+      "X": 121.520447,
+      "Y": 25.027887,
+      "CODEBASE": "A6305-0499-00",
+      "CODE1": "A6305-37-003",
+      "CODE2": "A6305-37"
+    }
+  ]
+}

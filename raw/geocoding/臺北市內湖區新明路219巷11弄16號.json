@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市內湖區新明路219巷11弄16號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺北市]\tT:1,V:-1,R:1,S:-1,L:1,A:0,SA:-1,T:-1,AR:-1,NO:2(-5),E:-1,N:-1",
+      "OutTraceInfo": "[臺北市]\t { 模糊比對 } (內湖區)\t找到符合的[鄉鎮市區]，(新明路)\t找到符合的[路街名]，(219巷)\t找到符合的[巷]，(11弄)\t找不到符合的[弄]，(16號)\t找不到符合的[門牌號碼]，進行轉換搜尋[弄視為號]，轉換搜尋找到符合的[門牌號碼]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -5 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市內湖區石潭里12鄰新明路219巷1弄11號",
+      "COUNTY": "臺北市",
+      "TOWN": "內湖區",
+      "VILLAGE": "石潭里",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "新明路",
+      "SECTION": "",
+      "LANE": "219巷",
+      "ALLEY": "1弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "11號",
+      "X": 121.588273,
+      "Y": 25.058157,
+      "CODEBASE": "A6310-1164-00",
+      "CODE1": "A6310-86-002",
+      "CODE2": "A6310-86"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市內湖區石潭里12鄰新明路219巷2弄11號",
+      "COUNTY": "臺北市",
+      "TOWN": "內湖區",
+      "VILLAGE": "石潭里",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "新明路",
+      "SECTION": "",
+      "LANE": "219巷",
+      "ALLEY": "2弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "11號",
+      "X": 121.587604,
+      "Y": 25.057673,
+      "CODEBASE": "A6310-1170-00",
+      "CODE1": "A6310-86-005",
+      "CODE2": "A6310-86"
+    }
+  ]
+}

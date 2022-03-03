@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市內湖區新湖一路358巷27弄22號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺北市]\tT:1,V:-1,R:1,S:-1,L:1,A:0,SA:-1,T:-1,AR:-1,NO:0,E:-1,N:-1",
+      "OutTraceInfo": "[臺北市]\t { 模糊比對 } (內湖區)\t找到符合的[鄉鎮市區]，(新湖一路)\t找到符合的[路街名]，(358巷)\t找到符合的[巷]，(27弄)\t找不到符合的[弄]，(22號)\t找不到符合的[門牌號碼]，進行轉換搜尋[弄視為號]，找不到符合的[門牌號碼]，進行轉換搜尋[巷視為號]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市內湖區湖元里18鄰新湖一路358巷16號",
+      "COUNTY": "臺北市",
+      "TOWN": "內湖區",
+      "VILLAGE": "湖元里",
+      "NEIGHBORHOOD": "18鄰",
+      "ROAD": "新湖一路",
+      "SECTION": "",
+      "LANE": "358巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "16號",
+      "X": 121.582443,
+      "Y": 25.063048,
+      "CODEBASE": "A6310-1133-00",
+      "CODE1": "A6310-75-009",
+      "CODE2": "A6310-75"
+    }
+  ]
+}

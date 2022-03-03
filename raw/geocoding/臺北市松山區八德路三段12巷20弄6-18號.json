@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市松山區八德路三段12巷20弄6-18號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺北市]\tT:1,V:-1,R:1,S:1,L:1,A:1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺北市]\t { 模糊比對 } (松山區)\t找到符合的[鄉鎮市區]，(八德路)\t找到符合的[路街名]，(3)\t找到符合的[路段]，(12巷)\t找到符合的[巷]，(20弄)\t找到符合的[弄]，(6-18號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市松山區敦化里7鄰八德路三段12巷20弄6號",
+      "COUNTY": "臺北市",
+      "TOWN": "松山區",
+      "VILLAGE": "敦化里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "八德路",
+      "SECTION": "3",
+      "LANE": "12巷",
+      "ALLEY": "20弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "6號",
+      "X": 121.550242,
+      "Y": 25.046569,
+      "CODEBASE": "A6301-0785-00",
+      "CODE1": "A6301-68-009",
+      "CODE2": "A6301-68"
+    }
+  ]
+}
