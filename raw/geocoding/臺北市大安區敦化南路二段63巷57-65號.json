@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市大安區敦化南路二段63巷57-65號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺北市]\tT:1,V:-1,R:1,S:1,L:1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺北市]\t { 模糊比對 } (大安區)\t找到符合的[鄉鎮市區]，(敦化南路)\t找到符合的[路街名]，(2)\t找到符合的[路段]，(63巷)\t找到符合的[巷]，(57-65號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市大安區義安里12鄰敦化南路二段63巷57號",
+      "COUNTY": "臺北市",
+      "TOWN": "大安區",
+      "VILLAGE": "義安里",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "敦化南路",
+      "SECTION": "2",
+      "LANE": "63巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "57號",
+      "X": 121.551765,
+      "Y": 25.031015,
+      "CODEBASE": "A6303-0579-00",
+      "CODE1": "A6303-47-006",
+      "CODE2": "A6303-47"
+    }
+  ]
+}

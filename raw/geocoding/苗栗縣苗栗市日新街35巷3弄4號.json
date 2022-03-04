@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "苗栗縣苗栗市日新街35巷3弄4號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[苗栗縣]\tT:1,V:-1,R:1,S:-1,L:1,A:0,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[苗栗縣]\t { 模糊比對 } (苗栗市)\t找到符合的[鄉鎮市區]，(日新街)\t找到符合的[路街名]，(35巷)\t找到符合的[巷]，(3弄)\t找不到符合的[弄]，(4號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "苗栗縣苗栗市高苗里3鄰日新街35巷4號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "苗栗市",
+      "VILLAGE": "高苗里",
+      "NEIGHBORHOOD": "3鄰",
+      "ROAD": "日新街",
+      "SECTION": "",
+      "LANE": "35巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "4號",
+      "X": 120.816922,
+      "Y": 24.553108,
+      "CODEBASE": "A0501-0481-00",
+      "CODE1": "A0501-30-001",
+      "CODE2": "A0501-30"
+    }
+  ]
+}

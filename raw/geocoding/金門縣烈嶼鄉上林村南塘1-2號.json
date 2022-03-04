@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "金門縣烈嶼鄉上林村南塘1-2號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[金門縣]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[金門縣]\t { 模糊比對 } (烈嶼鄉)\t找到符合的[鄉鎮市區]，(上林村)\t找到符合的[村里]，(南塘)\t找到符合的[地區]，(1-2號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "金門縣烈嶼鄉上林村13鄰南塘1之2號",
+      "COUNTY": "金門縣",
+      "TOWN": "烈嶼鄉",
+      "VILLAGE": "上林村",
+      "NEIGHBORHOOD": "13鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "南塘",
+      "NUMBER": "1之2號",
+      "X": 118.238228,
+      "Y": 24.424537,
+      "CODEBASE": "A9205-0072-00",
+      "CODE1": "A9205-05-006",
+      "CODE2": "A9205-05"
+    }
+  ]
+}

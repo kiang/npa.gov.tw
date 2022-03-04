@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市萬華區莒光路112號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺北市]\tT:1,V:-1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+2)(-2),E:-1,N:-1",
+      "OutTraceInfo": "[臺北市]\t { 模糊比對 } (萬華區)\t找到符合的[鄉鎮市區]，(莒光路)\t找到符合的[路街名]，(112號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +2 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -2 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市萬華區頂碩里9鄰莒光路110號",
+      "COUNTY": "臺北市",
+      "TOWN": "萬華區",
+      "VILLAGE": "頂碩里",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "莒光路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "110號",
+      "X": 121.503878,
+      "Y": 25.031390,
+      "CODEBASE": "A6307-0359-00",
+      "CODE1": "A6307-25-006",
+      "CODE2": "A6307-25"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市萬華區頂碩里11鄰莒光路114號",
+      "COUNTY": "臺北市",
+      "TOWN": "萬華區",
+      "VILLAGE": "頂碩里",
+      "NEIGHBORHOOD": "11鄰",
+      "ROAD": "莒光路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "114號",
+      "X": 121.503665,
+      "Y": 25.031392,
+      "CODEBASE": "A6307-0366-00",
+      "CODE1": "A6307-25-007",
+      "CODE2": "A6307-25"
+    }
+  ]
+}

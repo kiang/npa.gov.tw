@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "苗栗縣頭份市蘆竹里中華路213-31號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[苗栗縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+18)(-2),E:-1,N:-1",
+      "OutTraceInfo": "[苗栗縣]\t { 模糊比對 } (頭份市)\t找到符合的[鄉鎮市區]，(蘆竹里)\t找到符合的[村里]，(中華路)\t找到符合的[路街名]，(213-31號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +18 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -2 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "苗栗縣頭份市蘆竹里1鄰中華路211號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "頭份市",
+      "VILLAGE": "蘆竹里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "中華路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "211號",
+      "X": 120.884110,
+      "Y": 24.670285,
+      "CODEBASE": "A0510-0151-00",
+      "CODE1": "A0510-10-002",
+      "CODE2": "A0510-10"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "苗栗縣頭份市蘆竹里1鄰中華路231號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "頭份市",
+      "VILLAGE": "蘆竹里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "中華路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "231號",
+      "X": 120.884724,
+      "Y": 24.670694,
+      "CODEBASE": "A0510-0151-00",
+      "CODE1": "A0510-10-002",
+      "CODE2": "A0510-10"
+    }
+  ]
+}

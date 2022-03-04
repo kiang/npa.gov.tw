@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市萬華區中華路二段364巷24弄1號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[臺北市]\tFULL:1",
+      "OutTraceInfo": "[臺北市]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市萬華區新忠里13鄰中華路二段364巷24弄1號",
+      "COUNTY": "臺北市",
+      "TOWN": "萬華區",
+      "VILLAGE": "新忠里",
+      "NEIGHBORHOOD": "13鄰",
+      "ROAD": "中華路",
+      "SECTION": "2",
+      "LANE": "364巷",
+      "ALLEY": "24弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "1號",
+      "X": 121.503564,
+      "Y": 25.029066,
+      "CODEBASE": "A6307-0433-00",
+      "CODE1": "A6307-34-003",
+      "CODE2": "A6307-34"
+    }
+  ]
+}

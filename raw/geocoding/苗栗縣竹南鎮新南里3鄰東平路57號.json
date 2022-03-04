@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "苗栗縣竹南鎮新南里3鄰東平路57號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[苗栗縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+14)(-8),E:-1,N:0",
+      "OutTraceInfo": "[苗栗縣]\t { 模糊比對 } (竹南鎮)\t找到符合的[鄉鎮市區]，(新南里)\t找到符合的[村里]，(東平路)\t找到符合的[路街名]，(57號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +14 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -8 號，(3鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "苗栗縣竹南鎮新南里4鄰東平路49號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "竹南鎮",
+      "VILLAGE": "新南里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "東平路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "49號",
+      "X": 120.881562,
+      "Y": 24.684493,
+      "CODEBASE": "A0504-0333-00",
+      "CODE1": "A0504-17-008",
+      "CODE2": "A0504-17"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "苗栗縣竹南鎮新南里4鄰東平路71號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "竹南鎮",
+      "VILLAGE": "新南里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "東平路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "71號",
+      "X": 120.882101,
+      "Y": 24.684584,
+      "CODEBASE": "A0504-0376-00",
+      "CODE1": "A0504-17-009",
+      "CODE2": "A0504-17"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "苗栗縣竹南鎮山佳里16鄰光復路452號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[苗栗縣]\tFULL:1",
+      "OutTraceInfo": "[苗栗縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "10908",
+      "FULL_ADDR": "苗栗縣竹南鎮山佳里16鄰光復路452號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "竹南鎮",
+      "VILLAGE": "山佳里",
+      "NEIGHBORHOOD": "16鄰",
+      "ROAD": "光復路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "452號",
+      "X": 120.879725,
+      "Y": 24.694822,
+      "CODEBASE": "A0504-0203-00",
+      "CODE1": "A0504-07-010",
+      "CODE2": "A0504-07"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺東縣海端鄉霧鹿村霧鹿路1號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺東縣]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺東縣]\t { 模糊比對 } (海端鄉)\t找到符合的[鄉鎮市區]，(霧鹿村)\t找到符合的[村里]，(霧鹿路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(1號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺東縣海端鄉霧鹿村1鄰霧鹿1號",
+      "COUNTY": "臺東縣",
+      "TOWN": "海端鄉",
+      "VILLAGE": "霧鹿村",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "霧鹿",
+      "NUMBER": "1號",
+      "X": 121.041636,
+      "Y": 23.173300,
+      "CODEBASE": "A1412-0009-00",
+      "CODE1": "A1412-01-002",
+      "CODE2": "A1412-01"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺東縣海端鄉霧鹿村5鄰下馬1號",
+      "COUNTY": "臺東縣",
+      "TOWN": "海端鄉",
+      "VILLAGE": "霧鹿村",
+      "NEIGHBORHOOD": "5鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "下馬",
+      "NUMBER": "1號",
+      "X": 121.065282,
+      "Y": 23.154661,
+      "CODEBASE": "A1412-0022-00",
+      "CODE1": "A1412-01-005",
+      "CODE2": "A1412-01"
+    }
+  ]
+}

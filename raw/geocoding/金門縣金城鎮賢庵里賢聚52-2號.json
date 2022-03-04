@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "金門縣金城鎮賢庵里賢聚52-2號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[金門縣]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[金門縣]\t { 模糊比對 } (金城鎮)\t找到符合的[鄉鎮市區]，(賢庵里)\t找到符合的[村里]，(賢聚)\t找到符合的[地區]，(52-2號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "金門縣金城鎮賢庵里1鄰賢聚52之2號",
+      "COUNTY": "金門縣",
+      "TOWN": "金城鎮",
+      "VILLAGE": "賢庵里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "賢聚",
+      "NUMBER": "52之2號",
+      "X": 118.307627,
+      "Y": 24.416312,
+      "CODEBASE": "A9201-0108-00",
+      "CODE1": "A9201-10-002",
+      "CODE2": "A9201-10"
+    }
+  ]
+}

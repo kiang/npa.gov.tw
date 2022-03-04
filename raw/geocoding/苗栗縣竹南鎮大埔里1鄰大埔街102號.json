@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "苗栗縣竹南鎮大埔里1鄰大埔街102號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[苗栗縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+58)(-54),E:-1,N:1",
+      "OutTraceInfo": "[苗栗縣]\t { 模糊比對 } (竹南鎮)\t找到符合的[鄉鎮市區]，(大埔里)\t找到符合的[村里]，(大埔街)\t找到符合的[路街名]，(102號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +58 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -54 號，(1鄰)\t找到符合的[鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "苗栗縣竹南鎮大埔里1鄰大埔街48號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "竹南鎮",
+      "VILLAGE": "大埔里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "大埔街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "48號",
+      "X": 120.907051,
+      "Y": 24.710311,
+      "CODEBASE": "A0504-0094-00",
+      "CODE1": "A0504-04-007",
+      "CODE2": "A0504-04"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "苗栗縣竹南鎮大埔里1鄰大埔街160號",
+      "COUNTY": "苗栗縣",
+      "TOWN": "竹南鎮",
+      "VILLAGE": "大埔里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "大埔街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "160號",
+      "X": 120.906872,
+      "Y": 24.712948,
+      "CODEBASE": "A0504-0062-00",
+      "CODE1": "A0504-03-001",
+      "CODE2": "A0504-03"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "金門縣烈嶼鄉西口村西方8號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[金門縣]\tFULL:1",
+      "OutTraceInfo": "[金門縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "金門縣烈嶼鄉西口村1鄰西方8號",
+      "COUNTY": "金門縣",
+      "TOWN": "烈嶼鄉",
+      "VILLAGE": "西口村",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "西方",
+      "NUMBER": "8號",
+      "X": 118.238707,
+      "Y": 24.435573,
+      "CODEBASE": "A9205-0038-00",
+      "CODE1": "A9205-04-013",
+      "CODE2": "A9205-04"
+    }
+  ]
+}
