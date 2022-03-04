@@ -167,7 +167,7 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
             }
         }
         if (!empty($point)) {
-            if (false !== strpos($p['filename'], '警察局') && false === strpos($p['filename'], '鐵路警')) {
+            if (false !== strpos($p['filename'], '警察局') && false === strpos($p['filename'], '鐵路警') && false === strpos($p['filename'], '航空警')) {
                 $city = mb_substr($p['filename'], 0, 3, 'utf-8');
             } elseif (!empty($address)) {
                 $city = mb_substr($address, 0, 3, 'utf-8');
@@ -179,6 +179,9 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
                     break;
                 case '花蓮港':
                     $city = '花蓮縣';
+                    break;
+                case '台南市':
+                    $city = '臺南市';
                     break;
                 case '22.':
                     $city = '高雄市';
