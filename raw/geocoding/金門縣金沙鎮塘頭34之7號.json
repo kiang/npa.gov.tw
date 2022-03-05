@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "金門縣金沙鎮塘頭34之7號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[金門縣]\tT:1,V:-1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:1,NO:0(+24)(-4)(-5),E:-1,N:-1",
+      "OutTraceInfo": "[金門縣]\t { 模糊比對 } (金沙鎮)\t找到符合的[鄉鎮市區]，(塘頭)\t找到符合的[地區]，(34之7號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +24 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -4 號，進行[找小於且最接近門牌的號之、之號]，找到小於輸入的門牌的號之、之號 5 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "金門縣金沙鎮官嶼里1鄰塘頭30之2號",
+      "COUNTY": "金門縣",
+      "TOWN": "金沙鎮",
+      "VILLAGE": "官嶼里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "塘頭",
+      "NUMBER": "30之2號",
+      "X": 118.419144,
+      "Y": 24.510026,
+      "CODEBASE": "A9202-0017-00",
+      "CODE1": "A9202-03-005",
+      "CODE2": "A9202-03"
+    }
+  ]
+}

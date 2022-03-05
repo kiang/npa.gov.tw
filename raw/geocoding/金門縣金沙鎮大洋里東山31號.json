@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "金門縣金沙鎮大洋里東山31號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[金門縣]\tFULL:1",
+      "OutTraceInfo": "[金門縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "10008",
+      "FULL_ADDR": "金門縣金沙鎮大洋里7鄰東山31號",
+      "COUNTY": "金門縣",
+      "TOWN": "金沙鎮",
+      "VILLAGE": "大洋里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "東山",
+      "NUMBER": "31號",
+      "X": 118.444429,
+      "Y": 24.462815,
+      "CODEBASE": "A9202-0164-00",
+      "CODE1": "A9202-05-016",
+      "CODE2": "A9202-05"
+    }
+  ]
+}
