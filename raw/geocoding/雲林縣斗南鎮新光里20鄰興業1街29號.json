@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "雲林縣斗南鎮新光里20鄰興業1街29號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[雲林縣]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:1",
+      "OutTraceInfo": "[雲林縣]\t { 模糊比對 } (斗南鎮)\t找到符合的[鄉鎮市區]，(新光里)\t找到符合的[村里]，(興業1街)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(29號)\t找到符合的[門牌號碼]，進行[單號過濾]，(20鄰)\t找到符合的[鄰]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "雲林縣斗南鎮新光里20鄰興業一街29號",
+      "COUNTY": "雲林縣",
+      "TOWN": "斗南鎮",
+      "VILLAGE": "新光里",
+      "NEIGHBORHOOD": "20鄰",
+      "ROAD": "興業一街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "29號",
+      "X": 120.479024,
+      "Y": 23.689647,
+      "CODEBASE": "A0902-0052-00",
+      "CODE1": "A0902-03-006",
+      "CODE2": "A0902-03"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "高雄市六龜區義寶里華南街34號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[高雄市]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+7)(-3),E:-1,N:-1",
+      "OutTraceInfo": "[高雄市]\t { 模糊比對 } (六龜區)\t找到符合的[鄉鎮市區]，(義寶里)\t找到符合的[村里]，(華南街)\t找到符合的[路街名]，(34號)\t進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +7 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -3 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "高雄市六龜區義寶里9鄰華南街31號",
+      "COUNTY": "高雄市",
+      "TOWN": "六龜區",
+      "VILLAGE": "義寶里",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "華南街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "31號",
+      "X": 120.634880,
+      "Y": 22.997603,
+      "CODEBASE": "A6432-0064-00",
+      "CODE1": "A6432-05-031",
+      "CODE2": "A6432-05"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "高雄市六龜區義寶里11鄰華南街41號",
+      "COUNTY": "高雄市",
+      "TOWN": "六龜區",
+      "VILLAGE": "義寶里",
+      "NEIGHBORHOOD": "11鄰",
+      "ROAD": "華南街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "41號",
+      "X": 120.635444,
+      "Y": 22.997584,
+      "CODEBASE": "A6432-0064-00",
+      "CODE1": "A6432-05-031",
+      "CODE2": "A6432-05"
+    }
+  ]
+}

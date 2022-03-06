@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "雲林縣斗南鎮南昌里民權路29-31號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[雲林縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[雲林縣]\t { 模糊比對 } (斗南鎮)\t找到符合的[鄉鎮市區]，(南昌里)\t找到符合的[村里]，(民權路)\t找到符合的[路街名]，(29-31號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "雲林縣斗南鎮南昌里20鄰民權路29號",
+      "COUNTY": "雲林縣",
+      "TOWN": "斗南鎮",
+      "VILLAGE": "南昌里",
+      "NEIGHBORHOOD": "20鄰",
+      "ROAD": "民權路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "29號",
+      "X": 120.478775,
+      "Y": 23.673801,
+      "CODEBASE": "A0902-0254-00",
+      "CODE1": "A0902-10-007",
+      "CODE2": "A0902-10"
+    }
+  ]
+}

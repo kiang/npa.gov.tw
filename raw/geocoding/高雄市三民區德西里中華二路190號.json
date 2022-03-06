@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "高雄市三民區德西里中華二路190號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[高雄市]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+1)(-5),E:-1,N:-1",
+      "OutTraceInfo": "[高雄市]\t { 模糊比對 } (三民區)\t找到符合的[鄉鎮市區]，(德西里)\t找到符合的[村里]，(中華二路)\t找到符合的[路街名]，(190號)\t進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +1 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -5 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "高雄市三民區德西里7鄰中華二路185號",
+      "COUNTY": "高雄市",
+      "TOWN": "三民區",
+      "VILLAGE": "德西里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "中華二路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "185號",
+      "X": 120.291310,
+      "Y": 22.643397,
+      "CODEBASE": "A6405-0885-00",
+      "CODE1": "A6405-87-004",
+      "CODE2": "A6405-87"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "高雄市三民區德西里7鄰中華二路191號",
+      "COUNTY": "高雄市",
+      "TOWN": "三民區",
+      "VILLAGE": "德西里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "中華二路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "191號",
+      "X": 120.291242,
+      "Y": 22.643675,
+      "CODEBASE": "A6405-0885-00",
+      "CODE1": "A6405-87-004",
+      "CODE2": "A6405-87"
+    }
+  ]
+}

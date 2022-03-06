@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "南投縣南投市平山里彰南路三段541-6號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[南投縣]\tT:1,V:1,R:1,S:1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(-362)(-4),E:-1,N:-1",
+      "OutTraceInfo": "[南投縣]\t { 模糊比對 } (南投市)\t找到符合的[鄉鎮市區]，(平山里)\t找到符合的[村里]，(彰南路)\t找到符合的[路街名]，(3)\t找到符合的[路段]，(541-6號)\t進行[單號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -362 號，進行[找小於且最接近門牌的號之、之號]，找到小於輸入的門牌的號之、之號 4 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "南投縣南投市平山里1鄰彰南路三段179之2號",
+      "COUNTY": "南投縣",
+      "TOWN": "南投市",
+      "VILLAGE": "平山里",
+      "NEIGHBORHOOD": "1鄰",
+      "ROAD": "彰南路",
+      "SECTION": "3",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "179之2號",
+      "X": 120.673131,
+      "Y": 23.927296,
+      "CODEBASE": "A0801-0356-00",
+      "CODE1": "A0801-17-003",
+      "CODE2": "A0801-17"
+    }
+  ]
+}

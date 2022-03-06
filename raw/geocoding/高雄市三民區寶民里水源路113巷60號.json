@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "高雄市三民區寶民里水源路113巷60號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[高雄市]\tT:1,V:1,R:1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:-1,NO:0(+16)(-2),E:-1,N:-1",
+      "OutTraceInfo": "[高雄市]\t { 模糊比對 } (三民區)\t找到符合的[鄉鎮市區]，(寶民里)\t找到符合的[村里]，(水源路)\t找到符合的[路街名]，(113巷)\t找不到符合的[巷]，(113)\t找不到符合的[門牌號碼]，進行轉換搜尋[巷視為號]，進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +16 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -2 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "高雄市三民區寶民里11鄰水源路111號",
+      "COUNTY": "高雄市",
+      "TOWN": "三民區",
+      "VILLAGE": "寶民里",
+      "NEIGHBORHOOD": "11鄰",
+      "ROAD": "水源路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "111號",
+      "X": 120.340044,
+      "Y": 22.635280,
+      "CODEBASE": "A6405-1514-00",
+      "CODE1": "A6405-D8-007",
+      "CODE2": "A6405-D8"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "高雄市三民區寶民里2鄰水源路129號",
+      "COUNTY": "高雄市",
+      "TOWN": "三民區",
+      "VILLAGE": "寶民里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "水源路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "129號",
+      "X": 120.339736,
+      "Y": 22.635459,
+      "CODEBASE": "A6405-1488-00",
+      "CODE1": "A6405-D8-002",
+      "CODE2": "A6405-D8"
+    }
+  ]
+}
