@@ -102,13 +102,35 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
             }
         }
         $address = trim($address);
-        if (empty($point)) {
-            if (false !== strpos($p['filename'], '桃園市政府警察局') && !empty($address)) {
-                if (false === strpos($address, '桃園市')) {
-                    $pos = strpos($address, '區');
-                    $address = '桃園市' . substr($address, 0, $pos) . '區' . $data['村里別'] . substr($address, $pos + 3);
-                }
+        if (false !== strpos($p['filename'], '警察局') && false === strpos($p['filename'], '鐵路警') && false === strpos($p['filename'], '航空警')) {
+            $city = mb_substr($p['filename'], 0, 3, 'utf-8');
+        } elseif (!empty($address)) {
+            $city = mb_substr($address, 0, 3, 'utf-8');
+        }
+        switch ($city) {
+            case '台中市':
+            case '臺中港':
+                $city = '臺中市';
+                break;
+            case '花蓮港':
+                $city = '花蓮縣';
+                break;
+            case '台南市':
+                $city = '臺南市';
+                break;
+            case '22.':
+                $city = '高雄市';
+                break;
+        }
+        if (false !== strpos($p['filename'], '桃園市政府警察局') && !empty($address)) {
+            if (false === strpos($address, '桃園市')) {
+                $pos = strpos($address, '區');
+                $address = '桃園市' . substr($address, 0, $pos) . '區' . $data['村里別'] . substr($address, $pos + 3);
             }
+        } elseif(false === strpos($address, $city)) {
+            $address = $city . $address;
+        }
+        if (empty($point)) {
             if (!empty($address)) {
                 ++$addressCount;
                 $pos = strpos($address, '號');
@@ -167,26 +189,6 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
             }
         }
         if (!empty($point)) {
-            if (false !== strpos($p['filename'], '警察局') && false === strpos($p['filename'], '鐵路警') && false === strpos($p['filename'], '航空警')) {
-                $city = mb_substr($p['filename'], 0, 3, 'utf-8');
-            } elseif (!empty($address)) {
-                $city = mb_substr($address, 0, 3, 'utf-8');
-            }
-            switch ($city) {
-                case '台中市':
-                case '臺中港':
-                    $city = '臺中市';
-                    break;
-                case '花蓮港':
-                    $city = '花蓮縣';
-                    break;
-                case '台南市':
-                    $city = '臺南市';
-                    break;
-                case '22.':
-                    $city = '高雄市';
-                    break;
-            }
             if (!isset($pool[$city])) {
                 $pool[$city] = fopen($poolPath . '/' . $city . '.csv', 'w');
                 fputcsv($pool[$city], ['latitude', 'longitude', 'properties']);
