@@ -122,7 +122,7 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
                 $city = '高雄市';
                 break;
         }
-        if (false !== strpos($p['filename'], '桃園市政府警察局') && !empty($address)) {
+        if (false !== strpos($p['filename'], '桃園市政府警察局') && !empty($address) && isset($data['村里別'])) {
             if (false === strpos($address, '桃園市')) {
                 $pos = strpos($address, '區');
                 $address = '桃園市' . substr($address, 0, $pos) . '區' . $data['村里別'] . substr($address, $pos + 3);
