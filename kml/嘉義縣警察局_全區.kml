@@ -763,7 +763,7 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 學校<br>編號: 16<br>村里別: 頂崙村<br>地址: 嘉義縣民雄鄉頂崙村12鄰崙仔頂105號<br>地下層數: 地下1層<br>可容納人數: 97<br>定位點: 23.55763, 120.43428<br>備考: ]]></description>
+        <description><![CDATA[類別: 學校<br>編號: 16<br>村里別: 頂崙村<br>地址: 嘉義縣民雄鄉頂崙村12鄰崙仔頂105號<br>地下層數: 地下1層<br>可容納人數: 279<br>定位點: 23.557603, 120.4356211<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -782,10 +782,10 @@
             <value>地下1層</value>
           </Data>
           <Data name="可容納人數">
-            <value>97</value>
+            <value>279</value>
           </Data>
           <Data name="定位點">
-            <value>23.55763, 120.43428</value>
+            <value>23.557603, 120.4356211</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -793,13 +793,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.43428,23.55763,0
+            120.4356211,23.557603,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 學校<br>編號: 17<br>村里別: 頂崙村<br>地址: 嘉義縣民雄鄉頂崙村12鄰崙仔頂105號<br>地下層數: 地下1層<br>可容納人數: 376<br>定位點: 23.55759, 120.43493<br>備考: ]]></description>
+        <description><![CDATA[類別: 學校<br>編號: 17<br>村里別: 頂崙村<br>地址: 嘉義縣民雄鄉頂崙村12鄰崙仔頂105號<br>地下層數: 地下1層<br>可容納人數: 376<br>定位點: 23.5579711, 120.4352975<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -821,7 +821,7 @@
             <value>376</value>
           </Data>
           <Data name="定位點">
-            <value>23.55759, 120.43493</value>
+            <value>23.5579711, 120.4352975</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -829,7 +829,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.43493,23.55759,0
+            120.4352975,23.5579711,0
           </coordinates>
         </Point>
       </Placemark>
@@ -943,7 +943,7 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 學校<br>編號: 21<br>村里別: 東榮村<br>地址: 嘉義縣民雄東榮村建國路2段285巷11號<br>地下層數: 地下1層<br>可容納人數: 621<br>定位點: 23.5486, 120.43102<br>備考: ]]></description>
+        <description><![CDATA[類別: 學校<br>編號: 21<br>村里別: 東榮村<br>地址: 嘉義縣民雄東榮村建國路2段285巷11號<br>地下層數: 地下1層<br>可容納人數: 621<br>定位點: 23.5481722, 120.4302904<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -965,7 +965,7 @@
             <value>621</value>
           </Data>
           <Data name="定位點">
-            <value>23.5486, 120.43102</value>
+            <value>23.5481722, 120.4302904</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -973,7 +973,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.43102,23.5486,0
+            120.4302904,23.5481722,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1154,42 +1154,6 @@
         <Point>
           <coordinates>
             120.43422,23.55701,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>民雄分局</name>
-        <description><![CDATA[類別: 學校<br>編號: 27<br>村里別: 頂崙村<br>地址: 嘉義縣民雄鄉頂崙村12鄰崙仔頂105號<br>地下層數: 地下1層<br>可容納人數: <br>定位點: 23.55782, 120.43560<br>備考: ]]></description>
-        <styleUrl>#icon-1899-817717</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>學校</value>
-          </Data>
-          <Data name="編號">
-            <value>27.0</value>
-          </Data>
-          <Data name="村里別">
-            <value>頂崙村</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義縣民雄鄉頂崙村12鄰崙仔頂105號</value>
-          </Data>
-          <Data name="地下層數">
-            <value>地下1層</value>
-          </Data>
-          <Data name="可容納人數">
-            <value/>
-          </Data>
-          <Data name="定位點">
-            <value>23.55782, 120.43560</value>
-          </Data>
-          <Data name="備考">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.4356,23.55782,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1555,7 +1519,7 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 38<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業三路2號<br>地下層數: 地下1層<br>可容納人數: 331<br>定位點: 23.52015, 120.43753<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 38<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業三路2號<br>地下層數: 地下1層<br>可容納人數: 331<br>定位點: 23.5207058, 120.4380074<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -1577,7 +1541,7 @@
             <value>331</value>
           </Data>
           <Data name="定位點">
-            <value>23.52015, 120.43753</value>
+            <value>23.5207058, 120.4380074</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -1585,7 +1549,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.43753,23.52015,0
+            120.4380074,23.5207058,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1627,42 +1591,6 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 40<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業三路13號<br>地下層數: 地下1層<br>可容納人數: 244<br>定位點: 23.52353, 120.43272<br>備考: ]]></description>
-        <styleUrl>#icon-1899-817717</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>工廠行號</value>
-          </Data>
-          <Data name="編號">
-            <value>40.0</value>
-          </Data>
-          <Data name="村里別">
-            <value>興南村</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義縣民雄鄉興南村工業三路13號</value>
-          </Data>
-          <Data name="地下層數">
-            <value>地下1層</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>244</value>
-          </Data>
-          <Data name="定位點">
-            <value>23.52353, 120.43272</value>
-          </Data>
-          <Data name="備考">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.43272,23.52353,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>民雄分局</name>
         <description><![CDATA[類別: 工廠行號<br>編號: 41<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業一路4號<br>地下層數: 地下1層<br>可容納人數: 224<br>定位點: 23.51996, 120.43542<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
@@ -1699,7 +1627,7 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 42<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業三路1號<br>地下層數: 地下1層<br>可容納人數: 164<br>定位點: 23.52031, 120.43601<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 42<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業三路1號<br>地下層數: 地下1層<br>可容納人數: 197<br>定位點: 23.5203198, 120.4360207<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -1718,10 +1646,10 @@
             <value>地下1層</value>
           </Data>
           <Data name="可容納人數">
-            <value>164</value>
+            <value>197</value>
           </Data>
           <Data name="定位點">
-            <value>23.52031, 120.43601</value>
+            <value>23.5203198, 120.4360207</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -1729,7 +1657,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.43601,23.52031,0
+            120.4360207,23.5203198,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2023,7 +1951,7 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 51<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業三路7號<br>地下層數: 地下1層<br>可容納人數: 269<br>定位點: 23.52358, 120.43303<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 51<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業三路7號<br>地下層數: 地下1層<br>可容納人數: 174<br>定位點: 23.52358, 120.43303<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -2042,7 +1970,7 @@
             <value>地下1層</value>
           </Data>
           <Data name="可容納人數">
-            <value>269</value>
+            <value>174</value>
           </Data>
           <Data name="定位點">
             <value>23.52358, 120.43303</value>
@@ -2059,7 +1987,7 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 52<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業三路9號<br>地下層數: 地下1層<br>可容納人數: 204<br>定位點: 23.52366, 120.43236<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 52<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業三路9號<br>地下層數: 地下1層<br>可容納人數: 204<br>定位點: 23.5235321, 120.4322098<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -2081,7 +2009,7 @@
             <value>204</value>
           </Data>
           <Data name="定位點">
-            <value>23.52366, 120.43236</value>
+            <value>23.5235321, 120.4322098</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -2089,7 +2017,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.43236,23.52366,0
+            120.4322098,23.5235321,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2167,7 +2095,7 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 55<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業三路2號<br>地下層數: 地下1層<br>可容納人數: 337<br>定位點: 23.52015, 120.43753<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 55<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業三路2號<br>地下層數: 地下1層<br>可容納人數: 337<br>定位點: 23.5202533, 120.437986<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -2189,7 +2117,7 @@
             <value>337</value>
           </Data>
           <Data name="定位點">
-            <value>23.52015, 120.43753</value>
+            <value>23.5202533, 120.437986</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -2197,7 +2125,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.43753,23.52015,0
+            120.437986,23.5202533,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2275,7 +2203,7 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 58<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業三路7號<br>地下層數: 地下1層<br>可容納人數: 174<br>定位點: 23.52368, 120.43047<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 58<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業三路13號<br>地下層數: 地下1層<br>可容納人數: 103<br>定位點: 23.52368, 120.43047<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -2288,13 +2216,13 @@
             <value>興南村</value>
           </Data>
           <Data name="地址">
-            <value>嘉義縣民雄鄉興南村工業三路7號</value>
+            <value>嘉義縣民雄鄉興南村工業三路13號</value>
           </Data>
           <Data name="地下層數">
             <value>地下1層</value>
           </Data>
           <Data name="可容納人數">
-            <value>174</value>
+            <value>103</value>
           </Data>
           <Data name="定位點">
             <value>23.52368, 120.43047</value>
@@ -6307,7 +6235,7 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 170<br>村里別: 北斗村<br>地址: 嘉義縣民雄鄉北斗村民雄工業區成功二街58號<br>地下層數: 地下1層<br>可容納人數: 41<br>定位點: 23.52512, 120.45969<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 170<br>村里別: 北斗村<br>地址: 嘉義縣民雄鄉北斗村民雄工業區中興街10號<br>地下層數: 地下1層<br>可容納人數: 54<br>定位點: 23.51989, 120.46125<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -6320,16 +6248,16 @@
             <value>北斗村</value>
           </Data>
           <Data name="地址">
-            <value>嘉義縣民雄鄉北斗村民雄工業區成功二街58號</value>
+            <value>嘉義縣民雄鄉北斗村民雄工業區中興街10號</value>
           </Data>
           <Data name="地下層數">
             <value>地下1層</value>
           </Data>
           <Data name="可容納人數">
-            <value>41</value>
+            <value>54</value>
           </Data>
           <Data name="定位點">
-            <value>23.52512, 120.45969</value>
+            <value>23.51989, 120.46125</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -6337,13 +6265,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.45969,23.52512,0
+            120.46125,23.51989,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 171<br>村里別: 北斗村<br>地址: 嘉義縣民雄鄉北斗村民雄工業區中興街2號<br>地下層數: 地下1層<br>可容納人數: 171<br>定位點: 23.51979, 120.45950<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 171<br>村里別: 北斗村<br>地址: 嘉義縣民雄鄉北斗村民雄工業區中興街2號<br>地下層數: 地下1層<br>可容納人數: 155<br>定位點: 23.51979, 120.4595<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -6362,10 +6290,10 @@
             <value>地下1層</value>
           </Data>
           <Data name="可容納人數">
-            <value>171</value>
+            <value>155</value>
           </Data>
           <Data name="定位點">
-            <value>23.51979, 120.45950</value>
+            <value>23.51979, 120.4595</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -6379,7 +6307,7 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 172<br>村里別: 北斗村<br>地址: 嘉義縣民雄鄉北斗村民雄工業區中興街6號<br>地下層數: 地下1層<br>可容納人數: 48<br>定位點: 23.51961, 120.46012<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 172<br>村里別: 北斗村<br>地址: 嘉義縣民雄鄉北斗村民雄工業區中興一街2號<br>地下層數: 地下1層<br>可容納人數: 69<br>定位點: 23.51803, 120.45517<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -6392,16 +6320,16 @@
             <value>北斗村</value>
           </Data>
           <Data name="地址">
-            <value>嘉義縣民雄鄉北斗村民雄工業區中興街6號</value>
+            <value>嘉義縣民雄鄉北斗村民雄工業區中興一街2號</value>
           </Data>
           <Data name="地下層數">
             <value>地下1層</value>
           </Data>
           <Data name="可容納人數">
-            <value>48</value>
+            <value>69</value>
           </Data>
           <Data name="定位點">
-            <value>23.51961, 120.46012</value>
+            <value>23.51803, 120.45517</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -6409,13 +6337,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.46012,23.51961,0
+            120.45517,23.51803,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 173<br>村里別: 北斗村<br>地址: 嘉義縣民雄鄉北斗村民雄工業區中興一街1號<br>地下層數: 地下1層<br>可容納人數: 94<br>定位點: 23.51652, 120.45289<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 173<br>村里別: 北斗村<br>地址: 嘉義縣民雄鄉北斗村民雄工業區中興一街1號<br>地下層數: 地下1層<br>可容納人數: 94<br>定位點: 23.51688, 120.45283<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -6437,7 +6365,7 @@
             <value>94</value>
           </Data>
           <Data name="定位點">
-            <value>23.51652, 120.45289</value>
+            <value>23.51688, 120.45283</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -6445,7 +6373,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.45289,23.51652,0
+            120.45283,23.51688,0
           </coordinates>
         </Point>
       </Placemark>
@@ -7814,42 +7742,6 @@
         <Point>
           <coordinates>
             120.44043,23.5576,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 212<br>村里別: 豐收村<br>地址: 嘉義縣民雄鄉豐收村好收36-2號<br>地下層數: 地下1層<br>可容納人數: 94<br>定位點: 23.561524, 120.4509083<br>備考: ]]></description>
-        <styleUrl>#icon-1899-817717</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>工廠行號</value>
-          </Data>
-          <Data name="編號">
-            <value>212.0</value>
-          </Data>
-          <Data name="村里別">
-            <value>豐收村</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義縣民雄鄉豐收村好收36-2號</value>
-          </Data>
-          <Data name="地下層數">
-            <value>地下1層</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>94</value>
-          </Data>
-          <Data name="定位點">
-            <value>23.561524, 120.4509083</value>
-          </Data>
-          <Data name="備考">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.4509083,23.561524,0
           </coordinates>
         </Point>
       </Placemark>
@@ -14443,7 +14335,7 @@
       </Placemark>
       <Placemark>
         <name>水上分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 397<br>村里別: 南新里<br>地址: 嘉義縣太保市南新里北港路2段201號<br>地下層數: 地下1樓<br>可容納人數: 88<br>定位點: 23.49413, 120.37725<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 397<br>村里別: 南新里<br>地址: 嘉義縣太保市南新里北港路2段201號<br>地下層數: 地下1樓<br>可容納人數: 262<br>定位點: 23.4962258, 120.375351<br>備考: ]]></description>
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -14462,10 +14354,10 @@
             <value>地下1樓</value>
           </Data>
           <Data name="可容納人數">
-            <value>88</value>
+            <value>262</value>
           </Data>
           <Data name="定位點">
-            <value>23.49413, 120.37725</value>
+            <value>23.4962258, 120.375351</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -14473,13 +14365,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.37725,23.49413,0
+            120.375351,23.4962258,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>水上分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 398<br>村里別: 南新里<br>地址: 嘉義縣太保市南新里北港路2段201號<br>地下層數: 地下1樓<br>可容納人數: 1342<br>定位點: 23.49639, 120.37885<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 398<br>村里別: 南新里<br>地址: 嘉義縣太保市南新里北港路2段201號<br>地下層數: 地下1樓<br>可容納人數: 2316<br>定位點: 23.4939498, 120.3783243<br>備考: ]]></description>
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -14498,10 +14390,10 @@
             <value>地下1樓</value>
           </Data>
           <Data name="可容納人數">
-            <value>1342</value>
+            <value>2316</value>
           </Data>
           <Data name="定位點">
-            <value>23.49639, 120.37885</value>
+            <value>23.4939498, 120.3783243</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -14509,13 +14401,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.37885,23.49639,0
+            120.3783243,23.4939498,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>水上分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 399<br>村里別: 南新里<br>地址: 嘉義縣太保市南新里北港路2段201號<br>地下層數: 地下1樓<br>可容納人數: 222<br>定位點: 23.49627, 120.37372<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 399<br>村里別: 南新里<br>地址: 嘉義縣太保市南新里北港路2段201號<br>地下層數: 地下1樓<br>可容納人數: 222<br>定位點: 23.4942923, 120.3756512<br>備考: ]]></description>
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -14537,7 +14429,7 @@
             <value>222</value>
           </Data>
           <Data name="定位點">
-            <value>23.49627, 120.37372</value>
+            <value>23.4942923, 120.3756512</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -14545,13 +14437,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.37372,23.49627,0
+            120.3756512,23.4942923,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>水上分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 400<br>村里別: 南新里<br>地址: 嘉義縣太保市南新里北港路2段201號<br>地下層數: 地下1樓<br>可容納人數: 284<br>定位點: 23.49499, 120.37724<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 400<br>村里別: 南新里<br>地址: 嘉義縣太保市南新里北港路2段201號<br>地下層數: 地下1樓<br>可容納人數: 277<br>定位點: 23.4962593, 120.37356<br>備考: ]]></description>
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -14570,10 +14462,10 @@
             <value>地下1樓</value>
           </Data>
           <Data name="可容納人數">
-            <value>284</value>
+            <value>277</value>
           </Data>
           <Data name="定位點">
-            <value>23.49499, 120.37724</value>
+            <value>23.4962593, 120.37356</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -14581,13 +14473,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.37724,23.49499,0
+            120.37356,23.4962593,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>水上分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 401<br>村里別: 南新里<br>地址: 嘉義縣太保市南新里北港路2段201號<br>地下層數: 地下1樓<br>可容納人數: 3896<br>定位點: 23.49509, 120.37848<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 401<br>村里別: 南新里<br>地址: 嘉義縣太保市南新里北港路2段201號<br>地下層數: 地下1樓<br>可容納人數: 3896<br>定位點: 23.4963888, 120.3781367<br>備考: ]]></description>
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -14609,7 +14501,7 @@
             <value>3896</value>
           </Data>
           <Data name="定位點">
-            <value>23.49509, 120.37848</value>
+            <value>23.4963888, 120.3781367</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -14617,13 +14509,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.37848,23.49509,0
+            120.3781367,23.4963888,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>水上分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 402<br>村里別: 南新里<br>地址: 嘉義縣太保市南新里北港路2段201號<br>地下層數: 地下1樓<br>可容納人數: 8548<br>定位點: 23.49656, 120.37774<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 402<br>村里別: 南新里<br>地址: 嘉義縣太保市南新里北港路2段201號<br>地下層數: 地下1樓<br>可容納人數: 3850<br>定位點: 23.4951038, 120.3785447<br>備考: ]]></description>
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -14642,10 +14534,10 @@
             <value>地下1樓</value>
           </Data>
           <Data name="可容納人數">
-            <value>8548</value>
+            <value>3850</value>
           </Data>
           <Data name="定位點">
-            <value>23.49656, 120.37774</value>
+            <value>23.4951038, 120.3785447</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -14653,7 +14545,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.37774,23.49656,0
+            120.3785447,23.4951038,0
           </coordinates>
         </Point>
       </Placemark>
@@ -25063,7 +24955,7 @@
       </Placemark>
       <Placemark>
         <name>布袋分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 692<br>村里別: 龍蛟村<br>地址: 嘉義縣義竹鄉龍蛟村義工三路14號<br>地下層數: 地上1樓<br>可容納人數: 55<br>定位點: 23.36063, 120.22033<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 692<br>村里別: 龍蛟村<br>地址: 嘉義縣義竹鄉龍蛟村義工二路11號<br>地下層數: 地上1樓<br>可容納人數: 33<br>定位點: 23.3605217, 120.2220681<br>備考: ]]></description>
         <styleUrl>#icon-1899-9C27B0</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -25076,16 +24968,16 @@
             <value>龍蛟村</value>
           </Data>
           <Data name="地址">
-            <value>嘉義縣義竹鄉龍蛟村義工三路14號</value>
+            <value>嘉義縣義竹鄉龍蛟村義工二路11號</value>
           </Data>
           <Data name="地下層數">
             <value>地上1樓</value>
           </Data>
           <Data name="可容納人數">
-            <value>55</value>
+            <value>33</value>
           </Data>
           <Data name="定位點">
-            <value>23.36063, 120.22033</value>
+            <value>23.3605217, 120.2220681</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -25093,7 +24985,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.22033,23.36063,0
+            120.2220681,23.3605217,0
           </coordinates>
         </Point>
       </Placemark>
@@ -25207,7 +25099,7 @@
       </Placemark>
       <Placemark>
         <name>布袋分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 696<br>村里別: 龍蛟村<br>地址: 嘉義縣義竹鄉龍蛟村義工二路15號<br>地下層數: 地上1樓<br>可容納人數: 137<br>定位點: 23.36044, 120.22127<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 696<br>村里別: 龍蛟村<br>地址: 嘉義縣義竹鄉龍蛟村義工二路15號<br>地下層數: 地上1樓<br>可容納人數: 34<br>定位點: 23.3608143, 120.2211681<br>備考: ]]></description>
         <styleUrl>#icon-1899-9C27B0</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -25226,10 +25118,10 @@
             <value>地上1樓</value>
           </Data>
           <Data name="可容納人數">
-            <value>137</value>
+            <value>34</value>
           </Data>
           <Data name="定位點">
-            <value>23.36044, 120.22127</value>
+            <value>23.3608143, 120.2211681</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -25237,7 +25129,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.22127,23.36044,0
+            120.2211681,23.3608143,0
           </coordinates>
         </Point>
       </Placemark>
@@ -25279,7 +25171,7 @@
       </Placemark>
       <Placemark>
         <name>布袋分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 698<br>村里別: 龍蛟村<br>地址: 嘉義縣義竹鄉龍蛟村義工二路9號<br>地下層數: 地上1樓<br>可容納人數: 53<br>定位點: 23.36016, 120.22247<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 698<br>村里別: 龍蛟村<br>地址: 嘉義縣義竹鄉龍蛟村義工二路9號<br>地下層數: 地上1樓<br>可容納人數: 73<br>定位點: 23.36016, 120.22247<br>備考: ]]></description>
         <styleUrl>#icon-1899-9C27B0</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -25298,7 +25190,7 @@
             <value>地上1樓</value>
           </Data>
           <Data name="可容納人數">
-            <value>53</value>
+            <value>73</value>
           </Data>
           <Data name="定位點">
             <value>23.36016, 120.22247</value>
@@ -25315,7 +25207,7 @@
       </Placemark>
       <Placemark>
         <name>布袋分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 699<br>村里別: 龍蛟村<br>地址: 嘉義縣義竹鄉龍蛟村義工一路1號<br>地下層數: 地上1樓<br>可容納人數: 120<br>定位點: 23.35882, 120.22021<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 699<br>村里別: 龍蛟村<br>地址: 嘉義縣義竹鄉龍蛟村義工一路1號<br>地下層數: 地上1樓<br>可容納人數: 331<br>定位點: 23.3582635, 120.2207143<br>備考: ]]></description>
         <styleUrl>#icon-1899-9C27B0</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -25334,10 +25226,10 @@
             <value>地上1樓</value>
           </Data>
           <Data name="可容納人數">
-            <value>120</value>
+            <value>331</value>
           </Data>
           <Data name="定位點">
-            <value>23.35882, 120.22021</value>
+            <value>23.3582635, 120.2207143</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -25345,13 +25237,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.22021,23.35882,0
+            120.2207143,23.3582635,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>布袋分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 700<br>村里別: 龍蛟村<br>地址: 嘉義縣義竹鄉龍蛟村義工二路5-1號<br>地下層數: 地上1樓<br>可容納人數: 35<br>定位點: 23.3593, 120.22268<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 700<br>村里別: 龍蛟村<br>地址: 嘉義縣義竹鄉龍蛟村義工二路5-1號<br>地下層數: 地上1樓<br>可容納人數: 35<br>定位點: 23.3592951, 120.2226478<br>備考: ]]></description>
         <styleUrl>#icon-1899-9C27B0</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -25373,7 +25265,7 @@
             <value>35</value>
           </Data>
           <Data name="定位點">
-            <value>23.3593, 120.22268</value>
+            <value>23.3592951, 120.2226478</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -25381,7 +25273,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.22268,23.3593,0
+            120.2226478,23.3592951,0
           </coordinates>
         </Point>
       </Placemark>
@@ -25459,7 +25351,7 @@
       </Placemark>
       <Placemark>
         <name>布袋分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 703<br>村里別: 龍蛟村<br>地址: 嘉義縣義竹鄉龍蛟村義工二路2號<br>地下層數: 地下1樓<br>可容納人數: 361<br>定位點: 23.35937, 120.22130<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 703<br>村里別: 龍蛟村<br>地址: 嘉義縣義竹鄉龍蛟村義工二路2號<br>地下層數: 地下1樓<br>可容納人數: 361<br>定位點: 23.3599216, 120.220903<br>備考: ]]></description>
         <styleUrl>#icon-1899-9C27B0</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -25481,7 +25373,7 @@
             <value>361</value>
           </Data>
           <Data name="定位點">
-            <value>23.35937, 120.22130</value>
+            <value>23.3599216, 120.220903</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -25489,7 +25381,115 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.2213,23.35937,0
+            120.220903,23.3599216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民雄分局</name>
+        <description><![CDATA[類別: 學校<br>編號: <br>村里別: 三興村<br>地址: 嘉義縣民雄鄉三興村陳厝寮55號<br>地下層數: 地下一層<br>可容納人數: 792<br>定位點: 23.5579234, 120.4818776<br>備考: ]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>學校</value>
+          </Data>
+          <Data name="編號">
+            <value/>
+          </Data>
+          <Data name="村里別">
+            <value>三興村</value>
+          </Data>
+          <Data name="地址">
+            <value>嘉義縣民雄鄉三興村陳厝寮55號</value>
+          </Data>
+          <Data name="地下層數">
+            <value>地下一層</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>792</value>
+          </Data>
+          <Data name="定位點">
+            <value>23.5579234, 120.4818776</value>
+          </Data>
+          <Data name="備考">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.4818776,23.5579234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民雄分局</name>
+        <description><![CDATA[類別: 學校<br>編號: <br>村里別: 三興村<br>地址: 嘉義縣民雄鄉三興村陳厝寮55號<br>地下層數: 地下一層<br>可容納人數: 2153<br>定位點: 23.5582037, 120.4818797<br>備考: ]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>學校</value>
+          </Data>
+          <Data name="編號">
+            <value/>
+          </Data>
+          <Data name="村里別">
+            <value>三興村</value>
+          </Data>
+          <Data name="地址">
+            <value>嘉義縣民雄鄉三興村陳厝寮55號</value>
+          </Data>
+          <Data name="地下層數">
+            <value>地下一層</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2153</value>
+          </Data>
+          <Data name="定位點">
+            <value>23.5582037, 120.4818797</value>
+          </Data>
+          <Data name="備考">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.4818797,23.5582037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民雄分局</name>
+        <description><![CDATA[類別: 工廠行號<br>編號: <br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業一路13號<br>地下層數: 地下一層<br>可容納人數: 137<br>定位點: 23.5177817, 120.42989<br>備考: ]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>工廠行號</value>
+          </Data>
+          <Data name="編號">
+            <value/>
+          </Data>
+          <Data name="村里別">
+            <value>興南村</value>
+          </Data>
+          <Data name="地址">
+            <value>嘉義縣民雄鄉興南村工業一路13號</value>
+          </Data>
+          <Data name="地下層數">
+            <value>地下一層</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>137</value>
+          </Data>
+          <Data name="定位點">
+            <value>23.5177817, 120.42989</value>
+          </Data>
+          <Data name="備考">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.42989,23.5177817,0
           </coordinates>
         </Point>
       </Placemark>

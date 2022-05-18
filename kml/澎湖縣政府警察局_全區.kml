@@ -261,7 +261,7 @@
       <Placemark>
         <name>白沙分局</name>
         <address>23.599734102605634, 119.50511098909594</address>
-        <description><![CDATA[類別: 宮廟<br>電腦編號: UOAO0022<br>村里別: 池西村<br>地址: 23.599734102605634, 119.50511098909594<br>地下樓層數: 1<br>可容納人數: 104<br>備註: ]]></description>
+        <description><![CDATA[類別: 宮廟<br>電腦編號: UOAO0022<br>村里別: 池西村<br>地址: 23.599734102605634, 119.50511098909594<br>地下樓層數: 1<br>可容納人數: 104<br>備註: 澎湖縣西嶼鄉池西村161號]]></description>
         <styleUrl>#icon-1899-01579B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -283,14 +283,14 @@
             <value>104.0</value>
           </Data>
           <Data name="備註">
-            <value/>
+            <value>澎湖縣西嶼鄉池西村161號</value>
           </Data>
         </ExtendedData>
       </Placemark>
       <Placemark>
         <name>白沙分局</name>
         <address>23.60270006747199, 119.51065639662205</address>
-        <description><![CDATA[類別: 金融機構<br>電腦編號: UOAO0020<br>村里別: 池東村<br>地址: 23.60270006747199, 119.51065639662205<br>地下樓層數: 1<br>可容納人數: 229<br>備註: ]]></description>
+        <description><![CDATA[類別: 金融機構<br>電腦編號: UOAO0020<br>村里別: 池東村<br>地址: 23.60270006747199, 119.51065639662205<br>地下樓層數: 1<br>可容納人數: 229<br>備註: 澎湖縣西嶼鄉池東村1號]]></description>
         <styleUrl>#icon-1899-01579B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -312,14 +312,14 @@
             <value>229.0</value>
           </Data>
           <Data name="備註">
-            <value/>
+            <value>澎湖縣西嶼鄉池東村1號</value>
           </Data>
         </ExtendedData>
       </Placemark>
       <Placemark>
         <name>白沙分局</name>
         <address>23.599663945806377, 119.51132708206313</address>
-        <description><![CDATA[類別: 中華電信局<br>電腦編號: UOAO0021<br>村里別: 池東村<br>地址: 23.599663945806377, 119.51132708206313<br>地下樓層數: 1<br>可容納人數: 112<br>備註: 澎湖縣西嶼鄉池東村211號之1]]></description>
+        <description><![CDATA[類別: 中華電信局<br>電腦編號: UOAO0021<br>村里別: 池東村<br>地址: 23.599663945806377, 119.51132708206313<br>地下樓層數: 1<br>可容納人數: 112<br>備註: 澎湖縣西嶼鄉池東村211號]]></description>
         <styleUrl>#icon-1899-01579B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -341,14 +341,14 @@
             <value>112.0</value>
           </Data>
           <Data name="備註">
-            <value>澎湖縣西嶼鄉池東村211號之1</value>
+            <value>澎湖縣西嶼鄉池東村211號</value>
           </Data>
         </ExtendedData>
       </Placemark>
       <Placemark>
         <name>白沙分局</name>
         <address>23.59962777636935, 119.51145902645922</address>
-        <description><![CDATA[類別: 中華電信局<br>電腦編號: UOAO0019<br>村里別: 池東村<br>地址: 23.59962777636935, 119.51145902645922<br>地下樓層數: 1<br>可容納人數: 146<br>備註: 澎湖縣西嶼鄉池東村211號]]></description>
+        <description><![CDATA[類別: 中華電信局<br>電腦編號: UOAO0019<br>村里別: 池東村<br>地址: 23.59962777636935, 119.51145902645922<br>地下樓層數: 1<br>可容納人數: 146<br>備註: 澎湖縣西嶼鄉池東村211號之1]]></description>
         <styleUrl>#icon-1899-01579B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -370,7 +370,7 @@
             <value>146.0</value>
           </Data>
           <Data name="備註">
-            <value>澎湖縣西嶼鄉池東村211號</value>
+            <value>澎湖縣西嶼鄉池東村211號之1</value>
           </Data>
         </ExtendedData>
       </Placemark>

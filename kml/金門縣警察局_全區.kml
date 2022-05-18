@@ -2139,7 +2139,7 @@
       <Placemark>
         <name>金城分局</name>
         <address>24.43754936338576, 118.31488427122771</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: 72<br>村里別: 西門里<br>地址: 24.43754936338576, 118.31488427122771<br>地下層數: 1<br>可容納數人: 9人<br>備註: 金門縣金城鎮珠浦西路50巷2弄8號]]></description>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 72<br>村里別: 西門里<br>地址: 24.43754936338576, 118.31488427122771<br>地下層數: 1<br>可容納數人: 9人<br>備註: 金門縣金城鎮珠浦西路50巷2弄9號]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -2161,7 +2161,7 @@
             <value>9人</value>
           </Data>
           <Data name="備註">
-            <value>金門縣金城鎮珠浦西路50巷2弄8號</value>
+            <value>金門縣金城鎮珠浦西路50巷2弄9號</value>
           </Data>
         </ExtendedData>
       </Placemark>
@@ -2197,7 +2197,7 @@
       <Placemark>
         <name>金城分局</name>
         <address>24.437631499335563, 118.31481209651223</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: 74<br>村里別: 西門里<br>地址: 24.437631499335563, 118.31481209651223<br>地下層數: 1<br>可容納數人: 9人<br>備註: 金門縣金城鎮珠浦西路50巷2弄10號]]></description>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 74<br>村里別: 西門里<br>地址: 24.437631499335563, 118.31481209651223<br>地下層數: 1<br>可容納數人: 9人<br>備註: 金門縣金城鎮珠浦西路50巷2弄11號]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -2219,7 +2219,7 @@
             <value>9人</value>
           </Data>
           <Data name="備註">
-            <value>金門縣金城鎮珠浦西路50巷2弄10號</value>
+            <value>金門縣金城鎮珠浦西路50巷2弄11號</value>
           </Data>
         </ExtendedData>
       </Placemark>
@@ -4822,7 +4822,8 @@
       </Placemark>
       <Placemark>
         <name>金城分局</name>
-        <description><![CDATA[類別: 公寓<br>電腦編號: 161<br>村里別: 西門里<br>地址: 24.43848706652101, 118.32017588898269<br>地下層數: 1<br>可容納數人: 15人<br>備註: 金門縣金城鎮西門里金城新莊4巷10號]]></description>
+        <address>金門縣金城鎮西門里金城新莊4巷10號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 161<br>村里別: 西門里<br>地址: 金門縣金城鎮西門里金城新莊4巷10號<br>地下層數: 1<br>可容納數人: 15人<br>備註: 金門縣金城鎮西門里金城新莊4巷10號]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -4835,7 +4836,7 @@
             <value>西門里</value>
           </Data>
           <Data name="地址">
-            <value>24.43848706652101, 118.32017588898269</value>
+            <value>金門縣金城鎮西門里金城新莊4巷10號</value>
           </Data>
           <Data name="地下層數">
             <value>1.0</value>
@@ -4847,11 +4848,6 @@
             <value>金門縣金城鎮西門里金城新莊4巷10號</value>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            118.320175888983,24.438487066521,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>金城分局</name>
@@ -6224,7 +6220,7 @@
       <Placemark>
         <name>金城分局</name>
         <address>24.437144829456102, 118.3202030966842</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: 206<br>村里別: 西門里<br>地址: 24.437144829456102, 118.3202030966842<br>地下層數: 1<br>可容納數人: 15人<br>備註: 金門縣金城鎮西門里富康一村1巷10]]></description>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 206<br>村里別: 西門里<br>地址: 24.437144829456102, 118.3202030966842<br>地下層數: 1<br>可容納數人: 15人<br>備註: 金門縣金城鎮西門里富康一村1巷10號]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -6246,7 +6242,7 @@
             <value>15人</value>
           </Data>
           <Data name="備註">
-            <value>金門縣金城鎮西門里富康一村1巷10</value>
+            <value>金門縣金城鎮西門里富康一村1巷10號</value>
           </Data>
         </ExtendedData>
       </Placemark>
@@ -9675,7 +9671,7 @@
       <Placemark>
         <name>金城分局</name>
         <address>24.432863860365707, 118.31302112724333</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: 325<br>村里別: 南門里<br>地址: 24.432863860365707, 118.31302112724333<br>地下層數: 1<br>可容納數人: 13<br>備註: 金門縣金城鎮民權路70巷2弄2號]]></description>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 325<br>村里別: 南門里<br>地址: 24.432863860365707, 118.31302112724333<br>地下層數: 1<br>可容納數人: 13人<br>備註: 金門縣金城鎮民權路70巷2弄2號]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -9694,7 +9690,7 @@
             <value>1.0</value>
           </Data>
           <Data name="可容納數人">
-            <value>13</value>
+            <value>13人</value>
           </Data>
           <Data name="備註">
             <value>金門縣金城鎮民權路70巷2弄2號</value>
@@ -19633,8 +19629,8 @@
       </Placemark>
       <Placemark>
         <name>金城分局</name>
-        <address>金門縣烈嶼鄉黃埔村埔頭19號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: 678<br>村里別: 黃埔村<br>地址: 金門縣烈嶼鄉黃埔村埔頭19號<br>地下層數: 1<br>可容納數人: 12人<br>備註: ]]></description>
+        <address>金門縣烈嶼鄉黃埔村埔頭19-1號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 678<br>村里別: 黃埔村<br>地址: 金門縣烈嶼鄉黃埔村埔頭19-1號<br>地下層數: 1<br>可容納數人: 12人<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -19647,7 +19643,7 @@
             <value>黃埔村</value>
           </Data>
           <Data name="地址">
-            <value>金門縣烈嶼鄉黃埔村埔頭19號</value>
+            <value>金門縣烈嶼鄉黃埔村埔頭19-1號</value>
           </Data>
           <Data name="地下層數">
             <value>1.0</value>
@@ -19894,8 +19890,8 @@
       </Placemark>
       <Placemark>
         <name>金城分局</name>
-        <address>金門縣烈嶼鄉黃埔村埔頭25號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: 687<br>村里別: 黃埔村<br>地址: 金門縣烈嶼鄉黃埔村埔頭25號<br>地下層數: 1<br>可容納數人: 12人<br>備註: ]]></description>
+        <address>金門縣烈嶼鄉黃埔村埔頭25-1號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 687<br>村里別: 黃埔村<br>地址: 金門縣烈嶼鄉黃埔村埔頭25-1號<br>地下層數: 1<br>可容納數人: 12人<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -19908,7 +19904,7 @@
             <value>黃埔村</value>
           </Data>
           <Data name="地址">
-            <value>金門縣烈嶼鄉黃埔村埔頭25號</value>
+            <value>金門縣烈嶼鄉黃埔村埔頭25-1號</value>
           </Data>
           <Data name="地下層數">
             <value>1.0</value>
@@ -20246,8 +20242,8 @@
       </Placemark>
       <Placemark>
         <name>金城分局</name>
-        <address>金門縣烈嶼鄉上林村上林60號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: 699<br>村里別: 上林村<br>地址: 金門縣烈嶼鄉上林村上林60號<br>地下層數: 1<br>可容納數人: 12人<br>備註: ]]></description>
+        <address>金門縣烈嶼鄉上林村上林60-1號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 699<br>村里別: 上林村<br>地址: 金門縣烈嶼鄉上林村上林60-1號<br>地下層數: 1<br>可容納數人: 12人<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -20260,7 +20256,7 @@
             <value>上林村</value>
           </Data>
           <Data name="地址">
-            <value>金門縣烈嶼鄉上林村上林60號</value>
+            <value>金門縣烈嶼鄉上林村上林60-1號</value>
           </Data>
           <Data name="地下層數">
             <value>1.0</value>
@@ -26278,8 +26274,8 @@
       </Placemark>
       <Placemark>
         <name>金城分局</name>
-        <address>金門縣金城鎮西門里民權路226巷2弄11號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: 137<br>村里別: 西門里<br>地址: 金門縣金城鎮西門里民權路226巷2弄11號<br>地下層數: 1<br>可容納數人: 1385<br>備註: ]]></description>
+        <address>金門縣金城鎮西門里金城新莊2巷7號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 137<br>村里別: 西門里<br>地址: 金門縣金城鎮西門里金城新莊2巷7號<br>地下層數: 1<br>可容納數人: 15人<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -26292,13 +26288,13 @@
             <value>西門里</value>
           </Data>
           <Data name="地址">
-            <value>金門縣金城鎮西門里民權路226巷2弄11號</value>
+            <value>金門縣金城鎮西門里金城新莊2巷7號</value>
           </Data>
           <Data name="地下層數">
             <value>1.0</value>
           </Data>
           <Data name="可容納數人">
-            <value>1385</value>
+            <value>15人</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -50503,8 +50499,8 @@
       </Placemark>
       <Placemark>
         <name>金湖分局</name>
-        <address>金門縣金沙鎮何厝28號</address>
-        <description><![CDATA[類別: 防空洞<br>電腦編號: 755<br>村里別: 何斗里<br>地址: 金門縣金沙鎮何厝28號<br>地下層數層數: 1<br>可容納人數: 5人<br>備註: ]]></description>
+        <address>金門縣金沙鎮何厝25號</address>
+        <description><![CDATA[類別: 防空洞<br>電腦編號: 755<br>村里別: 何斗里<br>地址: 金門縣金沙鎮何厝25號<br>地下層數層數: 1<br>可容納人數: 5人<br>備註: ]]></description>
         <styleUrl>#icon-1899-558B2F</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -50517,7 +50513,7 @@
             <value>何斗里</value>
           </Data>
           <Data name="地址">
-            <value>金門縣金沙鎮何厝28號</value>
+            <value>金門縣金沙鎮何厝25號</value>
           </Data>
           <Data name="地下層數層數">
             <value>1.0</value>
@@ -50561,8 +50557,8 @@
       </Placemark>
       <Placemark>
         <name>金湖分局</name>
-        <address>金門縣金沙鎮何厝33號</address>
-        <description><![CDATA[類別: 防空洞<br>電腦編號: 757<br>村里別: 何斗里<br>地址: 金門縣金沙鎮何厝33號<br>地下層數層數: 1<br>可容納人數: 11人<br>備註: ]]></description>
+        <address>金門縣金沙鎮何厝31之1號</address>
+        <description><![CDATA[類別: 防空洞<br>電腦編號: 757<br>村里別: 何斗里<br>地址: 金門縣金沙鎮何厝31之1號<br>地下層數層數: 1<br>可容納人數: 11人<br>備註: ]]></description>
         <styleUrl>#icon-1899-558B2F</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -50575,7 +50571,7 @@
             <value>何斗里</value>
           </Data>
           <Data name="地址">
-            <value>金門縣金沙鎮何厝33號</value>
+            <value>金門縣金沙鎮何厝31之1號</value>
           </Data>
           <Data name="地下層數層數">
             <value>1.0</value>
@@ -50619,8 +50615,8 @@
       </Placemark>
       <Placemark>
         <name>金湖分局</name>
-        <address>金門縣金沙鎮何厝43號</address>
-        <description><![CDATA[類別: 防空洞<br>電腦編號: 759<br>村里別: 何斗里<br>地址: 金門縣金沙鎮何厝43號<br>地下層數層數: 1<br>可容納人數: 5人<br>備註: ]]></description>
+        <address>金門縣金沙鎮何厝44之1號</address>
+        <description><![CDATA[類別: 防空洞<br>電腦編號: 759<br>村里別: 何斗里<br>地址: 金門縣金沙鎮何厝44之1號<br>地下層數層數: 1<br>可容納人數: 5人<br>備註: ]]></description>
         <styleUrl>#icon-1899-558B2F</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -50633,7 +50629,7 @@
             <value>何斗里</value>
           </Data>
           <Data name="地址">
-            <value>金門縣金沙鎮何厝43號</value>
+            <value>金門縣金沙鎮何厝44之1號</value>
           </Data>
           <Data name="地下層數層數">
             <value>1.0</value>
@@ -50648,8 +50644,8 @@
       </Placemark>
       <Placemark>
         <name>金湖分局</name>
-        <address>金門縣金沙鎮何厝49號</address>
-        <description><![CDATA[類別: 防空洞<br>電腦編號: 760<br>村里別: 何斗里<br>地址: 金門縣金沙鎮何厝49號<br>地下層數層數: 1<br>可容納人數: 5人<br>備註: ]]></description>
+        <address>金門縣金沙鎮何厝44之2號</address>
+        <description><![CDATA[類別: 防空洞<br>電腦編號: 760<br>村里別: 何斗里<br>地址: 金門縣金沙鎮何厝44之2號<br>地下層數層數: 1<br>可容納人數: 5人<br>備註: ]]></description>
         <styleUrl>#icon-1899-558B2F</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -50662,7 +50658,7 @@
             <value>何斗里</value>
           </Data>
           <Data name="地址">
-            <value>金門縣金沙鎮何厝49號</value>
+            <value>金門縣金沙鎮何厝44之2號</value>
           </Data>
           <Data name="地下層數層數">
             <value>1.0</value>
@@ -50677,8 +50673,8 @@
       </Placemark>
       <Placemark>
         <name>金湖分局</name>
-        <address>金門縣金沙鎮何厝29號</address>
-        <description><![CDATA[類別: 防空洞<br>電腦編號: 761<br>村里別: 何斗里<br>地址: 金門縣金沙鎮何厝29號<br>地下層數層數: 1<br>可容納人數: 20人<br>備註: ]]></description>
+        <address>金門縣金沙鎮何厝45之2號</address>
+        <description><![CDATA[類別: 防空洞<br>電腦編號: 761<br>村里別: 何斗里<br>地址: 金門縣金沙鎮何厝45之2號<br>地下層數層數: 1<br>可容納人數: 20人<br>備註: ]]></description>
         <styleUrl>#icon-1899-558B2F</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -50691,7 +50687,7 @@
             <value>何斗里</value>
           </Data>
           <Data name="地址">
-            <value>金門縣金沙鎮何厝29號</value>
+            <value>金門縣金沙鎮何厝45之2號</value>
           </Data>
           <Data name="地下層數層數">
             <value>1.0</value>

@@ -427,64 +427,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區重興里博愛路1段506號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: MMA0013<br>村里別: 重興里<br>地址: 嘉義市西區重興里博愛路1段506號<br>地下樓層數: 1<br>可容納人數: 21<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>公寓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA0013</value>
-          </Data>
-          <Data name="村里別">
-            <value>重興里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區重興里博愛路1段506號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>21.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區後驛里北興街175-1號</address>
-        <description><![CDATA[類別: 政府機關(農會)<br>電腦編號: MMA0014<br>村里別: 後驛里<br>地址: 嘉義市西區後驛里北興街175-1號<br>地下樓層數: 1<br>可容納人數: 181<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>政府機關(農會)</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA0014</value>
-          </Data>
-          <Data name="村里別">
-            <value>後驛里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區後驛里北興街175-1號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>181.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <address>嘉義市西區重興里博愛路1段496巷1號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MMA0015<br>村里別: 重興里<br>地址: 嘉義市西區重興里博愛路1段496巷1號<br>地下樓層數: 1<br>可容納人數: 494<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
@@ -2892,8 +2834,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區北榮里文化路414號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: MMA0103<br>村里別: 北榮里<br>地址: 嘉義市西區北榮里文化路414號<br>地下樓層數: 1<br>可容納人數: 26<br>備註: ]]></description>
+        <address>嘉義市西區北榮里文化路412之1號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: MMA0103<br>村里別: 北榮里<br>地址: 嘉義市西區北榮里文化路412之1號<br>地下樓層數: 1<br>可容納人數: 26<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -2906,7 +2848,7 @@
             <value>北榮里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區北榮里文化路414號</value>
+            <value>嘉義市西區北榮里文化路412之1號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -5228,35 +5170,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區福全里中興路185號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA01791<br>村里別: 福全里<br>地址: 嘉義市西區福全里中興路185號<br>地下樓層數: 2<br>可容納人數: 1129<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA01791</value>
-          </Data>
-          <Data name="村里別">
-            <value>福全里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區福全里中興路185號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>2.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>1129.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <address>嘉義市西區竹圍里北安路107號</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: MMA0180<br>村里別: 竹圍里<br>地址: 嘉義市西區竹圍里北安路107號<br>地下樓層數: 1<br>可容納人數: 21<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
@@ -6388,35 +6301,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區竹圍里德安路3號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA0219<br>村里別: 竹圍里<br>地址: 嘉義市西區竹圍里德安路3號<br>地下樓層數: 1<br>可容納人數: 1049<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA0219</value>
-          </Data>
-          <Data name="村里別">
-            <value>竹圍里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區竹圍里德安路3號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>1049.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <address>嘉義市西區竹圍里德安路6號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MMA0220<br>村里別: 竹圍里<br>地址: 嘉義市西區竹圍里德安路6號<br>地下樓層數: 1<br>可容納人數: 382<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
@@ -6997,8 +6881,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區保福里世賢路1段687號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA0240<br>村里別: 保福里<br>地址: 嘉義市西區保福里世賢路1段687號<br>地下樓層數: 1<br>可容納人數: 2844<br>備註: ]]></description>
+        <address>嘉義市西區保福里世賢路一段687號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MMA0240<br>村里別: 保福里<br>地址: 嘉義市西區保福里世賢路一段687號<br>地下樓層數: 1<br>可容納人數: 2844<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -7011,7 +6895,7 @@
             <value>保福里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區保福里世賢路1段687號</value>
+            <value>嘉義市西區保福里世賢路一段687號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -7780,8 +7664,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區保安里世賢路1街638巷40號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA0267<br>村里別: 保安里<br>地址: 嘉義市西區保安里世賢路1街638巷40號<br>地下樓層數: 1<br>可容納人數: 65<br>備註: ]]></description>
+        <address>嘉義市西區保安里世賢路一段638巷40號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MMA0267<br>村里別: 保安里<br>地址: 嘉義市西區保安里世賢路一段638巷40號<br>地下樓層數: 1<br>可容納人數: 65<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -7794,7 +7678,7 @@
             <value>保安里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區保安里世賢路1街638巷40號</value>
+            <value>嘉義市西區保安里世賢路一段638巷40號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -9172,8 +9056,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區保福里世賢路1段675號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA0317<br>村里別: 保福里<br>地址: 嘉義市西區保福里世賢路1段675號<br>地下樓層數: 1<br>可容納人數: 232<br>備註: ]]></description>
+        <address>嘉義市西區保福里世賢路一段675號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MMA0317<br>村里別: 保福里<br>地址: 嘉義市西區保福里世賢路一段675號<br>地下樓層數: 1<br>可容納人數: 232<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -9186,7 +9070,7 @@
             <value>保福里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區保福里世賢路1段675號</value>
+            <value>嘉義市西區保福里世賢路一段675號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -9230,8 +9114,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區下埤里下埤路53巷198號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA0324<br>村里別: 下埤里<br>地址: 嘉義市西區下埤里下埤路53巷198號<br>地下樓層數: 1<br>可容納人數: 437<br>備註: 嘉義市西區下埤里頂埤6號]]></description>
+        <address>23.489887857086423, 120.41694107395585</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MMA0324<br>村里別: 下埤里<br>地址: 23.489887857086423, 120.41694107395585<br>地下樓層數: 1<br>可容納人數: 437<br>備註: 嘉義市西區下埤里下埤路53巷198號]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -9244,7 +9128,7 @@
             <value>下埤里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區下埤里下埤路53巷198號</value>
+            <value>23.489887857086423, 120.41694107395585</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -9253,36 +9137,7 @@
             <value>437.0</value>
           </Data>
           <Data name="備註">
-            <value>嘉義市西區下埤里頂埤6號</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區下埤里北港路1122號</address>
-        <description><![CDATA[類別: 電信局<br>電腦編號: MMA0325<br>村里別: 下埤里<br>地址: 嘉義市西區下埤里北港路1122號<br>地下樓層數: 1<br>可容納人數: 1058<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>電信局</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA0325</value>
-          </Data>
-          <Data name="村里別">
-            <value>下埤里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區下埤里北港路1122號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>1058.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
+            <value>嘉義市西區下埤里下埤路53巷198號</value>
           </Data>
         </ExtendedData>
       </Placemark>
@@ -9338,35 +9193,6 @@
           </Data>
           <Data name="可容納人數">
             <value>136.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區竹村里北港路1332號</address>
-        <description><![CDATA[類別: 電信局<br>電腦編號: MMA0330<br>村里別: 竹村里<br>地址: 嘉義市西區竹村里北港路1332號<br>地下樓層數: 1<br>可容納人數: 773<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>電信局</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA0330</value>
-          </Data>
-          <Data name="村里別">
-            <value>竹村里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區竹村里北港路1332號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>773.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -10477,8 +10303,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區重興里博愛路484號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA0370<br>村里別: 重興里<br>地址: 嘉義市西區重興里博愛路484號<br>地下樓層數: 1<br>可容納人數: 537<br>備註: ]]></description>
+        <address>嘉義市西區重興里博愛路一段484號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MMA0370<br>村里別: 重興里<br>地址: 嘉義市西區重興里博愛路一段484號<br>地下樓層數: 1<br>可容納人數: 537<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -10491,7 +10317,7 @@
             <value>重興里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區重興里博愛路484號</value>
+            <value>嘉義市西區重興里博愛路一段484號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -11426,35 +11252,6 @@
           </Data>
           <Data name="可容納人數">
             <value>6.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區國華里林森西路169號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: MMA0403<br>村里別: 國華里<br>地址: 嘉義市西區國華里林森西路169號<br>地下樓層數: 1<br>可容納人數: 9<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>公寓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA0403</value>
-          </Data>
-          <Data name="村里別">
-            <value>國華里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區國華里林森西路169號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>9.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -13189,35 +12986,6 @@
           </Data>
           <Data name="地址">
             <value>嘉義市西區西榮里新榮路172號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>6.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區西榮里新榮路198號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: MMA0465<br>村里別: 西榮里<br>地址: 嘉義市西區西榮里新榮路198號<br>地下樓層數: 1<br>可容納人數: 6<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>公寓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA0465</value>
-          </Data>
-          <Data name="村里別">
-            <value>西榮里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區西榮里新榮路198號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -20598,35 +20366,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區新富里新榮路193號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA0724<br>村里別: 新富里<br>地址: 嘉義市西區新富里新榮路193號<br>地下樓層數: 1<br>可容納人數: 811<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA0724</value>
-          </Data>
-          <Data name="村里別">
-            <value>新富里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區新富里新榮路193號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>811.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <address>嘉義市西區新富里仁愛路436號</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: MMA0725<br>村里別: 新富里<br>地址: 嘉義市西區新富里仁愛路436號<br>地下樓層數: 1<br>可容納人數: 5<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
@@ -21518,35 +21257,6 @@
           </Data>
           <Data name="可容納人數">
             <value>4.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區書院里蘭井街469號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA0756<br>村里別: 書院里<br>地址: 嘉義市西區書院里蘭井街469號<br>地下樓層數: 1<br>可容納人數: 428<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA0756</value>
-          </Data>
-          <Data name="村里別">
-            <value>書院里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區書院里蘭井街469號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>428.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -23817,64 +23527,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區番社里民權路467號</address>
-        <description><![CDATA[類別: 郵局<br>電腦編號: MMA0836<br>村里別: 番社里<br>地址: 嘉義市西區番社里民權路467號<br>地下樓層數: 1<br>可容納人數: 4<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>郵局</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA0836</value>
-          </Data>
-          <Data name="村里別">
-            <value>番社里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區番社里民權路467號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>4.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區番社里民生北路241號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: MMA0837<br>村里別: 番社里<br>地址: 嘉義市西區番社里民生北路241號<br>地下樓層數: 1<br>可容納人數: 9<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>公寓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA0837</value>
-          </Data>
-          <Data name="村里別">
-            <value>番社里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區番社里民生北路241號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>9.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <address>嘉義市西區番社里民生北路223號</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: MMA0838<br>村里別: 番社里<br>地址: 嘉義市西區番社里民生北路223號<br>地下樓層數: 1<br>可容納人數: 5<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
@@ -24223,8 +23875,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區永和里廣寧街249號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: MMA0850<br>村里別: 永和里<br>地址: 嘉義市西區永和里廣寧街249號<br>地下樓層數: 1<br>可容納人數: 4<br>備註: ]]></description>
+        <address>嘉義市西區永和里康樂街249號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: MMA0850<br>村里別: 永和里<br>地址: 嘉義市西區永和里康樂街249號<br>地下樓層數: 1<br>可容納人數: 4<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -24237,7 +23889,7 @@
             <value>永和里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區永和里廣寧街249號</value>
+            <value>嘉義市西區永和里康樂街249號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -29733,35 +29385,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區新富里民生北路26號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: MMA1041<br>村里別: 新富里<br>地址: 嘉義市西區新富里民生北路26號<br>地下樓層數: 1<br>可容納人數: 9<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>公寓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1041</value>
-          </Data>
-          <Data name="村里別">
-            <value>新富里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區新富里民生北路26號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>9.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <address>嘉義市西區新富里民生北路46號</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: MMA1042<br>村里別: 新富里<br>地址: 嘉義市西區新富里民生北路46號<br>地下樓層數: 1<br>可容納人數: 5<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
@@ -32372,35 +31995,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區國華里中山路306號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1132<br>村里別: 國華里<br>地址: 嘉義市西區國華里中山路306號<br>地下樓層數: 1<br>可容納人數: 777<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1132</value>
-          </Data>
-          <Data name="村里別">
-            <value>國華里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區國華里中山路306號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>777.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <address>嘉義市西區國華里文化路155號</address>
         <description><![CDATA[類別: 電影院(中央電影院)<br>電腦編號: MMA1133<br>村里別: 國華里<br>地址: 嘉義市西區國華里文化路155號<br>地下樓層數: 1<br>可容納人數: 14<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
@@ -32451,64 +32045,6 @@
           </Data>
           <Data name="可容納人數">
             <value>53.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區國華里中山路298號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: MMA1135<br>村里別: 國華里<br>地址: 嘉義市西區國華里中山路298號<br>地下樓層數: 1<br>可容納人數: 42<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>公寓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1135</value>
-          </Data>
-          <Data name="村里別">
-            <value>國華里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區國華里中山路298號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>42.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區國華里中山路298號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: MMA1136<br>村里別: 國華里<br>地址: 嘉義市西區國華里中山路298號<br>地下樓層數: 1<br>可容納人數: 92<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>公寓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1136</value>
-          </Data>
-          <Data name="村里別">
-            <value>國華里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區國華里中山路298號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>92.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -34257,8 +33793,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區導明里民生南路33巷28號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: MMA1198<br>村里別: 導明里<br>地址: 嘉義市西區導明里民生南路33巷28號<br>地下樓層數: 1<br>可容納人數: 62<br>備註: ]]></description>
+        <address>嘉義市西區導明里成功東街53號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: MMA1198<br>村里別: 導明里<br>地址: 嘉義市西區導明里成功東街53號<br>地下樓層數: 1<br>可容納人數: 62<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -34271,7 +33807,7 @@
             <value>導明里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區導明里民生南路33巷28號</value>
+            <value>嘉義市西區導明里成功東街53號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -37563,64 +37099,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區自強里新民路762號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1312<br>村里別: 自強里<br>地址: 嘉義市西區自強里新民路762號<br>地下樓層數: 1<br>可容納人數: 1312<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1312</value>
-          </Data>
-          <Data name="村里別">
-            <value>自強里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區自強里新民路762號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>1312.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區自強里新民路782號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1313<br>村里別: 自強里<br>地址: 嘉義市西區自強里新民路782號<br>地下樓層數: 1<br>可容納人數: 1192<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1313</value>
-          </Data>
-          <Data name="村里別">
-            <value>自強里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區自強里新民路782號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>1192.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <address>嘉義市西區自強里新民路786號</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: MMA1314<br>村里別: 自強里<br>地址: 嘉義市西區自強里新民路786號<br>地下樓層數: 1<br>可容納人數: 4<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
@@ -37700,35 +37178,6 @@
           </Data>
           <Data name="可容納人數">
             <value>5.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區自強里新民路706號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1317<br>村里別: 自強里<br>地址: 嘉義市西區自強里新民路706號<br>地下樓層數: 1<br>可容納人數: 73<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1317</value>
-          </Data>
-          <Data name="村里別">
-            <value>自強里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區自強里新民路706號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>73.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -39800,180 +39249,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區育英里民生南路211號</address>
-        <description><![CDATA[類別: 中油公司<br>電腦編號: MMA1391<br>村里別: 育英里<br>地址: 嘉義市西區育英里民生南路211號<br>地下樓層數: 1<br>可容納人數: 5<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油公司</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1391</value>
-          </Data>
-          <Data name="村里別">
-            <value>育英里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區育英里民生南路211號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>5.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區育英里民生南路211號</address>
-        <description><![CDATA[類別: 中油公司<br>電腦編號: MMA1392<br>村里別: 育英里<br>地址: 嘉義市西區育英里民生南路211號<br>地下樓層數: 1<br>可容納人數: 5<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油公司</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1392</value>
-          </Data>
-          <Data name="村里別">
-            <value>育英里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區育英里民生南路211號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>5.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區育英里民生南路211號</address>
-        <description><![CDATA[類別: 中油公司<br>電腦編號: MMA1393<br>村里別: 育英里<br>地址: 嘉義市西區育英里民生南路211號<br>地下樓層數: 1<br>可容納人數: 5<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油公司</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1393</value>
-          </Data>
-          <Data name="村里別">
-            <value>育英里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區育英里民生南路211號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>5.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區育英里民生南路211號</address>
-        <description><![CDATA[類別: 中油煉製中心<br>電腦編號: MMA1394<br>村里別: 育英里<br>地址: 嘉義市西區育英里民生南路211號<br>地下樓層數: 1<br>可容納人數: 5<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油煉製中心</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1394</value>
-          </Data>
-          <Data name="村里別">
-            <value>育英里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區育英里民生南路211號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>5.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區育英里民生南路211號</address>
-        <description><![CDATA[類別: 中油煉製中心<br>電腦編號: MMA1395<br>村里別: 育英里<br>地址: 嘉義市西區育英里民生南路211號<br>地下樓層數: 1<br>可容納人數: 5<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油煉製中心</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1395</value>
-          </Data>
-          <Data name="村里別">
-            <value>育英里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區育英里民生南路211號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>5.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區育英里民生南路211號</address>
-        <description><![CDATA[類別: 中油公司<br>電腦編號: MMA1396<br>村里別: 育英里<br>地址: 嘉義市西區育英里民生南路211號<br>地下樓層數: 1<br>可容納人數: 5<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油公司</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1396</value>
-          </Data>
-          <Data name="村里別">
-            <value>育英里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區育英里民生南路211號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>5.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <address>嘉義市西區美源里世賢路4段350巷21弄16號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MMA1397<br>村里別: 美源里<br>地址: 嘉義市西區美源里世賢路4段350巷21弄16號<br>地下樓層數: 1<br>可容納人數: 1620<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
@@ -40024,238 +39299,6 @@
           </Data>
           <Data name="可容納人數">
             <value>90.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區育英里民生南路211號</address>
-        <description><![CDATA[類別: 中油公司<br>電腦編號: MMA1399<br>村里別: 育英里<br>地址: 嘉義市西區育英里民生南路211號<br>地下樓層數: 1<br>可容納人數: 628<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油公司</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1399</value>
-          </Data>
-          <Data name="村里別">
-            <value>育英里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區育英里民生南路211號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>628.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區育英里民生南路211號</address>
-        <description><![CDATA[類別: 中油公司<br>電腦編號: MMA1400<br>村里別: 育英里<br>地址: 嘉義市西區育英里民生南路211號<br>地下樓層數: 1<br>可容納人數: 4<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油公司</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1400</value>
-          </Data>
-          <Data name="村里別">
-            <value>育英里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區育英里民生南路211號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>4.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區育英里民生南路211號</address>
-        <description><![CDATA[類別: 中油公司<br>電腦編號: MMA1401<br>村里別: 育英里<br>地址: 嘉義市西區育英里民生南路211號<br>地下樓層數: 1<br>可容納人數: 4<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油公司</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1401</value>
-          </Data>
-          <Data name="村里別">
-            <value>育英里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區育英里民生南路211號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>4.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區育英里民生南路211號</address>
-        <description><![CDATA[類別: 中油公司<br>電腦編號: MMA1402<br>村里別: 育英里<br>地址: 嘉義市西區育英里民生南路211號<br>地下樓層數: 1<br>可容納人數: 4<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油公司</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1402</value>
-          </Data>
-          <Data name="村里別">
-            <value>育英里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區育英里民生南路211號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>4.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區育英里民生南路211號</address>
-        <description><![CDATA[類別: 中油公司<br>電腦編號: MMA1403<br>村里別: 育英里<br>地址: 嘉義市西區育英里民生南路211號<br>地下樓層數: 1<br>可容納人數: 5<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油公司</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1403</value>
-          </Data>
-          <Data name="村里別">
-            <value>育英里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區育英里民生南路211號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>5.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區育英里民生南路211號</address>
-        <description><![CDATA[類別: 中油公司<br>電腦編號: MMA1404<br>村里別: 育英里<br>地址: 嘉義市西區育英里民生南路211號<br>地下樓層數: 1<br>可容納人數: 5<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油公司</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1404</value>
-          </Data>
-          <Data name="村里別">
-            <value>育英里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區育英里民生南路211號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>5.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區育英里民生南路211號</address>
-        <description><![CDATA[類別: 中油公司<br>電腦編號: MMA1405<br>村里別: 育英里<br>地址: 嘉義市西區育英里民生南路211號<br>地下樓層數: 1<br>可容納人數: 262<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油公司</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1405</value>
-          </Data>
-          <Data name="村里別">
-            <value>育英里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區育英里民生南路211號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>262.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區育英里民生南路211號</address>
-        <description><![CDATA[類別: 中油公司<br>電腦編號: MMA1406<br>村里別: 育英里<br>地址: 嘉義市西區育英里民生南路211號<br>地下樓層數: 1<br>可容納人數: 5<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油公司</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1406</value>
-          </Data>
-          <Data name="村里別">
-            <value>育英里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區育英里民生南路211號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>5.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -41076,8 +40119,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區福民里福州街98號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1435<br>村里別: 福民里<br>地址: 嘉義市西區福民里福州街98號<br>地下樓層數: 1<br>可容納人數: 968<br>備註: ]]></description>
+        <address>嘉義市西區福民里廣州街98號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1435<br>村里別: 福民里<br>地址: 嘉義市西區福民里廣州街98號<br>地下樓層數: 1<br>可容納人數: 968<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -41090,7 +40133,7 @@
             <value>福民里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區福民里福州街98號</value>
+            <value>嘉義市西區福民里廣州街98號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -42054,35 +41097,6 @@
           </Data>
           <Data name="可容納人數">
             <value>29.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區福民里南京路336號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1469<br>村里別: 福民里<br>地址: 嘉義市西區福民里南京路336號<br>地下樓層數: 1<br>可容納人數: 433<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1469</value>
-          </Data>
-          <Data name="村里別">
-            <value>福民里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區福民里南京路336號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>433.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -43280,8 +42294,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區湖內里民生南路891巷62號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: MMA1517<br>村里別: 湖內里<br>地址: 嘉義市西區湖內里民生南路891巷62號<br>地下樓層數: 1<br>可容納人數: 4<br>備註: ]]></description>
+        <address>嘉義市西區湖內里民生南路897巷62號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: MMA1517<br>村里別: 湖內里<br>地址: 嘉義市西區湖內里民生南路897巷62號<br>地下樓層數: 1<br>可容納人數: 4<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -43294,7 +42308,7 @@
             <value>湖內里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區湖內里民生南路891巷62號</value>
+            <value>嘉義市西區湖內里民生南路897巷62號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -44208,93 +43222,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區西平里博愛路二段521號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1549<br>村里別: 西平里<br>地址: 嘉義市西區西平里博愛路二段521號<br>地下樓層數: 1<br>可容納人數: 36<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1549</value>
-          </Data>
-          <Data name="村里別">
-            <value>西平里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區西平里博愛路二段521號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>36.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區西平里博愛路二段521號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1550<br>村里別: 西平里<br>地址: 嘉義市西區西平里博愛路二段521號<br>地下樓層數: 1<br>可容納人數: 62<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1550</value>
-          </Data>
-          <Data name="村里別">
-            <value>西平里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區西平里博愛路二段521號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>62.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區西平里博愛路二段519號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1551<br>村里別: 西平里<br>地址: 嘉義市西區西平里博愛路二段519號<br>地下樓層數: 1<br>可容納人數: 102<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1551</value>
-          </Data>
-          <Data name="村里別">
-            <value>西平里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區西平里博愛路二段519號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>102.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <address>嘉義市西區西平里信義路63號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MMA1552<br>村里別: 西平里<br>地址: 嘉義市西區西平里信義路63號<br>地下樓層數: 1<br>可容納人數: 74<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
@@ -45107,8 +44034,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區福安里世賢路1段869號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1581<br>村里別: 福安里<br>地址: 嘉義市西區福安里世賢路1段869號<br>地下樓層數: 1<br>可容納人數: 1376<br>備註: ]]></description>
+        <address>嘉義市西區福安里世賢路一段869號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1581<br>村里別: 福安里<br>地址: 嘉義市西區福安里世賢路一段869號<br>地下樓層數: 1<br>可容納人數: 1376<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -45121,7 +44048,7 @@
             <value>福安里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區福安里世賢路1段869號</value>
+            <value>嘉義市西區福安里世賢路一段869號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -46325,35 +45252,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區福全里北港路55號</address>
-        <description><![CDATA[類別: 郵局<br>電腦編號: MMA1626<br>村里別: 福全里<br>地址: 嘉義市西區福全里北港路55號<br>地下樓層數: 1<br>可容納人數: 26<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>郵局</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1626</value>
-          </Data>
-          <Data name="村里別">
-            <value>福全里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區福全里北港路55號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>26.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <address>嘉義市西區福全里北港路77號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MMA1627<br>村里別: 福全里<br>地址: 嘉義市西區福全里北港路77號<br>地下樓層數: 1<br>可容納人數: 96<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
@@ -46818,35 +45716,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區福全里北港路225號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1653<br>村里別: 福全里<br>地址: 嘉義市西區福全里北港路225號<br>地下樓層數: 1<br>可容納人數: 1060<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1653</value>
-          </Data>
-          <Data name="村里別">
-            <value>福全里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區福全里北港路225號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>1060.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <address>嘉義市西區福全里北港路73號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MMA1654<br>村里別: 福全里<br>地址: 嘉義市西區福全里北港路73號<br>地下樓層數: 1<br>可容納人數: 1486<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
@@ -47042,35 +45911,6 @@
           </Data>
           <Data name="可容納人數">
             <value>2745.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區福全里北港路251號</address>
-        <description><![CDATA[類別: 嘉義市農會<br>電腦編號: MMA1661<br>村里別: 福全里<br>地址: 嘉義市西區福全里北港路251號<br>地下樓層數: 1<br>可容納人數: 1361<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>嘉義市農會</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1661</value>
-          </Data>
-          <Data name="村里別">
-            <value>福全里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區福全里北港路251號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>1361.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -48210,8 +47050,7 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區劉厝里自強街155號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1704<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里自強街155號<br>地下樓層數: 1<br>可容納人數: 1100<br>備註: ]]></description>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1704<br>村里別: 劉厝里<br>地址: 23.46408,120.42108<br>地下樓層數: 1<br>可容納人數: 1100<br>備註: 嘉義市西區劉厝里自強街195巷33號之29]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -48224,7 +47063,7 @@
             <value>劉厝里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區劉厝里自強街155號</value>
+            <value>23.46408,120.42108</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -48233,14 +47072,18 @@
             <value>1100.0</value>
           </Data>
           <Data name="備註">
-            <value/>
+            <value>嘉義市西區劉厝里自強街195巷33號之29</value>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            120.42108,23.46408,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區劉厝里自強街155號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1705<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里自強街155號<br>地下樓層數: 1<br>可容納人數: 1197<br>備註: ]]></description>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1705<br>村里別: 劉厝里<br>地址: 23.46441,120.42104<br>地下樓層數: 1<br>可容納人數: 1197<br>備註: 嘉義市西區劉厝里自強街195巷33號之15]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -48253,7 +47096,7 @@
             <value>劉厝里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區劉厝里自強街155號</value>
+            <value>23.46441,120.42104</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -48262,14 +47105,18 @@
             <value>1197.0</value>
           </Data>
           <Data name="備註">
-            <value/>
+            <value>嘉義市西區劉厝里自強街195巷33號之15</value>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            120.42104,23.46441,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區劉厝里自強街163號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1706<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里自強街163號<br>地下樓層數: 1<br>可容納人數: 4120<br>備註: ]]></description>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1706<br>村里別: 劉厝里<br>地址: 23.46453,120.420610<br>地下樓層數: 1<br>可容納人數: 4120<br>備註: 嘉義市西區劉厝里自強街195巷33號之10]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -48282,7 +47129,7 @@
             <value>劉厝里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區劉厝里自強街163號</value>
+            <value>23.46453,120.420610</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -48291,9 +47138,14 @@
             <value>4120.0</value>
           </Data>
           <Data name="備註">
-            <value/>
+            <value>嘉義市西區劉厝里自強街195巷33號之10</value>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            120.42061,23.46453,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>第一分局</name>
@@ -48790,8 +47642,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區港坪里世賢路123號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1725<br>村里別: 港坪里<br>地址: 嘉義市西區港坪里世賢路123號<br>地下樓層數: 1<br>可容納人數: 564<br>備註: ]]></description>
+        <address>嘉義市西區港坪里世賢路二段123號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1725<br>村里別: 港坪里<br>地址: 嘉義市西區港坪里世賢路二段123號<br>地下樓層數: 1<br>可容納人數: 564<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -48804,7 +47656,7 @@
             <value>港坪里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區港坪里世賢路123號</value>
+            <value>嘉義市西區港坪里世賢路二段123號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -48935,8 +47787,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區港坪里世賢路123號</address>
-        <description><![CDATA[類別: 學校(啟智學校)<br>電腦編號: MMA1735<br>村里別: 港坪里<br>地址: 嘉義市西區港坪里世賢路123號<br>地下樓層數: 1<br>可容納人數: 924<br>備註: ]]></description>
+        <address>嘉義市西區港坪里世賢路二段123號</address>
+        <description><![CDATA[類別: 學校(啟智學校)<br>電腦編號: MMA1735<br>村里別: 港坪里<br>地址: 嘉義市西區港坪里世賢路二段123號<br>地下樓層數: 1<br>可容納人數: 924<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -48949,7 +47801,7 @@
             <value>港坪里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區港坪里世賢路123號</value>
+            <value>嘉義市西區港坪里世賢路二段123號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -49428,8 +48280,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區北湖里北社尾路166巷12號</address>
-        <description><![CDATA[類別: 學校(北園國中)<br>電腦編號: MMA1753<br>村里別: 北湖里<br>地址: 嘉義市西區北湖里北社尾路166巷12號<br>地下樓層數: 1<br>可容納人數: 1993<br>備註: ]]></description>
+        <address>嘉義市西區北湖里雙園街280號</address>
+        <description><![CDATA[類別: 學校(北園國中)<br>電腦編號: MMA1753<br>村里別: 北湖里<br>地址: 嘉義市西區北湖里雙園街280號<br>地下樓層數: 1<br>可容納人數: 1993<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -49442,7 +48294,7 @@
             <value>北湖里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區北湖里北社尾路166巷12號</value>
+            <value>嘉義市西區北湖里雙園街280號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -49486,8 +48338,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區保福里世賢路1段687號</address>
-        <description><![CDATA[類別: 學校(世賢國小)<br>電腦編號: MMA1755<br>村里別: 保福里<br>地址: 嘉義市西區保福里世賢路1段687號<br>地下樓層數: 1<br>可容納人數: 2830<br>備註: ]]></description>
+        <address>嘉義市西區保福里世賢路一段687號</address>
+        <description><![CDATA[類別: 學校(世賢國小)<br>電腦編號: MMA1755<br>村里別: 保福里<br>地址: 嘉義市西區保福里世賢路一段687號<br>地下樓層數: 1<br>可容納人數: 2830<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -49500,7 +48352,7 @@
             <value>保福里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區保福里世賢路1段687號</value>
+            <value>嘉義市西區保福里世賢路一段687號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -49631,35 +48483,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區新富里仁愛路406號</address>
-        <description><![CDATA[類別: 台電公司<br>電腦編號: MMA1761<br>村里別: 新富里<br>地址: 嘉義市西區新富里仁愛路406號<br>地下樓層數: 1<br>可容納人數: 1309<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>台電公司</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1761</value>
-          </Data>
-          <Data name="村里別">
-            <value>新富里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區新富里仁愛路406號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>1309.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <address>嘉義市西區福安里泰山二街19號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MMA1762<br>村里別: 福安里<br>地址: 嘉義市西區福安里泰山二街19號<br>地下樓層數: 1<br>可容納人數: 840<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
@@ -49747,8 +48570,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區保福里世賢路1段687號</address>
-        <description><![CDATA[類別: 學校(世賢國小)<br>電腦編號: MMA1766<br>村里別: 保福里<br>地址: 嘉義市西區保福里世賢路1段687號<br>地下樓層數: 1<br>可容納人數: 2830<br>備註: ]]></description>
+        <address>嘉義市西區保福里世賢路一段687號</address>
+        <description><![CDATA[類別: 學校(世賢國小)<br>電腦編號: MMA1766<br>村里別: 保福里<br>地址: 嘉義市西區保福里世賢路一段687號<br>地下樓層數: 1<br>可容納人數: 2830<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -49761,7 +48584,7 @@
             <value>保福里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區保福里世賢路1段687號</value>
+            <value>嘉義市西區保福里世賢路一段687號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -49834,8 +48657,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區港坪里世賢路123號</address>
-        <description><![CDATA[類別: 學校(啟智學校)<br>電腦編號: MMA1769<br>村里別: 港坪里<br>地址: 嘉義市西區港坪里世賢路123號<br>地下樓層數: 1<br>可容納人數: 1897<br>備註: ]]></description>
+        <address>嘉義市西區港坪里世賢路二段123號</address>
+        <description><![CDATA[類別: 學校(啟智學校)<br>電腦編號: MMA1769<br>村里別: 港坪里<br>地址: 嘉義市西區港坪里世賢路二段123號<br>地下樓層數: 1<br>可容納人數: 1897<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -49848,7 +48671,7 @@
             <value>港坪里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區港坪里世賢路123號</value>
+            <value>嘉義市西區港坪里世賢路二段123號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -49913,35 +48736,6 @@
           </Data>
           <Data name="可容納人數">
             <value>1468.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區福安里中興路322號</address>
-        <description><![CDATA[類別: 中華電信<br>電腦編號: MMA1773<br>村里別: 福安里<br>地址: 嘉義市西區福安里中興路322號<br>地下樓層數: 1<br>可容納人數: 3848<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中華電信</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1773</value>
-          </Data>
-          <Data name="村里別">
-            <value>福安里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區福安里中興路322號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>3848.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -51313,35 +50107,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區福全里中興路465號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1831<br>村里別: 福全里<br>地址: 嘉義市西區福全里中興路465號<br>地下樓層數: 2<br>可容納人數: 1642<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA1831</value>
-          </Data>
-          <Data name="村里別">
-            <value>福全里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區福全里中興路465號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>2.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>1642.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <address>嘉義市西區保生里保安四路73號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MMA1832<br>村里別: 保生里<br>地址: 嘉義市西區保生里保安四路73號<br>地下樓層數: 1<br>可容納人數: 2233<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
@@ -51589,35 +50354,6 @@
           </Data>
           <Data name="地址">
             <value>嘉義市西區文化里國華街123-2號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>4.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>嘉義市西區文化里文化路11號</address>
-        <description><![CDATA[類別: 加油站<br>電腦編號: MMD0004<br>村里別: 文化里<br>地址: 嘉義市西區文化里文化路11號<br>地下樓層數: 1<br>可容納人數: 4<br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>加油站</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMD0004</value>
-          </Data>
-          <Data name="村里別">
-            <value>文化里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區文化里文化路11號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -53634,11 +52370,11 @@
       <Placemark>
         <name>第一分局</name>
         <address>嘉義市西區港坪里四維路63號</address>
-        <description><![CDATA[類別: 港坪國民小學<br>電腦編號: MMA1853<br>村里別: 港坪里<br>地址: 嘉義市西區港坪里四維路63號<br>地下樓層數: 1<br>可容納人數: 965<br>備註: ]]></description>
+        <description><![CDATA[類別: 學校(港坪國小)<br>電腦編號: MMA1853<br>村里別: 港坪里<br>地址: 嘉義市西區港坪里四維路63號<br>地下樓層數: 1<br>可容納人數: 965<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>港坪國民小學</value>
+            <value>學校(港坪國小)</value>
           </Data>
           <Data name="電腦編號">
             <value>MMA1853</value>
@@ -53804,72 +52540,6 @@
             <value/>
           </Data>
         </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>點 1853</name>
-        <description><![CDATA[類別: <br>電腦編號: <br>村里別: <br>地址: <br>地下樓層數: <br>可容納人數: <br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value/>
-          </Data>
-          <Data name="電腦編號">
-            <value/>
-          </Data>
-          <Data name="村里別">
-            <value/>
-          </Data>
-          <Data name="地址">
-            <value/>
-          </Data>
-          <Data name="地下樓層數">
-            <value/>
-          </Data>
-          <Data name="可容納人數">
-            <value/>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.4439738,23.5007775,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>點 1854</name>
-        <description><![CDATA[類別: <br>電腦編號: <br>村里別: <br>地址: <br>地下樓層數: <br>可容納人數: <br>備註: ]]></description>
-        <styleUrl>#icon-1899-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value/>
-          </Data>
-          <Data name="電腦編號">
-            <value/>
-          </Data>
-          <Data name="村里別">
-            <value/>
-          </Data>
-          <Data name="地址">
-            <value/>
-          </Data>
-          <Data name="地下樓層數">
-            <value/>
-          </Data>
-          <Data name="可容納人數">
-            <value/>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.4429581,23.4976683,0
-          </coordinates>
-        </Point>
       </Placemark>
     </Folder>
     <Folder>
@@ -54051,35 +52721,6 @@
       <Placemark>
         <name>第二分局</name>
         <address>嘉義市東區中山里中山路90號</address>
-        <description><![CDATA[類別: 中國石油中山路加油站<br>電腦編號: MNA0375<br>村里別: 中山里<br>地址: 嘉義市東區中山里中山路90號<br>地下樓層數: 1<br>可容納人數: 84<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中國石油中山路加油站</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA0375</value>
-          </Data>
-          <Data name="村里別">
-            <value>中山里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區中山里中山路90號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>84.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區中山里中山路90號</address>
         <description><![CDATA[類別: 中國石油嘉義營業處<br>電腦編號: MNA0377<br>村里別: 中山里<br>地址: 嘉義市東區中山里中山路90號<br>地下樓層數: 1<br>可容納人數: 582<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
@@ -54166,8 +52807,8 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區中山里民國路222號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: MNA0348<br>村里別: 中山里<br>地址: 嘉義市東區中山里民國路222號<br>地下樓層數: 1<br>可容納人數: 2605<br>備註: ]]></description>
+        <address>嘉義市東區中山里民國路240號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: MNA0348<br>村里別: 中山里<br>地址: 嘉義市東區中山里民國路240號<br>地下樓層數: 1<br>可容納人數: 2605<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -54180,7 +52821,7 @@
             <value>中山里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區中山里民國路222號</value>
+            <value>嘉義市東區中山里民國路240號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -55674,35 +54315,6 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區中央里中山路248號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA00429<br>村里別: 中央里<br>地址: 嘉義市東區中央里中山路248號<br>地下樓層數: 1<br>可容納人數: 116<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00429</value>
-          </Data>
-          <Data name="村里別">
-            <value>中央里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區中央里中山路248號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>116.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
         <address>嘉義市東區中央里中山路253號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MNA00408<br>村里別: 中央里<br>地址: 嘉義市東區中央里中山路253號<br>地下樓層數: 1<br>可容納人數: 37<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
@@ -56080,35 +54692,6 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區中央里中山路285號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA00415<br>村里別: 中央里<br>地址: 嘉義市東區中央里中山路285號<br>地下樓層數: 1<br>可容納人數: 553<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00415</value>
-          </Data>
-          <Data name="村里別">
-            <value>中央里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區中央里中山路285號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>553.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
         <address>嘉義市東區中央里中山路293號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MNA00435<br>村里別: 中央里<br>地址: 嘉義市東區中央里中山路293號<br>地下樓層數: 1<br>可容納人數: 165<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
@@ -56130,64 +54713,6 @@
           </Data>
           <Data name="可容納人數">
             <value>165.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區中央里中山路307號</address>
-        <description><![CDATA[類別: 一銀嘉義分行<br>電腦編號: MNA00848<br>村里別: 中央里<br>地址: 嘉義市東區中央里中山路307號<br>地下樓層數: 1<br>可容納人數: 37<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>一銀嘉義分行</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00848</value>
-          </Data>
-          <Data name="村里別">
-            <value>中央里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區中央里中山路307號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>37.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區中央里中山路309號</address>
-        <description><![CDATA[類別: 土地銀行<br>電腦編號: MNA00845<br>村里別: 中央里<br>地址: 嘉義市東區中央里中山路309號<br>地下樓層數: 1<br>可容納人數: 589<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>土地銀行</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00845</value>
-          </Data>
-          <Data name="村里別">
-            <value>中央里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區中央里中山路309號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>589.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -57327,93 +55852,6 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區中央里文化路134號</address>
-        <description><![CDATA[類別: 電信局<br>電腦編號: MNA01017<br>村里別: 中央里<br>地址: 嘉義市東區中央里文化路134號<br>地下樓層數: 1<br>可容納人數: 125<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>電信局</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA01017</value>
-          </Data>
-          <Data name="村里別">
-            <value>中央里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區中央里文化路134號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>125.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區中央里文化路134號</address>
-        <description><![CDATA[類別: 電信局<br>電腦編號: MNA01018<br>村里別: 中央里<br>地址: 嘉義市東區中央里文化路134號<br>地下樓層數: 1<br>可容納人數: 1085<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>電信局</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA01018</value>
-          </Data>
-          <Data name="村里別">
-            <value>中央里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區中央里文化路134號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>1085.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區中央里文化路134號</address>
-        <description><![CDATA[類別: 嘉義郵局<br>電腦編號: MNA01021<br>村里別: 中央里<br>地址: 嘉義市東區中央里文化路134號<br>地下樓層數: 1<br>可容納人數: 753<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>嘉義郵局</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA01021</value>
-          </Data>
-          <Data name="村里別">
-            <value>中央里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區中央里文化路134號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>753.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
         <address>嘉義市東區中央里文化路162號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MNA00879<br>村里別: 中央里<br>地址: 嘉義市東區中央里文化路162號<br>地下樓層數: 1<br>可容納人數: 649<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
@@ -57878,35 +56316,6 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區中央里光彩街269號</address>
-        <description><![CDATA[類別: 電信局<br>電腦編號: MNA01016<br>村里別: 中央里<br>地址: 嘉義市東區中央里光彩街269號<br>地下樓層數: 1<br>可容納人數: 544<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>電信局</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA01016</value>
-          </Data>
-          <Data name="村里別">
-            <value>中央里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區中央里光彩街269號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>544.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
         <address>嘉義市東區中央里光彩街338號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MNA00907<br>村里別: 中央里<br>地址: 嘉義市東區中央里光彩街338號<br>地下樓層數: 1<br>可容納人數: 93<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
@@ -58313,35 +56722,6 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區中央里光華路130號</address>
-        <description><![CDATA[類別: 興中派出所<br>電腦編號: MNA00872<br>村里別: 中央里<br>地址: 嘉義市東區中央里光華路130號<br>地下樓層數: 1<br>可容納人數: 52<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>興中派出所</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00872</value>
-          </Data>
-          <Data name="村里別">
-            <value>中央里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區中央里光華路130號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>52.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
         <address>嘉義市東區中央里光華路131號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MNA00833<br>村里別: 中央里<br>地址: 嘉義市東區中央里光華路131號<br>地下樓層數: 1<br>可容納人數: 28<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
@@ -58363,35 +56743,6 @@
           </Data>
           <Data name="可容納人數">
             <value>28.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區中央里光華路132號</address>
-        <description><![CDATA[類別: 台灣企銀<br>電腦編號: MNA00847<br>村里別: 中央里<br>地址: 嘉義市東區中央里光華路132號<br>地下樓層數: 1<br>可容納人數: 26<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>台灣企銀</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00847</value>
-          </Data>
-          <Data name="村里別">
-            <value>中央里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區中央里光華路132號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>26.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -59821,35 +58172,6 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區中央里吳鳳北路291號</address>
-        <description><![CDATA[類別: 嘉義市農會<br>電腦編號: MNA00959<br>村里別: 中央里<br>地址: 嘉義市東區中央里吳鳳北路291號<br>地下樓層數: 1<br>可容納人數: 384<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>嘉義市農會</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00959</value>
-          </Data>
-          <Data name="村里別">
-            <value>中央里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區中央里吳鳳北路291號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>384.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
         <address>嘉義市東區中央里吳鳳北路299號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MNA00385<br>村里別: 中央里<br>地址: 嘉義市東區中央里吳鳳北路299號<br>地下樓層數: 1<br>可容納人數: 33<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
@@ -60488,12 +58810,12 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>23.497023271158138, 120.44972761934677</address>
-        <description><![CDATA[類別: 嘉義基督教醫院<br>電腦編號: MNA01607<br>村里別: 中庄里<br>地址: 23.497023271158138, 120.44972761934677<br>地下樓層數: 1<br>可容納人數: 290<br>備註: 嘉義市東區中庄里台斗街263之33之2號]]></description>
+        <address>23.49712929171461, 120.44960489345625</address>
+        <description><![CDATA[類別: 學校(幼兒園)<br>電腦編號: MNA01607<br>村里別: 中庄里<br>地址: 23.49712929171461, 120.44960489345625<br>地下樓層數: 1<br>可容納人數: 290<br>備註: 嘉義市東區中庄里台斗街263之33之1號]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>嘉義基督教醫院</value>
+            <value>學校(幼兒園)</value>
           </Data>
           <Data name="電腦編號">
             <value>MNA01607</value>
@@ -60502,7 +58824,7 @@
             <value>中庄里</value>
           </Data>
           <Data name="地址">
-            <value>23.497023271158138, 120.44972761934677</value>
+            <value>23.49712929171461, 120.44960489345625</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -60511,7 +58833,7 @@
             <value>290.0</value>
           </Data>
           <Data name="備註">
-            <value>嘉義市東區中庄里台斗街263之33之2號</value>
+            <value>嘉義市東區中庄里台斗街263之33之1號</value>
           </Data>
         </ExtendedData>
       </Placemark>
@@ -61047,8 +59369,8 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區中庄里嘉北街169巷8號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA01495<br>村里別: 中庄里<br>地址: 嘉義市東區中庄里嘉北街169巷8號<br>地下樓層數: 1<br>可容納人數: 760<br>備註: ]]></description>
+        <address>嘉義市東區中庄里忠孝路429號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MNA01495<br>村里別: 中庄里<br>地址: 嘉義市東區中庄里忠孝路429號<br>地下樓層數: 1<br>可容納人數: 760<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -61061,7 +59383,7 @@
             <value>中庄里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區中庄里嘉北街169巷8號</value>
+            <value>嘉義市東區中庄里忠孝路429號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -65459,35 +63781,6 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區王田里圓福街54號</address>
-        <description><![CDATA[類別: 電信局<br>電腦編號: MNA00558<br>村里別: 王田里<br>地址: 嘉義市東區王田里圓福街54號<br>地下樓層數: 1<br>可容納人數: 441<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>電信局</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00558</value>
-          </Data>
-          <Data name="村里別">
-            <value>王田里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區王田里圓福街54號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>441.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
         <address>嘉義市東區王田里圓福街56巷23.25號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MNA00559<br>村里別: 王田里<br>地址: 嘉義市東區王田里圓福街56巷23.25號<br>地下樓層數: 1<br>可容納人數: 58<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
@@ -65741,35 +64034,6 @@
           </Data>
           <Data name="可容納人數">
             <value>20.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區北門里文化路272號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA00479<br>村里別: 北門里<br>地址: 嘉義市東區北門里文化路272號<br>地下樓層數: 1<br>可容納人數: 365<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00479</value>
-          </Data>
-          <Data name="村里別">
-            <value>北門里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區北門里文化路272號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>365.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -66553,35 +64817,6 @@
           </Data>
           <Data name="可容納人數">
             <value>266.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區北門里民權路268號</address>
-        <description><![CDATA[類別: 北門派出所<br>電腦編號: MNA00342<br>村里別: 北門里<br>地址: 嘉義市東區北門里民權路268號<br>地下樓層數: 1<br>可容納人數: 61<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>北門派出所</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00342</value>
-          </Data>
-          <Data name="村里別">
-            <value>北門里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區北門里民權路268號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>61.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -67568,35 +65803,6 @@
           </Data>
           <Data name="可容納人數">
             <value>116.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區北門里吳鳳北路379號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA00350<br>村里別: 北門里<br>地址: 嘉義市東區北門里吳鳳北路379號<br>地下樓層數: 1-2<br>可容納人數: 2073<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00350</value>
-          </Data>
-          <Data name="村里別">
-            <value>北門里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區北門里吳鳳北路379號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1-2</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>2073.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -71897,180 +70103,6 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區安業里吳鳳南路94號</address>
-        <description><![CDATA[類別: 中油訓練中心<br>電腦編號: MNA00050<br>村里別: 安業里<br>地址: 嘉義市東區安業里吳鳳南路94號<br>地下樓層數: 1<br>可容納人數: 98<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油訓練中心</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00050</value>
-          </Data>
-          <Data name="村里別">
-            <value>安業里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區安業里吳鳳南路94號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>98.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區安業里吳鳳南路94號</address>
-        <description><![CDATA[類別: 中油訓練中心<br>電腦編號: MNA00051<br>村里別: 安業里<br>地址: 嘉義市東區安業里吳鳳南路94號<br>地下樓層數: 1<br>可容納人數: 68<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油訓練中心</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00051</value>
-          </Data>
-          <Data name="村里別">
-            <value>安業里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區安業里吳鳳南路94號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>68.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區安業里吳鳳南路94號</address>
-        <description><![CDATA[類別: 中油公司<br>電腦編號: MNA00056<br>村里別: 安業里<br>地址: 嘉義市東區安業里吳鳳南路94號<br>地下樓層數: 1<br>可容納人數: 1760<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油公司</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00056</value>
-          </Data>
-          <Data name="村里別">
-            <value>安業里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區安業里吳鳳南路94號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>1760.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區安業里吳鳳南路94號</address>
-        <description><![CDATA[類別: 中油公司(宿舍大樓)<br>電腦編號: MNA0681<br>村里別: 安業里<br>地址: 嘉義市東區安業里吳鳳南路94號<br>地下樓層數: 1<br>可容納人數: 3983<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油公司(宿舍大樓)</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA0681</value>
-          </Data>
-          <Data name="村里別">
-            <value>安業里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區安業里吳鳳南路94號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>3983.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區安業里吳鳳南路94號</address>
-        <description><![CDATA[類別: 中油公司(教學大樓)<br>電腦編號: MNA0682<br>村里別: 安業里<br>地址: 嘉義市東區安業里吳鳳南路94號<br>地下樓層數: 1<br>可容納人數: 2943<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油公司(教學大樓)</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA0682</value>
-          </Data>
-          <Data name="村里別">
-            <value>安業里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區安業里吳鳳南路94號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>2943.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區安業里興業東路12號</address>
-        <description><![CDATA[類別: 中油油品行銷事業部嘉南營業處<br>電腦編號: MNA00058<br>村里別: 安業里<br>地址: 嘉義市東區安業里興業東路12號<br>地下樓層數: 1<br>可容納人數: 2464<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>中油油品行銷事業部嘉南營業處</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00058</value>
-          </Data>
-          <Data name="村里別">
-            <value>安業里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區安業里興業東路12號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>2464.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
         <address>嘉義市東區安寮里大業街106巷27號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MNA00071<br>村里別: 安寮里<br>地址: 嘉義市東區安寮里大業街106巷27號<br>地下樓層數: 1<br>可容納人數: 48<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
@@ -72614,35 +70646,6 @@
           </Data>
           <Data name="可容納人數">
             <value>530.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區安寮里吳鳳南路367號</address>
-        <description><![CDATA[類別: 第二分局<br>電腦編號: MNA0599<br>村里別: 安寮里<br>地址: 嘉義市東區安寮里吳鳳南路367號<br>地下樓層數: 1<br>可容納人數: 461<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>第二分局</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA0599</value>
-          </Data>
-          <Data name="村里別">
-            <value>安寮里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區安寮里吳鳳南路367號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>461.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -74130,35 +72133,6 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區東興里中山路195號</address>
-        <description><![CDATA[類別: 嘉義市政府警察局<br>電腦編號: MNA0166<br>村里別: 東興里<br>地址: 嘉義市東區東興里中山路195號<br>地下樓層數: 2<br>可容納人數: 7953<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>嘉義市政府警察局</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA0166</value>
-          </Data>
-          <Data name="村里別">
-            <value>東興里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區東興里中山路195號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>2</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>7953.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
         <address>嘉義市東區東興里中山路199號</address>
         <description><![CDATA[類別: 嘉義市政府<br>電腦編號: MNA0165<br>村里別: 東興里<br>地址: 嘉義市東區東興里中山路199號<br>地下樓層數: 1-2<br>可容納人數: 8538<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
@@ -75485,35 +73459,6 @@
           </Data>
           <Data name="可容納人數">
             <value>256.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區東興里公明路236號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA00934<br>村里別: 東興里<br>地址: 嘉義市東區東興里公明路236號<br>地下樓層數: 1<br>可容納人數: 17<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA00934</value>
-          </Data>
-          <Data name="村里別">
-            <value>東興里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區東興里公明路236號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>17.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -82134,8 +80079,8 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區荖藤里忠孝路790之58號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA01433<br>村里別: 荖藤里<br>地址: 嘉義市東區荖藤里忠孝路790之58號<br>地下樓層數: 1<br>可容納人數: 8500<br>備註: ]]></description>
+        <address>23.515533739750097, 120.44315304125946</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MNA01433<br>村里別: 荖藤里<br>地址: 23.515533739750097, 120.44315304125946<br>地下樓層數: 1<br>可容納人數: 8500<br>備註: 嘉義市東區荖藤里忠孝路790之58號]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -82148,7 +80093,7 @@
             <value>荖藤里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區荖藤里忠孝路790之58號</value>
+            <value>23.515533739750097, 120.44315304125946</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -82157,14 +80102,14 @@
             <value>8500.0</value>
           </Data>
           <Data name="備註">
-            <value/>
+            <value>嘉義市東區荖藤里忠孝路790之58號</value>
           </Data>
         </ExtendedData>
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區荖藤里忠孝路790號之1</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA01432<br>村里別: 荖藤里<br>地址: 嘉義市東區荖藤里忠孝路790號之1<br>地下樓層數: 1<br>可容納人數: 314<br>備註: ]]></description>
+        <address>23.51623861807363, 120.44204309510691</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MNA01432<br>村里別: 荖藤里<br>地址: 23.51623861807363, 120.44204309510691<br>地下樓層數: 1<br>可容納人數: 314<br>備註: 嘉義市東區荖藤里忠孝路790號之1]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -82177,7 +80122,7 @@
             <value>荖藤里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區荖藤里忠孝路790號之1</value>
+            <value>23.51623861807363, 120.44204309510691</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -82186,7 +80131,7 @@
             <value>314.0</value>
           </Data>
           <Data name="備註">
-            <value/>
+            <value>嘉義市東區荖藤里忠孝路790號之1</value>
           </Data>
         </ExtendedData>
       </Placemark>
@@ -88369,35 +86314,6 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區新開里垂楊路111號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA0220<br>村里別: 新開里<br>地址: 嘉義市東區新開里垂楊路111號<br>地下樓層數: 1<br>可容納人數: 702<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA0220</value>
-          </Data>
-          <Data name="村里別">
-            <value>新開里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區新開里垂楊路111號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>702.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
         <address>嘉義市東區新開里垂楊路33號</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: MNA0651<br>村里別: 新開里<br>地址: 嘉義市東區新開里垂楊路33號<br>地下樓層數: 1<br>可容納人數: 1273<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
@@ -89268,7 +87184,8 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA01451<br>村里別: 義教里<br>地址: 23.4998008316708, 120.45448896733858<br>地下樓層數: 1<br>可容納人數: 54<br>備註: 嘉義市東區義教里保健街81巷23號]]></description>
+        <address>23.4998008316708, 120.45448896733858</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MNA01451<br>村里別: 義教里<br>地址: 23.4998008316708, 120.45448896733858<br>地下樓層數: 1<br>可容納人數: 54<br>備註: 嘉義市東區義教里保建街81巷23號]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -89290,19 +87207,14 @@
             <value>54.0</value>
           </Data>
           <Data name="備註">
-            <value>嘉義市東區義教里保健街81巷23號</value>
+            <value>嘉義市東區義教里保建街81巷23號</value>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            120.454488967339,23.4998008316708,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區義教里保健街85號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: MNA01452<br>村里別: 義教里<br>地址: 嘉義市東區義教里保健街85號<br>地下樓層數: 1<br>可容納人數: 472<br>備註: ]]></description>
+        <address>嘉義市東區義教里保建街85號</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: MNA01452<br>村里別: 義教里<br>地址: 嘉義市東區義教里保建街85號<br>地下樓層數: 1<br>可容納人數: 472<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -89315,7 +87227,7 @@
             <value>義教里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區義教里保健街85號</value>
+            <value>嘉義市東區義教里保建街85號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -92636,8 +90548,8 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區盧厝里紅毛埤路217號</address>
-        <description><![CDATA[類別: 崇仁護校<br>電腦編號: MNA0493<br>村里別: 盧厝里<br>地址: 嘉義市東區盧厝里紅毛埤路217號<br>地下樓層數: 1<br>可容納人數: 266<br>備註: ]]></description>
+        <address>嘉義市東區盧厝里紅毛埤217號</address>
+        <description><![CDATA[類別: 崇仁護校<br>電腦編號: MNA0493<br>村里別: 盧厝里<br>地址: 嘉義市東區盧厝里紅毛埤217號<br>地下樓層數: 1<br>可容納人數: 266<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -92650,7 +90562,7 @@
             <value>盧厝里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區盧厝里紅毛埤路217號</value>
+            <value>嘉義市東區盧厝里紅毛埤217號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -92665,8 +90577,8 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區盧厝里紅毛埤路217號</address>
-        <description><![CDATA[類別: 崇仁護校<br>電腦編號: MNA0496<br>村里別: 盧厝里<br>地址: 嘉義市東區盧厝里紅毛埤路217號<br>地下樓層數: 1<br>可容納人數: 341<br>備註: ]]></description>
+        <address>嘉義市東區盧厝里紅毛埤217號</address>
+        <description><![CDATA[類別: 崇仁護校<br>電腦編號: MNA0496<br>村里別: 盧厝里<br>地址: 嘉義市東區盧厝里紅毛埤217號<br>地下樓層數: 1<br>可容納人數: 341<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -92679,7 +90591,7 @@
             <value>盧厝里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區盧厝里紅毛埤路217號</value>
+            <value>嘉義市東區盧厝里紅毛埤217號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -92694,8 +90606,8 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區盧厝里紅毛埤路217號</address>
-        <description><![CDATA[類別: 崇仁護校<br>電腦編號: MNA0509<br>村里別: 盧厝里<br>地址: 嘉義市東區盧厝里紅毛埤路217號<br>地下樓層數: 1<br>可容納人數: 145<br>備註: ]]></description>
+        <address>嘉義市東區盧厝里紅毛埤217號</address>
+        <description><![CDATA[類別: 崇仁護校<br>電腦編號: MNA0509<br>村里別: 盧厝里<br>地址: 嘉義市東區盧厝里紅毛埤217號<br>地下樓層數: 1<br>可容納人數: 145<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -92708,7 +90620,7 @@
             <value>盧厝里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區盧厝里紅毛埤路217號</value>
+            <value>嘉義市東區盧厝里紅毛埤217號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -92723,8 +90635,8 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區盧厝里紅毛埤路217號</address>
-        <description><![CDATA[類別: 崇仁護校<br>電腦編號: MNA0510<br>村里別: 盧厝里<br>地址: 嘉義市東區盧厝里紅毛埤路217號<br>地下樓層數: 1<br>可容納人數: 312<br>備註: ]]></description>
+        <address>嘉義市東區盧厝里紅毛埤217號</address>
+        <description><![CDATA[類別: 崇仁護校<br>電腦編號: MNA0510<br>村里別: 盧厝里<br>地址: 嘉義市東區盧厝里紅毛埤217號<br>地下樓層數: 1<br>可容納人數: 312<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -92737,7 +90649,7 @@
             <value>盧厝里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區盧厝里紅毛埤路217號</value>
+            <value>嘉義市東區盧厝里紅毛埤217號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -92752,8 +90664,8 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區盧厝里紅毛埤路217號</address>
-        <description><![CDATA[類別: 崇仁護校<br>電腦編號: MNA0511<br>村里別: 盧厝里<br>地址: 嘉義市東區盧厝里紅毛埤路217號<br>地下樓層數: 1<br>可容納人數: 1333<br>備註: ]]></description>
+        <address>嘉義市東區盧厝里紅毛埤217號</address>
+        <description><![CDATA[類別: 崇仁護校<br>電腦編號: MNA0511<br>村里別: 盧厝里<br>地址: 嘉義市東區盧厝里紅毛埤217號<br>地下樓層數: 1<br>可容納人數: 1333<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -92766,7 +90678,7 @@
             <value>盧厝里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區盧厝里紅毛埤路217號</value>
+            <value>嘉義市東區盧厝里紅毛埤217號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -92782,7 +90694,7 @@
       <Placemark>
         <name>第二分局</name>
         <address>23.474545373708597, 120.5089251412822</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA0494<br>村里別: 盧厝里<br>地址: 23.474545373708597, 120.5089251412822<br>地下樓層數: 1<br>可容納人數: 173<br>備註: 嘉義市東區盧厝里紅毛埤路5之1號]]></description>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MNA0494<br>村里別: 盧厝里<br>地址: 23.474545373708597, 120.5089251412822<br>地下樓層數: 1<br>可容納人數: 173<br>備註: 嘉義市東區盧厝里紅毛埤5號之2]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -92804,7 +90716,7 @@
             <value>173.0</value>
           </Data>
           <Data name="備註">
-            <value>嘉義市東區盧厝里紅毛埤路5之1號</value>
+            <value>嘉義市東區盧厝里紅毛埤5號之2</value>
           </Data>
         </ExtendedData>
       </Placemark>
@@ -94757,35 +92669,6 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區興南里吳鳳南路75號</address>
-        <description><![CDATA[類別: 新南派出所<br>電腦編號: MNA0429<br>村里別: 興南里<br>地址: 嘉義市東區興南里吳鳳南路75號<br>地下樓層數: 1<br>可容納人數: 88<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>新南派出所</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA0429</value>
-          </Data>
-          <Data name="村里別">
-            <value>興南里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區興南里吳鳳南路75號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>88.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
         <address>嘉義市東區興南里吳鳳南路91號</address>
         <description><![CDATA[類別: 中油招待所<br>電腦編號: MNA0222<br>村里別: 興南里<br>地址: 嘉義市東區興南里吳鳳南路91號<br>地下樓層數: 1<br>可容納人數: 152<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
@@ -94836,35 +92719,6 @@
           </Data>
           <Data name="可容納人數">
             <value>56.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區興南里垂楊路223號</address>
-        <description><![CDATA[類別: 臺灣電力公司嘉義營業處<br>電腦編號: MNA0425<br>村里別: 興南里<br>地址: 嘉義市東區興南里垂楊路223號<br>地下樓層數: 1<br>可容納人數: 1202<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>臺灣電力公司嘉義營業處</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA0425</value>
-          </Data>
-          <Data name="村里別">
-            <value>興南里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區興南里垂楊路223號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>1202.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -96294,8 +94148,8 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區蘭潭里大雅路565號</address>
-        <description><![CDATA[類別: 聖馬爾定醫院<br>電腦編號: MNA0539<br>村里別: 蘭潭里<br>地址: 嘉義市東區蘭潭里大雅路565號<br>地下樓層數: 1<br>可容納人數: 208<br>備註: ]]></description>
+        <address>嘉義市東區蘭潭里大雅路二段565號</address>
+        <description><![CDATA[類別: 聖馬爾定醫院<br>電腦編號: MNA0539<br>村里別: 蘭潭里<br>地址: 嘉義市東區蘭潭里大雅路二段565號<br>地下樓層數: 1<br>可容納人數: 208<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -96308,7 +94162,7 @@
             <value>蘭潭里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區蘭潭里大雅路565號</value>
+            <value>嘉義市東區蘭潭里大雅路二段565號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -96730,11 +94584,11 @@
       <Placemark>
         <name>第二分局</name>
         <address>嘉義市東區東興里維新路58號</address>
-        <description><![CDATA[類別: 一般住宅<br>電腦編號: MNA0698<br>村里別: 東興里<br>地址: 嘉義市東區東興里維新路58號<br>地下樓層數: 1<br>可容納人數: 203<br>備註: ]]></description>
+        <description><![CDATA[類別: 住宅<br>電腦編號: MNA0698<br>村里別: 東興里<br>地址: 嘉義市東區東興里維新路58號<br>地下樓層數: 1<br>可容納人數: 203<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>一般住宅</value>
+            <value>住宅</value>
           </Data>
           <Data name="電腦編號">
             <value>MNA0698</value>
@@ -96788,11 +94642,11 @@
       <Placemark>
         <name>第二分局</name>
         <address>嘉義市東區中央里中山路260號</address>
-        <description><![CDATA[類別: 吳鳳幼兒園<br>電腦編號: MNA0701<br>村里別: 中央里<br>地址: 嘉義市東區中央里中山路260號<br>地下樓層數: 1<br>可容納人數: 747<br>備註: ]]></description>
+        <description><![CDATA[類別: 學校(幼兒園)<br>電腦編號: MNA0701<br>村里別: 中央里<br>地址: 嘉義市東區中央里中山路260號<br>地下樓層數: 1<br>可容納人數: 747<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>吳鳳幼兒園</value>
+            <value>學校(幼兒園)</value>
           </Data>
           <Data name="電腦編號">
             <value>MNA0701</value>
@@ -96901,9 +94755,181 @@
           </Data>
         </ExtendedData>
       </Placemark>
-    </Folder>
-    <Folder>
-      <name>(未命名的圖層)</name>
+      <Placemark>
+        <name>第二分局</name>
+        <address>23.462958080487166, 120.4523878519479</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MNA0695<br><br>村里別: 安業街<br>地址: 23.462958080487166, 120.4523878519479<br>地下樓層數: 1<br>可容納人數: 1316<br>備註: 嘉義市東區安業里安業街30巷31號]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>MNA0695
+</value>
+          </Data>
+          <Data name="村里別">
+            <value>安業街</value>
+          </Data>
+          <Data name="地址">
+            <value>23.462958080487166, 120.4523878519479</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1316.0</value>
+          </Data>
+          <Data name="備註">
+            <value>嘉義市東區安業里安業街30巷31號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第二分局</name>
+        <address>23.45912964147514, 120.44967132438192</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MNA0696<br>村里別: 興安里<br>地址: 23.45912964147514, 120.44967132438192<br>地下樓層數: 1<br>可容納人數: 2537<br>備註: 嘉義市東區興安里興美七街132號]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>MNA0696</value>
+          </Data>
+          <Data name="村里別">
+            <value>興安里</value>
+          </Data>
+          <Data name="地址">
+            <value>23.45912964147514, 120.44967132438192</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2537.0</value>
+          </Data>
+          <Data name="備註">
+            <value>嘉義市東區興安里興美七街132號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第二分局</name>
+        <address>嘉義市東區華南里光彩街69號</address>
+        <description><![CDATA[類別: 學校<br>電腦編號: MNA0705<br>村里別: 華南里<br>地址: 嘉義市東區華南里光彩街69號<br>地下樓層數: 1<br>可容納人數: 2583<br>備註: ]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>學校</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>MNA0705</value>
+          </Data>
+          <Data name="村里別">
+            <value>華南里</value>
+          </Data>
+          <Data name="地址">
+            <value>嘉義市東區華南里光彩街69號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2583.0</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第二分局</name>
+        <address>嘉義市東區華南里光彩街202之1號</address>
+        <description><![CDATA[類別: 住宅<br>電腦編號: MNA0708<br>村里別: 華南里<br>地址: 嘉義市東區華南里光彩街202之1號<br>地下樓層數: 1<br>可容納人數: 117<br>備註: ]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>住宅</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>MNA0708</value>
+          </Data>
+          <Data name="村里別">
+            <value>華南里</value>
+          </Data>
+          <Data name="地址">
+            <value>嘉義市東區華南里光彩街202之1號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>117.0</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第二分局</name>
+        <address>嘉義市東區林森里忠孝路306號</address>
+        <description><![CDATA[類別: 飯店<br>電腦編號: MNA0707<br>村里別: 林森里<br>地址: 嘉義市東區林森里忠孝路306號<br>地下樓層數: 1<br>可容納人數: 6162<br>備註: ]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>飯店</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>MNA0707</value>
+          </Data>
+          <Data name="村里別">
+            <value>林森里</value>
+          </Data>
+          <Data name="地址">
+            <value>嘉義市東區林森里忠孝路306號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>6162.0</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第二分局</name>
+        <address>嘉義市東區太平里長榮街11號</address>
+        <description><![CDATA[類別: 住宅<br>電腦編號: MNA0706<br>村里別: 太平里<br>地址: 嘉義市東區太平里長榮街11號<br>地下樓層數: 1<br>可容納人數: 373<br>備註: ]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>住宅</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>MNA0706</value>
+          </Data>
+          <Data name="村里別">
+            <value>太平里</value>
+          </Data>
+          <Data name="地址">
+            <value>嘉義市東區太平里長榮街11號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>373.0</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
