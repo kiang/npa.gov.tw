@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹縣芎林鄉芎林村文仁路30號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新竹縣]\tT:1,V:1,R:2,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(-14),E:-1,N:-1",
+      "OutTraceInfo": "[新竹縣]\t { 模糊比對 } (芎林鄉)\t找到符合的[鄉鎮市區]，(芎林村)\t找到符合的[村里]，(文仁路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，轉換搜尋找到符合的[路街名]，(30號)\t進行[雙號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -14 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹縣芎林鄉芎林村16鄰文仁街16號",
+      "COUNTY": "新竹縣",
+      "TOWN": "芎林鄉",
+      "VILLAGE": "芎林村",
+      "NEIGHBORHOOD": "16鄰",
+      "ROAD": "文仁街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "16號",
+      "X": 121.077161,
+      "Y": 24.776564,
+      "CODEBASE": "A0407-0080-00",
+      "CODE1": "A0407-05-002",
+      "CODE2": "A0407-05"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹縣竹北市聯興里聯興三街128號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新竹縣]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+260)(-28),E:-1,N:-1",
+      "OutTraceInfo": "[新竹縣]\t { 模糊比對 } (竹北市)\t找到符合的[鄉鎮市區]，(聯興里)\t找到符合的[村里]，(聯興三街)\t找到符合的[路街名]，(128號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +260 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -28 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹縣竹北市聯興里11鄰聯興三街100號",
+      "COUNTY": "新竹縣",
+      "TOWN": "竹北市",
+      "VILLAGE": "聯興里",
+      "NEIGHBORHOOD": "11鄰",
+      "ROAD": "聯興三街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "100號",
+      "X": 120.990307,
+      "Y": 24.850294,
+      "CODEBASE": "A0401-0126-00",
+      "CODE1": "A0401-05-001",
+      "CODE2": "A0401-05"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹縣竹北市聯興里12鄰聯興三街388號",
+      "COUNTY": "新竹縣",
+      "TOWN": "竹北市",
+      "VILLAGE": "聯興里",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "聯興三街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "388號",
+      "X": 120.985938,
+      "Y": 24.852018,
+      "CODEBASE": "A0401-0118-00",
+      "CODE1": "A0401-05-001",
+      "CODE2": "A0401-05"
+    }
+  ]
+}

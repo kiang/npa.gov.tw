@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "高雄市小港區鳳林里13鄰鳳林路166巷13號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[高雄市]\tT:1,V:1,R:1,S:-1,L:0,A:-1,SA:-1,T:-1,AR:-1,NO:0(-6),E:-1,N:-1",
+      "OutTraceInfo": "[高雄市]\t { 模糊比對 } (小港區)\t找到符合的[鄉鎮市區]，(鳳林里)\t找到符合的[村里]，(鳳林路)\t找到符合的[路街名]，(166巷)\t找不到符合的[巷]，(166)\t找不到符合的[門牌號碼]，進行轉換搜尋[巷視為號]，進行[雙號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -6 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "高雄市小港區鳳林里3鄰鳳林路160號",
+      "COUNTY": "高雄市",
+      "TOWN": "小港區",
+      "VILLAGE": "鳳林里",
+      "NEIGHBORHOOD": "3鄰",
+      "ROAD": "鳳林路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "160號",
+      "X": 120.344303,
+      "Y": 22.527431,
+      "CODEBASE": "A6411-0662-00",
+      "CODE1": "A6411-71-003",
+      "CODE2": "A6411-71"
+    }
+  ]
+}

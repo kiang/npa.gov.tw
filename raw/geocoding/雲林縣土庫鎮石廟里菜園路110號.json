@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "雲林縣土庫鎮石廟里菜園路110號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[雲林縣]\tT:1,V:1,R:2,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+66),E:-1,N:-1",
+      "OutTraceInfo": "[雲林縣]\t { 模糊比對 } (土庫鎮)\t找到符合的[鄉鎮市區]，(石廟里)\t找到符合的[村里]，(菜園路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，轉換搜尋找到符合的[路街名]，(110號)\t進行[雙號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +66 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "雲林縣土庫鎮石廟里8鄰菜園街176號",
+      "COUNTY": "雲林縣",
+      "TOWN": "土庫鎮",
+      "VILLAGE": "石廟里",
+      "NEIGHBORHOOD": "8鄰",
+      "ROAD": "菜園街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "176號",
+      "X": 120.389650,
+      "Y": 23.680750,
+      "CODEBASE": "A0905-0186-00",
+      "CODE1": "A0905-06-007",
+      "CODE2": "A0905-06"
+    }
+  ]
+}

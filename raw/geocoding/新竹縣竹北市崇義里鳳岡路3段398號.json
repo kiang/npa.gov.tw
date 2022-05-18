@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹縣竹北市崇義里鳳岡路3段398號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "完全比對",
+      "OutMatchCode": "[新竹縣]\tFULL:1",
+      "OutTraceInfo": "[新竹縣]\t { 完全比對 } 找到符合的門牌地址"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹縣竹北市崇義里12鄰鳳岡路三段398號",
+      "COUNTY": "新竹縣",
+      "TOWN": "竹北市",
+      "VILLAGE": "崇義里",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "鳳岡路",
+      "SECTION": "3",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "398號",
+      "X": 120.959160,
+      "Y": 24.862183,
+      "CODEBASE": "A0401-0045-00",
+      "CODE1": "A0401-01-011",
+      "CODE2": "A0401-01"
+    }
+  ]
+}

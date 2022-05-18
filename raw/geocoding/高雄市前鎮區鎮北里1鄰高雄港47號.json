@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "高雄市前鎮區鎮北里1鄰高雄港47號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[高雄市]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:0",
+      "OutTraceInfo": "[高雄市]\t { 模糊比對 } (前鎮區)\t找到符合的[鄉鎮市區]，(鎮北里)\t找到符合的[村里]，(高雄港)\t找不到符合的[地區]，轉換搜尋找不到符合的[地區]，(47號)\t找到符合的[門牌號碼]，進行[單號過濾]，(1鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "高雄市前鎮區鎮北里11鄰鎮旺街47號",
+      "COUNTY": "高雄市",
+      "TOWN": "前鎮區",
+      "VILLAGE": "鎮北里",
+      "NEIGHBORHOOD": "11鄰",
+      "ROAD": "鎮旺街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "47號",
+      "X": 120.306366,
+      "Y": 22.590460,
+      "CODEBASE": "A6409-0512-00",
+      "CODE1": "A6409-66-001",
+      "CODE2": "A6409-66"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "高雄市前鎮區鎮北里16鄰擴建一路47號",
+      "COUNTY": "高雄市",
+      "TOWN": "前鎮區",
+      "VILLAGE": "鎮北里",
+      "NEIGHBORHOOD": "16鄰",
+      "ROAD": "擴建一路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "47號",
+      "X": 120.306728,
+      "Y": 22.591493,
+      "CODEBASE": "A6409-0496-00",
+      "CODE1": "A6409-64-002",
+      "CODE2": "A6409-64"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市內湖區安康路32巷4弄11號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺北市]\tT:1,V:-1,R:1,S:-1,L:1,A:0,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺北市]\t { 模糊比對 } (內湖區)\t找到符合的[鄉鎮市區]，(安康路)\t找到符合的[路街名]，(32巷)\t找到符合的[巷]，(4弄)\t找不到符合的[弄]，(11號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市內湖區石潭里4鄰安康路32巷24弄11號",
+      "COUNTY": "臺北市",
+      "TOWN": "內湖區",
+      "VILLAGE": "石潭里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "安康路",
+      "SECTION": "",
+      "LANE": "32巷",
+      "ALLEY": "24弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "11號",
+      "X": 121.594314,
+      "Y": 25.062010,
+      "CODEBASE": "A6310-1138-00",
+      "CODE1": "A6310-75-011",
+      "CODE2": "A6310-75"
+    }
+  ]
+}
