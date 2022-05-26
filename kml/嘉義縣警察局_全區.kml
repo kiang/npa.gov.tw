@@ -6379,7 +6379,7 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 174<br>村里別: 北斗村<br>地址: 嘉義縣民雄鄉北斗村民雄工業區中興一街7號<br>地下層數: 地下1層<br>可容納人數: 138<br>定位點: 23.51731, 120.45213<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 174<br>村里別: 北斗村<br>地址: 嘉義縣民雄鄉北斗村民雄工業區中興一街7號<br>地下層數: 地下1層<br>可容納人數: 138<br>定位點: 23.5175658, 120.4518511<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -6401,7 +6401,7 @@
             <value>138</value>
           </Data>
           <Data name="定位點">
-            <value>23.51731, 120.45213</value>
+            <value>23.5175658, 120.4518511</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -6409,7 +6409,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.45213,23.51731,0
+            120.4518511,23.5175658,0
           </coordinates>
         </Point>
       </Placemark>
@@ -6451,7 +6451,7 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 176<br>村里別: 福樂村<br>地址: 嘉義縣民雄鄉福樂村民雄工業區成功三街3號<br>地下層數: 地下1層<br>可容納人數: 441<br>定位點: 23.52058, 120.44917<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 176<br>村里別: 福樂村<br>地址: 嘉義縣民雄鄉福樂村民雄工業區成功三街3號<br>地下層數: 地下1層<br>可容納人數: 441<br>定位點: 23.5204656, 120.4497306<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -6473,7 +6473,7 @@
             <value>441</value>
           </Data>
           <Data name="定位點">
-            <value>23.52058, 120.44917</value>
+            <value>23.5204656, 120.4497306</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -6481,7 +6481,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.44917,23.52058,0
+            120.4497306,23.5204656,0
           </coordinates>
         </Point>
       </Placemark>
@@ -22183,7 +22183,7 @@
       </Placemark>
       <Placemark>
         <name>竹崎分局</name>
-        <description><![CDATA[類別: 金融機構<br>編號: 615<br>村里別: 竹崎村<br>地址: 嘉義縣竹崎鄉竹崎村中山路221-1號<br>地下層數: 地下1層<br>可容納人數: 304<br>定位點: 23.51909, 120.5495<br>備考: 不對外開放]]></description>
+        <description><![CDATA[類別: 金融機構<br>編號: 615<br>村里別: 竹崎村<br>地址: 嘉義縣竹崎鄉竹崎村中山路221-1號<br>地下層數: 地下1層<br>可容納人數: 211<br>定位點: 23.5191097, 120.5495697<br>備考: 不對外開放]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -22202,10 +22202,10 @@
             <value>地下1層</value>
           </Data>
           <Data name="可容納人數">
-            <value>304</value>
+            <value>211</value>
           </Data>
           <Data name="定位點">
-            <value>23.51909, 120.5495</value>
+            <value>23.5191097, 120.5495697</value>
           </Data>
           <Data name="備考">
             <value>不對外開放</value>
@@ -22213,7 +22213,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.5495,23.51909,0
+            120.5495697,23.5191097,0
           </coordinates>
         </Point>
       </Placemark>
@@ -22579,7 +22579,7 @@
       </Placemark>
       <Placemark>
         <name>竹崎分局</name>
-        <description><![CDATA[類別: 金融機構<br>編號: 626<br>村里別: 梅南村<br>地址: 嘉義縣梅山鄉梅南村中山路125號<br>地下層數: 地下1層<br>可容納人數: 222<br>定位點: 23.58159, 120.55878<br>備考: 不對外開放]]></description>
+        <description><![CDATA[類別: 金融機構<br>編號: 626<br>村里別: 梅南村<br>地址: 嘉義縣梅山鄉梅南村中山路125號<br>地下層數: 地下1層<br>可容納人數: 223<br>定位點: 23.58159, 120.55878<br>備考: 不對外開放]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -22598,7 +22598,7 @@
             <value>地下1層</value>
           </Data>
           <Data name="可容納人數">
-            <value>222</value>
+            <value>223</value>
           </Data>
           <Data name="定位點">
             <value>23.58159, 120.55878</value>
@@ -22615,7 +22615,7 @@
       </Placemark>
       <Placemark>
         <name>竹崎分局</name>
-        <description><![CDATA[類別: 金融機構<br>編號: 627<br>村里別: 梅南村<br>地址: 嘉義縣梅山鄉梅南村中山路109號<br>地下層數: 地下1層<br>可容納人數: 105<br>定位點: 23.58071, 120.55897<br>備考: 不對外開放]]></description>
+        <description><![CDATA[類別: 金融機構<br>編號: 627<br>村里別: 梅南村<br>地址: 嘉義縣梅山鄉梅南村中山路109號<br>地下層數: 地下1層<br>可容納人數: 114<br>定位點: 23.58071, 120.55897<br>備考: 不對外開放]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -22634,7 +22634,7 @@
             <value>地下1層</value>
           </Data>
           <Data name="可容納人數">
-            <value>105</value>
+            <value>114</value>
           </Data>
           <Data name="定位點">
             <value>23.58071, 120.55897</value>
@@ -23227,7 +23227,7 @@
       </Placemark>
       <Placemark>
         <name>中埔分局</name>
-        <description><![CDATA[類別: 政府機關<br>編號: 644<br>村里別: 大埔村<br>地址: 嘉義縣大埔鄉大埔村162之1號<br>地下層數: 地下1樓<br>可容納人數: 722<br>定位點: 23.29639, 120.58784<br>備考: ]]></description>
+        <description><![CDATA[類別: 政府機關<br>編號: 644<br>村里別: 大埔村<br>地址: 嘉義縣大埔鄉大埔村162之9號<br>地下層數: 地下1樓<br>可容納人數: 723<br>定位點: 23.2986367, 120.593773<br>備考: ]]></description>
         <styleUrl>#icon-1899-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -23240,16 +23240,16 @@
             <value>大埔村</value>
           </Data>
           <Data name="地址">
-            <value>嘉義縣大埔鄉大埔村162之1號</value>
+            <value>嘉義縣大埔鄉大埔村162之9號</value>
           </Data>
           <Data name="地下層數">
             <value>地下1樓</value>
           </Data>
           <Data name="可容納人數">
-            <value>722</value>
+            <value>723</value>
           </Data>
           <Data name="定位點">
-            <value>23.29639, 120.58784</value>
+            <value>23.2986367, 120.593773</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -23257,13 +23257,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.58784,23.29639,0
+            120.593773,23.2986367,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>中埔分局</name>
-        <description><![CDATA[類別: 市場<br>編號: 645<br>村里別: 大埔村<br>地址: 嘉義縣大埔鄉大埔村148號<br>地下層數: 地下1樓<br>可容納人數: 246<br>定位點: 23.29909, 120.59387<br>備考: ]]></description>
+        <description><![CDATA[類別: 市場<br>編號: 645<br>村里別: 大埔村<br>地址: 嘉義縣大埔鄉大埔村148號<br>地下層數: 地下1樓<br>可容納人數: 246<br>定位點: 23.2990703, 120.5938807<br>備考: ]]></description>
         <styleUrl>#icon-1899-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -23285,7 +23285,7 @@
             <value>246</value>
           </Data>
           <Data name="定位點">
-            <value>23.29909, 120.59387</value>
+            <value>23.2990703, 120.5938807</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -23293,13 +23293,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.59387,23.29909,0
+            120.5938807,23.2990703,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>中埔分局</name>
-        <description><![CDATA[類別: 金融機構<br>編號: 646<br>村里別: 大埔村<br>地址: 嘉義縣大埔鄉大埔村257號<br>地下層數: 地下1樓<br>可容納人數: 101<br>定位點: 23.29918, 120.59349<br>備考: 不對外開放]]></description>
+        <description><![CDATA[類別: 金融機構<br>編號: 646<br>村里別: 大埔村<br>地址: 嘉義縣大埔鄉大埔村257號<br>地下層數: 地下1樓<br>可容納人數: 101<br>定位點: 23.2991948, 120.5934685<br>備考: 不對外開放]]></description>
         <styleUrl>#icon-1899-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -23321,7 +23321,7 @@
             <value>101</value>
           </Data>
           <Data name="定位點">
-            <value>23.29918, 120.59349</value>
+            <value>23.2991948, 120.5934685</value>
           </Data>
           <Data name="備考">
             <value>不對外開放</value>
@@ -23329,13 +23329,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.59349,23.29918,0
+            120.5934685,23.2991948,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>中埔分局</name>
-        <description><![CDATA[類別: 政府機關<br>編號: 647<br>村里別: 大埔村<br>地址: 嘉義縣大埔鄉大埔村162之9號<br>地下層數: 地下1樓<br>可容納人數: 122<br>定位點: 23.29477, 120.59357<br>備考: ]]></description>
+        <description><![CDATA[類別: 政府機關<br>編號: 647<br>村里別: 大埔村<br>地址: 嘉義縣大埔鄉大埔村162之6號<br>地下層數: 地下1樓<br>可容納人數: 122<br>定位點: 23.2947897, 120.5935915<br>備考: ]]></description>
         <styleUrl>#icon-1899-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -23348,7 +23348,7 @@
             <value>大埔村</value>
           </Data>
           <Data name="地址">
-            <value>嘉義縣大埔鄉大埔村162之9號</value>
+            <value>嘉義縣大埔鄉大埔村162之6號</value>
           </Data>
           <Data name="地下層數">
             <value>地下1樓</value>
@@ -23357,7 +23357,7 @@
             <value>122</value>
           </Data>
           <Data name="定位點">
-            <value>23.29477, 120.59357</value>
+            <value>23.2947897, 120.5935915</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -23365,13 +23365,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.59357,23.29477,0
+            120.5935915,23.2947897,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>中埔分局</name>
-        <description><![CDATA[類別: 飯店<br>編號: 648<br>村里別: 大埔村<br>地址: 嘉義縣大埔鄉大埔村162之1號<br>地下層數: 地下1樓<br>可容納人數: 257<br>定位點: 23.29639, 120.58784<br>備考: ]]></description>
+        <description><![CDATA[類別: 飯店<br>編號: 648<br>村里別: 大埔村<br>地址: 嘉義縣大埔鄉大埔村200之1號<br>地下層數: 地下1樓<br>可容納人數: 258<br>定位點: 23.2962028, 120.5877059<br>備考: ]]></description>
         <styleUrl>#icon-1899-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -23384,16 +23384,16 @@
             <value>大埔村</value>
           </Data>
           <Data name="地址">
-            <value>嘉義縣大埔鄉大埔村162之1號</value>
+            <value>嘉義縣大埔鄉大埔村200之1號</value>
           </Data>
           <Data name="地下層數">
             <value>地下1樓</value>
           </Data>
           <Data name="可容納人數">
-            <value>257</value>
+            <value>258</value>
           </Data>
           <Data name="定位點">
-            <value>23.29639, 120.58784</value>
+            <value>23.2962028, 120.5877059</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -23401,7 +23401,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.58784,23.29639,0
+            120.5877059,23.2962028,0
           </coordinates>
         </Point>
       </Placemark>
@@ -25490,6 +25490,78 @@
         <Point>
           <coordinates>
             120.42989,23.5177817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民雄分局</name>
+        <description><![CDATA[類別: 工廠行號<br>編號: <br>村里別: 北斗村<br>地址: 嘉義縣民雄鄉民雄工業區北斗村中興一街6號<br>地下層數: 地下一層<br>可容納人數: 70<br>定位點: 23.5180044, 120.4550378<br>備考: ]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>工廠行號</value>
+          </Data>
+          <Data name="編號">
+            <value/>
+          </Data>
+          <Data name="村里別">
+            <value>北斗村</value>
+          </Data>
+          <Data name="地址">
+            <value>嘉義縣民雄鄉民雄工業區北斗村中興一街6號</value>
+          </Data>
+          <Data name="地下層數">
+            <value>地下一層</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>70</value>
+          </Data>
+          <Data name="定位點">
+            <value>23.5180044, 120.4550378</value>
+          </Data>
+          <Data name="備考">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.4550378,23.5180044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民雄分局</name>
+        <description><![CDATA[類別: 工廠行號<br>編號: <br>村里別: 北斗村<br>地址: 嘉義縣民雄鄉民雄工業區北斗村中興一街6號<br>地下層數: 地下一層<br>可容納人數: 43<br>定位點: 23.5177683, 120.4541526<br>備考: ]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>工廠行號</value>
+          </Data>
+          <Data name="編號">
+            <value/>
+          </Data>
+          <Data name="村里別">
+            <value>北斗村</value>
+          </Data>
+          <Data name="地址">
+            <value>嘉義縣民雄鄉民雄工業區北斗村中興一街6號</value>
+          </Data>
+          <Data name="地下層數">
+            <value>地下一層</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>43</value>
+          </Data>
+          <Data name="定位點">
+            <value>23.5177683, 120.4541526</value>
+          </Data>
+          <Data name="備考">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.4541526,23.5177683,0
           </coordinates>
         </Point>
       </Placemark>

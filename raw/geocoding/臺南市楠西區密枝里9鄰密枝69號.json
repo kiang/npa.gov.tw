@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺南市楠西區密枝里9鄰密枝69號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺南市]\tT:1,V:1,R:-1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:1,NO:1,E:-1,N:1",
+      "OutTraceInfo": "[臺南市]\t { 模糊比對 } (楠西區)\t找到符合的[鄉鎮市區]，(密枝里)\t找到符合的[村里]，(密枝)\t找到符合的[地區]，(69號)\t找到符合的[門牌號碼]，進行[單號過濾]，進行[找最小門牌的號之、之號]，(9鄰)\t找到符合的[鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺南市楠西區密枝里9鄰密枝69號之2",
+      "COUNTY": "臺南市",
+      "TOWN": "楠西區",
+      "VILLAGE": "密枝里",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "密枝",
+      "NUMBER": "69號之2",
+      "X": 120.495318,
+      "Y": 23.218190,
+      "CODEBASE": "A6724-0004-00",
+      "CODE1": "A6724-04-001",
+      "CODE2": "A6724-04"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺南市楠西區密枝里9鄰密枝69號之3",
+      "COUNTY": "臺南市",
+      "TOWN": "楠西區",
+      "VILLAGE": "密枝里",
+      "NEIGHBORHOOD": "9鄰",
+      "ROAD": "",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "密枝",
+      "NUMBER": "69號之3",
+      "X": 120.495403,
+      "Y": 23.218419,
+      "CODEBASE": "A6724-0004-00",
+      "CODE1": "A6724-04-001",
+      "CODE2": "A6724-04"
+    }
+  ]
+}

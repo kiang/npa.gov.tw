@@ -180,7 +180,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>基隆市仁愛區獅球路169巷5弄11號</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 獅球002<br>村里別: 獅球里<br>地址: 基隆市仁愛區獅球路169巷5弄11號<br>地下樓層數: 1<br>可容納人數: 48<br>備註: ]]></description>
         <styleUrl>#icon-1899-558B2F</styleUrl>
         <ExtendedData>
@@ -206,6 +205,11 @@
             <value/>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            121.7368441,25.1236418,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>第一分局</name>
@@ -3312,7 +3316,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>基隆市仁愛區仁一路295號</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 和明001<br>村里別: 和明里<br>地址: 基隆市仁愛區仁一路295號<br>地下樓層數: 1<br>可容納人數: 356<br>備註: ]]></description>
         <styleUrl>#icon-1899-558B2F</styleUrl>
         <ExtendedData>
@@ -3338,6 +3341,11 @@
             <value/>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            121.7468024,25.1288572,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>第一分局</name>
@@ -11957,12 +11965,12 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>基隆市警察局 義重002 義重里 基隆市中正區義二路227號 253 第二分局</address>
-        <description><![CDATA[類別: 基隆市警察局<br>電腦編號: 義重002<br>村里別: 義重里<br>地址: 基隆市中正區義二路227號<br>地下樓層數: 1<br>可容納人數: 253<br>備註: ]]></description>
+        <address>公寓 義重002 義重里 基隆市中正區義二路227號 253 第二分局</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 義重002<br>村里別: 義重里<br>地址: 基隆市中正區義二路227號<br>地下樓層數: 1<br>可容納人數: 253<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>基隆市警察局</value>
+            <value>公寓</value>
           </Data>
           <Data name="電腦編號">
             <value>義重002</value>
@@ -12073,12 +12081,12 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>公寓 德義004 德義里 基隆市中正區信二路299號 2912 第二分局</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: 德義004<br>村里別: 德義里<br>地址: 基隆市中正區信二路299號<br>地下樓層數: 1<br>可容納人數: 2912<br>備註: ]]></description>
+        <address>信二路公有停車場 德義004 德義里 基隆市中正區信二路299號 2912 第二分局</address>
+        <description><![CDATA[類別: 信二路公有停車場<br>電腦編號: 德義004<br>村里別: 德義里<br>地址: 基隆市中正區信二路299號<br>地下樓層數: 1<br>可容納人數: 2912<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>公寓</value>
+            <value>信二路公有停車場</value>
           </Data>
           <Data name="電腦編號">
             <value>德義004</value>
@@ -13378,12 +13386,12 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>基隆市政府 義幸005 義幸里 基隆市信義區信二路135號 453 第二分局</address>
-        <description><![CDATA[類別: 基隆市政府<br>電腦編號: 義幸005<br>村里別: 義幸里<br>地址: 基隆市信義區信二路135號<br>地下樓層數: 1<br>可容納人數: 453<br>備註: ]]></description>
+        <address>公寓 義幸005 義幸里 基隆市信義區信二路135號 453 第二分局</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 義幸005<br>村里別: 義幸里<br>地址: 基隆市信義區信二路135號<br>地下樓層數: 1<br>可容納人數: 453<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>基隆市政府</value>
+            <value>公寓</value>
           </Data>
           <Data name="電腦編號">
             <value>義幸005</value>
@@ -13610,12 +13618,12 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>基隆市政府 義昭001 義昭里 基隆市信義區信二路242號 706 第二分局</address>
-        <description><![CDATA[類別: 基隆市政府<br>電腦編號: 義昭001<br>村里別: 義昭里<br>地址: 基隆市信義區信二路242號<br>地下樓層數: 1<br>可容納人數: 706<br>備註: ]]></description>
+        <address>公寓 義昭001 義昭里 基隆市信義區信二路242號 706 第二分局</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 義昭001<br>村里別: 義昭里<br>地址: 基隆市信義區信二路242號<br>地下樓層數: 1<br>可容納人數: 706<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>基隆市政府</value>
+            <value>公寓</value>
           </Data>
           <Data name="電腦編號">
             <value>義昭001</value>
@@ -15089,6 +15097,7 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
+        <address>公寓 中濱004 中濱里 基隆市中正區中正路381號 513 第二分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中濱004<br>村里別: 中濱里<br>地址: 基隆市中正區中正路381號<br>地下樓層數: 1<br>可容納人數: 513<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
@@ -15114,11 +15123,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.76522,25.1503568,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第二分局</name>
@@ -18225,7 +18229,6 @@
       </Placemark>
       <Placemark>
         <name>第三分局</name>
-        <address>大樓 百福028 百福里 基隆市七堵區福二街328號 2057 第三分局</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: 百福028<br>村里別: 百福里<br>地址: 基隆市七堵區福二街328號<br>地下樓層數: 1<br>可容納人數: 2057]]></description>
         <styleUrl>#icon-1899-FFEA00</styleUrl>
         <ExtendedData>
@@ -18248,10 +18251,14 @@
             <value>2057</value>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            121.6957862,25.0862815,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>第三分局</name>
-        <address>大樓 百福029 百福里 基隆市七堵區福二街300號 1458 第三分局</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: 百福029<br>村里別: 百福里<br>地址: 基隆市七堵區福二街300號<br>地下樓層數: 1<br>可容納人數: 1458]]></description>
         <styleUrl>#icon-1899-FFEA00</styleUrl>
         <ExtendedData>
@@ -18274,6 +18281,11 @@
             <value>1458</value>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            121.6958648,25.0858577,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>第三分局</name>
@@ -23896,6 +23908,7 @@
       <name>第四分局</name>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 三民001 三民里 基隆市安樂區麥金路482之1號 2120 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 三民001<br>村里別: 三民里<br>地址: 基隆市安樂區麥金路482之1號<br>地下樓層數: 1<br>可容納人數: 2120<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -23921,14 +23934,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7194942,25.1259804,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 干城005 干城里 基隆市安樂區安一路346號 390 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 干城005<br>村里別: 干城里<br>地址: 基隆市安樂區安一路346號<br>地下樓層數: 1<br>可容納人數: 390<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -23954,14 +23963,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7291543,25.1337834,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 干城008 干城里 基隆市安樂區安一路348之14號 263 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 干城008<br>村里別: 干城里<br>地址: 基隆市安樂區安一路348之14號<br>地下樓層數: 2<br>可容納人數: 263<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -23987,14 +23992,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7292348,25.1337834,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 干城009 干城里 基隆市安樂區安一路348之22號 114 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 干城009<br>村里別: 干城里<br>地址: 基隆市安樂區安一路348之22號<br>地下樓層數: 1<br>可容納人數: 114<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24020,14 +24021,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7293339,25.1337955,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 干城010 干城里 基隆市安樂區安一路348之22號 114 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 干城010<br>村里別: 干城里<br>地址: 基隆市安樂區安一路348之22號<br>地下樓層數: 2<br>可容納人數: 114<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24053,14 +24050,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7292749,25.1337955,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 干城011 干城里 基隆市安樂區安一路313號 115 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 干城011<br>村里別: 干城里<br>地址: 基隆市安樂區安一路313號<br>地下樓層數: 1<br>可容納人數: 115<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24086,14 +24079,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7287895,25.1338999,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 干城012 干城里 基隆市安樂區安一路370巷22號 723 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 干城012<br>村里別: 干城里<br>地址: 基隆市安樂區安一路370巷22號<br>地下樓層數: 1<br>可容納人數: 723<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24119,19 +24108,15 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7280653,25.1348761,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
-        <description><![CDATA[類別: 公寓<br>電腦編號: 干城016<br>村里別: 干城里<br>地址: 基隆市安樂區安一路360號<br>地下樓層數: 1<br>可容納人數: 68<br>備註: ]]></description>
+        <address>安樂高中 干城016 干城里 基隆市安樂區安一路360號 68 第四分局</address>
+        <description><![CDATA[類別: 安樂高中<br>電腦編號: 干城016<br>村里別: 干城里<br>地址: 基隆市安樂區安一路360號<br>地下樓層數: 1<br>可容納人數: 68<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>公寓</value>
+            <value>安樂高中</value>
           </Data>
           <Data name="電腦編號">
             <value>干城016</value>
@@ -24152,14 +24137,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7293957,25.1343273,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 干城018 干城里 基隆市安樂區安一路329號 422 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 干城018<br>村里別: 干城里<br>地址: 基隆市安樂區安一路329號<br>地下樓層數: 2<br>可容納人數: 422<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24185,14 +24166,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7285159,25.1341525,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 干城019 干城里 基隆市安樂區安一路370巷1之5號 2235 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 干城019<br>村里別: 干城里<br>地址: 基隆市安樂區安一路370巷1之5號<br>地下樓層數: 1<br>可容納人數: 2235<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24218,14 +24195,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7274592,25.1342739,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中山001 中山里 基隆市中山區中山一路207號 71 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中山001<br>村里別: 中山里<br>地址: 基隆市中山區中山一路207號<br>地下樓層數: 1<br>可容納人數: 71<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24251,14 +24224,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7393762,25.1342174,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中山002 中山里 基隆市中山區中山一路153號 38 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中山002<br>村里別: 中山里<br>地址: 基隆市中山區中山一路153號<br>地下樓層數: 1<br>可容納人數: 38<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24284,14 +24253,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7386681,25.1331879,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中山003 中山里 基隆市中山區中山一路205號 53 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中山003<br>村里別: 中山里<br>地址: 基隆市中山區中山一路205號<br>地下樓層數: 1<br>可容納人數: 53<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24317,14 +24282,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7393118,25.1341397,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中山004 中山里 基隆市中山區中山一路211之3號 158 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中山004<br>村里別: 中山里<br>地址: 基隆市中山區中山一路211之3號<br>地下樓層數: 2<br>可容納人數: 158<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24350,14 +24311,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7394392,25.1343115,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中山005 中山里 基隆市中山區中山一路155號 69 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中山005<br>村里別: 中山里<br>地址: 基隆市中山區中山一路155號<br>地下樓層數: 1<br>可容納人數: 69<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24383,14 +24340,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7387432,25.133217,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中山006 中山里 基隆市中山區中山一路113巷10號 424 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中山006<br>村里別: 中山里<br>地址: 基隆市中山區中山一路113巷10號<br>地下樓層數: 1<br>可容納人數: 424<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24416,14 +24369,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7380395,25.132593,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中和002 中和里 基隆市中山區中和路70巷1號 313 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中和002<br>村里別: 中和里<br>地址: 基隆市中山區中和路70巷1號<br>地下樓層數: 1<br>可容納人數: 313<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24449,14 +24398,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.719407,25.1472887,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>中和國小 中和003 中和里 基隆市中山區中和路64號 402 第四分局</address>
         <description><![CDATA[類別: 中和國小<br>電腦編號: 中和003<br>村里別: 中和里<br>地址: 基隆市中山區中和路64號<br>地下樓層數: 1<br>可容納人數: 402<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24482,11 +24427,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7202197,25.1466236,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -24519,6 +24459,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中和005 中和里 基隆市中山區中和路10號 158 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中和005<br>村里別: 中和里<br>地址: 基隆市中山區中和路10號<br>地下樓層數: 1<br>可容納人數: 158<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24544,11 +24485,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.724632,25.1439186,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -24581,6 +24517,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中崙002 中崙里 基隆市安樂區武訓街16號 37 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中崙002<br>村里別: 中崙里<br>地址: 基隆市安樂區武訓街16號<br>地下樓層數: 1<br>可容納人數: 37<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24606,14 +24543,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.6999945,25.1429489,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中崙003 中崙里 基隆市安樂區武訓街28號 693 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中崙003<br>村里別: 中崙里<br>地址: 基隆市安樂區武訓街28號<br>地下樓層數: 1<br>可容納人數: 693<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24639,11 +24572,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7018461,25.1420097,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -24676,6 +24604,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中崙005 中崙里 基隆市安樂區武訓街35號 36 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中崙005<br>村里別: 中崙里<br>地址: 基隆市安樂區武訓街35號<br>地下樓層數: 1<br>可容納人數: 36<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24701,11 +24630,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.700885,25.1446485,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -24738,6 +24662,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中崙007 中崙里 基隆市安樂區武訓街45號 153 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中崙007<br>村里別: 中崙里<br>地址: 基隆市安樂區武訓街45號<br>地下樓層數: 1<br>可容納人數: 153<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24763,14 +24688,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.6998966,25.1462297,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中崙008 中崙里 基隆市安樂區武訓街43號 646 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中崙008<br>村里別: 中崙里<br>地址: 基隆市安樂區武訓街43號<br>地下樓層數: 1<br>可容納人數: 646<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24796,14 +24717,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7000452,25.1459545,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中崙009 中崙里 基隆市安樂區武訓街50號 20 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中崙009<br>村里別: 中崙里<br>地址: 基隆市安樂區武訓街50號<br>地下樓層數: 1<br>可容納人數: 20<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24829,14 +24746,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7005588,25.1462576,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中崙010 中崙里 基隆市安樂區基金二路13號 730 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中崙010<br>村里別: 中崙里<br>地址: 基隆市安樂區基金二路13號<br>地下樓層數: 2<br>可容納人數: 730<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24862,14 +24775,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7023933,25.1435443,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中崙011 中崙里 基隆市安樂區基金二路1巷174之1號 10170 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中崙011<br>村里別: 中崙里<br>地址: 基隆市安樂區基金二路1巷174之1號<br>地下樓層數: 3<br>可容納人數: 10170<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24895,14 +24804,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7004586,25.141615,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中崙012 中崙里 基隆市安樂區基金二路1巷176號 7797 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中崙012<br>村里別: 中崙里<br>地址: 基隆市安樂區基金二路1巷176號<br>地下樓層數: 2<br>可容納人數: 7797<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -24928,11 +24833,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7012614,25.1418981,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -25023,6 +24923,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中崙016 中崙里 基隆市安樂區武訓街16號 442 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中崙016<br>村里別: 中崙里<br>地址: 基隆市安樂區武訓街16號<br>地下樓層數: 1<br>可容納人數: 442<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25048,14 +24949,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.6996834,25.142643,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中崙017 中崙里 基隆市安樂區武訓街15號 173 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中崙017<br>村里別: 中崙里<br>地址: 基隆市安樂區武訓街15號<br>地下樓層數: 1<br>可容納人數: 173<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25081,11 +24978,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.6987929,25.1431625,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -25147,6 +25039,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中崙020 中崙里 基隆市安樂區基金二路1巷38之2號 594 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中崙020<br>村里別: 中崙里<br>地址: 基隆市安樂區基金二路1巷38之2號<br>地下樓層數: 1<br>可容納人數: 594<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25172,14 +25065,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7029855,25.1421491,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中興001 中興里 基隆市中山區中山二路53號 343 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中興001<br>村里別: 中興里<br>地址: 基隆市中山區中山二路53號<br>地下樓層數: 1<br>可容納人數: 343<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25205,11 +25094,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7405098,25.1380091,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -25242,6 +25126,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中興002 中興里 基隆市中山區中山二路21號 38 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中興002<br>村里別: 中興里<br>地址: 基隆市中山區中山二路21號<br>地下樓層數: 1<br>可容納人數: 38<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25267,14 +25152,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7406958,25.1373838,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中興003 中興里 基隆市中山區中山二路1巷7之1號 81 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中興003<br>村里別: 中興里<br>地址: 基隆市中山區中山二路1巷7之1號<br>地下樓層數: 1<br>可容納人數: 81<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25300,14 +25181,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7406953,25.1368343,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中興004 中興里 基隆市中山區中山二路83號 195 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中興004<br>村里別: 中興里<br>地址: 基隆市中山區中山二路83號<br>地下樓層數: 1<br>可容納人數: 195<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25333,14 +25210,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7400843,25.1387533,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中興005 中興里 基隆市中山區中山二路65巷3號 1032 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中興005<br>村里別: 中興里<br>地址: 基隆市中山區中山二路65巷3號<br>地下樓層數: 1<br>可容納人數: 1032<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25366,14 +25239,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7401344,25.1382812,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中興005 中興里 基隆市中山區中山二路35號 178 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中興005<br>村里別: 中興里<br>地址: 基隆市中山區中山二路35號<br>地下樓層數: 1<br>可容納人數: 178<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25399,11 +25268,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7407602,25.1376558,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -25465,6 +25329,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 中興008 中興里 基隆市中山區中山二路7號 568 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 中興008<br>村里別: 中興里<br>地址: 基隆市中山區中山二路7號<br>地下樓層數: 2<br>可容納人數: 568<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25490,11 +25355,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7409319,25.1370827,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -25527,6 +25387,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 五福002 五福里 基隆市安樂區樂利三街30巷3號 2408 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 五福002<br>村里別: 五福里<br>地址: 基隆市安樂區樂利三街30巷3號<br>地下樓層數: 1<br>可容納人數: 2408<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25552,14 +25413,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7117251,25.1276685,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 五福003 五福里 基隆市安樂區樂利三街30巷123號 2120 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 五福003<br>村里別: 五福里<br>地址: 基隆市安樂區樂利三街30巷123號<br>地下樓層數: 1<br>可容納人數: 2120<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25585,14 +25442,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7121435,25.1263474,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 五福004 五福里 基隆市安樂區樂利三街32巷22號 718 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 五福004<br>村里別: 五福里<br>地址: 基隆市安樂區樂利三街32巷22號<br>地下樓層數: 1<br>可容納人數: 718<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25618,14 +25471,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7125941,25.1263571,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 仁正001 仁正里 基隆市中山區中山二路105巷144號 336 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 仁正001<br>村里別: 仁正里<br>地址: 基隆市中山區中山二路105巷144號<br>地下樓層數: 1<br>可容納人數: 336<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25651,14 +25500,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7380564,25.139541,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 仁正002 仁正里 基隆市中山區中山二路107巷126號 69 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 仁正002<br>村里別: 仁正里<br>地址: 基隆市中山區中山二路107巷126號<br>地下樓層數: 1<br>可容納人數: 69<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25684,11 +25529,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7384098,25.1410129,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -25721,6 +25561,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 內寮001 內寮里 基隆市安樂區武訓街70號 177 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 內寮001<br>村里別: 內寮里<br>地址: 基隆市安樂區武訓街70號<br>地下樓層數: 1<br>可容納人數: 177<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25746,14 +25587,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.699853,25.1482566,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 內寮002 內寮里 基隆市安樂區武訓街65號 48 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 內寮002<br>村里別: 內寮里<br>地址: 基隆市安樂區武訓街65號<br>地下樓層數: 1<br>可容納人數: 48<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25779,14 +25616,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.6986993,25.1494015,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 內寮003 內寮里 基隆市安樂區武訓街51號 76 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 內寮003<br>村里別: 內寮里<br>地址: 基隆市安樂區武訓街51號<br>地下樓層數: 1<br>可容納人數: 76<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25812,11 +25645,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.6996381,25.1472601,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -25907,6 +25735,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 內寮007 內寮里 基隆市安樂區武訓街84號 2288 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 內寮007<br>村里別: 內寮里<br>地址: 基隆市安樂區武訓街84號<br>地下樓層數: 1<br>可容納人數: 2288<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25932,11 +25761,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.6984365,25.1503727,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -25969,6 +25793,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 六合001 六合里 基隆市安樂區樂利三街189號 4530 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 六合001<br>村里別: 六合里<br>地址: 基隆市安樂區樂利三街189號<br>地下樓層數: 2<br>可容納人數: 4530<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -25994,11 +25819,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7138856,25.1274051,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -26060,6 +25880,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 太白002 太白里 基隆市中山區中山四路1號 465 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 太白002<br>村里別: 太白里<br>地址: 基隆市中山區中山四路1號<br>地下樓層數: 1<br>可容納人數: 465<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26085,11 +25906,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7450062,25.1492425,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -26122,6 +25938,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 文化001 文化里 基隆市中山區文化路60之1號 55 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 文化001<br>村里別: 文化里<br>地址: 基隆市中山區文化路60之1號<br>地下樓層數: 1<br>可容納人數: 55<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26147,14 +25964,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7356996,25.1530422,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 文化003 文化里 基隆市中山區文化路185號 101 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 文化003<br>村里別: 文化里<br>地址: 基隆市中山區文化路185號<br>地下樓層數: 1<br>可容納人數: 101<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26180,14 +25993,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.731915,25.153994,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 文化004 文化里 基隆市中山區文化路189號 102 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 文化004<br>村里別: 文化里<br>地址: 基隆市中山區文化路189號<br>地下樓層數: 1<br>可容納人數: 102<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26213,14 +26022,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7318342,25.1539368,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 文化005 文化里 基隆市中山區文化路193之2號 101 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 文化005<br>村里別: 文化里<br>地址: 基隆市中山區文化路193之2號<br>地下樓層數: 1<br>可容納人數: 101<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26246,11 +26051,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7316361,25.1538119,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -26370,6 +26170,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>德和國小 文化012 文化里 基隆市中山區文化路162號 4261 第四分局</address>
         <description><![CDATA[類別: 德和國小<br>電腦編號: 文化012<br>村里別: 文化里<br>地址: 基隆市中山區文化路162號<br>地下樓層數: 1<br>可容納人數: 4261<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26395,14 +26196,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7309071,25.1538562,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>仙洞國小 仙洞001 仙洞里 基隆市中山區仁安街141號 220 第四分局</address>
         <description><![CDATA[類別: 仙洞國小<br>電腦編號: 仙洞001<br>村里別: 仙洞里<br>地址: 基隆市中山區仁安街141號<br>地下樓層數: 1<br>可容納人數: 220<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26428,14 +26225,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7471023,25.1472031,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>仙洞國小 仙洞002 仙洞里 基隆市中山區仁安街141號 397 第四分局</address>
         <description><![CDATA[類別: 仙洞國小<br>電腦編號: 仙洞002<br>村里別: 仙洞里<br>地址: 基隆市中山區仁安街141號<br>地下樓層數: 1<br>可容納人數: 397<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26461,14 +26254,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7471023,25.1472031,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 四維001 四維里 基隆市安樂區安和二街15號 11734 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 四維001<br>村里別: 四維里<br>地址: 基隆市安樂區安和二街15號<br>地下樓層數: 1<br>可容納人數: 11734<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26494,14 +26283,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7225572,25.1306453,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 四維002 四維里 基隆市安樂區安和二街15號 2892 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 四維002<br>村里別: 四維里<br>地址: 基隆市安樂區安和二街15號<br>地下樓層數: 2<br>可容納人數: 2892<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26527,14 +26312,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7225572,25.1306598,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 四維003 四維里 基隆市安樂區安和二街4之1號 8850 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 四維003<br>村里別: 四維里<br>地址: 基隆市安樂區安和二街4之1號<br>地下樓層數: 1<br>可容納人數: 8850<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26560,11 +26341,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7206314,25.1291858,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -26626,6 +26402,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 四維006 四維里 基隆市安樂區安和一街392號 600 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 四維006<br>村里別: 四維里<br>地址: 基隆市安樂區安和一街392號<br>地下樓層數: 1<br>可容納人數: 600<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26651,14 +26428,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7224634,25.124618,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 四維007 四維里 基隆市安樂區安和一街392號 219 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 四維007<br>村里別: 四維里<br>地址: 基隆市安樂區安和一街392號<br>地下樓層數: 1<br>可容納人數: 219<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26684,14 +26457,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7224687,25.1246156,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 四維008 四維里 基隆市安樂區安和一街29號 907 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 四維008<br>村里別: 四維里<br>地址: 基隆市安樂區安和一街29號<br>地下樓層數: 1<br>可容納人數: 907<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26717,14 +26486,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7220423,25.1271776,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 四維009 四維里 基隆市安樂區安和二街66號 1199 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 四維009<br>村里別: 四維里<br>地址: 基隆市安樂區安和二街66號<br>地下樓層數: 2<br>可容納人數: 1199<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26750,14 +26515,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7220128,25.1298002,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 四維010 四維里 基隆市安樂區安和二街52號 1258 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 四維010<br>村里別: 四維里<br>地址: 基隆市安樂區安和二街52號<br>地下樓層數: 2<br>可容納人數: 1258<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26783,14 +26544,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.721876,25.1301013,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 四維011 四維里 基隆市安樂區安和二街48號 153 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 四維011<br>村里別: 四維里<br>地址: 基隆市安樂區安和二街48號<br>地下樓層數: 1<br>可容納人數: 153<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26816,14 +26573,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7216372,25.1301159,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 四維012 四維里 基隆市安樂區安和二街38號 175 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 四維012<br>村里別: 四維里<br>地址: 基隆市安樂區安和二街38號<br>地下樓層數: 1<br>可容納人數: 175<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26849,14 +26602,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7212939,25.129856,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 四維013 四維里 基隆市安樂區安和二街46號 267 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 四維013<br>村里別: 四維里<br>地址: 基隆市安樂區安和二街46號<br>地下樓層數: 1<br>可容納人數: 267<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26882,14 +26631,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7215648,25.1301207,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 四維014 四維里 基隆市安樂區安和二街40號 334 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 四維014<br>村里別: 四維里<br>地址: 基隆市安樂區安和二街40號<br>地下樓層數: 1<br>可容納人數: 334<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26915,14 +26660,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.721302,25.1300479,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 四維015 四維里 基隆市安樂區安和二街30號 676 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 四維015<br>村里別: 四維里<br>地址: 基隆市安樂區安和二街30號<br>地下樓層數: 2<br>可容納人數: 676<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26948,14 +26689,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7210203,25.1299896,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 四維016 四維里 基隆市安樂區安和二街56之1號 215 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 四維016<br>村里別: 四維里<br>地址: 基隆市安樂區安和二街56之1號<br>地下樓層數: 1<br>可容納人數: 215<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -26981,14 +26718,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7222649,25.1299872,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 外寮001 外寮里 基隆市安樂區基金一路131之10號 74 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 外寮001<br>村里別: 外寮里<br>地址: 基隆市安樂區基金一路131之10號<br>地下樓層數: 1<br>可容納人數: 74<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27014,14 +26747,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7120913,25.1401063,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 外寮002 外寮里 基隆市安樂區基金一路131之1號 66 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 外寮002<br>村里別: 外寮里<br>地址: 基隆市安樂區基金一路131之1號<br>地下樓層數: 1<br>可容納人數: 66<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27047,11 +26776,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7122395,25.1400688,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -27084,6 +26808,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 外寮004 外寮里 基隆市安樂區基金一路110之72號 1229 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 外寮004<br>村里別: 外寮里<br>地址: 基隆市安樂區基金一路110之72號<br>地下樓層數: 2<br>可容納人數: 1229<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27109,11 +26834,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.714119,25.1402683,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -27175,6 +26895,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 外寮007 外寮里 基隆市安樂區武嶺街303號 6737 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 外寮007<br>村里別: 外寮里<br>地址: 基隆市安樂區武嶺街303號<br>地下樓層數: 1<br>可容納人數: 6737<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27200,14 +26921,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7074135,25.1375342,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 外寮008 外寮里 基隆市安樂區武嶺街219號 3287 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 外寮008<br>村里別: 外寮里<br>地址: 基隆市安樂區武嶺街219號<br>地下樓層數: 1<br>可容納人數: 3287<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27233,11 +26950,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7076427,25.1377275,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -27357,6 +27069,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 民治001 民治里 基隆市中山區中山一路291巷15號 137 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 民治001<br>村里別: 民治里<br>地址: 基隆市中山區中山一路291巷15號<br>地下樓層數: 1<br>可容納人數: 137<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27382,11 +27095,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7404384,25.136602,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -27448,6 +27156,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 永康002 永康里 基隆市安樂區崇德路19號 136 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 永康002<br>村里別: 永康里<br>地址: 基隆市安樂區崇德路19號<br>地下樓層數: 1<br>可容納人數: 136<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27473,14 +27182,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7312041,25.130968,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 永康003 永康里 基隆市安樂區崇德路79之10號 134 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 永康003<br>村里別: 永康里<br>地址: 基隆市安樂區崇德路79之10號<br>地下樓層數: 1<br>可容納人數: 134<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27506,14 +27211,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7329314,25.1307009,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 永康014 永康里 基隆市安樂區崇德路73號 660 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 永康014<br>村里別: 永康里<br>地址: 基隆市安樂區崇德路73號<br>地下樓層數: 4<br>可容納人數: 660<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27539,14 +27240,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7330709,25.1306134,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>大樓 安平001 安平里 基隆市中山區安一路2號 176 第四分局</address>
         <description><![CDATA[類別: 大樓<br>電腦編號: 安平001<br>村里別: 安平里<br>地址: 基隆市中山區安一路2號<br>地下樓層數: 1<br>可容納人數: 176<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27572,11 +27269,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7375548,25.1314967,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -27638,6 +27330,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 安民003 安民里 基隆市中山區安一路84號 17 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 安民003<br>村里別: 安民里<br>地址: 基隆市中山區安一路84號<br>地下樓層數: 1<br>可容納人數: 17<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27663,11 +27356,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7359254,25.1315899,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -27700,6 +27388,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 安民005 安民里 基隆市中山區安一路79號 37 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 安民005<br>村里別: 安民里<br>地址: 基隆市中山區安一路79號<br>地下樓層數: 1<br>可容納人數: 37<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27725,14 +27414,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7357196,25.1314966,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 安民006 安民里 基隆市中山區安一路81號 79 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 安民006<br>村里別: 安民里<br>地址: 基隆市中山區安一路81號<br>地下樓層數: 1<br>可容納人數: 79<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27758,14 +27443,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7356369,25.1314999,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 安民007 安民里 基隆市中山區安一路99號 93 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 安民007<br>村里別: 安民里<br>地址: 基隆市中山區安一路99號<br>地下樓層數: 1<br>可容納人數: 93<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27791,14 +27472,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7353085,25.131585,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 安民008 安民里 基隆市中山區安一路55之4號 23 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 安民008<br>村里別: 安民里<br>地址: 基隆市中山區安一路55之4號<br>地下樓層數: 1<br>可容納人數: 23<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27824,14 +27501,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7365167,25.1313736,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 安民009 安民里 基隆市中山區中山一路49號 23 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 安民009<br>村里別: 安民里<br>地址: 基隆市中山區中山一路49號<br>地下樓層數: 1<br>可容納人數: 23<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27857,14 +27530,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7366374,25.1313704,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 安民010 安民里 基隆市中山區安一路38號 31 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 安民010<br>村里別: 安民里<br>地址: 基隆市中山區安一路38號<br>地下樓層數: 1<br>可容納人數: 31<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27890,11 +27559,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7367312,25.1315679,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -27927,6 +27591,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 安民012 安民里 基隆市中山區安一路105之1號 107 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 安民012<br>村里別: 安民里<br>地址: 基隆市中山區安一路105之1號<br>地下樓層數: 1<br>可容納人數: 107<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27952,14 +27617,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7351636,25.1316238,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 安民013 安民里 基隆市中山區安一路107號 203 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 安民013<br>村里別: 安民里<br>地址: 基隆市中山區安一路107號<br>地下樓層數: 1<br>可容納人數: 203<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -27985,19 +27646,15 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.73511,25.1316239,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
-        <description><![CDATA[類別: 公寓<br>電腦編號: 安和003<br>村里別: 安和里<br>地址: 基隆市安樂區安一路177巷23號<br>地下樓層數: 1<br>可容納人數: 733<br>備註: ]]></description>
+        <address>安樂國小 安和003 安和里 基隆市安樂區安一路177巷23號 733 第四分局</address>
+        <description><![CDATA[類別: 安樂國小<br>電腦編號: 安和003<br>村里別: 安和里<br>地址: 基隆市安樂區安一路177巷23號<br>地下樓層數: 1<br>可容納人數: 733<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>公寓</value>
+            <value>安樂國小</value>
           </Data>
           <Data name="電腦編號">
             <value>安和003</value>
@@ -28018,14 +27675,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7308089,25.1318107,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 安和006 安和里 基隆市安樂區安一路157號 153 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 安和006<br>村里別: 安和里<br>地址: 基隆市安樂區安一路157號<br>地下樓層數: 2<br>可容納人數: 153<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28051,19 +27704,15 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7334482,25.1319953,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
-        <description><![CDATA[類別: 公寓<br>電腦編號: 安和007<br>村里別: 安和里<br>地址: 基隆市安樂區安一路177巷23號<br>地下樓層數: 1<br>可容納人數: 453<br>備註: ]]></description>
+        <address>安樂國小 安和007 安和里 基隆市安樂區安一路177巷23號 453 第四分局</address>
+        <description><![CDATA[類別: 安樂國小<br>電腦編號: 安和007<br>村里別: 安和里<br>地址: 基隆市安樂區安一路177巷23號<br>地下樓層數: 1<br>可容納人數: 453<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>公寓</value>
+            <value>安樂國小</value>
           </Data>
           <Data name="電腦編號">
             <value>安和007</value>
@@ -28084,14 +27733,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7308304,25.1318107,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 安和008 安和里 基隆市安樂區安一路183號 254 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 安和008<br>村里別: 安和里<br>地址: 基隆市安樂區安一路183號<br>地下樓層數: 2<br>可容納人數: 254<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28117,19 +27762,15 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7322895,25.1323644,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
-        <description><![CDATA[類別: 公寓<br>電腦編號: 安和009<br>村里別: 安和里<br>地址: 基隆市安樂區安一路177巷23號<br>地下樓層數: 1<br>可容納人數: 1060<br>備註: ]]></description>
+        <address>安樂國小 安和009 安和里 基隆市安樂區安一路177巷23號 1060 第四分局</address>
+        <description><![CDATA[類別: 安樂國小<br>電腦編號: 安和009<br>村里別: 安和里<br>地址: 基隆市安樂區安一路177巷23號<br>地下樓層數: 1<br>可容納人數: 1060<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>公寓</value>
+            <value>安樂國小</value>
           </Data>
           <Data name="電腦編號">
             <value>安和009</value>
@@ -28150,19 +27791,15 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7308304,25.1318107,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
-        <description><![CDATA[類別: 公寓<br>電腦編號: 安和010<br>村里別: 安和里<br>地址: 基隆市安樂區安一路177巷23號<br>地下樓層數: 1<br>可容納人數: 244<br>備註: ]]></description>
+        <address>安樂國小 安和010 安和里 基隆市安樂區安一路177巷23號 244 第四分局</address>
+        <description><![CDATA[類別: 安樂國小<br>電腦編號: 安和010<br>村里別: 安和里<br>地址: 基隆市安樂區安一路177巷23號<br>地下樓層數: 1<br>可容納人數: 244<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>公寓</value>
+            <value>安樂國小</value>
           </Data>
           <Data name="電腦編號">
             <value>安和010</value>
@@ -28183,14 +27820,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7308304,25.1318107,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西川007 西川里 基隆市安樂區新西街26號 264 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西川007<br>村里別: 西川里<br>地址: 基隆市安樂區新西街26號<br>地下樓層數: 1<br>可容納人數: 264<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28216,14 +27849,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7298153,25.1381946,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>西定國小 西川011 西川里 基隆市安樂區新西街1號 470 第四分局</address>
         <description><![CDATA[類別: 西定國小<br>電腦編號: 西川011<br>村里別: 西川里<br>地址: 基隆市安樂區新西街1號<br>地下樓層數: 1<br>可容納人數: 470<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28249,14 +27878,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7317405,25.1367608,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>西定國小 西川012 西川里 基隆市安樂區新西街1號 514 第四分局</address>
         <description><![CDATA[類別: 西定國小<br>電腦編號: 西川012<br>村里別: 西川里<br>地址: 基隆市安樂區新西街1號<br>地下樓層數: 1<br>可容納人數: 514<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28282,14 +27907,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7317513,25.136756,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西定001 西定里 基隆市中山區西定路230號 1123 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西定001<br>村里別: 西定里<br>地址: 基隆市中山區西定路230號<br>地下樓層數: 1<br>可容納人數: 1123<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28315,14 +27936,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7321342,25.137481,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西康001 西康里 基隆市中山區復興路29之1號 42 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西康001<br>村里別: 西康里<br>地址: 基隆市中山區復興路29之1號<br>地下樓層數: 1<br>可容納人數: 42<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28348,14 +27965,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7267717,25.1415422,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西康002 西康里 基隆市中山區復興路27之4號 107 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西康002<br>村里別: 西康里<br>地址: 基隆市中山區復興路27之4號<br>地下樓層數: 1<br>可容納人數: 107<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28381,14 +27994,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7268526,25.141463,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西康003 西康里 基隆市中山區復興路36號 26 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西康003<br>村里別: 西康里<br>地址: 基隆市中山區復興路36號<br>地下樓層數: 1<br>可容納人數: 26<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28414,14 +28023,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7268472,25.1417689,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西康004 西康里 基隆市中山區復興路12號 55 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西康004<br>村里別: 西康里<br>地址: 基隆市中山區復興路12號<br>地下樓層數: 1<br>可容納人數: 55<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28447,14 +28052,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7274925,25.1410453,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西康005 西康里 基隆市中山區西定路423巷9號 125 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西康005<br>村里別: 西康里<br>地址: 基隆市中山區西定路423巷9號<br>地下樓層數: 1<br>可容納人數: 125<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28480,14 +28081,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7285025,25.1398363,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西康006 西康里 基隆市中山區西定路423巷12號 112 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西康006<br>村里別: 西康里<br>地址: 基隆市中山區西定路423巷12號<br>地下樓層數: 1<br>可容納人數: 112<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28513,14 +28110,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7283952,25.1398897,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西康007 西康里 基隆市中山區復興路32號 309 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西康007<br>村里別: 西康里<br>地址: 基隆市中山區復興路32號<br>地下樓層數: 1<br>可容納人數: 309<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28546,14 +28139,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7268258,25.1418369,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西康008 西康里 基隆市中山區復興路23號 116 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西康008<br>村里別: 西康里<br>地址: 基隆市中山區復興路23號<br>地下樓層數: 2<br>可容納人數: 116<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28579,14 +28168,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.726999,25.1412978,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西華001 西華里 基隆市中山區西定路166號 152 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西華001<br>村里別: 西華里<br>地址: 基隆市中山區西定路166號<br>地下樓層數: 1<br>可容納人數: 152<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28612,14 +28197,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7340601,25.1350382,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西華002 西華里 基隆市中山區西定路166號 53 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西華002<br>村里別: 西華里<br>地址: 基隆市中山區西定路166號<br>地下樓層數: 1<br>可容納人數: 53<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28645,14 +28226,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7340815,25.1350139,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西華003 西華里 基隆市中山區西定路102號 48 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西華003<br>村里別: 西華里<br>地址: 基隆市中山區西定路102號<br>地下樓層數: 1<br>可容納人數: 48<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28678,11 +28255,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7352778,25.1335375,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -28715,6 +28287,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西華005 西華里 基隆市中山區西定路166號 110 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西華005<br>村里別: 西華里<br>地址: 基隆市中山區西定路166號<br>地下樓層數: 1<br>可容納人數: 110<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28740,14 +28313,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7340869,25.1350042,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西榮001 西榮里 基隆市中山區西定路46號 53 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西榮001<br>村里別: 西榮里<br>地址: 基隆市中山區西定路46號<br>地下樓層數: 1<br>可容納人數: 53<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28773,14 +28342,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7353904,25.1325614,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 西榮002 西榮里 基隆市中山區西定路43號 22 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 西榮002<br>村里別: 西榮里<br>地址: 基隆市中山區西定路43號<br>地下樓層數: 1<br>可容納人數: 22<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28806,20 +28371,15 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7352054,25.1327823,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
-        <address>第四分局 西榮003 西榮里 基隆市中山區西定路1號 447 第四分局</address>
-        <description><![CDATA[類別: 第四分局<br>電腦編號: 西榮003<br>村里別: 西榮里<br>地址: 基隆市中山區西定路1號<br>地下樓層數: 1<br>可容納人數: 447<br>備註: ]]></description>
+        <address>中山派出所 西榮003 西榮里 基隆市中山區西定路1號 447 第四分局</address>
+        <description><![CDATA[類別: 中山派出所<br>電腦編號: 西榮003<br>村里別: 西榮里<br>地址: 基隆市中山區西定路1號<br>地下樓層數: 1<br>可容納人數: 447<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>第四分局</value>
+            <value>中山派出所</value>
           </Data>
           <Data name="電腦編號">
             <value>西榮003</value>
@@ -28843,6 +28403,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 壯觀001 壯觀里 基隆市安樂區樂利二街62巷25號 2704 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 壯觀001<br>村里別: 壯觀里<br>地址: 基隆市安樂區樂利二街62巷25號<br>地下樓層數: 1<br>可容納人數: 2704<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28868,14 +28429,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7143938,25.1209952,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 壯觀002 壯觀里 基隆市安樂區樂利二街62巷1號 2357 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 壯觀002<br>村里別: 壯觀里<br>地址: 基隆市安樂區樂利二街62巷1號<br>地下樓層數: 1<br>可容納人數: 2357<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28901,11 +28458,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7154162,25.1202284,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -28938,6 +28490,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 壯觀004 壯觀里 基隆市安樂區樂利二街62巷40號 11387 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 壯觀004<br>村里別: 壯觀里<br>地址: 基隆市安樂區樂利二街62巷40號<br>地下樓層數: 3<br>可容納人數: 11387<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28963,14 +28516,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7151714,25.1224267,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 壯觀005 壯觀里 基隆市安樂區樂利二街62巷214號 21577 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 壯觀005<br>村里別: 壯觀里<br>地址: 基隆市安樂區樂利二街62巷214號<br>地下樓層數: 4<br>可容納人數: 21577<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -28996,14 +28545,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.717159,25.1212804,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 壯觀006 壯觀里 基隆市安樂區樂利二街62巷273號 6719 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 壯觀006<br>村里別: 壯觀里<br>地址: 基隆市安樂區樂利二街62巷273號<br>地下樓層數: 5<br>可容納人數: 6719<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29029,14 +28574,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7157108,25.1208957,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 壯觀007 壯觀里 基隆市安樂區樂利二街62巷52之1號 461 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 壯觀007<br>村里別: 壯觀里<br>地址: 基隆市安樂區樂利二街62巷52之1號<br>地下樓層數: 1<br>可容納人數: 461<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29062,14 +28603,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7140476,25.1220843,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 壯觀008 壯觀里 基隆市安樂區樂利二街62巷54之1號 521 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 壯觀008<br>村里別: 壯觀里<br>地址: 基隆市安樂區樂利二街62巷54之1號<br>地下樓層數: 1<br>可容納人數: 521<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29095,14 +28632,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7138974,25.1224728,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 壯觀009 壯觀里 基隆市安樂區樂利二街62巷367號 2900 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 壯觀009<br>村里別: 壯觀里<br>地址: 基隆市安樂區樂利二街62巷367號<br>地下樓層數: 1<br>可容納人數: 2900<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29128,14 +28661,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7169339,25.1217893,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 壯觀010 壯觀里 基隆市安樂區樂利二街62巷623號 2402 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 壯觀010<br>村里別: 壯觀里<br>地址: 基隆市安樂區樂利二街62巷623號<br>地下樓層數: 1<br>可容納人數: 2402<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29161,14 +28690,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7177439,25.1209637,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 壯觀011 壯觀里 基隆市安樂區樂利二街62巷536號 6499 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 壯觀011<br>村里別: 壯觀里<br>地址: 基隆市安樂區樂利二街62巷536號<br>地下樓層數: 2<br>可容納人數: 6499<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29194,14 +28719,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7165313,25.1226841,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 壯觀012 壯觀里 基隆市安樂區樂利二街62巷138號 2505 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 壯觀012<br>村里別: 壯觀里<br>地址: 基隆市安樂區樂利二街62巷138號<br>地下樓層數: 4<br>可容納人數: 2505<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29227,11 +28748,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.714989,25.1217273,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -29264,6 +28780,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>台電公司 協和002 協和里 基隆市中山區文化路50巷1弄1號 647 第四分局</address>
         <description><![CDATA[類別: 台電公司<br>電腦編號: 協和002<br>村里別: 協和里<br>地址: 基隆市中山區文化路50巷1弄1號<br>地下樓層數: 1<br>可容納人數: 647<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29289,14 +28806,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7363632,25.1529159,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>台電公司 協和003 協和里 基隆市中山區文化路50巷1弄18號 348 第四分局</address>
         <description><![CDATA[類別: 台電公司<br>電腦編號: 協和003<br>村里別: 協和里<br>地址: 基隆市中山區文化路50巷1弄18號<br>地下樓層數: 1<br>可容納人數: 348<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29322,14 +28835,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.736972,25.1532752,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>台電公司 協和004 協和里 基隆市中山區文化路50巷1弄50之1號 429 第四分局</address>
         <description><![CDATA[類別: 台電公司<br>電腦編號: 協和004<br>村里別: 協和里<br>地址: 基隆市中山區文化路50巷1弄50之1號<br>地下樓層數: 1<br>可容納人數: 429<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29355,14 +28864,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7377123,25.1527872,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>港務局 和平001 和平里 基隆市中山區中山三路26號 306 第四分局</address>
         <description><![CDATA[類別: 港務局<br>電腦編號: 和平001<br>村里別: 和平里<br>地址: 基隆市中山區中山三路26號<br>地下樓層數: 1<br>可容納人數: 306<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29388,14 +28893,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7464712,25.1414494,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>港務局水手房 和平002 和平里 基隆市中山區中山三路47號 85 第四分局</address>
         <description><![CDATA[類別: 港務局水手房<br>電腦編號: 和平002<br>村里別: 和平里<br>地址: 基隆市中山區中山三路47號<br>地下樓層數: 1<br>可容納人數: 85<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29421,14 +28922,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7446321,25.1404434,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 和平003 和平里 基隆市中山區中山三路103巷2號 105 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 和平003<br>村里別: 和平里<br>地址: 基隆市中山區中山三路103巷2號<br>地下樓層數: 1<br>可容納人數: 105<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29454,14 +28951,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.745151,25.1426632,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 定邦006 定邦里 基隆市安樂區安一路100巷285號 109 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 定邦006<br>村里別: 定邦里<br>地址: 基隆市安樂區安一路100巷285號<br>地下樓層數: 2<br>可容納人數: 109<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29487,11 +28980,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7331585,25.1329472,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -29553,6 +29041,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 定國001 定國里 基隆市安樂區定國街11巷66號 702 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 定國001<br>村里別: 定國里<br>地址: 基隆市安樂區定國街11巷66號<br>地下樓層數: 1<br>可容納人數: 702<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29578,14 +29067,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.732548,25.1337818,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 定國007 定國里 基隆市安樂區定國街11巷64之3號 119 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 定國007<br>村里別: 定國里<br>地址: 基隆市安樂區定國街11巷64之3號<br>地下樓層數: 1<br>可容納人數: 119<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29611,14 +29096,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7326236,25.1338001,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 定國008 定國里 基隆市安樂區定國街83巷18號 144 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 定國008<br>村里別: 定國里<br>地址: 基隆市安樂區定國街83巷18號<br>地下樓層數: 1<br>可容納人數: 144<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29644,14 +29125,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7326221,25.1348898,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 定國009 定國里 基隆市安樂區定國街11巷52號 1633 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 定國009<br>村里別: 定國里<br>地址: 基隆市安樂區定國街11巷52號<br>地下樓層數: 2<br>可容納人數: 1633<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29677,14 +29154,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7326857,25.1333459,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>居仁里民會堂 居仁003 居仁里 基隆市中山區通仁街30巷5號 133 第四分局</address>
         <description><![CDATA[類別: 居仁里民會堂<br>電腦編號: 居仁003<br>村里別: 居仁里<br>地址: 基隆市中山區通仁街30巷5號<br>地下樓層數: 1<br>可容納人數: 133<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29710,14 +29183,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7376346,25.1462041,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>中山國小 居仁005 居仁里 基隆市中山區通仁街28號 319 第四分局</address>
         <description><![CDATA[類別: 中山國小<br>電腦編號: 居仁005<br>村里別: 居仁里<br>地址: 基隆市中山區通仁街28號<br>地下樓層數: 1<br>可容納人數: 319<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29743,14 +29212,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7361101,25.1461939,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 武崙001 武崙里 基隆市安樂區基金一路200之1號 104 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 武崙001<br>村里別: 武崙里<br>地址: 基隆市安樂區基金一路200之1號<br>地下樓層數: 1<br>可容納人數: 104<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29776,14 +29241,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7102493,25.1416835,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 武崙002 武崙里 基隆市安樂區基金一路135巷20號 7044 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 武崙002<br>村里別: 武崙里<br>地址: 基隆市安樂區基金一路135巷20號<br>地下樓層數: 3<br>可容納人數: 7044<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29809,14 +29270,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.708659,25.1416658,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 武崙003 武崙里 基隆市安樂區基金一路135巷21弄1號 16613 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 武崙003<br>村里別: 武崙里<br>地址: 基隆市安樂區基金一路135巷21弄1號<br>地下樓層數: 2<br>可容納人數: 16613<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29842,11 +29299,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7091525,25.1401628,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -29879,6 +29331,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 武崙005 武崙里 基隆市安樂區基金一路135巷5弄28號 5978 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 武崙005<br>村里別: 武崙里<br>地址: 基隆市安樂區基金一路135巷5弄28號<br>地下樓層數: 2<br>可容納人數: 5978<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29904,14 +29357,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7097399,25.1407139,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 武崙006 武崙里 基隆市安樂區基金一路135巷73號 6561 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 武崙006<br>村里別: 武崙里<br>地址: 基隆市安樂區基金一路135巷73號<br>地下樓層數: 1<br>可容納人數: 6561<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29937,14 +29386,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7085595,25.139877,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 武崙007 武崙里 基隆市安樂區基金一路116號 2841 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 武崙007<br>村里別: 武崙里<br>地址: 基隆市安樂區基金一路116號<br>地下樓層數: 2<br>可容納人數: 2841<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -29970,14 +29415,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7126422,25.1402295,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 武崙008 武崙里 基隆市安樂區基金一路160之2號 6815 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 武崙008<br>村里別: 武崙里<br>地址: 基隆市安樂區基金一路160之2號<br>地下樓層數: 2<br>可容納人數: 6815<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30003,11 +29444,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7124058,25.1408264,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -30069,6 +29505,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 武崙011 武崙里 基隆市安樂區基金一路206號 1324 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 武崙011<br>村里別: 武崙里<br>地址: 基隆市安樂區基金一路206號<br>地下樓層數: 2<br>可容納人數: 1324<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30094,14 +29531,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7099703,25.1419336,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 武崙012 武崙里 基隆市安樂區武崙街145號 5628 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 武崙012<br>村里別: 武崙里<br>地址: 基隆市安樂區武崙街145號<br>地下樓層數: 2<br>可容納人數: 5628<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30127,11 +29560,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7070591,25.1408396,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -30193,6 +29621,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 長樂003 長樂里 基隆市安樂區樂利三街4號 7804 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 長樂003<br>村里別: 長樂里<br>地址: 基隆市安樂區樂利三街4號<br>地下樓層數: 6<br>可容納人數: 7804<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30218,14 +29647,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7184798,25.1292854,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 長樂004 長樂里 基隆市安樂區樂利三街83號 6712 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 長樂004<br>村里別: 長樂里<br>地址: 基隆市安樂區樂利三街83號<br>地下樓層數: 2<br>可容納人數: 6712<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30251,14 +29676,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7148029,25.1273852,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 健民001 健民里 基隆市中山區健民街14巷11弄6之1號 146 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 健民001<br>村里別: 健民里<br>地址: 基隆市中山區健民街14巷11弄6之1號<br>地下樓層數: 1<br>可容納人數: 146<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30284,14 +29705,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.737221,25.1433444,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 健民002 健民里 基隆市中山區健民街14巷12之1號 77 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 健民002<br>村里別: 健民里<br>地址: 基隆市中山區健民街14巷12之1號<br>地下樓層數: 1<br>可容納人數: 77<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30317,14 +29734,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7376624,25.1426559,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 健民003 健民里 基隆市中山區健民街14巷10號 42 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 健民003<br>村里別: 健民里<br>地址: 基隆市中山區健民街14巷10號<br>地下樓層數: 2<br>可容納人數: 42<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30350,14 +29763,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7377036,25.1425082,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 健民004 健民里 基隆市中山區中山二路70號 3432 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 健民004<br>村里別: 健民里<br>地址: 基隆市中山區中山二路70號<br>地下樓層數: 1<br>可容納人數: 3432<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30383,14 +29792,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7385995,25.1432973,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 通化001 通化里 基隆市中山區中華路28號 1416 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 通化001<br>村里別: 通化里<br>地址: 基隆市中山區中華路28號<br>地下樓層數: 3<br>可容納人數: 1416<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30416,20 +29821,15 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7386991,25.1463048,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
-        <address>基隆市警察局 通明001 通明里 基隆市中山區通明街2號 122 第四分局</address>
-        <description><![CDATA[類別: 基隆市警察局<br>電腦編號: 通明001<br>村里別: 通明里<br>地址: 基隆市中山區通明街2號<br>地下樓層數: 1<br>可容納人數: 122<br>備註: ]]></description>
+        <address>中華路分駐所 通明001 通明里 基隆市中山區通明街2號 122 第四分局</address>
+        <description><![CDATA[類別: 中華路分駐所<br>電腦編號: 通明001<br>村里別: 通明里<br>地址: 基隆市中山區通明街2號<br>地下樓層數: 1<br>可容納人數: 122<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>基隆市警察局</value>
+            <value>中華路分駐所</value>
           </Data>
           <Data name="電腦編號">
             <value>通明001</value>
@@ -30453,6 +29853,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 通明002 通明里 基隆市中山區中華路101號 104 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 通明002<br>村里別: 通明里<br>地址: 基隆市中山區中華路101號<br>地下樓層數: 1<br>可容納人數: 104<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30478,14 +29879,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7379964,25.1476815,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 慈仁006 慈仁里 基隆市安樂區安一路176巷19號 113 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 慈仁006<br>村里別: 慈仁里<br>地址: 基隆市安樂區安一路176巷19號<br>地下樓層數: 1<br>可容納人數: 113<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30511,11 +29908,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7319089,25.1335478,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -30548,6 +29940,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新西005 新西里 基隆市安樂區新西街89巷49之2號 118 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新西005<br>村里別: 新西里<br>地址: 基隆市安樂區新西街89巷49之2號<br>地下樓層數: 1<br>可容納人數: 118<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30573,14 +29966,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7261058,25.1399842,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新西006 新西里 基隆市安樂區新西街207巷26之1號 323 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新西006<br>村里別: 新西里<br>地址: 基隆市安樂區新西街207巷26之1號<br>地下樓層數: 1<br>可容納人數: 323<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30606,14 +29995,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7243919,25.1419291,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新西011 新西里 基隆市安樂區新西街207巷72之1號 210 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新西011<br>村里別: 新西里<br>地址: 基隆市安樂區新西街207巷72之1號<br>地下樓層數: 1<br>可容納人數: 210<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30639,14 +30024,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7241692,25.141441,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新西012 新西里 基隆市安樂區新西街207巷66號 150 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新西012<br>村里別: 新西里<br>地址: 基隆市安樂區新西街207巷66號<br>地下樓層數: 1<br>可容納人數: 150<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30672,14 +30053,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7241532,25.1416013,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新西015 新西里 基隆市安樂區新西街56之1號 116 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新西015<br>村里別: 新西里<br>地址: 基隆市安樂區新西街56之1號<br>地下樓層數: 1<br>可容納人數: 116<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30705,11 +30082,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7282703,25.1395228,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -30800,6 +30172,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新崙001 新崙里 基隆市安樂區基金一路210巷1弄4號 476 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新崙001<br>村里別: 新崙里<br>地址: 基隆市安樂區基金一路210巷1弄4號<br>地下樓層數: 1<br>可容納人數: 476<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30825,14 +30198,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7100496,25.1424241,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新崙002 新崙里 基隆市安樂區基金一路361之1號 1690 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新崙002<br>村里別: 新崙里<br>地址: 基隆市安樂區基金一路361之1號<br>地下樓層數: 1<br>可容納人數: 1690<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30858,14 +30227,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7045189,25.1416398,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新崙003 新崙里 基隆市安樂區基金一路214之15號 3030 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新崙003<br>村里別: 新崙里<br>地址: 基隆市安樂區基金一路214之15號<br>地下樓層數: 1<br>可容納人數: 3030<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30891,14 +30256,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7085905,25.1422396,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新崙004 新崙里 基隆市安樂區基金一路210巷1弄3號 1416 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新崙004<br>村里別: 新崙里<br>地址: 基隆市安樂區基金一路210巷1弄3號<br>地下樓層數: 2<br>可容納人數: 1416<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30924,14 +30285,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7100308,25.1423731,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新崙005 新崙里 基隆市安樂區基金一路210巷1弄2號 228 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新崙005<br>村里別: 新崙里<br>地址: 基隆市安樂區基金一路210巷1弄2號<br>地下樓層數: 1<br>可容納人數: 228<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30957,14 +30314,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7100147,25.1423391,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新崙006 新崙里 基隆市安樂區基金一路210巷1弄14號 253 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新崙006<br>村里別: 新崙里<br>地址: 基隆市安樂區基金一路210巷1弄14號<br>地下樓層數: 1<br>可容納人數: 253<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -30990,14 +30343,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7099852,25.1429194,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新崙007 新崙里 基隆市安樂區基金一路210巷1弄12之1號 319 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新崙007<br>村里別: 新崙里<br>地址: 基隆市安樂區基金一路210巷1弄12之1號<br>地下樓層數: 1<br>可容納人數: 319<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -31023,14 +30372,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7099799,25.1428611,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新崙008 新崙里 基隆市安樂區基金一路210巷1弄18號 199 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新崙008<br>村里別: 新崙里<br>地址: 基隆市安樂區基金一路210巷1弄18號<br>地下樓層數: 1<br>可容納人數: 199<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -31056,14 +30401,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7099289,25.1430748,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新崙009 新崙里 基隆市安樂區基金一路210巷29號 257 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新崙009<br>村里別: 新崙里<br>地址: 基隆市安樂區基金一路210巷29號<br>地下樓層數: 1<br>可容納人數: 257<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -31089,14 +30430,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7101944,25.1434293,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新崙010 新崙里 基隆市安樂區基金一路208巷188號 2931 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新崙010<br>村里別: 新崙里<br>地址: 基隆市安樂區基金一路208巷188號<br>地下樓層數: 2<br>可容納人數: 2931<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -31122,14 +30459,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7072762,25.1479721,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新崙011 新崙里 基隆市安樂區基金一路208巷182號 2953 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新崙011<br>村里別: 新崙里<br>地址: 基隆市安樂區基金一路208巷182號<br>地下樓層數: 2<br>可容納人數: 2953<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -31155,14 +30488,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7076571,25.1477366,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新崙012 新崙里 基隆市安樂區基金一路208巷184號 3231 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新崙012<br>村里別: 新崙里<br>地址: 基隆市安樂區基金一路208巷184號<br>地下樓層數: 2<br>可容納人數: 3231<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -31188,14 +30517,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7075605,25.1477803,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新崙013 新崙里 基隆市安樂區基金一路208巷122號 1151 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新崙013<br>村里別: 新崙里<br>地址: 基隆市安樂區基金一路208巷122號<br>地下樓層數: 1<br>可容納人數: 1151<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -31221,11 +30546,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7084805,25.1461171,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -31258,6 +30578,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 新崙015 新崙里 基隆市安樂區基金一路208巷200號 1858 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 新崙015<br>村里別: 新崙里<br>地址: 基隆市安樂區基金一路208巷200號<br>地下樓層數: 2<br>可容納人數: 1858<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -31283,11 +30604,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7079467,25.1483825,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -31320,6 +30636,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 嘉仁005 嘉仁里 基隆市安樂區崇德路232號 139 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 嘉仁005<br>村里別: 嘉仁里<br>地址: 基隆市安樂區崇德路232號<br>地下樓層數: 1<br>可容納人數: 139<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -31345,11 +30662,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7312755,25.1265139,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -31382,6 +30694,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 嘉仁009 嘉仁里 基隆市安樂區崇德路212之11號 155 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 嘉仁009<br>村里別: 嘉仁里<br>地址: 基隆市安樂區崇德路212之11號<br>地下樓層數: 1<br>可容納人數: 155<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -31407,11 +30720,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7310998,25.1268418,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -31502,6 +30810,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 嘉仁031 嘉仁里 基隆市安樂區樂一路140號 153 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 嘉仁031<br>村里別: 嘉仁里<br>地址: 基隆市安樂區樂一路140號<br>地下樓層數: 1<br>可容納人數: 153<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -31527,14 +30836,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7324228,25.1278568,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 嘉仁032 嘉仁里 基隆市安樂區安樂路一段150號 5242 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 嘉仁032<br>村里別: 嘉仁里<br>地址: 基隆市安樂區安樂路一段150號<br>地下樓層數: 4<br>可容納人數: 5242<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -31560,11 +30865,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7335628,25.1289155,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -31597,6 +30897,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 德安003 德安里 基隆市中山區復興路329號 271 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 德安003<br>村里別: 德安里<br>地址: 基隆市中山區復興路329號<br>地下樓層數: 2<br>可容納人數: 271<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -31622,14 +30923,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7277312,25.1504198,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>經國管理暨健康學院 德安004 德安里 基隆市中山區復興路315號 1872 第四分局</address>
         <description><![CDATA[類別: 經國管理暨健康學院<br>電腦編號: 德安004<br>村里別: 德安里<br>地址: 基隆市中山區復興路315號<br>地下樓層數: 1<br>可容納人數: 1872<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -31655,11 +30952,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7275194,25.1501855,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -31953,6 +31245,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 德和011 德和里 基隆市中山區復興路336號 2336 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 德和011<br>村里別: 德和里<br>地址: 基隆市中山區復興路336號<br>地下樓層數: 2<br>可容納人數: 2336<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -31978,11 +31271,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7280593,25.1504288,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -32044,6 +31332,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>經國管理暨健康學院 德和014 德和里 基隆市中山區復興路313號 1404 第四分局</address>
         <description><![CDATA[類別: 經國管理暨健康學院<br>電腦編號: 德和014<br>村里別: 德和里<br>地址: 基隆市中山區復興路313號<br>地下樓層數: 1<br>可容納人數: 1404<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32069,14 +31358,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7274725,25.1501424,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 樂一001 樂一里 基隆市安樂區樂一路81巷62號 172 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 樂一001<br>村里別: 樂一里<br>地址: 基隆市安樂區樂一路81巷62號<br>地下樓層數: 1<br>可容納人數: 172<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32102,11 +31387,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7347169,25.1293223,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -32168,6 +31448,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 樂一008 樂一里 基隆市安樂區樂一路101號 148 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 樂一008<br>村里別: 樂一里<br>地址: 基隆市安樂區樂一路101號<br>地下樓層數: 1<br>可容納人數: 148<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32193,14 +31474,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7338185,25.1293798,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 樂一009 樂一里 基隆市安樂區樂一路87號 139 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 樂一009<br>村里別: 樂一里<br>地址: 基隆市安樂區樂一路87號<br>地下樓層數: 1<br>可容納人數: 139<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32226,14 +31503,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7339083,25.1295112,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>一般住宅 樂一011 樂一里 基隆市安樂區安樂路一段1號 2176 第四分局</address>
         <description><![CDATA[類別: 一般住宅<br>電腦編號: 樂一011<br>村里別: 樂一里<br>地址: 基隆市安樂區安樂路一段1號<br>地下樓層數: 3<br>可容納人數: 2176<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32259,11 +31532,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7349463,25.1291385,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -32383,6 +31651,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 興寮005 興寮里 基隆市安樂區麥金路787之2號 2846 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 興寮005<br>村里別: 興寮里<br>地址: 基隆市安樂區麥金路787之2號<br>地下樓層數: 4<br>可容納人數: 2846<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32408,14 +31677,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7207329,25.1348917,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 興寮006 興寮里 基隆市安樂區麥金路715巷8號 471 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 興寮006<br>村里別: 興寮里<br>地址: 基隆市安樂區麥金路715巷8號<br>地下樓層數: 1<br>可容納人數: 471<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32441,11 +31706,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7189895,25.134916,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -32681,6 +31941,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 鶯安001 鶯安里 基隆市安樂區麥金路161號 19903 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 鶯安001<br>村里別: 鶯安里<br>地址: 基隆市安樂區麥金路161號<br>地下樓層數: 4<br>可容納人數: 19903<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32706,14 +31967,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7216989,25.1208952,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 鶯安002 鶯安里 基隆市安樂區麥金路127巷8之1號 4549 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 鶯安002<br>村里別: 鶯安里<br>地址: 基隆市安樂區麥金路127巷8之1號<br>地下樓層數: 1<br>可容納人數: 4549<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32739,14 +31996,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7211679,25.1203387,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 鶯安003 鶯安里 基隆市安樂區麥金路127巷135號 494 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 鶯安003<br>村里別: 鶯安里<br>地址: 基隆市安樂區麥金路127巷135號<br>地下樓層數: 1<br>可容納人數: 494<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32772,11 +32025,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7186466,25.1184472,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -32809,6 +32057,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 鶯歌001 鶯歌里 基隆市安樂區安樂路二段181之5號 5510 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 鶯歌001<br>村里別: 鶯歌里<br>地址: 基隆市安樂區安樂路二段181之5號<br>地下樓層數: 1<br>可容納人數: 5510<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32834,14 +32083,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7238743,25.1208042,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 鶯歌002 鶯歌里 基隆市安樂區麥金路222號 8341 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 鶯歌002<br>村里別: 鶯歌里<br>地址: 基隆市安樂區麥金路222號<br>地下樓層數: 1<br>可容納人數: 8341<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32867,14 +32112,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7224017,25.1206718,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 鶯歌003 鶯歌里 基隆市安樂區麥金路240號 355 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 鶯歌003<br>村里別: 鶯歌里<br>地址: 基隆市安樂區麥金路240號<br>地下樓層數: 1<br>可容納人數: 355<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32900,14 +32141,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7218267,25.1227832,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 鶯歌004 鶯歌里 基隆市安樂區麥金路34號 9562 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 鶯歌004<br>村里別: 鶯歌里<br>地址: 基隆市安樂區麥金路34號<br>地下樓層數: 2<br>可容納人數: 9562<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32933,14 +32170,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7268531,25.1161727,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 鶯歌005 鶯歌里 基隆市安樂區安樂路二段162號 1888 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 鶯歌005<br>村里別: 鶯歌里<br>地址: 基隆市安樂區安樂路二段162號<br>地下樓層數: 2<br>可容納人數: 1888<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32966,14 +32199,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7233271,25.1210374,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 鶯安006 鶯歌里 基隆市安樂區麥金路160號 356 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 鶯安006<br>村里別: 鶯歌里<br>地址: 基隆市安樂區麥金路160號<br>地下樓層數: 1<br>可容納人數: 356<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -32999,14 +32228,10 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7237572,25.118961,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 鶯歌007 鶯歌里 基隆市安樂區麥金路82號 2578 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 鶯歌007<br>村里別: 鶯歌里<br>地址: 基隆市安樂區麥金路82號<br>地下樓層數: 2<br>可容納人數: 2578<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -33032,11 +32257,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7260924,25.1169269,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>第四分局</name>
@@ -33069,6 +32289,7 @@
       </Placemark>
       <Placemark>
         <name>第四分局</name>
+        <address>公寓 鶯歌009 鶯歌里 基隆市安樂區麥金路236號 448 第四分局</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 鶯歌009<br>村里別: 鶯歌里<br>地址: 基隆市安樂區麥金路236號<br>地下樓層數: 2<br>可容納人數: 448<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
@@ -33094,11 +32315,6 @@
             <value/>
           </Data>
         </ExtendedData>
-        <Point>
-          <coordinates>
-            121.7217901,25.1226437,0
-          </coordinates>
-        </Point>
       </Placemark>
     </Folder>
   </Document>

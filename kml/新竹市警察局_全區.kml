@@ -5016,8 +5016,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>新竹市北區水田里中正路156號之1</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: FMA00722<br>村里別: 水田里<br>地址: 新竹市北區水田里中正路156號之1<br>地下樓層數: 1<br>可容納人數: 620 <br>備註: ]]></description>
+        <address>新竹市北區興南里3鄰中山路233號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: FMA00722<br>村里別: 興南里<br>地址: 新竹市北區興南里3鄰中山路233號<br>地下樓層數: 1<br>可容納人數: 574<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -5027,16 +5027,16 @@
             <value>FMA00722</value>
           </Data>
           <Data name="村里別">
-            <value>水田里</value>
+            <value>興南里</value>
           </Data>
           <Data name="地址">
-            <value>新竹市北區水田里中正路156號之1</value>
+            <value>新竹市北區興南里3鄰中山路233號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
           </Data>
           <Data name="可容納人數">
-            <value>620 </value>
+            <value>574</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -8198,35 +8198,6 @@
           </Data>
           <Data name="可容納人數">
             <value>204 </value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
-        <address>新竹市北區民富里民富街178巷11弄7號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: FMA00653<br>村里別: 民富里<br>地址: 新竹市北區民富里民富街178巷11弄7號<br>地下樓層數: 1<br>可容納人數: 29 <br>備註: ]]></description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>公寓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>FMA00653</value>
-          </Data>
-          <Data name="村里別">
-            <value>民富里</value>
-          </Data>
-          <Data name="地址">
-            <value>新竹市北區民富里民富街178巷11弄7號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>29 </value>
           </Data>
           <Data name="備註">
             <value/>
@@ -16297,27 +16268,27 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>新竹市北區長和里愛文街148號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: FMA00721<br>村里別: 長和里<br>地址: 新竹市北區長和里愛文街148號<br>地下樓層數: 1<br>可容納人數: 195 <br>備註: ]]></description>
+        <address>新竹市北區水田里中正路156號之1</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: FMA00721<br>村里別: 水田里<br>地址: 新竹市北區水田里中正路156號之1<br>地下樓層數: 1<br>可容納人數: 620<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>公寓</value>
+            <value>大樓</value>
           </Data>
           <Data name="電腦編號">
             <value>FMA00721</value>
           </Data>
           <Data name="村里別">
-            <value>長和里</value>
+            <value>水田里</value>
           </Data>
           <Data name="地址">
-            <value>新竹市北區長和里愛文街148號</value>
+            <value>新竹市北區水田里中正路156號之1</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
           </Data>
           <Data name="可容納人數">
-            <value>195 </value>
+            <value>620</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -20386,35 +20357,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>新竹市北區新民里民富街104號</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: FMA00715<br>村里別: 新民里<br>地址: 新竹市北區新民里民富街104號<br>地下樓層數: 1<br>可容納人數: 146 <br>備註: ]]></description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>公寓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>FMA00715</value>
-          </Data>
-          <Data name="村里別">
-            <value>新民里</value>
-          </Data>
-          <Data name="地址">
-            <value>新竹市北區新民里民富街104號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>146 </value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <address>新竹市北區新民里西大路648巷20號</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: FMA00716<br>村里別: 新民里<br>地址: 新竹市北區新民里西大路648巷20號<br>地下樓層數: 1<br>可容納人數: 150 <br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
@@ -24235,6 +24177,93 @@
           </Data>
           <Data name="可容納人數">
             <value>457</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第一分局</name>
+        <address>新竹市北區海濱里15鄰愛國路32號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: FMA00922<br>村里別: 海濱里<br>地址: 新竹市北區海濱里15鄰愛國路32號<br>地下樓層數: 2<br>可容納人數: 1139<br>備註: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>FMA00922</value>
+          </Data>
+          <Data name="村里別">
+            <value>海濱里</value>
+          </Data>
+          <Data name="地址">
+            <value>新竹市北區海濱里15鄰愛國路32號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>1139</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第一分局</name>
+        <address>新竹市北區舊社里3鄰湳雅街296巷7號2樓之1</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: FMA00921<br>村里別: 舊社里<br>地址: 新竹市北區舊社里3鄰湳雅街296巷7號2樓之1<br>地下樓層數: 1<br>可容納人數: 524<br>備註: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>FMA00921</value>
+          </Data>
+          <Data name="村里別">
+            <value>舊社里</value>
+          </Data>
+          <Data name="地址">
+            <value>新竹市北區舊社里3鄰湳雅街296巷7號2樓之1</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>524</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第一分局</name>
+        <address>新竹市北區金雅里5鄰金雅東街12號2樓</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: FMA00923<br>村里別: 金雅里<br>地址: 新竹市北區金雅里5鄰金雅東街12號2樓<br>地下樓層數: 2<br>可容納人數: 2793<br>備註: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>FMA00923</value>
+          </Data>
+          <Data name="村里別">
+            <value>金雅里</value>
+          </Data>
+          <Data name="地址">
+            <value>新竹市北區金雅里5鄰金雅東街12號2樓</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>2.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2793</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -36621,35 +36650,6 @@
           </Data>
           <Data name="可容納人數">
             <value>1980</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>新竹市東區仙水里光復路1段238號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: FNA01277<br>村里別: 仙水里<br>地址: 新竹市東區仙水里光復路1段238號<br>地下樓層數: 2<br>可容納人數: 940<br>備註: ]]></description>
-        <styleUrl>#icon-1899-A52714</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>FNA01277</value>
-          </Data>
-          <Data name="村里別">
-            <value>仙水里</value>
-          </Data>
-          <Data name="地址">
-            <value>新竹市東區仙水里光復路1段238號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>2</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>940</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -66903,6 +66903,35 @@
           </Data>
         </ExtendedData>
       </Placemark>
+      <Placemark>
+        <name>第二分局</name>
+        <address>新竹市東區中正里3鄰中央路112號</address>
+        <description><![CDATA[類別: 新竹市政府-稅務大樓<br>電腦編號: FNA00586<br>村里別: 中正里<br>地址: 新竹市東區中正里3鄰中央路112號<br>地下樓層數: 4<br>可容納人數: 2567<br>備註: ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>新竹市政府-稅務大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>FNA00586</value>
+          </Data>
+          <Data name="村里別">
+            <value>中正里</value>
+          </Data>
+          <Data name="地址">
+            <value>新竹市東區中正里3鄰中央路112號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>4</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2567</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
     </Folder>
     <Folder>
       <name>新竹市警察局第三分局</name>
@@ -86678,6 +86707,35 @@
           </Data>
           <Data name="可容納人數">
             <value>1876</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第三分局</name>
+        <address>新竹市香山區牛埔里7鄰中華路四段559號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: FOA00710<br>村里別: 牛埔里<br>地址: 新竹市香山區牛埔里7鄰中華路四段559號<br>地下樓層數: 1<br>可容納人數: 2808<br>備註: ]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>FOA00710</value>
+          </Data>
+          <Data name="村里別">
+            <value>牛埔里</value>
+          </Data>
+          <Data name="地址">
+            <value>新竹市香山區牛埔里7鄰中華路四段559號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2808</value>
           </Data>
           <Data name="備註">
             <value/>
