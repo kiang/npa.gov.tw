@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺北市萬華區艋舺大道120巷44弄45號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺北市]\tT:1,V:-1,R:1,S:-1,L:1,A:0,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺北市]\t { 模糊比對 } (萬華區)\t找到符合的[鄉鎮市區]，(艋舺大道)\t找到符合的[路街名]，(120巷)\t找到符合的[巷]，(44弄)\t找不到符合的[弄]，(45號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市萬華區頂碩里10鄰艋舺大道120巷13弄45號",
+      "COUNTY": "臺北市",
+      "TOWN": "萬華區",
+      "VILLAGE": "頂碩里",
+      "NEIGHBORHOOD": "10鄰",
+      "ROAD": "艋舺大道",
+      "SECTION": "",
+      "LANE": "120巷",
+      "ALLEY": "13弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "45號",
+      "X": 121.503307,
+      "Y": 25.032395,
+      "CODEBASE": "A6307-0344-00",
+      "CODE1": "A6307-25-005",
+      "CODE2": "A6307-25"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺北市萬華區頂碩里15鄰艋舺大道120巷38弄45號",
+      "COUNTY": "臺北市",
+      "TOWN": "萬華區",
+      "VILLAGE": "頂碩里",
+      "NEIGHBORHOOD": "15鄰",
+      "ROAD": "艋舺大道",
+      "SECTION": "",
+      "LANE": "120巷",
+      "ALLEY": "38弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "45號",
+      "X": 121.501323,
+      "Y": 25.031692,
+      "CODEBASE": "A6307-0372-00",
+      "CODE1": "A6307-26-006",
+      "CODE2": "A6307-26"
+    }
+  ]
+}

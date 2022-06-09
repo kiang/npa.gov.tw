@@ -20765,7 +20765,7 @@
       <Placemark>
         <name>金城分局</name>
         <address>金門縣金城鎮北門里民生路7號</address>
-        <description><![CDATA[類別: 金城車站<br>電腦編號: 717<br>村里別: 北門里<br>地址: 金門縣金城鎮北門里民生路7號<br>地下層數: 1<br>可容納數人: 326人<br>備註: ]]></description>
+        <description><![CDATA[類別: 金城車站<br>電腦編號: 717<br>村里別: 北門里<br>地址: 金門縣金城鎮北門里民生路7號<br>地下層數: 1<br>可容納數人: 325人<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -20784,7 +20784,7 @@
             <value>1.0</value>
           </Data>
           <Data name="可容納數人">
-            <value>326人</value>
+            <value>325人</value>
           </Data>
           <Data name="備註">
             <value/>

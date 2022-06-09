@@ -62559,8 +62559,7 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區文雅里文雅街116巷1號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA0568<br>村里別: 文雅里<br>地址: 嘉義市東區文雅里文雅街116巷1號<br>地下樓層數: 1<br>可容納人數: 4350<br>備註: ]]></description>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MNA0568<br>村里別: 文雅里<br>地址: 23.48366,120.48529<br><br>地下樓層數: 1<br>可容納人數: 4350<br>備註: 嘉義市東區文雅里文雅街150巷1號]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -62573,7 +62572,8 @@
             <value>文雅里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區文雅里文雅街116巷1號</value>
+            <value>23.48366,120.48529
+</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -62582,9 +62582,14 @@
             <value>4350.0</value>
           </Data>
           <Data name="備註">
-            <value/>
+            <value>嘉義市東區文雅里文雅街150巷1號</value>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            120.48529,23.48366,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>第二分局</name>
@@ -80079,8 +80084,7 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>23.515533739750097, 120.44315304125946</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA01433<br>村里別: 荖藤里<br>地址: 23.515533739750097, 120.44315304125946<br>地下樓層數: 1<br>可容納人數: 8500<br>備註: 嘉義市東區荖藤里忠孝路790之58號]]></description>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MNA01433<br>村里別: 荖藤里<br>地址: 23.515534, 120.443153<br>地下樓層數: 1<br>可容納人數: 8500<br>備註: 嘉義市東區荖藤里忠孝路790之58號]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -80093,7 +80097,7 @@
             <value>荖藤里</value>
           </Data>
           <Data name="地址">
-            <value>23.515533739750097, 120.44315304125946</value>
+            <value>23.515534, 120.443153</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -80105,6 +80109,11 @@
             <value>嘉義市東區荖藤里忠孝路790之58號</value>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            120.443153,23.515534,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>第二分局</name>
