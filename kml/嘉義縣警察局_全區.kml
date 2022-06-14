@@ -10735,7 +10735,7 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 電信公司<br>編號: 297<br>村里別: 潭大村<br>地址: 嘉義縣新港鄉潭大村潭子墘26號<br>地下層數: 地下1層<br>可容納人數: 232<br>定位點: 23.54966, 120.34457<br>備考: 不對外開放]]></description>
+        <description><![CDATA[類別: 電信公司<br>編號: 297<br>村里別: 潭大村<br>地址: 嘉義縣新港鄉潭大村潭子墘26號<br>地下層數: 地下1層<br>可容納人數: 626<br>定位點: 23.54966, 120.34457<br>備考: 不對外開放]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -10754,7 +10754,7 @@
             <value>地下1層</value>
           </Data>
           <Data name="可容納人數">
-            <value>232</value>
+            <value>626</value>
           </Data>
           <Data name="定位點">
             <value>23.54966, 120.34457</value>
@@ -10766,42 +10766,6 @@
         <Point>
           <coordinates>
             120.34457,23.54966,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>民雄分局</name>
-        <description><![CDATA[類別: 電信公司<br>編號: 298<br>村里別: 北崙村<br>地址: 嘉義縣新港鄉北崙村2鄰崙子8之30號<br>地下層數: 地下1層<br>可容納人數: <br>定位點: 23.58996, 120.36247<br>備考: 不對外開放]]></description>
-        <styleUrl>#icon-1899-817717</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>電信公司</value>
-          </Data>
-          <Data name="編號">
-            <value>298.0</value>
-          </Data>
-          <Data name="村里別">
-            <value>北崙村</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義縣新港鄉北崙村2鄰崙子8之30號</value>
-          </Data>
-          <Data name="地下層數">
-            <value>地下1層</value>
-          </Data>
-          <Data name="可容納人數">
-            <value/>
-          </Data>
-          <Data name="定位點">
-            <value>23.58996, 120.36247</value>
-          </Data>
-          <Data name="備考">
-            <value>不對外開放</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.36247,23.58996,0
           </coordinates>
         </Point>
       </Placemark>
@@ -25562,6 +25526,42 @@
         <Point>
           <coordinates>
             120.4541526,23.5177683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民雄分局</name>
+        <description><![CDATA[類別: 旅社<br>編號: <br>村里別: 宮前村<br>地址: 嘉義縣新港鄉宮前村登雲路74-2號<br>地下層數: 地下1層<br>可容納人數: 73<br>定位點: 23.5558218, 120.3470189<br>備考: ]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>旅社</value>
+          </Data>
+          <Data name="編號">
+            <value/>
+          </Data>
+          <Data name="村里別">
+            <value>宮前村</value>
+          </Data>
+          <Data name="地址">
+            <value>嘉義縣新港鄉宮前村登雲路74-2號</value>
+          </Data>
+          <Data name="地下層數">
+            <value>地下1層</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>73</value>
+          </Data>
+          <Data name="定位點">
+            <value>23.5558218, 120.3470189</value>
+          </Data>
+          <Data name="備考">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.3470189,23.5558218,0
           </coordinates>
         </Point>
       </Placemark>
