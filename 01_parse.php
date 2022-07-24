@@ -8,10 +8,12 @@ $raw = file_get_contents($rawFile);
 $pos = strpos($raw, '<table class="ed_table">');
 $posEnd = strpos($raw, '</table>', $pos);
 $rows = explode('</tr>', substr($raw, $pos, $posEnd - $pos));
+$city = '';
 foreach ($rows as $row) {
     $cols = explode('</td>', $row);
     foreach ($cols as $k => $col) {
-        if ($k !== 3) {
+        $pos = strpos($col, '?mid=');
+        if (false === $pos) {
             $cols[$k] = trim(strip_tags($col));
         } else {
             $parts1 = explode('edit?mid=', $col);
@@ -26,14 +28,20 @@ foreach ($rows as $row) {
                 } else {
                     $cols[$k] = '';
                 }
-                
             }
         }
     }
-    if (count($cols) === 5) {
+    $cnt = count($cols);
+    if ($cnt === 5) {
+        $city = $cols[1];
         $targetFile = __DIR__ . '/kml/' . $cols[1] . '_' . $cols[2] . '.kml';
-        if(!file_exists($targetFile)) {
+        if (!file_exists($targetFile)) {
             file_put_contents($targetFile, file_get_contents('https://www.google.com/maps/d/u/0/kml?mid=' . $cols[3] . '&forcekml=1'));
+        }
+    } elseif($cnt === 3) {
+        $targetFile = __DIR__ . '/kml/' . $city . '_' . $cols[0] . '.kml';
+        if (!file_exists($targetFile)) {
+            file_put_contents($targetFile, file_get_contents('https://www.google.com/maps/d/u/0/kml?mid=' . $cols[1] . '&forcekml=1'));
         }
     }
 }
