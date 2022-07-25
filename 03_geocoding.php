@@ -14,6 +14,8 @@ $geocodingEnabled = true;
 $pool = [];
 foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
     $p = pathinfo($csvFile);
+    $cityParts = explode('_', $p['filename']);
+    $city = $cityParts[0];
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 4096);
     if (empty($head)) {
@@ -102,33 +104,11 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
             }
         }
         $address = trim($address);
-        if (false !== strpos($p['filename'], '警察局') && false === strpos($p['filename'], '鐵路警') && false === strpos($p['filename'], '航空警')) {
-            $city = mb_substr($p['filename'], 0, 3, 'utf-8');
-        } elseif (!empty($address)) {
-            $city = mb_substr($address, 0, 3, 'utf-8');
-        }
-        switch ($city) {
-            case '台中市':
-            case '臺中港':
-                $city = '臺中市';
-                break;
-            case '花蓮港':
-                $city = '花蓮縣';
-                break;
-            case '台南市':
-                $city = '臺南市';
-                break;
-            case '22.':
-                $city = '高雄市';
-                break;
-        }
         if (false !== strpos($p['filename'], '桃園市政府警察局') && !empty($address) && isset($data['村里別'])) {
             if (false === strpos($address, '桃園市')) {
                 $pos = strpos($address, '區');
                 $address = '桃園市' . substr($address, 0, $pos) . '區' . $data['村里別'] . substr($address, $pos + 3);
             }
-        } elseif(false === strpos($address, $city)) {
-            $address = $city . $address;
         }
         if (empty($point)) {
             if (!empty($address)) {
