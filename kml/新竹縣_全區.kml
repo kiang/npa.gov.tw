@@ -31471,42 +31471,6 @@
       </Placemark>
       <Placemark>
         <name>新埔分局</name>
-        <description><![CDATA[類別: 政府機關<br>電腦編號: HNP00017<br>村里別: 四座里<br>地址: 新竹縣新埔鎮四座里中正路208號<br>緯經度: 24.8271531,121.082528<br>地下樓層數: 1<br>可容納人數: 705<br>備註: ]]></description>
-        <styleUrl>#icon-1899-7CB342</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>政府機關</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>HNP00017</value>
-          </Data>
-          <Data name="村里別">
-            <value>四座里</value>
-          </Data>
-          <Data name="地址">
-            <value>新竹縣新埔鎮四座里中正路208號</value>
-          </Data>
-          <Data name="緯經度">
-            <value>24.8271531,121.082528</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>705.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            121.082528,24.8271531,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>新埔分局</name>
         <description><![CDATA[類別: 政府機關<br>電腦編號: HNP00018<br>村里別: 四座里<br>地址: 新竹縣新埔鎮四座里中正路258號<br>緯經度: 24.8273651,121.081667<br>地下樓層數: 1<br>可容納人數: 180<br>備註: ]]></description>
         <styleUrl>#icon-1899-7CB342</styleUrl>
         <ExtendedData>
@@ -34711,42 +34675,6 @@
       </Placemark>
       <Placemark>
         <name>新湖分局</name>
-        <description><![CDATA[類別: 政府機關<br>電腦編號: HNL00025<br>村里別: 中勢村<br>地址: 新竹縣湖口鄉中勢村中央路20號<br>緯經度: 24.8991097,121.0550093<br>地下樓層數: 1<br>可容納人數: 483<br>備註: ]]></description>
-        <styleUrl>#icon-1899-1A237E</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>政府機關</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>HNL00025</value>
-          </Data>
-          <Data name="村里別">
-            <value>中勢村</value>
-          </Data>
-          <Data name="地址">
-            <value>新竹縣湖口鄉中勢村中央路20號</value>
-          </Data>
-          <Data name="緯經度">
-            <value>24.8991097,121.0550093</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>483.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            121.0550093,24.8991097,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>新湖分局</name>
         <description><![CDATA[類別: 公寓<br>電腦編號: HNL00026<br>村里別: 中勢村<br>地址: 新竹縣湖口鄉中勢村民族街143號<br>緯經度: 24.904315,121.0461278<br>地下樓層數: 1<br>可容納人數: 45<br>備註: ]]></description>
         <styleUrl>#icon-1899-1A237E</styleUrl>
         <ExtendedData>
@@ -35066,42 +34994,6 @@
         <Point>
           <coordinates>
             121.0357297,24.9027351,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>新湖分局</name>
-        <description><![CDATA[類別: 政府機關<br>電腦編號: HNL00038<br>村里別: 中勢村<br>地址: 新竹縣湖口鄉中勢村中正路144號<br>緯經度: 24.9002605,121.0469957<br>地下樓層數: 1<br>可容納人數: 176<br>備註: ]]></description>
-        <styleUrl>#icon-1899-1A237E</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>政府機關</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>HNL00038</value>
-          </Data>
-          <Data name="村里別">
-            <value>中勢村</value>
-          </Data>
-          <Data name="地址">
-            <value>新竹縣湖口鄉中勢村中正路144號</value>
-          </Data>
-          <Data name="緯經度">
-            <value>24.9002605,121.0469957</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>176.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            121.0469957,24.9002605,0
           </coordinates>
         </Point>
       </Placemark>
@@ -37339,7 +37231,7 @@
       </Placemark>
       <Placemark>
         <name>新湖分局</name>
-        <description><![CDATA[類別: 大樓<br>電腦編號: HNL00105<br>村里別: 波羅村<br>地址: 新竹縣湖口鄉波羅村新興路858號<br>緯經度: 24.891461,121.0200848<br>地下樓層數: 1<br>可容納人數: 745<br>備註: ]]></description>
+        <description><![CDATA[類別: 大樓<br>電腦編號: HNL00105<br>村里別: 波羅村<br>地址: 新竹縣湖口鄉波羅村新興路858號<br>緯經度: 24.884405,121.013449<br>地下樓層數: 1<br>可容納人數: 745<br>備註: ]]></description>
         <styleUrl>#icon-1899-1A237E</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -37355,7 +37247,7 @@
             <value>新竹縣湖口鄉波羅村新興路858號</value>
           </Data>
           <Data name="緯經度">
-            <value>24.891461,121.0200848</value>
+            <value>24.884405,121.013449</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -37369,7 +37261,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            121.0200848,24.891461,0
+            121.013449,24.884405,0
           </coordinates>
         </Point>
       </Placemark>

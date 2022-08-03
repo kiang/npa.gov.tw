@@ -1110,7 +1110,7 @@
       <Placemark>
         <name>馬公分局</name>
         <address>澎湖縣馬公市中興里治平路32號</address>
-        <description><![CDATA[類別: 縣政府<br>電腦編號: UNA00532<br>村里別: 中興里<br>地址: 澎湖縣馬公市中興里治平路32號<br>地下樓層數: 2<br>可容納人數: 10484<br>備註: ]]></description>
+        <description><![CDATA[類別: 縣政府<br>電腦編號: UNA00532<br>村里別: 中興里<br>地址: 澎湖縣馬公市中興里治平路32號<br>地下樓層數: 2<br>可容納人數: 10484<br>備註: *無障礙避難]]></description>
         <styleUrl>#icon-1899-FFD600</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -1132,7 +1132,7 @@
             <value>10484.0</value>
           </Data>
           <Data name="備註">
-            <value/>
+            <value>*無障礙避難</value>
           </Data>
         </ExtendedData>
       </Placemark>
