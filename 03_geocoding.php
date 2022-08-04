@@ -55,6 +55,8 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
             $address = $data['位置'];
         } elseif (isset($data['座落'])) {
             $address = $data['座落'];
+        } elseif (isset($data['placemark_address'])) {
+            $address = $data['placemark_address'];
         }
         if (isset($data['定位點'])) {
             $point = explode(',', $data['定位點']);
@@ -69,6 +71,27 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
                 floatval($data['緯度']),
                 floatval($data['經度']),
             ];
+        } elseif (isset($data['Location'])) {
+            $point = explode(',', $data['Location']);
+            if (count($point) === 2) {
+                foreach ($point as $k => $v) {
+                    $point[$k] = floatval($v);
+                }
+            }
+        } elseif (isset($data['經緯度'])) {
+            $point = explode(',', $data['經緯度']);
+            if (count($point) === 2) {
+                foreach ($point as $k => $v) {
+                    $point[$k] = floatval($v);
+                }
+            }
+        } elseif (isset($data['緯經度'])) {
+            $point = explode(',', $data['緯經度']);
+            if (count($point) === 2) {
+                foreach ($point as $k => $v) {
+                    $point[$k] = floatval($v);
+                }
+            }
         } elseif (isset($data['備註'])) {
             $point = explode(',', $data['備註']);
             if (count($point) === 2) {
@@ -79,13 +102,9 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
             } else {
                 $point = [];
             }
-        } elseif (isset($data['Location'])) {
-            $point = explode(',', $data['Location']);
-            if (count($point) === 2) {
-                foreach ($point as $k => $v) {
-                    $point[$k] = floatval($v);
-                }
-            }
+        }
+        if (!isset($point[1])) {
+            $point = [];
         }
 
         if (empty($point)) {
