@@ -194,6 +194,11 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
                 $pool[$city] = fopen($poolPath . '/' . $city . '.csv', 'w');
                 fputcsv($pool[$city], ['latitude', 'longitude', 'properties']);
             }
+            if ($point[0] > $point[1]) {
+                $tmp = $point[0];
+                $point[0] = $point[1];
+                $point[1] = $tmp;
+            }
             fputcsv($pool[$city], [$point[0], $point[1], json_encode($data, JSON_UNESCAPED_UNICODE)]);
         }
     }
