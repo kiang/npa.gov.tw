@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "新竹市香山區中隘里中華路6段799號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[新竹市]\tT:1,V:1,R:1,S:1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+2)(-6),E:-1,N:-1",
+      "OutTraceInfo": "[新竹市]\t { 模糊比對 } (香山區)\t找到符合的[鄉鎮市區]，(中隘里)\t找到符合的[村里]，(中華路)\t找到符合的[路街名]，(6)\t找到符合的[路段]，(799號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +2 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -6 號，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹市香山區中隘里10鄰中華路六段793號",
+      "COUNTY": "新竹市",
+      "TOWN": "香山區",
+      "VILLAGE": "中隘里",
+      "NEIGHBORHOOD": "10鄰",
+      "ROAD": "中華路",
+      "SECTION": "6",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "793號",
+      "X": 120.919179,
+      "Y": 24.720707,
+      "CODEBASE": "A1803-0406-00",
+      "CODE1": "A1803-24-008",
+      "CODE2": "A1803-24"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "新竹市香山區中隘里7鄰中華路六段801號",
+      "COUNTY": "新竹市",
+      "TOWN": "香山區",
+      "VILLAGE": "中隘里",
+      "NEIGHBORHOOD": "7鄰",
+      "ROAD": "中華路",
+      "SECTION": "6",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "801號",
+      "X": 120.916861,
+      "Y": 24.719823,
+      "CODEBASE": "A1803-0412-00",
+      "CODE1": "A1803-24-008",
+      "CODE2": "A1803-24"
+    }
+  ]
+}
