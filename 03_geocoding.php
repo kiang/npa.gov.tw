@@ -53,6 +53,8 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
             $address = $data['防空疏散避難設施地址'];
         } elseif (isset($data['位置'])) {
             $address = $data['位置'];
+        } elseif (isset($data['座落'])) {
+            $address = $data['座落'];
         }
         if (isset($data['定位點'])) {
             $point = explode(',', $data['定位點']);
