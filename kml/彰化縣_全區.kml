@@ -18507,35 +18507,6 @@
       </Placemark>
       <Placemark>
         <name>彰化分局民生所</name>
-        <address>彰化縣彰化市長樂里中正路1段558號</address>
-        <description><![CDATA[編號: 632<br>村里別: 長樂里<br>地址: 彰化縣彰化市長樂里中正路1段558號<br>可容納人數: 2195<br>地下樓層數: 1<br>類別: 大樓<br>備註: ]]></description>
-        <styleUrl>#icon-1899-880E4F</styleUrl>
-        <ExtendedData>
-          <Data name="編號">
-            <value>632.0</value>
-          </Data>
-          <Data name="村里別">
-            <value>長樂里</value>
-          </Data>
-          <Data name="地址">
-            <value>彰化縣彰化市長樂里中正路1段558號</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>2195.0</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>彰化分局民生所</name>
         <address>彰化縣彰化市長樂里長安街91號</address>
         <description><![CDATA[編號: 633<br>村里別: 長樂里<br>地址: 彰化縣彰化市長樂里長安街91號<br>可容納人數: 28<br>地下樓層數: 1<br>類別: 大樓<br>備註: ]]></description>
         <styleUrl>#icon-1899-880E4F</styleUrl>
@@ -50300,8 +50271,7 @@
       </Placemark>
       <Placemark>
         <name>和美分局和美所</name>
-        <address>彰化縣和美鎮四張里德美路616巷65弄15號</address>
-        <description><![CDATA[編號: 15<br>村里別: 四張里<br>地址: 彰化縣和美鎮四張里德美路616巷65弄15號<br>可容納人數: 50 <br>地下樓層數: 1 <br>類別: 大樓<br>備註: ]]></description>
+        <description><![CDATA[編號: 15<br>村里別: 四張里<br>地址: 彰化縣和美鎮德美路616巷55號<br>可容納人數: 50 <br>地下樓層數: 1 <br>類別: <br>備註: ]]></description>
         <styleUrl>#icon-1899-9C27B0</styleUrl>
         <ExtendedData>
           <Data name="編號">
@@ -50311,7 +50281,7 @@
             <value>四張里</value>
           </Data>
           <Data name="地址">
-            <value>彰化縣和美鎮四張里德美路616巷65弄15號</value>
+            <value>彰化縣和美鎮德美路616巷55號</value>
           </Data>
           <Data name="可容納人數">
             <value>50 </value>
@@ -50320,12 +50290,17 @@
             <value>1 </value>
           </Data>
           <Data name="類別">
-            <value>大樓</value>
+            <value/>
           </Data>
           <Data name="備註">
             <value/>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            120.4974317,24.1197065,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>和美分局和美所</name>

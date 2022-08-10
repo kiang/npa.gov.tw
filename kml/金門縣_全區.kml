@@ -28234,11 +28234,11 @@
       <Placemark>
         <name>金城分局</name>
         <address>金門縣金寧鄉湖埔村湖下196號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: 963<br>村里別: 湖埔村<br>地址: 金門縣金寧鄉湖埔村湖下196號<br>地下層數: 1<br>可容納數人: 673人<br>備註: ]]></description>
+        <description><![CDATA[類別: 湖埔國小<br>電腦編號: 963<br>村里別: 湖埔村<br>地址: 金門縣金寧鄉湖埔村湖下196號<br>地下層數: 1<br>可容納數人: 673人<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>大樓</value>
+            <value>湖埔國小</value>
           </Data>
           <Data name="電腦編號">
             <value>963.0</value>
@@ -28292,14 +28292,14 @@
       <Placemark>
         <name>金城分局</name>
         <address>金門縣金城鎮環島北路66號</address>
-        <description><![CDATA[類別: 文化局<br>電腦編號: 965<br>村里別: 西門里<br>地址: 金門縣金城鎮環島北路66號<br>地下層數: 1<br>可容納數人: 75人<br>備註: ]]></description>
+        <description><![CDATA[類別: 文化局<br>電腦編號: 972<br>村里別: 西門里<br>地址: 金門縣金城鎮環島北路66號<br>地下層數: 1<br>可容納數人: 75人<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
             <value>文化局</value>
           </Data>
           <Data name="電腦編號">
-            <value>965.0</value>
+            <value>972.0</value>
           </Data>
           <Data name="村里別">
             <value>西門里</value>
@@ -28321,14 +28321,14 @@
       <Placemark>
         <name>金城分局</name>
         <address>金門縣金城鎮民生路79號</address>
-        <description><![CDATA[類別: 工務處<br>電腦編號: 966<br>村里別: 北門里<br>地址: 金門縣金城鎮民生路79號<br>地下層數: 1<br>可容納數人: 150人<br>備註: ]]></description>
+        <description><![CDATA[類別: 工務處<br>電腦編號: 973<br>村里別: 北門里<br>地址: 金門縣金城鎮民生路79號<br>地下層數: 1<br>可容納數人: 150人<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
             <value>工務處</value>
           </Data>
           <Data name="電腦編號">
-            <value>966.0</value>
+            <value>973.0</value>
           </Data>
           <Data name="村里別">
             <value>北門里</value>
@@ -28486,6 +28486,64 @@
           </Data>
           <Data name="可容納數人">
             <value>27人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>金城分局</name>
+        <address>金門縣金城鎮東門里金山路17之2號</address>
+        <description><![CDATA[類別: 金門縣議會<br>電腦編號: 965<br>村里別: 東門里<br>地址: 金門縣金城鎮東門里金山路17之2號<br>地下層數: 1<br>可容納數人: 696人<br>備註: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>金門縣議會</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>965.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>東門里</value>
+          </Data>
+          <Data name="地址">
+            <value>金門縣金城鎮東門里金山路17之2號</value>
+          </Data>
+          <Data name="地下層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納數人">
+            <value>696人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>金城分局</name>
+        <address>金門縣金寧鄉湖埔村湖峰一街8號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 966<br>村里別: 湖埔村<br>地址: 金門縣金寧鄉湖埔村湖峰一街8號<br>地下層數: 1<br>可容納數人: 256<br>備註: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>966.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>湖埔村</value>
+          </Data>
+          <Data name="地址">
+            <value>金門縣金寧鄉湖埔村湖峰一街8號</value>
+          </Data>
+          <Data name="地下層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納數人">
+            <value>256</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -45320,8 +45378,8 @@
       </Placemark>
       <Placemark>
         <name>金湖分局</name>
-        <address>金門縣金湖鎮新市里復興路2號</address>
-        <description><![CDATA[類別: 金門醫院<br>電腦編號: 569<br>村里別: 新市里<br>地址: 金門縣金湖鎮新市里復興路2號<br>地下層數層數: 1<br>可容納人數: 584人<br>備註: ]]></description>
+        <address>金門縣金湖鎮新市里復興路2之1號</address>
+        <description><![CDATA[類別: 金門醫院<br>電腦編號: 569<br>村里別: 新市里<br>地址: 金門縣金湖鎮新市里復興路2之1號<br>地下層數層數: 1<br>可容納人數: 6040人<br>備註: ]]></description>
         <styleUrl>#icon-1899-558B2F</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -45334,13 +45392,13 @@
             <value>新市里</value>
           </Data>
           <Data name="地址">
-            <value>金門縣金湖鎮新市里復興路2號</value>
+            <value>金門縣金湖鎮新市里復興路2之1號</value>
           </Data>
           <Data name="地下層數層數">
             <value>1.0</value>
           </Data>
           <Data name="可容納人數">
-            <value>584人</value>
+            <value>6040人</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -46075,7 +46133,7 @@
       <Placemark>
         <name>金湖分局</name>
         <address>金門縣金湖鎮山外里復興西路2號</address>
-        <description><![CDATA[類別: 7-11超商<br>電腦編號: 595<br>村里別: 山外里<br>地址: 金門縣金湖鎮山外里復興西路2號<br>地下層數層數: 1<br>可容納人數: 50人<br>備註: ]]></description>
+        <description><![CDATA[類別: 7-11超商<br>電腦編號: 595<br>村里別: 山外里<br>地址: 金門縣金湖鎮山外里復興西路2號<br>地下層數層數: 1<br>可容納人數: 40人<br>備註: ]]></description>
         <styleUrl>#icon-1899-558B2F</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -46094,7 +46152,7 @@
             <value>1.0</value>
           </Data>
           <Data name="可容納人數">
-            <value>50人</value>
+            <value>40人</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -46103,8 +46161,8 @@
       </Placemark>
       <Placemark>
         <name>金湖分局</name>
-        <address>金門縣金湖鎮瓊林144號</address>
-        <description><![CDATA[類別: 台灣工商發展股份有限公司<br>電腦編號: 596<br>村里別: 瓊林里<br>地址: 金門縣金湖鎮瓊林144號<br>地下層數層數: 1<br>可容納人數: 1850人<br>備註: ]]></description>
+        <address>金門縣金湖鎮瓊林里中山路8之6號</address>
+        <description><![CDATA[類別: 台灣工商發展股份有限公司<br>電腦編號: 596<br>村里別: 瓊林里<br>地址: 金門縣金湖鎮瓊林里中山路8之6號<br>地下層數層數: 1<br>可容納人數: 321人<br>備註: ]]></description>
         <styleUrl>#icon-1899-558B2F</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -46117,13 +46175,13 @@
             <value>瓊林里</value>
           </Data>
           <Data name="地址">
-            <value>金門縣金湖鎮瓊林144號</value>
+            <value>金門縣金湖鎮瓊林里中山路8之6號</value>
           </Data>
           <Data name="地下層數層數">
             <value>1.0</value>
           </Data>
           <Data name="可容納人數">
-            <value>1850人</value>
+            <value>321人</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -52658,6 +52716,72 @@
             <value/>
           </Data>
         </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>金湖分局</name>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 821<br>村里別: 新湖里<br>地址: 金門縣金湖鎮新湖里市港五路172號<br>地下層數層數: 1<br>可容納人數: 994人<br>備註: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>公寓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>821.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>新湖里</value>
+          </Data>
+          <Data name="地址">
+            <value>金門縣金湖鎮新湖里市港五路172號</value>
+          </Data>
+          <Data name="地下層數層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>994人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            118.412384,24.4387626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金湖分局</name>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 822<br>村里別: 浦山里<br>地址: 金門縣金沙鎮浦山里洋山202號<br>地下層數層數: 1<br>可容納人數: 490人<br>備註: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>公寓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>822.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>浦山里</value>
+          </Data>
+          <Data name="地址">
+            <value>金門縣金沙鎮浦山里洋山202號</value>
+          </Data>
+          <Data name="地下層數層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>490人</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            118.3977203,24.4887012,0
+          </coordinates>
+        </Point>
       </Placemark>
     </Folder>
   </Document>

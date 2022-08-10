@@ -7243,7 +7243,7 @@
       </Placemark>
       <Placemark>
         <name>竹北分局</name>
-        <description><![CDATA[類別: 學校<br>電腦編號: HNB00205<br>村里別: 鹿場里<br>地址: 新竹縣竹北市鹿場里嘉興路62號<br>緯經度: 24.8140988,121.0249489<br>地下樓層數: 1<br>可容納人數: 952<br>備註: ]]></description>
+        <description><![CDATA[類別: 學校<br>電腦編號: HNB00205<br>村里別: 鹿場里<br>地址: 新竹縣竹北市鹿場里嘉興路62號<br>緯經度: 24.8140988,121.0249489<br>地下樓層數: 1<br>可容納人數: 952<br>備註: 活動中心]]></description>
         <styleUrl>#icon-1899-FFD600</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -7268,7 +7268,7 @@
             <value>952.0</value>
           </Data>
           <Data name="備註">
-            <value/>
+            <value>活動中心</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -7315,7 +7315,7 @@
       </Placemark>
       <Placemark>
         <name>竹北分局</name>
-        <description><![CDATA[類別: 學校<br>電腦編號: HNB00207<br>村里別: 鹿場里<br>地址: 新竹縣竹北市鹿場里嘉興路62號<br>緯經度: 24.8140988,121.0249489<br>地下樓層數: 1<br>可容納人數: 272<br>備註: ]]></description>
+        <description><![CDATA[類別: 學校<br>電腦編號: HNB00207<br>村里別: 鹿場里<br>地址: 新竹縣竹北市鹿場里嘉興路62號<br>緯經度: 24.8140988,121.0249489<br>地下樓層數: 1<br>可容納人數: 272<br>備註: 梯間教室]]></description>
         <styleUrl>#icon-1899-FFD600</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -7340,7 +7340,7 @@
             <value>272.0</value>
           </Data>
           <Data name="備註">
-            <value/>
+            <value>梯間教室</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -8467,7 +8467,7 @@
       </Placemark>
       <Placemark>
         <name>竹北分局</name>
-        <description><![CDATA[類別: 學校<br>電腦編號: HNB00239<br>村里別: 鹿場里<br>地址: 新竹縣竹北市鹿場里嘉興路62號<br>緯經度: 24.8140988,121.0249489<br>地下樓層數: 1<br>可容納人數: 446<br>備註: ]]></description>
+        <description><![CDATA[類別: 學校<br>電腦編號: HNB00239<br>村里別: 鹿場里<br>地址: 新竹縣竹北市鹿場里嘉興路62號<br>緯經度: 24.8140988,121.0249489<br>地下樓層數: 1<br>可容納人數: 446<br>備註: 山棟教室]]></description>
         <styleUrl>#icon-1899-FFD600</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -8492,7 +8492,7 @@
             <value>446.0</value>
           </Data>
           <Data name="備註">
-            <value/>
+            <value>山棟教室</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -12247,7 +12247,7 @@
       </Placemark>
       <Placemark>
         <name>竹北分局</name>
-        <description><![CDATA[類別: 學校<br>電腦編號: HNB00344<br>村里別: 鹿場里<br>地址: 新竹縣竹北市鹿場里嘉興路62號<br>緯經度: 24.8140988,121.0249489<br>地下樓層數: 1<br>可容納人數: 834<br>備註: ]]></description>
+        <description><![CDATA[類別: 學校<br>電腦編號: HNB00344<br>村里別: 鹿場里<br>地址: 新竹縣竹北市鹿場里嘉興路62號<br>緯經度: 24.8140988,121.0249489<br>地下樓層數: 1<br>可容納人數: 834<br>備註: 教學大樓]]></description>
         <styleUrl>#icon-1899-FFD600</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -12272,7 +12272,7 @@
             <value>834.0</value>
           </Data>
           <Data name="備註">
-            <value/>
+            <value>教學大樓</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -33847,7 +33847,7 @@
       </Placemark>
       <Placemark>
         <name>新湖分局</name>
-        <description><![CDATA[類別: 大樓<br>電腦編號: HNL00002<br>村里別: 員山村<br>地址: 新竹縣新豐鄉員山村學府路130號<br>緯經度: 24.871384,120.9964445<br>地下樓層數: 1<br>可容納人數: 3145<br>備註: ]]></description>
+        <description><![CDATA[類別: 大樓<br>電腦編號: HNL00002<br>村里別: 員山村<br>地址: 新竹縣新豐鄉山崎村學府路130號<br>緯經度: 24.871384,120.9964445<br>地下樓層數: 1<br>可容納人數: 3145<br>備註: ]]></description>
         <styleUrl>#icon-1899-1A237E</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -33860,7 +33860,7 @@
             <value>員山村</value>
           </Data>
           <Data name="地址">
-            <value>新竹縣新豐鄉員山村學府路130號</value>
+            <value>新竹縣新豐鄉山崎村學府路130號</value>
           </Data>
           <Data name="緯經度">
             <value>24.871384,120.9964445</value>

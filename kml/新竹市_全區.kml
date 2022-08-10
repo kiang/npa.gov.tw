@@ -17212,18 +17212,18 @@
       </Placemark>
       <Placemark>
         <name>FMA00623</name>
-        <address>新竹市北區大同里中正路136號</address>
-        <description><![CDATA[類別: 新竹市地方法院簡易庭<br>村里別: 大同里<br>座落: 新竹市北區大同里中正路136號<br>地下樓層數: 1<br>可容納人數: 713<br>轄管分局: 第一分局<br>備註: ]]></description>
+        <address>新竹市北區大同里中正路148號</address>
+        <description><![CDATA[類別: 新竹市政府都市發展處<br>村里別: 大同里<br>座落: 新竹市北區大同里中正路148號<br>地下樓層數: 1<br>可容納人數: 713<br>轄管分局: 第一分局<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>新竹市地方法院簡易庭</value>
+            <value>新竹市政府都市發展處</value>
           </Data>
           <Data name="村里別">
             <value>大同里</value>
           </Data>
           <Data name="座落">
-            <value>新竹市北區大同里中正路136號</value>
+            <value>新竹市北區大同里中正路148號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
