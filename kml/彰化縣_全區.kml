@@ -50271,7 +50271,7 @@
       </Placemark>
       <Placemark>
         <name>和美分局和美所</name>
-        <description><![CDATA[編號: 15<br>村里別: 四張里<br>地址: 彰化縣和美鎮德美路616巷55號<br>可容納人數: 50 <br>地下樓層數: 1 <br>類別: <br>備註: ]]></description>
+        <description><![CDATA[編號: 15<br>村里別: 四張里<br>地址: 彰化縣和美鎮四張里和厝路1段150巷65弄15號<br>可容納人數: 50 <br>地下樓層數: 1 <br>類別: <br>備註: ]]></description>
         <styleUrl>#icon-1899-9C27B0</styleUrl>
         <ExtendedData>
           <Data name="編號">
@@ -50281,7 +50281,7 @@
             <value>四張里</value>
           </Data>
           <Data name="地址">
-            <value>彰化縣和美鎮德美路616巷55號</value>
+            <value>彰化縣和美鎮四張里和厝路1段150巷65弄15號</value>
           </Data>
           <Data name="可容納人數">
             <value>50 </value>
@@ -50298,7 +50298,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.4974317,24.1197065,0
+            120.4978534,24.1193966,0
           </coordinates>
         </Point>
       </Placemark>
@@ -89031,8 +89031,7 @@
       </Placemark>
       <Placemark>
         <name>員林分局莒光所</name>
-        <address>彰化縣員林市惠來里中山路1段480巷40號</address>
-        <description><![CDATA[編號: 906<br>村里別: 惠來里<br>地址: 彰化縣員林市惠來里中山路1段480巷40號<br>可容納人數: 45 <br>地下樓層數: 1 <br>類別: 大樓<br>備註: ]]></description>
+        <description><![CDATA[編號: 906<br>村里別: 惠來里<br>地址: 彰化縣員林市惠來里中山路1段480巷4號<br>可容納人數: 45 <br>地下樓層數: 1 <br>類別: 大樓<br>備註: ]]></description>
         <styleUrl>#icon-1899-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="編號">
@@ -89042,7 +89041,7 @@
             <value>惠來里</value>
           </Data>
           <Data name="地址">
-            <value>彰化縣員林市惠來里中山路1段480巷40號</value>
+            <value>彰化縣員林市惠來里中山路1段480巷4號</value>
           </Data>
           <Data name="可容納人數">
             <value>45 </value>
@@ -89057,10 +89056,14 @@
             <value/>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            120.5672489,23.9526751,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>員林分局莒光所</name>
-        <address>彰化縣員林市惠來里中山路1段480巷6號</address>
         <description><![CDATA[編號: 907<br>村里別: 惠來里<br>地址: 彰化縣員林市惠來里中山路1段480巷6號<br>可容納人數: 45 <br>地下樓層數: 1 <br>類別: 大樓<br>備註: ]]></description>
         <styleUrl>#icon-1899-FFEA00</styleUrl>
         <ExtendedData>
@@ -89086,6 +89089,11 @@
             <value/>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            120.5672703,23.9525795,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>員林分局莒光所</name>
@@ -92337,7 +92345,6 @@
       </Placemark>
       <Placemark>
         <name>員林分局莒光所</name>
-        <address>彰化縣員林市惠來里15鄰中山路1段478號</address>
         <description><![CDATA[編號: 1020<br>村里別: 惠來里<br>地址: 彰化縣員林市惠來里15鄰中山路1段478號<br>可容納人數: 1,127 <br>地下樓層數: 1 <br>類別: 大樓<br>備註: ]]></description>
         <styleUrl>#icon-1899-FFEA00</styleUrl>
         <ExtendedData>
@@ -92363,6 +92370,11 @@
             <value/>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            120.5671737,23.9524839,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>員林分局莒光所</name>

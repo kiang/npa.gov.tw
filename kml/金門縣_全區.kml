@@ -28523,8 +28523,7 @@
       </Placemark>
       <Placemark>
         <name>金城分局</name>
-        <address>金門縣金寧鄉湖埔村湖峰一街8號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: 966<br>村里別: 湖埔村<br>地址: 金門縣金寧鄉湖埔村湖峰一街8號<br>地下層數: 1<br>可容納數人: 256<br>備註: ]]></description>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 966<br>村里別: 湖埔村<br>地址: 金門縣金寧鄉湖埔村湖峰一街8號<br>地下層數: 1<br>可容納數人: 256人<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -28543,12 +28542,17 @@
             <value>1.0</value>
           </Data>
           <Data name="可容納數人">
-            <value>256</value>
+            <value>256人</value>
           </Data>
           <Data name="備註">
             <value/>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            118.3049722,24.4525131,0
+          </coordinates>
+        </Point>
       </Placemark>
     </Folder>
     <Folder>
@@ -45726,8 +45730,7 @@
       </Placemark>
       <Placemark>
         <name>金湖分局</name>
-        <address>金門縣金湖鎮山外里黃海路103號</address>
-        <description><![CDATA[類別: 緊急避難所<br>電腦編號: 581<br>村里別: 山外里<br>地址: 金門縣金湖鎮山外里黃海路103號<br>地下層數層數: 1<br>可容納人數: 267人<br>備註: ]]></description>
+        <description><![CDATA[類別: 緊急避難所<br>電腦編號: 581<br>村里別: 山外里<br>地址: 金門縣金湖鎮山外里山外80-3號<br>地下層數層數: 1<br>可容納人數: 120人<br>備註: ]]></description>
         <styleUrl>#icon-1899-558B2F</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -45740,18 +45743,23 @@
             <value>山外里</value>
           </Data>
           <Data name="地址">
-            <value>金門縣金湖鎮山外里黃海路103號</value>
+            <value>金門縣金湖鎮山外里山外80-3號</value>
           </Data>
           <Data name="地下層數層數">
             <value>1.0</value>
           </Data>
           <Data name="可容納人數">
-            <value>267人</value>
+            <value>120人</value>
           </Data>
           <Data name="備註">
             <value/>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            118.4151,24.445621,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>金湖分局</name>

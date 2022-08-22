@@ -76782,8 +76782,8 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區長竹里金龍街53號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA0516<br>村里別: 長竹里<br>地址: 嘉義市東區長竹里金龍街53號<br>地下樓層數: 1<br>可容納人數: 1257<br>備註: ]]></description>
+        <address>嘉義市東區長竹里金龍街37號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MNA0516<br>村里別: 長竹里<br>地址: 嘉義市東區長竹里金龍街37號<br>地下樓層數: 1<br>可容納人數: 1257<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -76796,7 +76796,7 @@
             <value>長竹里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區長竹里金龍街53號</value>
+            <value>嘉義市東區長竹里金龍街37號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>

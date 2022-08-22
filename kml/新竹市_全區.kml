@@ -9352,35 +9352,6 @@
         </ExtendedData>
       </Placemark>
       <Placemark>
-        <name>FMA00315</name>
-        <address>新竹市北區境福里14鄰成功路65巷13號</address>
-        <description><![CDATA[類別: 大樓<br>村里別: 境福里<br>座落: 新竹市北區境福里14鄰成功路65巷13號<br>地下樓層數: 1<br>可容納人數: 1308<br>轄管分局: 第一分局<br>備註: ]]></description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="村里別">
-            <value>境福里</value>
-          </Data>
-          <Data name="座落">
-            <value>新竹市北區境福里14鄰成功路65巷13號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>1308.0</value>
-          </Data>
-          <Data name="轄管分局">
-            <value>第一分局</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
         <name>FMA00316</name>
         <address>新竹市北區境福里12鄰中正路391號</address>
         <description><![CDATA[類別: 公寓<br>村里別: 境福里<br>座落: 新竹市北區境福里12鄰中正路391號<br>地下樓層數: 1<br>可容納人數: 20<br>轄管分局: 第一分局<br>備註: ]]></description>
@@ -9400,35 +9371,6 @@
           </Data>
           <Data name="可容納人數">
             <value>20.0</value>
-          </Data>
-          <Data name="轄管分局">
-            <value>第一分局</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FMA00317</name>
-        <address>新竹市北區境福里14鄰成功路65巷15號</address>
-        <description><![CDATA[類別: 公寓<br>村里別: 境福里<br>座落: 新竹市北區境福里14鄰成功路65巷15號<br>地下樓層數: 1<br>可容納人數: 137<br>轄管分局: 第一分局<br>備註: ]]></description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>公寓</value>
-          </Data>
-          <Data name="村里別">
-            <value>境福里</value>
-          </Data>
-          <Data name="座落">
-            <value>新竹市北區境福里14鄰成功路65巷15號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>137.0</value>
           </Data>
           <Data name="轄管分局">
             <value>第一分局</value>
@@ -9961,35 +9903,6 @@
         </ExtendedData>
       </Placemark>
       <Placemark>
-        <name>FMA00336</name>
-        <address>新竹市北區光田里東大路二段241弄1號</address>
-        <description><![CDATA[類別: 大樓<br>村里別: 光田里<br>座落: 新竹市北區光田里東大路二段241弄1號<br>地下樓層數: 1<br>可容納人數: 44<br>轄管分局: 第一分局<br>備註: ]]></description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="村里別">
-            <value>光田里</value>
-          </Data>
-          <Data name="座落">
-            <value>新竹市北區光田里東大路二段241弄1號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>44.0</value>
-          </Data>
-          <Data name="轄管分局">
-            <value>第一分局</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
         <name>FMA00337</name>
         <address>新竹市北區境福里6鄰東大路二段449號</address>
         <description><![CDATA[類別: 新竹市士林市場<br>村里別: 境福里<br>座落: 新竹市北區境福里6鄰東大路二段449號<br>地下樓層數: 1<br>可容納人數: 1000<br>轄管分局: 第一分局<br>備註: ]]></description>
@@ -10241,35 +10154,6 @@
           </Data>
           <Data name="可容納人數">
             <value>622.0</value>
-          </Data>
-          <Data name="轄管分局">
-            <value>第一分局</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FMA00346</name>
-        <address>新竹市北區福林里東大路二段241巷52弄9號</address>
-        <description><![CDATA[類別: 公寓<br>村里別: 福林里<br>座落: 新竹市北區福林里東大路二段241巷52弄9號<br>地下樓層數: 1<br>可容納人數: 73<br>轄管分局: 第一分局<br>備註: ]]></description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>公寓</value>
-          </Data>
-          <Data name="村里別">
-            <value>福林里</value>
-          </Data>
-          <Data name="座落">
-            <value>新竹市北區福林里東大路二段241巷52弄9號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>73.0</value>
           </Data>
           <Data name="轄管分局">
             <value>第一分局</value>
@@ -10949,7 +10833,7 @@
       <Placemark>
         <name>FMA00378</name>
         <address>新竹市北區光田里17鄰水田街206巷22號</address>
-        <description><![CDATA[類別: 公寓<br>村里別: 光田里<br>座落: 新竹市北區光田里17鄰水田街206巷22號<br>地下樓層數: 3<br>可容納人數: 8<br>轄管分局: 第一分局<br>備註: ]]></description>
+        <description><![CDATA[類別: 公寓<br>村里別: 光田里<br>座落: 新竹市北區光田里17鄰水田街206巷22號<br>地下樓層數: 1<br>可容納人數: 8<br>轄管分局: 第一分局<br>備註: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -10962,7 +10846,7 @@
             <value>新竹市北區光田里17鄰水田街206巷22號</value>
           </Data>
           <Data name="地下樓層數">
-            <value>3.0</value>
+            <value>1.0</value>
           </Data>
           <Data name="可容納人數">
             <value>8.0</value>
@@ -77364,7 +77248,9 @@
       </Placemark>
       <Placemark>
         <name>FOA00379</name>
-        <description><![CDATA[類別: 公寓<br>村里別: 光鎮里<br>座落: 新竹市東區光鎮里南大路537巷30-32號<br>地下樓層數: 1<br>可容納人數: 156<br>轄管分局: 第三分局<br>備註: ]]></description>
+        <address>新竹市東區光鎮里南大路537巷30-32號 </address>
+        <description><![CDATA[類別: 公寓<br>村里別: 光鎮里<br>座落: 新竹市東區光鎮里南大路537巷30-32號 <br>地下樓層數: 1<br>可容納人數: 156<br>轄管分局: 第三分局<br>備註: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
         <ExtendedData>
           <Data name="類別">
             <value>公寓</value>
@@ -77373,7 +77259,7 @@
             <value>光鎮里</value>
           </Data>
           <Data name="座落">
-            <value>新竹市東區光鎮里南大路537巷30-32號</value>
+            <value>新竹市東區光鎮里南大路537巷30-32號 </value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -85801,7 +85687,9 @@
       </Placemark>
       <Placemark>
         <name>FOA00689</name>
-        <description><![CDATA[類別: 大樓<br>村里別: 頂福里<br>座落: 新竹市香山區頂福里中山路640巷168弄7號<br>地下樓層數: 2<br>可容納人數: 3500<br>轄管分局: 第三分局<br>備註: ]]></description>
+        <address>新竹市香山區頂福里中山路640巷168弄7號 </address>
+        <description><![CDATA[類別: 大樓<br>村里別: 頂福里<br>座落: 新竹市香山區頂福里中山路640巷168弄7號 <br>地下樓層數: 2<br>可容納人數: 3500<br>轄管分局: 第三分局<br>備註: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
         <ExtendedData>
           <Data name="類別">
             <value>大樓</value>
@@ -85810,7 +85698,7 @@
             <value>頂福里</value>
           </Data>
           <Data name="座落">
-            <value>新竹市香山區頂福里中山路640巷168弄7號</value>
+            <value>新竹市香山區頂福里中山路640巷168弄7號 </value>
           </Data>
           <Data name="地下樓層數">
             <value>2.0</value>
@@ -86426,6 +86314,35 @@
           </Data>
           <Data name="可容納人數">
             <value>2808.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>第三分局</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>FOA00711</name>
+        <address>新竹市東區頂竹里6鄰南大路219號</address>
+        <description><![CDATA[類別: 大樓<br>村里別: 頂竹里<br>座落: 新竹市東區頂竹里6鄰南大路219號<br>地下樓層數: 3<br>可容納人數: 6389<br>轄管分局: 第三分局<br>備註: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="村里別">
+            <value>頂竹里</value>
+          </Data>
+          <Data name="座落">
+            <value>新竹市東區頂竹里6鄰南大路219號</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>3.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>6389.0</value>
           </Data>
           <Data name="轄管分局">
             <value>第三分局</value>

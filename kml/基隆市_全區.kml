@@ -8804,8 +8804,8 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>二信高中 建國011 建國里 基隆市立德路206 835 第二分局</address>
-        <description><![CDATA[類別: 二信高中<br>電腦編號: 建國011<br>村里別: 建國里<br>地址: 基隆市立德路206<br>地下樓層數: 1<br>可容納人數: 835<br>備註: ]]></description>
+        <address>二信高中 建國011 建國里 基隆市中正區立德路206 835 第二分局</address>
+        <description><![CDATA[類別: 二信高中<br>電腦編號: 建國011<br>村里別: 建國里<br>地址: 基隆市中正區立德路206<br>地下樓層數: 1<br>可容納人數: 835<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -8818,7 +8818,7 @@
             <value>建國里</value>
           </Data>
           <Data name="地址">
-            <value>基隆市立德路206</value>
+            <value>基隆市中正區立德路206</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -8833,8 +8833,8 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>公寓 建國012 建國里 基隆市祥豐街399號 722 第二分局</address>
-        <description><![CDATA[類別: 公寓<br>電腦編號: 建國012<br>村里別: 建國里<br>地址: 基隆市祥豐街399號<br>地下樓層數: 1<br>可容納人數: 722<br>備註: ]]></description>
+        <address>公寓 建國012 建國里 基隆市中正區祥豐街399號 722 第二分局</address>
+        <description><![CDATA[類別: 公寓<br>電腦編號: 建國012<br>村里別: 建國里<br>地址: 基隆市中正區祥豐街399號<br>地下樓層數: 1<br>可容納人數: 722<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -8847,7 +8847,7 @@
             <value>建國里</value>
           </Data>
           <Data name="地址">
-            <value>基隆市祥豐街399號</value>
+            <value>基隆市中正區祥豐街399號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -23831,8 +23831,8 @@
       </Placemark>
       <Placemark>
         <name>第三分局</name>
-        <address>大樓  暖西036 暖西里 基隆市暖暖街530巷2號 298 第三分局</address>
-        <description><![CDATA[類別: 大樓 <br>電腦編號: 暖西036<br>村里別: 暖西里<br>地址: 基隆市暖暖街530巷2號<br>地下樓層數: 1<br>可容納人數: 298]]></description>
+        <address>大樓  暖西036 暖西里 基隆市暖暖區暖暖街530巷2號 298 第三分局</address>
+        <description><![CDATA[類別: 大樓 <br>電腦編號: 暖西036<br>村里別: 暖西里<br>地址: 基隆市暖暖區暖暖街530巷2號<br>地下樓層數: 1<br>可容納人數: 298]]></description>
         <styleUrl>#icon-1899-FFEA00</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -23845,7 +23845,7 @@
             <value>暖西里</value>
           </Data>
           <Data name="地址">
-            <value>基隆市暖暖街530巷2號</value>
+            <value>基隆市暖暖區暖暖街530巷2號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
