@@ -46569,8 +46569,8 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <address>嘉義市西區港坪里永樂五街27號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1724<br>村里別: 港坪里<br>地址: 嘉義市西區港坪里永樂五街27號<br>地下樓層數: 1<br>可容納人數: 985<br>備註: ]]></description>
+        <address>嘉義市西區港坪里永樂五街37號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MMA1724<br>村里別: 港坪里<br>地址: 嘉義市西區港坪里永樂五街37號<br>地下樓層數: 1<br>可容納人數: 985<br>備註: ]]></description>
         <styleUrl>#icon-1899-C2185B</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -46583,7 +46583,7 @@
             <value>港坪里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市西區港坪里永樂五街27號</value>
+            <value>嘉義市西區港坪里永樂五街37號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -58210,11 +58210,11 @@
       <Placemark>
         <name>第二分局</name>
         <address>嘉義市東區仁義里台林街117巷1號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA01515<br>村里別: 仁義里<br>地址: 嘉義市東區仁義里台林街117巷1號<br>地下樓層數: 1<br>可容納人數: 957<br>備註: ]]></description>
+        <description><![CDATA[類別: 公寓大廈<br>電腦編號: MNA01515<br>村里別: 仁義里<br>地址: 嘉義市東區仁義里台林街117巷1號<br>地下樓層數: 1<br>可容納人數: 957<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>大樓</value>
+            <value>公寓大廈</value>
           </Data>
           <Data name="電腦編號">
             <value>MNA01515</value>
@@ -60529,12 +60529,12 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區仁義里嘉南街1號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA01513<br>村里別: 仁義里<br>地址: 嘉義市東區仁義里嘉南街1號<br>地下樓層數: 1<br>可容納人數: 1697<br>備註: ]]></description>
+        <address>嘉義市東區仁義里嘉南街43號</address>
+        <description><![CDATA[類別: 公寓大廈<br>電腦編號: MNA01513<br>村里別: 仁義里<br>地址: 嘉義市東區仁義里嘉南街43號<br>地下樓層數: 1<br>可容納人數: 1697<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>大樓</value>
+            <value>公寓大廈</value>
           </Data>
           <Data name="電腦編號">
             <value>MNA01513</value>
@@ -60543,7 +60543,7 @@
             <value>仁義里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區仁義里嘉南街1號</value>
+            <value>嘉義市東區仁義里嘉南街43號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -60878,11 +60878,11 @@
       <Placemark>
         <name>第二分局</name>
         <address>嘉義市東區太平里安和街222號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA00588<br>村里別: 太平里<br>地址: 嘉義市東區太平里安和街222號<br>地下樓層數: 1<br>可容納人數: 1388<br>備註: ]]></description>
+        <description><![CDATA[類別: 公寓大廈<br>電腦編號: MNA00588<br>村里別: 太平里<br>地址: 嘉義市東區太平里安和街222號<br>地下樓層數: 1<br>可容納人數: 1388<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>大樓</value>
+            <value>公寓大廈</value>
           </Data>
           <Data name="電腦編號">
             <value>MNA00588</value>
@@ -61139,11 +61139,11 @@
       <Placemark>
         <name>第二分局</name>
         <address>嘉義市東區太平里博東路107號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA0276<br>村里別: 太平里<br>地址: 嘉義市東區太平里博東路107號<br>地下樓層數: 1<br>可容納人數: 4442<br>備註: ]]></description>
+        <description><![CDATA[類別: 公寓大廈<br>電腦編號: MNA0276<br>村里別: 太平里<br>地址: 嘉義市東區太平里博東路107號<br>地下樓層數: 1<br>可容納人數: 4442<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>大樓</value>
+            <value>公寓大廈</value>
           </Data>
           <Data name="電腦編號">
             <value>MNA0276</value>
@@ -61226,11 +61226,11 @@
       <Placemark>
         <name>第二分局</name>
         <address>嘉義市東區太平里博東路27號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA0275<br>村里別: 太平里<br>地址: 嘉義市東區太平里博東路27號<br>地下樓層數: 1<br>可容納人數: 648<br>備註: ]]></description>
+        <description><![CDATA[類別: 公寓大廈<br>電腦編號: MNA0275<br>村里別: 太平里<br>地址: 嘉義市東區太平里博東路27號<br>地下樓層數: 1<br>可容納人數: 648<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>大樓</value>
+            <value>公寓大廈</value>
           </Data>
           <Data name="電腦編號">
             <value>MNA0275</value>
@@ -73825,11 +73825,11 @@
       <Placemark>
         <name>第二分局</name>
         <address>嘉義市東區林森里安和街209號</address>
-        <description><![CDATA[類別: 第五工程處<br>電腦編號: MNA00292<br>村里別: 林森里<br>地址: 嘉義市東區林森里安和街209號<br>地下樓層數: 1<br>可容納人數: 156<br>備註: ]]></description>
+        <description><![CDATA[類別: 公有建築<br>電腦編號: MNA00292<br>村里別: 林森里<br>地址: 嘉義市東區林森里安和街209號<br>地下樓層數: 1<br>可容納人數: 156<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>第五工程處</value>
+            <value>公有建築</value>
           </Data>
           <Data name="電腦編號">
             <value>MNA00292</value>
@@ -73845,35 +73845,6 @@
           </Data>
           <Data name="可容納人數">
             <value>156.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區林森里安和街209號</address>
-        <description><![CDATA[類別: 工程第五大隊保養場<br>電腦編號: MNA01567<br>村里別: 林森里<br>地址: 嘉義市東區林森里安和街209號<br>地下樓層數: 1<br>可容納人數: 246<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>工程第五大隊保養場</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA01567</value>
-          </Data>
-          <Data name="村里別">
-            <value>林森里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區林森里安和街209號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>246.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -73912,11 +73883,11 @@
       <Placemark>
         <name>第二分局</name>
         <address>嘉義市東區林森里安和街209號</address>
-        <description><![CDATA[類別: 工程第五大隊資料中心<br>電腦編號: MNA01569<br>村里別: 林森里<br>地址: 嘉義市東區林森里安和街209號<br>地下樓層數: 1<br>可容納人數: 199<br>備註: ]]></description>
+        <description><![CDATA[類別: 公有建築<br>電腦編號: MNA01569<br>村里別: 林森里<br>地址: 嘉義市東區林森里安和街209號<br>地下樓層數: 1<br>可容納人數: 199<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>工程第五大隊資料中心</value>
+            <value>公有建築</value>
           </Data>
           <Data name="電腦編號">
             <value>MNA01569</value>
@@ -73932,35 +73903,6 @@
           </Data>
           <Data name="可容納人數">
             <value>199.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>第二分局</name>
-        <address>嘉義市東區林森里安和街209號</address>
-        <description><![CDATA[類別: 工程第五大隊辦公大樓<br>電腦編號: MNA01570<br>村里別: 林森里<br>地址: 嘉義市東區林森里安和街209號<br>地下樓層數: 1<br>可容納人數: 112<br>備註: ]]></description>
-        <styleUrl>#icon-1899-3949AB</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>工程第五大隊辦公大樓</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>MNA01570</value>
-          </Data>
-          <Data name="村里別">
-            <value>林森里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市東區林森里安和街209號</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>112.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -75130,11 +75072,11 @@
       <Placemark>
         <name>第二分局</name>
         <address>嘉義市東區林森里維新路321號</address>
-        <description><![CDATA[類別: 法務部調查局<br>電腦編號: MNA0692<br>村里別: 林森里<br>地址: 嘉義市東區林森里維新路321號<br>地下樓層數: 1<br>可容納人數: 732<br>備註: ]]></description>
+        <description><![CDATA[類別: 公有建築<br>電腦編號: MNA0692<br>村里別: 林森里<br>地址: 嘉義市東區林森里維新路321號<br>地下樓層數: 1<br>可容納人數: 732<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>法務部調查局</value>
+            <value>公有建築</value>
           </Data>
           <Data name="電腦編號">
             <value>MNA0692</value>
@@ -82123,11 +82065,11 @@
       <Placemark>
         <name>第二分局</name>
         <address>嘉義市東區華南里公明路65號</address>
-        <description><![CDATA[類別: 南院旅墅<br>電腦編號: MNA0687<br>村里別: 華南里<br>地址: 嘉義市東區華南里公明路65號<br>地下樓層數: 2<br>可容納人數: 1765<br>備註: ]]></description>
+        <description><![CDATA[類別: 飯店<br>電腦編號: MNA0687<br>村里別: 華南里<br>地址: 嘉義市東區華南里公明路65號<br>地下樓層數: 2<br>可容納人數: 1765<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>南院旅墅</value>
+            <value>飯店</value>
           </Data>
           <Data name="電腦編號">
             <value>MNA0687</value>
@@ -83283,11 +83225,11 @@
       <Placemark>
         <name>第二分局</name>
         <address>嘉義市東區華南里維新路7號</address>
-        <description><![CDATA[類別: 鈺通大飯店<br>電腦編號: MNA0577<br>村里別: 華南里<br>地址: 嘉義市東區華南里維新路7號<br>地下樓層數: 1<br>可容納人數: 1933<br>備註: ]]></description>
+        <description><![CDATA[類別: 飯店<br>電腦編號: MNA0577<br>村里別: 華南里<br>地址: 嘉義市東區華南里維新路7號<br>地下樓層數: 1<br>可容納人數: 1933<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>鈺通大飯店</value>
+            <value>飯店</value>
           </Data>
           <Data name="電腦編號">
             <value>MNA0577</value>
@@ -85167,8 +85109,7 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <address>嘉義市東區新開里體育路11-1號</address>
-        <description><![CDATA[類別: 大樓<br>電腦編號: MNA0216<br>村里別: 新開里<br>地址: 嘉義市東區新開里體育路11-1號<br>地下樓層數: 1<br>可容納人數: 1410<br>備註: ]]></description>
+        <description><![CDATA[類別: 大樓<br>電腦編號: MNA0216<br>村里別: 新開里<br>地址: 嘉義市東區新開里體育路11-8號<br>地下樓層數: 1<br>可容納人數: 1410<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -85181,7 +85122,7 @@
             <value>新開里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區新開里體育路11-1號</value>
+            <value>嘉義市東區新開里體育路11-8號</value>
           </Data>
           <Data name="地下樓層數">
             <value>1</value>
@@ -85193,6 +85134,11 @@
             <value/>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            120.4599317,23.4721572,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>第二分局</name>
@@ -92538,11 +92484,11 @@
       <Placemark>
         <name>第二分局</name>
         <address>嘉義市東區林森里安和街209號</address>
-        <description><![CDATA[類別: 第五區養護工程處<br>電腦編號: MNA0702<br>村里別: 林森里<br>地址: 嘉義市東區林森里安和街209號<br>地下樓層數: 1<br>可容納人數: 764<br>備註: ]]></description>
+        <description><![CDATA[類別: 公有建築<br>電腦編號: MNA0702<br>村里別: 林森里<br>地址: 嘉義市東區林森里安和街209號<br>地下樓層數: 1<br>可容納人數: 764<br>備註: ]]></description>
         <styleUrl>#icon-1899-3949AB</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>第五區養護工程處</value>
+            <value>公有建築</value>
           </Data>
           <Data name="電腦編號">
             <value>MNA0702</value>

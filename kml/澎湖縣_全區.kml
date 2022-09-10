@@ -202,35 +202,6 @@
       </Placemark>
       <Placemark>
         <name>白沙分局</name>
-        <address>23.651976779373697, 119.51806348636724</address>
-        <description><![CDATA[類別: 宮廟<br>電腦編號: UOAO0012<br>村里別: 小門村<br>地址: 23.651976779373697, 119.51806348636724<br>地下樓層數: 1<br>可容納人數: 48<br>備註: 澎湖縣西嶼鄉小門村19號之1]]></description>
-        <styleUrl>#icon-1899-01579B</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>宮廟</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>UOAO0012</value>
-          </Data>
-          <Data name="村里別">
-            <value>小門村</value>
-          </Data>
-          <Data name="地址">
-            <value>23.651976779373697, 119.51806348636724</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>48.0</value>
-          </Data>
-          <Data name="備註">
-            <value>澎湖縣西嶼鄉小門村19號之1</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>白沙分局</name>
         <description><![CDATA[類別: 學校<br>電腦編號: UOAO0016<br>村里別: 外垵村<br>地址: 23.56784842767596, 119.48103404341583<br>地下樓層數: 1<br>可容納人數: 266<br>備註: 澎湖縣西嶼鄉外垵村29號之3]]></description>
         <styleUrl>#icon-1899-01579B</styleUrl>
         <ExtendedData>

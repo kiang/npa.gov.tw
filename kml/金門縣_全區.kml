@@ -11700,7 +11700,6 @@
       </Placemark>
       <Placemark>
         <name>金城分局</name>
-        <address>金門縣金城鎮北門里民生路18號</address>
         <description><![CDATA[類別: 公寓<br>電腦編號: 395<br>村里別: 北門里<br>地址: 金門縣金城鎮北門里民生路18號<br>地下層數: 1<br>可容納數人: 27人<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
@@ -11726,6 +11725,11 @@
             <value/>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            118.3196988,24.4344428,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>金城分局</name>
@@ -22052,7 +22056,6 @@
       </Placemark>
       <Placemark>
         <name>金城分局</name>
-        <address>金門縣金城鎮北門里民生路16號</address>
         <description><![CDATA[類別: IN99飯店<br>電腦編號: 762<br>村里別: 北門里<br>地址: 金門縣金城鎮北門里民生路16號<br>地下層數: 1<br>可容納數人: 87人<br>備註: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
@@ -22078,6 +22081,11 @@
             <value/>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            118.3197659,24.4343769,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>金城分局</name>
@@ -28553,6 +28561,35 @@
             118.3049722,24.4525131,0
           </coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>金城分局</name>
+        <address>金城鎮西門里民權路226巷2弄11號</address>
+        <description><![CDATA[類別: 大樓<br>電腦編號: 974<br>村里別: 西門里<br>地址: 金城鎮西門里民權路226巷2弄11號<br>地下層數: 1<br>可容納數人: 1385<br>備註: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="類別">
+            <value>大樓</value>
+          </Data>
+          <Data name="電腦編號">
+            <value>974.0</value>
+          </Data>
+          <Data name="村里別">
+            <value>西門里</value>
+          </Data>
+          <Data name="地址">
+            <value>金城鎮西門里民權路226巷2弄11號</value>
+          </Data>
+          <Data name="地下層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納數人">
+            <value>1385</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
       </Placemark>
     </Folder>
     <Folder>
@@ -45527,8 +45564,7 @@
       </Placemark>
       <Placemark>
         <name>金湖分局</name>
-        <address>金門縣金湖鎮新市里林森路6號</address>
-        <description><![CDATA[類別: 金湖鎮公所<br>電腦編號: 574<br>村里別: 新市里<br>地址: 金門縣金湖鎮新市里林森路6號<br>地下層數層數: 1<br>可容納人數: 1166人<br>備註: ]]></description>
+        <description><![CDATA[類別: 金湖鎮公所<br>電腦編號: 574<br>村里別: 新市里<br>地址: 金門縣金湖鎮林森路2號<br>地下層數層數: 1<br>可容納人數: 1166人<br>備註: ]]></description>
         <styleUrl>#icon-1899-558B2F</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -45541,7 +45577,7 @@
             <value>新市里</value>
           </Data>
           <Data name="地址">
-            <value>金門縣金湖鎮新市里林森路6號</value>
+            <value>金門縣金湖鎮林森路2號</value>
           </Data>
           <Data name="地下層數層數">
             <value>1.0</value>
@@ -45553,6 +45589,11 @@
             <value/>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            118.4170197,24.4413154,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>金湖分局</name>

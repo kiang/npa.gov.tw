@@ -1483,7 +1483,7 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 37<br>村里別: 中央村<br>地址: 嘉義縣民雄鄉中央村17-2號<br>地下層數: 地下1層<br>可容納人數: 184<br>定位點: 23.53447, 120.40561<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 37<br>村里別: 中央村<br>地址: 嘉義縣民雄鄉中央村17-2號<br>地下層數: 地下1層<br>可容納人數: 184<br>定位點: 23.5341797, 120.4057007<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -1505,7 +1505,7 @@
             <value>184</value>
           </Data>
           <Data name="定位點">
-            <value>23.53447, 120.40561</value>
+            <value>23.5341797, 120.4057007</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -1513,7 +1513,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.40561,23.53447,0
+            120.4057007,23.5341797,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1663,7 +1663,7 @@
       </Placemark>
       <Placemark>
         <name>民雄分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 43<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業一路10號<br>地下層數: 地下1層<br>可容納人數: 112<br>定位點: 23.51937, 120.42678<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 43<br>村里別: 興南村<br>地址: 嘉義縣民雄鄉興南村工業一路10號<br>地下層數: 地下1層<br>可容納人數: 112<br>定位點: 23.519675, 120.4280836<br>備考: ]]></description>
         <styleUrl>#icon-1899-817717</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -1685,7 +1685,7 @@
             <value>112</value>
           </Data>
           <Data name="定位點">
-            <value>23.51937, 120.42678</value>
+            <value>23.519675, 120.4280836</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -1693,7 +1693,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.42678,23.51937,0
+            120.4280836,23.519675,0
           </coordinates>
         </Point>
       </Placemark>
@@ -13831,7 +13831,7 @@
       </Placemark>
       <Placemark>
         <name>水上分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 384<br>村里別: 柳鄉村<br>地址: 嘉義縣水上鄉柳鄉村柳子林193-1號<br>地下層數: 地下1樓<br>可容納人數: 149<br>定位點: 23.44662, 120.41952<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 384<br>村里別: 柳鄉村<br>地址: 嘉義縣水上鄉柳鄉村柳子林193-1號<br>地下層數: 地下1樓<br>可容納人數: 149<br>定位點: 23.4374657, 120.4148798<br>備考: ]]></description>
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -13853,7 +13853,7 @@
             <value>149</value>
           </Data>
           <Data name="定位點">
-            <value>23.44662, 120.41952</value>
+            <value>23.4374657, 120.4148798</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -13861,7 +13861,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.41952,23.44662,0
+            120.4148798,23.4374657,0
           </coordinates>
         </Point>
       </Placemark>
@@ -14011,7 +14011,7 @@
       </Placemark>
       <Placemark>
         <name>水上分局</name>
-        <description><![CDATA[類別: 學校<br>編號: 389<br>村里別: 柳林村<br>地址: 嘉義縣水上鄉柳林村92號<br>地下層數: 地下1樓<br>可容納人數: 1087<br>定位點: 23.43503, 120.41529<br>備考: ]]></description>
+        <description><![CDATA[類別: 學校<br>編號: 389<br>村里別: 柳林村<br>地址: 嘉義縣水上鄉柳林村92號<br>地下層數: 地下1樓<br>可容納人數: 1087<br>定位點: 23.435217, 120.4152927<br>備考: ]]></description>
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -14033,7 +14033,7 @@
             <value>1087</value>
           </Data>
           <Data name="定位點">
-            <value>23.43503, 120.41529</value>
+            <value>23.435217, 120.4152927</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -14041,7 +14041,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.41529,23.43503,0
+            120.4152927,23.435217,0
           </coordinates>
         </Point>
       </Placemark>
@@ -17827,7 +17827,7 @@
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 大樓<br>編號: 495<br>村里別: 安福里<br>地址: 嘉義縣朴子市安福里文明路8-9號<br>地下層數: 地下1樓<br>可容納人數: 1453<br>定位點: 23.46769, 120.24853<br>備考: ]]></description>
+        <description><![CDATA[類別: 大樓<br>編號: 495<br>村里別: 安福里<br>地址: 嘉義縣朴子市安福里文明路8-9號<br>地下層數: 地下1樓<br>可容納人數: 1453<br>定位點: 23.4677109, 120.2485756<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -17849,7 +17849,7 @@
             <value>1453</value>
           </Data>
           <Data name="定位點">
-            <value>23.46769, 120.24853</value>
+            <value>23.4677109, 120.2485756</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -17857,7 +17857,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.24853,23.46769,0
+            120.2485756,23.4677109,0
           </coordinates>
         </Point>
       </Placemark>
@@ -18223,7 +18223,7 @@
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 旅社<br>編號: 506<br>村里別: 文化里<br>地址: 嘉義縣朴子市文化里南通3段800號<br>地下層數: 地下1樓<br>可容納人數: 66<br>定位點: 23.462, 120.24264<br>備考: ]]></description>
+        <description><![CDATA[類別: 旅社<br>編號: 506<br>村里別: 文化里<br>地址: 嘉義縣朴子市文化里南通3段800號<br>地下層數: 地下1樓<br>可容納人數: 66<br>定位點: 23.4642279, 120.2430289<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -18245,7 +18245,7 @@
             <value>66</value>
           </Data>
           <Data name="定位點">
-            <value>23.462, 120.24264</value>
+            <value>23.4642279, 120.2430289</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -18253,7 +18253,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.24264,23.462,0
+            120.2430289,23.4642279,0
           </coordinates>
         </Point>
       </Placemark>
@@ -18331,7 +18331,7 @@
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 509<br>村里別: 永和里<br>地址: 嘉義縣朴子市永和里應菜埔207號<br>地下層數: 地下1樓<br>可容納人數: 343<br>定位點: 23.46433, 120.22649<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 509<br>村里別: 永和里<br>地址: 嘉義縣朴子市永和里應菜埔207號<br>地下層數: 地下1樓<br>可容納人數: 343<br>定位點: 23.4644727, 120.2264846<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -18353,7 +18353,7 @@
             <value>343</value>
           </Data>
           <Data name="定位點">
-            <value>23.46433, 120.22649</value>
+            <value>23.4644727, 120.2264846</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -18361,7 +18361,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.22649,23.46433,0
+            120.2264846,23.4644727,0
           </coordinates>
         </Point>
       </Placemark>
@@ -18439,7 +18439,7 @@
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 大樓<br>編號: 512<br>村里別: 竹圍里<br>地址: 嘉義縣朴子市竹圍里自立路2巷17號<br>地下層數: 地下1樓<br>可容納人數: 263<br>定位點: 23.46336, 120.24098<br>備考: ]]></description>
+        <description><![CDATA[類別: 大樓<br>編號: 512<br>村里別: 竹圍里<br>地址: 嘉義縣朴子市竹圍里自立路2巷17號<br>地下層數: 地下1樓<br>可容納人數: 263<br>定位點: 23.4633551, 120.2410846<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -18461,7 +18461,7 @@
             <value>263</value>
           </Data>
           <Data name="定位點">
-            <value>23.46336, 120.24098</value>
+            <value>23.4633551, 120.2410846</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -18469,7 +18469,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.24098,23.46336,0
+            120.2410846,23.4633551,0
           </coordinates>
         </Point>
       </Placemark>
@@ -18583,7 +18583,7 @@
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 醫院<br>編號: 516<br>村里別: 博厚里<br>地址: 嘉義縣朴子市博厚里開元路524、526號<br>地下層數: 地下1樓<br>可容納人數: 221<br>定位點: 23.46544, 120.2359<br>備考: ]]></description>
+        <description><![CDATA[類別: 醫院<br>編號: 516<br>村里別: 博厚里<br>地址: 嘉義縣朴子市博厚里開元路524、526號<br>地下層數: 地下1樓<br>可容納人數: 221<br>定位點: 23.4652924, 120.2358839<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -18605,7 +18605,7 @@
             <value>221</value>
           </Data>
           <Data name="定位點">
-            <value>23.46544, 120.2359</value>
+            <value>23.4652924, 120.2358839</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -18613,7 +18613,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.2359,23.46544,0
+            120.2358839,23.4652924,0
           </coordinates>
         </Point>
       </Placemark>
@@ -18655,7 +18655,7 @@
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 大樓<br>編號: 518<br>村里別: 安福里<br>地址: 嘉義縣朴子市安福里山通路24-2號<br>地下層數: 地下1樓<br>可容納人數: 2845<br>定位點: 23.46722, 120.2493<br>備考: ]]></description>
+        <description><![CDATA[類別: 大樓<br>編號: 518<br>村里別: 安福里<br>地址: 嘉義縣朴子市安福里山通路24-2號<br>地下層數: 地下1樓<br>可容納人數: 2845<br>定位點: 23.467471, 120.2494663<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -18677,7 +18677,7 @@
             <value>2845</value>
           </Data>
           <Data name="定位點">
-            <value>23.46722, 120.2493</value>
+            <value>23.467471, 120.2494663</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -18685,7 +18685,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.2493,23.46722,0
+            120.2494663,23.467471,0
           </coordinates>
         </Point>
       </Placemark>
@@ -18727,7 +18727,7 @@
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 學校<br>編號: 520<br>村里別: 安福里<br>地址: 嘉義縣朴子市安福里23鄰山通路6號<br>地下層數: 地下1樓<br>可容納人數: 1721<br>定位點: 23.46634, 120.24949<br>備考: ]]></description>
+        <description><![CDATA[類別: 學校<br>編號: 520<br>村里別: 安福里<br>地址: 嘉義縣朴子市安福里23鄰山通路6號<br>地下層數: 地下1樓<br>可容納人數: 1721<br>定位點: 23.466153, 120.2495222<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -18749,7 +18749,7 @@
             <value>1721</value>
           </Data>
           <Data name="定位點">
-            <value>23.46634, 120.24949</value>
+            <value>23.466153, 120.2495222</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -18757,7 +18757,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.24949,23.46634,0
+            120.2495222,23.466153,0
           </coordinates>
         </Point>
       </Placemark>
@@ -18835,7 +18835,7 @@
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 大樓<br>編號: 523<br>村里別: 竹圍里<br>地址: 嘉義縣朴子市竹圍里22鄰四維路2段261巷22-34號<br>地下層數: 地下1樓<br>可容納人數: 711<br>定位點: 23.45869, 120.23648<br>備考: ]]></description>
+        <description><![CDATA[類別: 大樓<br>編號: 523<br>村里別: 竹圍里<br>地址: 嘉義縣朴子市竹圍里22鄰四維路2段261巷22-34號<br>地下層數: 地下1樓<br>可容納人數: 711<br>定位點: 23.458909, 120.236083<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -18857,7 +18857,7 @@
             <value>711</value>
           </Data>
           <Data name="定位點">
-            <value>23.45869, 120.23648</value>
+            <value>23.458909, 120.236083</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -18865,13 +18865,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.23648,23.45869,0
+            120.236083,23.458909,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 大樓<br>編號: 524<br>村里別: 竹圍里<br>地址: 嘉義縣朴子市竹圍里18鄰大同路236號<br>地下層數: 地下1樓<br>可容納人數: 583<br>定位點: 23.46149, 120.24067<br>備考: ]]></description>
+        <description><![CDATA[類別: 大樓<br>編號: 524<br>村里別: 竹圍里<br>地址: 嘉義縣朴子市竹圍里18鄰大同路236號<br>地下層數: 地下1樓<br>可容納人數: 583<br>定位點: 23.4615183, 120.2405667<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -18893,7 +18893,7 @@
             <value>583</value>
           </Data>
           <Data name="定位點">
-            <value>23.46149, 120.24067</value>
+            <value>23.4615183, 120.2405667</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -18901,7 +18901,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.24067,23.46149,0
+            120.2405667,23.4615183,0
           </coordinates>
         </Point>
       </Placemark>
@@ -18943,7 +18943,7 @@
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 大樓<br>編號: 526<br>村里別: 竹圍里<br>地址: 嘉義縣朴子市竹圍里15鄰中興路79巷2號<br>地下層數: 地下1樓<br>可容納人數: 3198<br>定位點: 23.45958, 120.24471<br>備考: ]]></description>
+        <description><![CDATA[類別: 大樓<br>編號: 526<br>村里別: 竹圍里<br>地址: 嘉義縣朴子市竹圍里15鄰中興路79巷2號<br>地下層數: 地下1樓<br>可容納人數: 3198<br>定位點: 23.4590965, 120.2443881<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -18965,7 +18965,7 @@
             <value>3198</value>
           </Data>
           <Data name="定位點">
-            <value>23.45958, 120.24471</value>
+            <value>23.4590965, 120.2443881</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -18973,7 +18973,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.24471,23.45958,0
+            120.2443881,23.4590965,0
           </coordinates>
         </Point>
       </Placemark>
@@ -19051,7 +19051,7 @@
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 學校<br>編號: 529<br>村里別: 竹圍里<br>地址: 嘉義縣朴子市竹圍里大同路245號<br>地下層數: 地下1樓<br>可容納人數: 1717<br>定位點: 23.46132, 120.23907<br>備考: ]]></description>
+        <description><![CDATA[類別: 學校<br>編號: 529<br>村里別: 竹圍里<br>地址: 嘉義縣朴子市竹圍里大同路245號<br>地下層數: 地下1樓<br>可容納人數: 1717<br>定位點: 23.4610075, 120.2390137<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -19073,7 +19073,7 @@
             <value>1717</value>
           </Data>
           <Data name="定位點">
-            <value>23.46132, 120.23907</value>
+            <value>23.4610075, 120.2390137</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -19081,7 +19081,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.23907,23.46132,0
+            120.2390137,23.4610075,0
           </coordinates>
         </Point>
       </Placemark>
@@ -19159,7 +19159,7 @@
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 醫院<br>編號: 532<br>村里別: 博厚里<br>地址: 嘉義縣朴子市博厚里15鄰開元路536號<br>地下層數: 地下1樓<br>可容納人數: 920<br>定位點: 23.46499, 120.23532<br>備考: ]]></description>
+        <description><![CDATA[類別: 醫院<br>編號: 532<br>村里別: 博厚里<br>地址: 嘉義縣朴子市博厚里15鄰開元路536號<br>地下層數: 地下1樓<br>可容納人數: 920<br>定位點: 23.4654083, 120.2352824<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -19181,7 +19181,7 @@
             <value>920</value>
           </Data>
           <Data name="定位點">
-            <value>23.46499, 120.23532</value>
+            <value>23.4654083, 120.2352824</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -19189,7 +19189,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.23532,23.46499,0
+            120.2352824,23.4654083,0
           </coordinates>
         </Point>
       </Placemark>
@@ -21463,7 +21463,7 @@
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 學校<br>編號: 596<br>村里別: 六南村<br>地址: 嘉義縣六腳鄉六南村223-25號<br>地下層數: 地下1樓<br>可容納人數: 1301<br>定位點: 23.49437, 120.24794<br>備考: ]]></description>
+        <description><![CDATA[類別: 學校<br>編號: 596<br>村里別: 六南村<br>地址: 嘉義縣六腳鄉六南村223-25號<br>地下層數: 地下1樓<br>可容納人數: 1301<br>定位點: 23.4944438, 120.2475806<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -21485,7 +21485,7 @@
             <value>1301</value>
           </Data>
           <Data name="定位點">
-            <value>23.49437, 120.24794</value>
+            <value>23.4944438, 120.2475806</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -21493,13 +21493,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.24794,23.49437,0
+            120.2475806,23.4944438,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 學校<br>編號: 597<br>村里別: 更寮村<br>地址: 嘉義縣六腳鄉更寮村233號<br>地下層數: 地下1樓<br>可容納人數: 108<br>定位點: 23.483, 120.24654<br>備考: ]]></description>
+        <description><![CDATA[類別: 學校<br>編號: 597<br>村里別: 更寮村<br>地址: 嘉義縣六腳鄉更寮村233號<br>地下層數: 地下1樓<br>可容納人數: 108<br>定位點: 23.4807318, 120.2460961<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -21521,7 +21521,7 @@
             <value>108</value>
           </Data>
           <Data name="定位點">
-            <value>23.483, 120.24654</value>
+            <value>23.4807318, 120.2460961</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -21529,7 +21529,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.24654,23.483,0
+            120.2460961,23.4807318,0
           </coordinates>
         </Point>
       </Placemark>
@@ -21787,7 +21787,7 @@
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 605<br>村里別: 港墘村<br>地址: 嘉義縣東石鄉港墘村10鄰湖底21號<br>地下層數: 地下1樓<br>可容納人數: 404<br>定位點: 23.46494, 120.21715<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 605<br>村里別: 港墘村<br>地址: 嘉義縣東石鄉港墘村10鄰湖底21號<br>地下層數: 地下1樓<br>可容納人數: 404<br>定位點: 23.466554, 120.2166028<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -21809,7 +21809,7 @@
             <value>404</value>
           </Data>
           <Data name="定位點">
-            <value>23.46494, 120.21715</value>
+            <value>23.466554, 120.2166028</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -21817,13 +21817,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.21715,23.46494,0
+            120.2166028,23.466554,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 606<br>村里別: 洲仔村<br>地址: 嘉義縣東石鄉洲仔村5鄰123之3號<br>地下層數: 地下1樓<br>可容納人數: 232<br>定位點: 23.45576, 120.19038<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 606<br>村里別: 洲仔村<br>地址: 嘉義縣東石鄉洲仔村5鄰123之3號<br>地下層數: 地下1樓<br>可容納人數: 232<br>定位點: 23.4555668, 120.190384<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -21845,7 +21845,7 @@
             <value>232</value>
           </Data>
           <Data name="定位點">
-            <value>23.45576, 120.19038</value>
+            <value>23.4555668, 120.190384</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -21853,13 +21853,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.19038,23.45576,0
+            120.190384,23.4555668,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 607<br>村里別: 港墘村<br>地址: 嘉義縣東石鄉港墘村10鄰60之40號<br>地下層數: 地下1樓<br>可容納人數: 437<br>定位點: 23.46183, 120.21606<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 607<br>村里別: 港墘村<br>地址: 嘉義縣東石鄉港墘村10鄰60之40號<br>地下層數: 地下1樓<br>可容納人數: 437<br>定位點: 23.4619358, 120.2162196<br>備考: ]]></description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -21881,7 +21881,7 @@
             <value>437</value>
           </Data>
           <Data name="定位點">
-            <value>23.46183, 120.21606</value>
+            <value>23.4619358, 120.2162196</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -21889,7 +21889,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.21606,23.46183,0
+            120.2162196,23.4619358,0
           </coordinates>
         </Point>
       </Placemark>
@@ -22327,7 +22327,7 @@
       </Placemark>
       <Placemark>
         <name>竹崎分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 620<br>村里別: 灣橋村<br>地址: 嘉義縣竹崎鄉灣橋村15鄰82號<br>地下層數: 地下1層<br>可容納人數: 48<br>定位點: 23.48931, 120.50887<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 620<br>村里別: 灣橋村<br>地址: 嘉義縣竹崎鄉灣橋村15鄰82號<br>地下層數: 地下1層<br>可容納人數: 48<br>定位點: 23.4895904, 120.5086071<br>備考: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -22349,7 +22349,7 @@
             <value>48</value>
           </Data>
           <Data name="定位點">
-            <value>23.48931, 120.50887</value>
+            <value>23.4895904, 120.5086071</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -22357,7 +22357,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.50887,23.48931,0
+            120.5086071,23.4895904,0
           </coordinates>
         </Point>
       </Placemark>
@@ -22435,7 +22435,7 @@
       </Placemark>
       <Placemark>
         <name>竹崎分局</name>
-        <description><![CDATA[類別: 大樓<br>編號: 623<br>村里別: 灣橋村<br>地址: 嘉義縣竹崎鄉灣橋村5鄰朴子埔177號<br>地下層數: 地下1層<br>可容納人數: 1317<br>定位點: 23.49087, 120.51379<br>備考: ]]></description>
+        <description><![CDATA[類別: 大樓<br>編號: 623<br>村里別: 灣橋村<br>地址: 嘉義縣竹崎鄉灣橋村5鄰朴子埔177號<br>地下層數: 地下1層<br>可容納人數: 1317<br>定位點: 23.4912242, 120.5144981<br>備考: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -22457,7 +22457,7 @@
             <value>1317</value>
           </Data>
           <Data name="定位點">
-            <value>23.49087, 120.51379</value>
+            <value>23.4912242, 120.5144981</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -22465,7 +22465,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.51379,23.49087,0
+            120.5144981,23.4912242,0
           </coordinates>
         </Point>
       </Placemark>
@@ -22687,7 +22687,7 @@
       </Placemark>
       <Placemark>
         <name>竹崎分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 630<br>村里別: 梅北村<br>地址: 嘉義縣梅山鄉梅北村工業一路34號<br>地下層數: 地下1層<br>可容納人數: 100<br>定位點: 23.59238, 120.53797<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 630<br>村里別: 梅北村<br>地址: 嘉義縣梅山鄉梅北村工業一路34號<br>地下層數: 地下1層<br>可容納人數: 100<br>定位點: 23.5927512, 120.5382516<br>備考: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -22709,7 +22709,7 @@
             <value>100</value>
           </Data>
           <Data name="定位點">
-            <value>23.59238, 120.53797</value>
+            <value>23.5927512, 120.5382516</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -22717,7 +22717,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.53797,23.59238,0
+            120.5382516,23.5927512,0
           </coordinates>
         </Point>
       </Placemark>
@@ -22903,7 +22903,7 @@
       </Placemark>
       <Placemark>
         <name>竹崎分局</name>
-        <description><![CDATA[類別: 教會<br>編號: 636<br>村里別: 梅東村<br>地址: 嘉義縣梅山鄉梅東村社教路3號<br>地下層數: 地下1層<br>可容納人數: 270<br>定位點: 23.57804, 120.56086<br>備考: ]]></description>
+        <description><![CDATA[類別: 教會<br>編號: 636<br>村里別: 梅東村<br>地址: 嘉義縣梅山鄉梅東村社教路3號<br>地下層數: 地下1層<br>可容納人數: 270<br>定位點: 23.577777, 120.5611443<br>備考: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -22925,7 +22925,7 @@
             <value>270</value>
           </Data>
           <Data name="定位點">
-            <value>23.57804, 120.56086</value>
+            <value>23.577777, 120.5611443</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -22933,7 +22933,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.56086,23.57804,0
+            120.5611443,23.577777,0
           </coordinates>
         </Point>
       </Placemark>
@@ -22975,7 +22975,7 @@
       </Placemark>
       <Placemark>
         <name>竹崎分局</name>
-        <description><![CDATA[類別: 農會<br>編號: 638<br>村里別: 內埔村<br>地址: 嘉義縣竹崎鄉內埔村元興路129號<br>地下層數: 地下1層<br>可容納人數: 737<br>定位點: 23.48514, 120.55865<br>備考: ]]></description>
+        <description><![CDATA[類別: 農會<br>編號: 638<br>村里別: 內埔村<br>地址: 嘉義縣竹崎鄉內埔村元興路129號<br>地下層數: 地下1層<br>可容納人數: 737<br>定位點: 23.485819, 120.5589745<br>備考: ]]></description>
         <styleUrl>#icon-1899-E65100</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -22997,7 +22997,7 @@
             <value>737</value>
           </Data>
           <Data name="定位點">
-            <value>23.48514, 120.55865</value>
+            <value>23.485819, 120.5589745</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -23005,7 +23005,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.55865,23.48514,0
+            120.5589745,23.485819,0
           </coordinates>
         </Point>
       </Placemark>
@@ -23947,7 +23947,7 @@
       </Placemark>
       <Placemark>
         <name>布袋分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 665<br>村里別: 岑海里<br>地址: 嘉義縣布袋鎮岑海里中正路12號<br>地下層數: 地下1樓<br>可容納人數: 191<br>定位點: 23.37812, 120.15513<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 665<br>村里別: 岑海里<br>地址: 嘉義縣布袋鎮岑海里中正路12號<br>地下層數: 地下1樓<br>可容納人數: 191<br>定位點: 23.3782308, 120.1554572<br>備考: ]]></description>
         <styleUrl>#icon-1899-9C27B0</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -23969,7 +23969,7 @@
             <value>191</value>
           </Data>
           <Data name="定位點">
-            <value>23.37812, 120.15513</value>
+            <value>23.3782308, 120.1554572</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -23977,7 +23977,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.15513,23.37812,0
+            120.1554572,23.3782308,0
           </coordinates>
         </Point>
       </Placemark>
@@ -24307,7 +24307,7 @@
       </Placemark>
       <Placemark>
         <name>布袋分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 675<br>村里別: 岑海里<br>地址: 嘉義縣布袋鎮岑海里中正路6號<br>地下層數: 地下1樓<br>可容納人數: 113<br>定位點: 23.3775, 120.15497<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 675<br>村里別: 岑海里<br>地址: 嘉義縣布袋鎮岑海里中正路6號<br>地下層數: 地下1樓<br>可容納人數: 113<br>定位點: 23.377761, 120.155367<br>備考: ]]></description>
         <styleUrl>#icon-1899-9C27B0</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -24329,7 +24329,7 @@
             <value>113</value>
           </Data>
           <Data name="定位點">
-            <value>23.3775, 120.15497</value>
+            <value>23.377761, 120.155367</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -24337,13 +24337,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.15497,23.3775,0
+            120.155367,23.377761,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>布袋分局</name>
-        <description><![CDATA[類別: 學校<br>編號: 676<br>村里別: 光復里<br>地址: 嘉義縣布袋鎮光復里六棟寮40號<br>地下層數: 地下1樓<br>可容納人數: 1439<br>定位點: 23.36025, 120.18058<br>備考: ]]></description>
+        <description><![CDATA[類別: 學校<br>編號: 676<br>村里別: 光復里<br>地址: 嘉義縣布袋鎮光復里六棟寮40號<br>地下層數: 地下1樓<br>可容納人數: 1439<br>定位點: 23.3581915, 120.1808482<br>備考: ]]></description>
         <styleUrl>#icon-1899-9C27B0</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -24365,7 +24365,7 @@
             <value>1439</value>
           </Data>
           <Data name="定位點">
-            <value>23.36025, 120.18058</value>
+            <value>23.3581915, 120.1808482</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -24373,7 +24373,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.18058,23.36025,0
+            120.1808482,23.3581915,0
           </coordinates>
         </Point>
       </Placemark>
@@ -24595,7 +24595,7 @@
       </Placemark>
       <Placemark>
         <name>布袋分局</name>
-        <description><![CDATA[類別: 圖書館<br>編號: 683<br>村里別: 岸腳村<br>地址: 嘉義縣義竹鄉六桂村十四鄰二三八號<br>地下層數: 地下1樓<br>可容納人數: 18<br>定位點: 23.33581, 120.2433<br>備考: ]]></description>
+        <description><![CDATA[類別: 圖書館<br>編號: 683<br>村里別: 岸腳村<br>地址: 嘉義縣義竹鄉六桂村十四鄰二三八號<br>地下層數: 地下1樓<br>可容納人數: 18<br>定位點: 23.3358543, 120.2434261<br>備考: ]]></description>
         <styleUrl>#icon-1899-9C27B0</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -24617,7 +24617,7 @@
             <value>18</value>
           </Data>
           <Data name="定位點">
-            <value>23.33581, 120.2433</value>
+            <value>23.3358543, 120.2434261</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -24625,7 +24625,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.2433,23.33581,0
+            120.2434261,23.3358543,0
           </coordinates>
         </Point>
       </Placemark>
@@ -24775,7 +24775,7 @@
       </Placemark>
       <Placemark>
         <name>布袋分局</name>
-        <description><![CDATA[類別: 工廠行號<br>編號: 688<br>村里別: 岸腳村<br>地址: 嘉義縣義竹鄉岸腳村角帶圍一之二號<br>地下層數: 地下1樓<br>可容納人數: 106<br>定位點: 23.35331, 120.2635<br>備考: ]]></description>
+        <description><![CDATA[類別: 工廠行號<br>編號: 688<br>村里別: 岸腳村<br>地址: 嘉義縣義竹鄉岸腳村角帶圍一之二號<br>地下層數: 地下1樓<br>可容納人數: 106<br>定位點: 23.3538025, 120.2631245<br>備考: ]]></description>
         <styleUrl>#icon-1899-9C27B0</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -24797,7 +24797,7 @@
             <value>106</value>
           </Data>
           <Data name="定位點">
-            <value>23.35331, 120.2635</value>
+            <value>23.3538025, 120.2631245</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -24805,7 +24805,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.2635,23.35331,0
+            120.2631245,23.3538025,0
           </coordinates>
         </Point>
       </Placemark>

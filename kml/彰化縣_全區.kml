@@ -12273,35 +12273,6 @@
       <Placemark>
         <name>彰化分局民族所</name>
         <address>彰化縣彰化市富貴里民權路155號</address>
-        <description><![CDATA[編號: 414<br>村里別: 富貴里<br>地址: 彰化縣彰化市富貴里民權路155號<br>可容納人數: 3404<br>地下樓層數: 1<br>類別: 大樓<br>備註: ]]></description>
-        <styleUrl>#icon-1899-880E4F</styleUrl>
-        <ExtendedData>
-          <Data name="編號">
-            <value>414.0</value>
-          </Data>
-          <Data name="村里別">
-            <value>富貴里</value>
-          </Data>
-          <Data name="地址">
-            <value>彰化縣彰化市富貴里民權路155號</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>3404.0</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>彰化分局民族所</name>
-        <address>彰化縣彰化市富貴里民權路155號</address>
         <description><![CDATA[編號: 415<br>村里別: 富貴里<br>地址: 彰化縣彰化市富貴里民權路155號<br>可容納人數: 3404<br>地下樓層數: 1<br>類別: 民權市場<br>備註: ]]></description>
         <styleUrl>#icon-1899-880E4F</styleUrl>
         <ExtendedData>
@@ -13549,7 +13520,7 @@
       <Placemark>
         <name>彰化分局民族所</name>
         <address>彰化縣彰化市彰安里中正路2段450號</address>
-        <description><![CDATA[編號: 458<br>村里別: 彰安里<br>地址: 彰化縣彰化市彰安里中正路2段450號<br>可容納人數: 562<br>地下樓層數: 1<br>類別: 大樓<br>備註: ]]></description>
+        <description><![CDATA[編號: 458<br>村里別: 彰安里<br>地址: 彰化縣彰化市彰安里中正路2段450號<br>可容納人數: 562<br>地下樓層數: 1<br>類別: 平和國小<br>備註: ]]></description>
         <styleUrl>#icon-1899-880E4F</styleUrl>
         <ExtendedData>
           <Data name="編號">
@@ -13568,7 +13539,7 @@
             <value>1.0</value>
           </Data>
           <Data name="類別">
-            <value>大樓</value>
+            <value>平和國小</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -37619,7 +37590,7 @@
       <Placemark>
         <name>彰化分局卦山所</name>
         <address>彰化縣彰化市卦山里中山路2段500號</address>
-        <description><![CDATA[編號: 1293<br>村里別: 卦山里<br>地址: 彰化縣彰化市卦山里中山路2段500號<br>可容納人數: 1229<br>地下樓層數: 1<br>類別: 大樓<br>備註: ]]></description>
+        <description><![CDATA[編號: 1293<br>村里別: 卦山里<br>地址: 彰化縣彰化市卦山里中山路2段500號<br>可容納人數: 1229<br>地下樓層數: 1<br>類別: 彰化縣立圖書館<br>備註: ]]></description>
         <styleUrl>#icon-1899-880E4F</styleUrl>
         <ExtendedData>
           <Data name="編號">
@@ -37638,7 +37609,7 @@
             <value>1.0</value>
           </Data>
           <Data name="類別">
-            <value>大樓</value>
+            <value>彰化縣立圖書館</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -38170,7 +38141,7 @@
       <Placemark>
         <name>彰化分局卦山所</name>
         <address>彰化縣彰化市東興里中山路2段416號</address>
-        <description><![CDATA[編號: 1312<br>村里別: 東興里<br>地址: 彰化縣彰化市東興里中山路2段416號<br>可容納人數: 6000<br>地下樓層數: 1<br>類別: 大樓<br>備註: ]]></description>
+        <description><![CDATA[編號: 1312<br>村里別: 東興里<br>地址: 彰化縣彰化市東興里中山路2段416號<br>可容納人數: 6000<br>地下樓層數: 1<br>類別: 彰化縣政府<br>備註: ]]></description>
         <styleUrl>#icon-1899-880E4F</styleUrl>
         <ExtendedData>
           <Data name="編號">
@@ -38189,7 +38160,7 @@
             <value>1.0</value>
           </Data>
           <Data name="類別">
-            <value>大樓</value>
+            <value>彰化縣政府</value>
           </Data>
           <Data name="備註">
             <value/>

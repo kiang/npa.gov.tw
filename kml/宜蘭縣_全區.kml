@@ -13571,7 +13571,6 @@
       </Placemark>
       <Placemark>
         <name>宜蘭分局</name>
-        <address>TME0004 宜蘭市建蘭北路27巷1號</address>
         <description><![CDATA[類別: 公家機關<br>電腦編號: TME0004<br>村里別: 凱旋里<br>地址: 宜蘭市建蘭北路27巷1號<br>地下樓層數: 1<br>可容納人數: 4198<br>備註: ]]></description>
         <styleUrl>#icon-1899-9C27B0</styleUrl>
         <ExtendedData>
@@ -13597,6 +13596,11 @@
             <value/>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            121.7612284,24.7334621,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>宜蘭分局</name>
