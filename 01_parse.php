@@ -1,9 +1,7 @@
 <?php
-$url = 'https://cdo.npa.gov.tw/ch/app/artwebsite/view?module=artwebsite&id=7966&serno=0492c1b9-2591-4418-af9f-73de33f32430';
+$url = 'https://adr.npa.gov.tw/';
 $rawFile = __DIR__ . '/raw/page.html';
-if (!file_exists($rawFile)) {
-    file_put_contents($rawFile, file_get_contents($url));
-}
+file_put_contents($rawFile, file_get_contents($url));
 $raw = file_get_contents($rawFile);
 $pos = strpos($raw, '<table class="ed_table">');
 $posEnd = strpos($raw, '</table>', $pos);
@@ -31,17 +29,16 @@ foreach ($rows as $row) {
             }
         }
     }
+    foreach ($cols as $k => $v) {
+        $cols[$k] = str_replace(["\n", "\r"], '', $v);
+    }
     $cnt = count($cols);
     if ($cnt === 5) {
         $city = $cols[1];
         $targetFile = __DIR__ . '/kml/' . $cols[1] . '_' . $cols[2] . '.kml';
-        if (!file_exists($targetFile)) {
-            file_put_contents($targetFile, file_get_contents('https://www.google.com/maps/d/u/0/kml?mid=' . $cols[3] . '&forcekml=1'));
-        }
-    } elseif($cnt === 3) {
+        file_put_contents($targetFile, file_get_contents('https://www.google.com/maps/d/u/0/kml?mid=' . $cols[3] . '&forcekml=1'));
+    } elseif ($cnt === 3) {
         $targetFile = __DIR__ . '/kml/' . $city . '_' . $cols[0] . '.kml';
-        if (!file_exists($targetFile)) {
-            file_put_contents($targetFile, file_get_contents('https://www.google.com/maps/d/u/0/kml?mid=' . $cols[1] . '&forcekml=1'));
-        }
+        file_put_contents($targetFile, file_get_contents('https://www.google.com/maps/d/u/0/kml?mid=' . $cols[1] . '&forcekml=1'));
     }
 }
