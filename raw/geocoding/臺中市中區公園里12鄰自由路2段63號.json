@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺中市中區公園里12鄰自由路2段63號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺中市]\tT:1,V:1,R:1,S:1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(+4)(-12),E:-1,N:0",
+      "OutTraceInfo": "[臺中市]\t { 模糊比對 } (中區)\t找到符合的[鄉鎮市區]，(公園里)\t找到符合的[村里]，(自由路)\t找到符合的[路街名]，(2)\t找到符合的[路段]，(63號)\t進行[單號過濾]，進行[找大於且最接近的門牌號碼]，找到大於輸入的門牌號碼 +4 號，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -12 號，(12鄰)\t找不到進行[忽略鄰]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺中市中區公園里14鄰自由路二段51號",
+      "COUNTY": "臺中市",
+      "TOWN": "中區",
+      "VILLAGE": "公園里",
+      "NEIGHBORHOOD": "14鄰",
+      "ROAD": "自由路",
+      "SECTION": "2",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "51號",
+      "X": 120.681517,
+      "Y": 24.139655,
+      "CODEBASE": "A6601-0095-00",
+      "CODE1": "A6601-07-005",
+      "CODE2": "A6601-07"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺中市中區公園里14鄰自由路二段67號",
+      "COUNTY": "臺中市",
+      "TOWN": "中區",
+      "VILLAGE": "公園里",
+      "NEIGHBORHOOD": "14鄰",
+      "ROAD": "自由路",
+      "SECTION": "2",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "67號",
+      "X": 120.681836,
+      "Y": 24.139990,
+      "CODEBASE": "A6601-0095-00",
+      "CODE1": "A6601-07-005",
+      "CODE2": "A6601-07"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺中市西區公舘里04柳川東路二段35巷42號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺中市]\tT:1,V:1,R:0,S:1,L:1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[臺中市]\t { 模糊比對 } (西區)\t找到符合的[鄉鎮市區]，(公舘里)\t找到符合的[村里]，(04柳川東路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(2)\t找到符合的[路段]，(35巷)\t找到符合的[巷]，(42號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺中市西區公舘里4鄰柳川東路二段35巷42號",
+      "COUNTY": "臺中市",
+      "TOWN": "西區",
+      "VILLAGE": "公舘里",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "柳川東路",
+      "SECTION": "2",
+      "LANE": "35巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "42號",
+      "X": 120.664968,
+      "Y": 24.132735,
+      "CODEBASE": "A6604-0499-00",
+      "CODE1": "A6604-37-009",
+      "CODE2": "A6604-37"
+    }
+  ]
+}

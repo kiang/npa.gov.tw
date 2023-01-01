@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺中市中區綠川里17鄰綠川東街110.112號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺中市]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(-109990),E:-1,N:-1",
+      "OutTraceInfo": "[臺中市]\t { 模糊比對 } (中區)\t找到符合的[鄉鎮市區]，(綠川里)\t找到符合的[村里]，(綠川東街)\t找到符合的[路街名]，(110112號)\t進行[雙號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -109990 號，進行[找最小門牌的號之、之號]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺中市中區綠川里17鄰綠川東街122之1號",
+      "COUNTY": "臺中市",
+      "TOWN": "中區",
+      "VILLAGE": "綠川里",
+      "NEIGHBORHOOD": "17鄰",
+      "ROAD": "綠川東街",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "122之1號",
+      "X": 120.685874,
+      "Y": 24.139600,
+      "CODEBASE": "A6601-0099-00",
+      "CODE1": "A6601-08-007",
+      "CODE2": "A6601-08"
+    }
+  ]
+}

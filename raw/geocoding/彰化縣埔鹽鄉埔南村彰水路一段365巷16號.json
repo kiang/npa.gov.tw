@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣埔鹽鄉埔南村彰水路一段365巷16號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[彰化縣]\tT:1,V:1,R:1,S:1,L:1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[彰化縣]\t { 模糊比對 } (埔鹽鄉)\t找到符合的[鄉鎮市區]，(埔南村)\t找到符合的[村里]，(彰水路)\t找到符合的[路街名]，(1)\t找到符合的[路段]，(365巷)\t找到符合的[巷]，(16號)\t找到符合的[門牌號碼]，進行[雙號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "彰化縣埔鹽鄉埔南村2鄰彰水路一段365巷16號",
+      "COUNTY": "彰化縣",
+      "TOWN": "埔鹽鄉",
+      "VILLAGE": "埔南村",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "彰水路",
+      "SECTION": "1",
+      "LANE": "365巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "16號",
+      "X": 120.475427,
+      "Y": 23.995161,
+      "CODEBASE": "A0714-0161-00",
+      "CODE1": "A0714-07-005",
+      "CODE2": "A0714-07"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "彰化縣埔鹽鄉埔南村4鄰彰水路一段365巷16號",
+      "COUNTY": "彰化縣",
+      "TOWN": "埔鹽鄉",
+      "VILLAGE": "埔南村",
+      "NEIGHBORHOOD": "4鄰",
+      "ROAD": "彰水路",
+      "SECTION": "1",
+      "LANE": "365巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "16號",
+      "X": 120.475427,
+      "Y": 23.995161,
+      "CODEBASE": "A0714-0161-00",
+      "CODE1": "A0714-07-005",
+      "CODE2": "A0714-07"
+    }
+  ]
+}

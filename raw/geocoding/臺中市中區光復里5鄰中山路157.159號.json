@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "臺中市中區光復里5鄰中山路157.159號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[臺中市]\tT:1,V:1,R:1,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:0(-156986),E:-1,N:-1",
+      "OutTraceInfo": "[臺中市]\t { 模糊比對 } (中區)\t找到符合的[鄉鎮市區]，(光復里)\t找到符合的[村里]，(中山路)\t找到符合的[路街名]，(157159號)\t進行[單號過濾]，進行[找小於且最接近的門牌號碼]，找到小於輸入的門牌號碼 -156986 號，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "臺中市中區光復里2鄰中山路173號",
+      "COUNTY": "臺中市",
+      "TOWN": "中區",
+      "VILLAGE": "光復里",
+      "NEIGHBORHOOD": "2鄰",
+      "ROAD": "中山路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "173號",
+      "X": 120.679460,
+      "Y": 24.140917,
+      "CODEBASE": "A6601-0085-00",
+      "CODE1": "A6601-06-004",
+      "CODE2": "A6601-06"
+    }
+  ]
+}
