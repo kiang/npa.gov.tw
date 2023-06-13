@@ -191,7 +191,6 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
             }
         }
         if (!empty($point)) {
-            print_r($geo); exit();
             if (!isset($pool[$city])) {
                 $pool[$city] = fopen($poolPath . '/' . $city . '.csv', 'w');
                 fputcsv($pool[$city], ['latitude', 'longitude', 'properties']);
