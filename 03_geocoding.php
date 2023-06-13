@@ -185,11 +185,13 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
                             floatval($geo['AddressList'][0]['Y']),
                             floatval($geo['AddressList'][0]['X']),
                         ];
+                        $city = $geo['AddressList'][0]['COUNTY'];
                     }
                 }
             }
         }
         if (!empty($point)) {
+            print_r($geo); exit();
             if (!isset($pool[$city])) {
                 $pool[$city] = fopen($poolPath . '/' . $city . '.csv', 'w');
                 fputcsv($pool[$city], ['latitude', 'longitude', 'properties']);
