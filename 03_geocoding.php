@@ -14,8 +14,7 @@ $geocodingEnabled = true;
 $pool = [];
 foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
     $p = pathinfo($csvFile);
-    $cityParts = explode('_', $p['filename']);
-    $city = $cityParts[0];
+    $city = mb_substr($p['filename'], 0, 3, 'utf-8');
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 4096);
     if (empty($head)) {
@@ -185,7 +184,6 @@ foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
                             floatval($geo['AddressList'][0]['Y']),
                             floatval($geo['AddressList'][0]['X']),
                         ];
-                        $city = $geo['AddressList'][0]['COUNTY'];
                     }
                 }
             }
