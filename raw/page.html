@@ -5,43 +5,215 @@
     <meta name="google-site-verification" content="DcbOjkTgBUTxZ4N39iNc3_VQ30srfxdoAgUhlZyU3gg" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="DC.Title" content="內政部警政署民防指揮管制所全球資訊網" />
-    <meta name="DC.Creator" content="內政部警政署民防指揮管制所" />
-    <meta name="DC.Subject" content="內政部警政署防空疏散避難專區" />
+    <meta name="DC.Title" content="防空疏散避難專區" />
+    <meta name="DC.Creator" content="內政部警政署防空疏散避難專區" />
+    <meta name="DC.Subject" content="防空疏散避難專區" />
     <meta name="DC.Description" content="內政部警政署防空疏散避難專區" />
-    <meta name="DC.Publisher" content="內政部警政署民防指揮管制所" />
-    <meta name="DC.Contributor" content="內政部警政署民防指揮管制所" />
+    <meta name="DC.Publisher" content="內政部警政署防空疏散避難專區" />
+    <meta name="DC.Contributor" content="內政部警政署防空疏散避難專區" />
     <meta name="DC.Date" content="2021-05-14" />
     <meta name="DC.Type" content="text/html" />
     <meta name="DC.Format" content="text/html" />
     <meta name="DC.Identifier" content="A01014200C" />
-    <meta name="DC.Relation" content="內政部警政署民防指揮管制所" />
-    <meta name="DC.Source" content="內政部警政署民防指揮管制所" />
+    <meta name="DC.Relation" content="內政部警政署防空疏散避難專區" />
+    <meta name="DC.Source" content="內政部警政署防空疏散避難專區" />
     <meta name="DC.Language" content="中文" />
-    <meta name="DC.coverage.t.min" content="2022-07-25" />
-    <meta name="DC.coverage.t.max" content="2022-07-25" />
-    <meta name="DC.Rights" content="內政部警政署民防指揮管制所" />
+    <meta name="DC.coverage.t.min" content="2023-06-05" />
+    <meta name="DC.coverage.t.max" content="2023-06-05" />
+    <meta name="DC.Rights" content="內政部警政署防空疏散避難專區" />
     <meta name="Category.Theme" content="170" />
     <meta name="Category.Cake" content="140" />
     <meta name="Category.Service" content="I00" />
-    <meta name="keywords" content="內政部警政署民防指揮管制所" />
-    <meta name="robots" content="noindex, nofollow" />
-    <meta property="og:title" content="內政部警政署防空疏散避難專區-內政部警政署民防指揮管制所全球資訊網" />
+    <meta name="Keywords" content="防空疏散避難專區" />
+    <meta property="og:title" content="內政部警政署防空疏散避難專區" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="https://cdo.npa.gov.tw/static/images/template/logo.png" />
 
-    <title>內政部警政署防空疏散避難專區-內政部警政署民防指揮管制所全球資訊網</title>
+    <title>內政部警政署防空避難專區Civil Defense Shelters Of The NPA-內政部警政署民防指揮管制所全球資訊網</title>
     <link rel="icon" type="image/x-icon" href="/static/images/favicon.ico">
 
     <link rel="stylesheet" href="/static/js/bootstrap-4.4.1-dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="/static/css01/megamenu.css">
-    <link rel="stylesheet" href="/static/js/slick-1.6.0/slick/slick.css">
-    <link rel="stylesheet" href="/static/js/slick-1.6.0/slick/slick-theme.css">
+
     <script src="/static/js/jquery-3.5.0.min.js"></script>
+	<script src="/static/js/ua-parse.js"></script>
     <noscript>您的瀏覽器不支援JavaScript功能，若網頁功能無法正常使用時，請開啟瀏覽器JavaScript狀態</noscript>
+     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDWBR3sXnDLKlKRTyeAIB67rTS09dMZfuE"></script>
+<script>
+
+    function initMap(varlat, varlon) {
+      const geocoder = new google.maps.Geocoder();
+      const latlng = {
+        lat:varlat,
+        lng:varlon,
+      }
+      geocoder
+        .geocode({ location: latlng })
+        .then((response) => {
+          if (response.results[0]) {
+            if (response.results[1]) {
+              var RegionString = response.results[1].formatted_address + " " + response.results[0].formatted_address;
+            } else {
+              var RegionString = response.results[0].formatted_address;
+            }
+            //console.log(RegionString);
+            RegionSearch(RegionString,varlat, varlon);
+          } else {
+            console.log("No results found form ReverseGeocode");
+          }
+        })
+        .catch((e) => console.log("Geocoder failed due to: " + e));
+    }
+
+    function RegionSearch(RegionString,varlat, varlon) {
+      var flag = -1;
+      var locurl = "";
+      var taipei_area = ['北投區', '士林區', '中山區', '大同區', '中正區', '萬華區', '大安區', '信義區', '內湖區', '松山區'
+        , '南港區', '文山區']
+      var taichung_area = ['北區', '西區', '中區', '東區', '南區', '北屯區', '西屯區', '南屯區']
+      //like[台北市,臺北市,台中市,台中市]
+      //判斷需分區之縣市(台北,台中)
+      var like = [RegionString.includes('台北市'), RegionString.includes('臺北市'), RegionString.includes('台中市'), RegionString.includes('臺中市')]
+      if (like[0] || like[1]) { //台北
+        for (var i = 0; i < taipei_area.length; i++) {
+          if (RegionString.includes(taipei_area[i])) {
+            flag = i;
+            break;
+          }
+        }
+        switch (true) {
+          case (flag >= 0 && flag < 4): //北投,士林,中山,大同
+            locurl = 'https://www.google.com/maps/d/edit?mid=1ceQ5gitm3HnFVXVwhzroV7uLM_obkDdd&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+            break;
+          case (flag >= 4 && flag < 8): //中正,萬華,大安,信義
+            locurl = 'https://www.google.com/maps/d/edit?mid=1gi1uuzzCxL8pKev6TXvgJU9KdA2ZLpyJ&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+            break;
+          case (flag >= 8): //內湖,松山,南港,文山
+            locurl = 'https://www.google.com/maps/d/edit?mid=1bYwHYsY9FAcsWApuXcuAZtbJkzjJ-KLG&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+            break;
+          default://找不到分區將自動導向至臺北市政府警察局（一）
+            locurl = 'https://www.google.com/maps/d/edit?mid=1ceQ5gitm3HnFVXVwhzroV7uLM_obkDdd&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+            console.log('didn\'t find' + RegionString);
+        }
+      }
+      else if (like[2] || like[3]) { //台中
+        for (var i = 0; i < taichung_area.length; i++) {
+          if (RegionString.includes(taichung_area[i])) {
+            flag = i;
+            break;
+          }
+        }
+        switch (true) {
+          case (flag >= 0 && flag < 5): //北區,西區,中區,東區,南區
+            locurl = 'https://www.google.com/maps/d/edit?mid=1QTlJW03o_dVuYCOWw3hGbCRIviCdAmyf&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+            break;
+          case (flag >= 5): //北屯,西屯,南屯
+            locurl = 'https://www.google.com/maps/d/edit?mid=1gEs9Am-UxXbrpHPuf5em53NDoyXEC5vn&amp;usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+            //document.getElementById('buttondiv1').style.display="none";
+            break;
+          default: //其他地區
+            locurl = 'https://www.google.com/maps/d/edit?mid=131vXnT86fmix5AaRkYWx2o8SJCfkGDG1&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+        }
+      }
+      else {//判斷不分區之縣市
+        if (RegionString.includes('新北市'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=16mK1e8ahEkNDFDxLTc4HITkffnxYKUUx&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('桃園市'))
+          locurl = 'https://www.google.com/maps/d/viewer?mid=1-Eh3c24YHl0bzldblfIE1hfS84VdJ9S5&z=18&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('臺南市') || RegionString.includes('台南市'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1JFYLJ5I-lxVYuoTvdGMQpQty9DlMFkF0&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('高雄市'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1boVpdJLyQpgUP3hahPlQ5-DKjx0Rggk6&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('基隆市'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1UBZKihGrmIc6d5Fk39N67UCD0tDJxnIK&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('新竹市'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1HV8blx0bWor4XnsAGT8CuPbg_XW_uW9e&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('新竹縣'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1HjMrb9AjviPBMwrZVNJO3el7FK1alzlM&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('苗栗縣'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1MIID8ChqxXMvAUs1gcjvKrHvsvtqyQ57&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('彰化縣'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1VErNDQOseUEKSc3GFFu36CWqSApHG3j1&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('南投縣'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1JMWloPTpaMX2fs5EmciBDaLZukOArew9&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('雲林縣'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1SIgHI8kphgfnT08jn6iW5RD4CnZJpQqi&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('嘉義市'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1AqUlu6v55_vTLPb1vCZgDFYJZ16GyvnC&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('嘉義縣'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1BU58Gx6dGkwxoVrRBTm79tCVLZ4v-XRB&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('屏東縣'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1-bLjHz5DIqwBDdq9KVfcVRUFQWkfllaK&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('宜蘭縣'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1k05exCJAJ6xGleQ0x2D3DXpD2hUXNNs6&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('花蓮縣'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1aSsZ3GiwxZxY0hldnQ4ihpaDPX6m-RKk&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('臺東縣') || RegionString.includes('台東縣'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1sR8xCePEEMCcjHZjFEYomUhFF0HMCm_O&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('澎湖縣'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=12fE8l96VNLwrCcpmlzvdbwXc3Br3JDgB&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+        else if (RegionString.includes('金門') || RegionString.includes('金沙鎮') || RegionString.includes('金湖鎮') || RegionString.includes('金寧鄉') || RegionString.includes('金城鎮') || RegionString.includes('烈嶼鄉') || RegionString.includes('烏坵鄉'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1EXxSWBfhlxhzROwbbX97z-J5xqVdEsup&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;//判斷無縣市之分區 金門 => 金沙，金湖，金寧，金城，列嶼，烏坵
+        else if (RegionString.includes('連江') || RegionString.includes('南竿鄉') || RegionString.includes('北竿鄉') || RegionString.includes('莒光鄉') || RegionString.includes('東引鄉'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1jTNr02Y4mgPVqp-6fEZ4DaY6nCwLbBfm&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;//判斷無縣市之分區 連江 => 南竿，北竿，莒光，東引
+        else  //找不到縣市將自動導向至臺北市政府警察局（一）
+          locurl = 'https://www.google.com/maps/d/edit?mid=1ceQ5gitm3HnFVXVwhzroV7uLM_obkDdd&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+      }
+      if(locurl!=''){
+
+      }
+	  try{
+            var parser = new UAParser();
+            browser=parser.getBrowser().name;
+			if(browser!=null&&(browser.indexOf("Safari")>-1)){
+                alert("開啟Google Maps App中。\r若無顯示防空避難處所，請再點選一次連結。\rIf the「 Google Maps App 」does not show the shelters, please click the link again.");
+            }
+        }
+        catch(e){
+        }
+      document.getElementById('buttondiv').innerHTML = "<span class=\"go\"><a id=\"go\" href=" + locurl + " title=\"一鍵顯示 GO!!\">一鍵顯示 GO!!</a></span>";
+    }
+    var latitude = "";
+      var longitude = "";
+
+      if (!navigator.geolocation) {
+        //console.log("Geolocation is not supported by your browser");
+		//alert("抱歉，您尚未開啟GPS定位服務或不同意使用目前的位置資訊");
+        //return;
+      }
+		//navigator.geolocation.getCurrentPosition(success, error);
+		if (navigator.geolocation) {
+			var geo = navigator.geolocation;
+			var option = {
+				enableAcuracy: false,
+				maximumAge: 0,
+				timeout: 600000,
+			};
+			geo.getCurrentPosition(success, error, option);
+		} else {
+			alert("此瀏覽器不支援地理定位功能!");
+		}
+
+      function success(position) {
+        latitude = position.coords.latitude;
+        longitude = position.coords.longitude;
+		initMap(latitude, longitude);
+      };
+
+      function error() {
+		//alert("目前網頁無法取得您的定位資訊，請確認您的GPS已開啟及允許瀏覽器取用定位後並重新載入網頁，或直接點選網頁中各地區的連結進行瀏覽。");
+        //console.log("error from GetGeocode.js");
+      };
+
+  </script>
         <link rel="stylesheet" href="/static/css01/editor_style.css">
     <link rel="stylesheet" href="/static/css01/editor_rwd.css" media="only screen and (max-width: 768px)">
     <link rel="stylesheet" href="/static/css01/ap.css">
+    <style>
+        .editor .ed_table th,.editor .ed_table td {
+            padding: 0.25em 0.5em !important;
+        }
+    </style>
 </head>
 <body data-0="background-position:center 0px;" data-100000="background-position:center -50000px;" class='home'>
     <div id="bg1" data-0="background-position:0px 0px;" data-end="background-position:0 -5000px;"></div>
@@ -49,472 +221,349 @@
         <header id="top">
         <div class="container">
             <h1 class="logo">
-                <a href="/ch/index">
-                    <img src="/ch/index/viewtopimage?module=websitetop" alt="內政部警政署民防指揮管制所全球資訊網">
-                </a>
+
+                    <img src="/static/images/index/logo.png" alt="內政部警政署民防指揮管制所全球資訊網">
+
             </h1>
-                        <div class="toplink">
-                <a href="javascript:void(0);" accesskey="u" class="accesskey" title="上方選單連結區">:::</a>
-                                    <a href="/ch/index" title="回首頁" >回首頁</a>
-                    /                                    <a href="/ch/sitemap" title="網站導覽" >網站導覽</a>
-                    /                                    <a href="/en/index" title="English" >English</a>
-                                                </div>
-                        <div class="setweb">
-                                <div id="sizefont" class="size font-medium">
-                    <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton"
-                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="字型大小">字型大小</button>
-                    <script type="text/javascript">
-                        // 使用者字型大小
-                        function createCookie(name, value, days) {
-                            if (days) {
-                                var date = new Date();
-                                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-                                var expires = "; expires=" + date.toGMTString();
-                            }
-                            else expires = "";
-                            document.cookie = name + "=" + value + expires + "; path=/";
-                        }
-                        function readCookie(name) {
-                            var nameEQ = name + "=";
-                            var ca = document.cookie.split(';');
-                            for (var i = 0; i < ca.length; i++) {
-                                var c = ca[i];
-                                while (c.charAt(0) == ' ')
-                                    c = c.substring(1, c.length);
-                                if (c.indexOf(nameEQ) == 0)
-                                    return c.substring(nameEQ.length, c.length);
-                            }
-                            return null;
-                        }
-                        function SetFont(size) {
-                            document.getElementById("fs").className="container main "+size;
-                            document.getElementById("sizefont").className="size "+size;
-                            createCookie('fontsize', size, 30);
-                        }
-                        function LoadFont() {
-                            var fontsize;
-                            if (readCookie('fontsize') == null) {
-                                createCookie('fontsize', 'font-medium', 30);
-                                fontsize = 'font-medium';
-                            } else {
-                                fontsize = readCookie('fontsize');
-                            }
-                            SetFont(fontsize);
-                        }
-                    </script>
-                    <div class="dropdown-menu dropdown-menu-right" style="">
-                        <a class="dropdown-item" href="javascript:SetFont(&#39;font-small&#39;)"><img src="/static/images/template/icon_size_s.png" alt="小"/></a>
-                        <a class="dropdown-item" href="javascript:SetFont(&#39;font-medium&#39;)"><img src="/static/images/template/icon_size_m.png" alt="中"/></a>
-                        <a class="dropdown-item" href="javascript:SetFont(&#39;font-large&#39;)"><img src="/static/images/template/icon_size_l.png" alt="大"/></a>
-                    </div>
-                </div>
-                                                <div class="share">
-                    <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton2"
-                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="分享">
-                        <img src="/static/images/template/icon_share.png" alt="分享">
-                    </button>
-                    <div class="dropdown-menu dropdown-menu-right" style="">
-                        <a class="dropdown-item" title="分享到Facebook(開啟新視窗)" target="_blank"
-                             href="https://www.facebook.com/sharer.php?u=https://cdo.npa.gov.tw/ch/app/artwebsite/view">
-                            <img src="/static/images/template/icon_share_fb.png" alt="facebook">
-                        </a>
-                        <a class="dropdown-item" title="分享到Twitter(開啟新視窗)" target="_blank"
-                            href="https://twitter.com/share?url=https://cdo.npa.gov.tw/ch/app/artwebsite/view">
-                            <img src="/static/images/template/icon_share_twitter.png" alt="twitter">
-                        </a>
-                        <a class="dropdown-item" title="分享到LINE(開啟新視窗)" target="_blank"
-                            href="https://line.me/R/msg/text/?內政部警政署防空疏散避難專區-內政部警政署民防指揮管制所全球資訊網%0D%0Ahttps://cdo.npa.gov.tw/ch/app/artwebsite/view">
-                            <img src="/static/images/template/icon_share_line.png" alt="line"/>
-                        </a>
-                    </div>
-                </div>
-                            </div>
+
+            <div class="setweb">
+
+
+            </div>
             <div class="search_box">
-                                <div class="search">
-                    <script>
-                        (function() {
-                            var cx = "7dc868d0741abe8b1";
-                            var gcse = document.createElement("script");
-                            gcse.type = "text/javascript";
-                            gcse.async = true;
-                            gcse.src = (document.location.protocol == "https:" ? "https:" : "http:") +
-                                            "//cse.google.com/cse.js?cx=" + cx;
-                            var s = document.getElementsByTagName("script")[0];
-                            s.parentNode.insertBefore(gcse, s);
-                        })();
-                        document.write("<gcse:searchbox-only></gcse:searchbox-only>");
-                    </script>
-                    <div class="advanced"><a href="https://www.google.com.tw/advanced_search?as_sitesearch=https://cdo.npa.gov.tw/"
-                        title="進階搜尋(開啟新視窗)" target="_blank">進階搜尋</a></div>
-                                    </div>
-                            </div>
+
+            </div>
         </div>
     </header>
         <!-- 主選單 -->
-    <div class="menu">
-        <a href="#" accesskey="m" class="accesskey" title="主要功能選單">:::</a>
-        <ul>
-            <li>
-                                <div class="toplink">
-                                            <a href="/ch/index" title="回首頁" >回首頁</a>
-                                            <a href="/ch/sitemap" title="網站導覽" >網站導覽</a>
-                                            <a href="/en/index" title="English" >English</a>
-                                    </div>
-                            </li>
-                        <li>
-                <a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1709&amp;serno=9a261cd4-712f-434f-8069-7668619eef9b" title="民管誌"   >
-                    民管誌                </a>
-                                    <ul class="equal-height-thumbnail">
-                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1709&amp;serno=9a261cd4-712f-434f-8069-7668619eef9b" title="民管誌"  >民管誌</a>
-                                                            </li>
-                                            </ul>
-                            </li>
-                        <li>
-                <a href="/ch/app/folder/321" title="機關簡介"   >
-                    機關簡介                </a>
-                                    <ul class="equal-height-thumbnail">
-                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1710&amp;serno=30c3ca1f-5cbc-4ed3-b4f3-714575b8d717" title="首長介紹"  >首長介紹</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1711&amp;serno=4319754c-a505-4377-8b71-9ed6a6cc2153" title="副所長介紹"  >副所長介紹</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1712&amp;serno=9f7ebf45-9f39-4b79-b76e-f22715f2cb35" title="歷任正副所長"  >歷任正副所長</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/folder/322" title="單位介紹"  >單位介紹</a>
-                                                                    <ul>
-                                                                                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1713&amp;serno=00331459-6b62-4fb1-8de9-fc9261b513e5" title="業務職掌"  >業務職掌</a></li>
-                                                                                                                                                            <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1714&amp;serno=96ec8395-5598-4ecd-82c7-7bf4722df118" title="組織架構"  >組織架構</a></li>
-                                                                                                                                                            <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1715&amp;serno=f1be3ece-0eed-4dbc-b6ec-2f50c541709b" title="單位業務介紹"  >單位業務介紹</a></li>
-                                                                                                                                                            <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1716&amp;serno=26d1921f-920b-485c-9c0a-5454139295fd" title="本所所徽"  >本所所徽</a></li>
-                                                                                                                                                            <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1717&amp;serno=aa963cc0-4633-4567-bf1a-58600799ff19" title="各分所任務介紹"  >各分所任務介紹</a></li>
-                                                                                                                                                        </ul>
-                                                            </li>
-                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1718&amp;serno=459883f1-d43e-404b-8120-0ef1455c40ae" title="本所位置"  >本所位置</a>
-                                                            </li>
-                                            </ul>
-                            </li>
-                        <li>
-                <a href="/ch/app/folder/323" title="公告訊息"   >
-                    公告訊息                </a>
-                                    <ul class="equal-height-thumbnail">
-                                                    <li><a href="/ch/app/news/list?module=news&amp;id=2866" title="警政消息"  >警政消息</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/data/list?module=album&amp;id=2867" title="本所花絮"  >本所花絮</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/data/list?module=wg014&amp;id=2869" title="人事動態"  >人事動態</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/video/list?module=video&amp;id=2871" title="短片宣導"  >短片宣導</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1719&amp;serno=57df1761-fa2a-4f77-966d-ccb2d0fede56" title="政府網站資料開放宣告"  >政府網站資料開放宣告</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1720&amp;serno=589c0441-bc7b-4bfa-8066-944669487301" title="隱私權及安全政策"  >隱私權及安全政策</a>
-                                                            </li>
-                                            </ul>
-                            </li>
-                        <li>
-                <a href="/ch/app/folder/324" title="警報須知"   >
-                    警報須知                </a>
-                                    <ul class="equal-height-thumbnail">
-                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1721&amp;serno=3dc6d3fa-54e1-42d0-bdb5-b0692f30829e" title="認識警報"  >認識警報</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1722&amp;serno=7819d20d-bb44-46a8-bd01-c3a0dcb51e35" title="警報音符辨識方式及下載"  >警報音符辨識方式及下載</a>
-                                                            </li>
-                                                    <li><a href="https://data.moi.gov.tw/MoiOD/Data/DataDetail.aspx?oid=A98A502C-C685-4683-91DB-46BA3029CCEE" title="全國海嘯警報臺開放資料下載(開起新視窗)"  target=&#39;_blank&#39;  >全國海嘯警報臺開放資料下載</a>
-                                                            </li>
-                                                    <li><a href="https://www.tgos.tw/TGOS/Web/Metadata/TGOS_MetaData_View.aspx?MID=FEFC9347CD240699678718758DEC6925&amp;amp;S" title="全國海嘯警報臺圖資查詢(開起新視窗)"  target=&#39;_blank&#39;  >全國海嘯警報臺圖資查詢</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1723&amp;serno=e175f5b2-99bf-4715-a310-e9b6632c5061" title="海嘯警報發放時機與程序"  >海嘯警報發放時機與程序</a>
-                                                            </li>
-                                            </ul>
-                            </li>
-                        <li>
-                <a href="/ch/app/folder/325" title="資訊公開"   >
-                    資訊公開                </a>
-                                    <ul class="equal-height-thumbnail">
-                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1725&amp;serno=b404c581-8e4e-436b-a0df-1a6c899f0fd0" title="公告事項"  >公告事項</a>
-                                                            </li>
-                                                    <li><a href="https://www.npa.gov.tw/ch/app/data/list?module=wg062&amp;id=2198" title="出版品(開起新視窗)"  target=&#39;_blank&#39;  >出版品</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/folder/326" title="主計報告"  >主計報告</a>
-                                                                    <ul>
-                                                                                                                    <li><a href="/ch/app/data/list?module=govinfo&amp;id=2889" title="預算資料"  >預算資料</a></li>
-                                                                                                                                                            <li><a href="/ch/app/data/list?module=govinfo&amp;id=2890" title="決算資料"  >決算資料</a></li>
-                                                                                                                                                            <li><a href="/ch/app/data/list?module=govinfo&amp;id=2893" title="會計月報"  >會計月報</a></li>
-                                                                                                                                                            <li><a href="/ch/app/data/list?module=govinfo&amp;id=2895" title="政策宣導廣告經費"  >政策宣導廣告經費</a></li>
-                                                                                                                                                            <li><a href="/ch/app/data/list?module=govinfo&amp;id=2898" title="獎補助經費"  >獎補助經費</a></li>
-                                                                                                                                                        </ul>
-                                                            </li>
-                                                    <li><a href="/ch/app/data/list?module=govinfo&amp;id=2900" title="民防指揮管制所法規"  >民防指揮管制所法規</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/data/list?module=govinfo&amp;id=2904" title="防情救災法規"  >防情救災法規</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/data/list?module=govinfo&amp;id=2905" title="公益勸募公開徵信"  >公益勸募公開徵信</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/data/list?module=govinfo&amp;id=2907" title="內部控制聲明書專區"  >內部控制聲明書專區</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/folder/18258" title="防空疏散避難專區"  >防空疏散避難專區</a>
-                                                                    <ul>
-                                                                                                                    <li><a href="https://adr.npa.gov.tw" title="內政部警政署防空疏散避難專區(開起新視窗)"  target=&#39;_blank&#39;  >內政部警政署防空疏散避難專區</a></li>
-                                                                                                                                                            <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=18260&amp;serno=9af0e6fe-b5ca-4c5e-b629-8e90358e359c" title="各警察機關防空疏散避難專區"  >各警察機關防空疏散避難專區</a></li>
-                                                                                                                                                        </ul>
-                                                            </li>
-                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=18475&amp;serno=ccc6f86c-ef04-43c8-bfd9-6ac09b904be6" title="公職人員利益衝突迴避身分揭露專區"  >公職人員利益衝突迴避身分揭露專區</a>
-                                                                    <ul>
-                                                                                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=18475&amp;serno=ccc6f86c-ef04-43c8-bfd9-6ac09b904be6" title="公職人員利益衝突迴避身分揭露專區"  >公職人員利益衝突迴避身分揭露專區</a></li>
-                                                                                                                                                        </ul>
-                                                            </li>
-                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=18556&amp;serno=92f8da64-fd4d-4a20-a2c8-dc1146366275" title="深化與普及政府文件標準格式(ODF-CNS15251)實施計畫(110-112年)"  >開放文件格式（ODF）宣導專區</a>
-                                                                    <ul>
-                                                                                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=18556&amp;serno=92f8da64-fd4d-4a20-a2c8-dc1146366275" title="深化與普及政府文件標準格式(ODF-CNS15251)實施計畫(110-112年)"  >深化與普及政府文件標準格式(ODF-CNS15251)實施計畫(110-112年)</a></li>
-                                                                                                                                                        </ul>
-                                                            </li>
-                                            </ul>
-                            </li>
-                        <li>
-                <a href="/ch/app/folder/2911" title="防災須知"   >
-                    防災須知                </a>
-                                    <ul class="equal-height-thumbnail">
-                                                    <li><a href="/ch/app/data/list?module=wg155&amp;id=2917" title="防災知識"  >防災知識</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/data/list?module=wg156&amp;id=2935" title="國家防災日相關活動"  >國家防災日相關活動</a>
-                                                            </li>
-                                            </ul>
-                            </li>
-                        <li>
-                <a href="/ch/app/folder/328" title="便民服務"   >
-                    便民服務                </a>
-                                    <ul class="equal-height-thumbnail">
-                                                    <li><a href="/ch/app/folder/2938" title="所長信箱"  >所長信箱</a>
-                                                                    <ul>
-                                                                                                                    <li><a href="/ch/mailbox/mailchief/mailchief?module=mailchief&amp;id=7497" title="反映意見"  >反映意見</a></li>
-                                                                                                                                                            <li><a href="/ch/mailbox/mailchief/mailchiefquery?module=mailchief&amp;id=7498" title="案件查詢"  >案件查詢</a></li>
-                                                                                                                                                        </ul>
-                                                            </li>
-                                                    <li><a href="/ch/app/folder/329" title="地震海嘯資訊"  >地震海嘯資訊</a>
-                                                                    <ul>
-                                                                                                                    <li><a href="https://www.cwb.gov.tw/V8/C/" title="中央氣象局地震資訊(開起新視窗)"  target=&#39;_blank&#39;  >中央氣象局地震資訊</a></li>
-                                                                                                                                                            <li><a href="https://www.cwb.gov.tw/V8/C/" title="中央氣象局海嘯資訊(開起新視窗)"  target=&#39;_blank&#39;  >中央氣象局海嘯資訊</a></li>
-                                                                                                                                                        </ul>
-                                                            </li>
-                                                    <li><a href="/ch/app/faq/list?module=faq&amp;id=2945" title="常見問題"  >常見問題</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/bilingual/list?module=bilingual&amp;id=2946" title="雙語詞彙對照表"  >雙語詞彙對照表</a>
-                                                            </li>
-                                            </ul>
-                            </li>
-                        <li>
-                <a href="/ch/app/folder/331" title="網網相連"   >
-                    網網相連                </a>
-                                    <ul class="equal-height-thumbnail">
-                                                    <li><a href="/ch/app/webLink/list?module=webLink&amp;id=2952" title="警政連結"  >警政連結</a>
-                                                            </li>
-                                                    <li><a href="/ch/app/webLink/list?module=webLink&amp;id=2955" title="公務機關連結"  >公務機關連結</a>
-                                                            </li>
-                                            </ul>
-                            </li>
-                    </ul>
-    </div>
+
         <div id="fs" class="container main font-medium">
-        <a href="javascript:void(0);" accesskey="c" class="accesskey" id="accesskey_c" title="主要內容區">:::</a>
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item">
-                    <a href="/ch/index" title="首頁"><i class="zi zi_home"></i>首頁</a>
-                </li>
-                <li class="breadcrumb-item"><a href="/ch/app/folder/325" title="資訊公開">資訊公開</a></li><li class="breadcrumb-item"><a href="/ch/app/folder/18258" title="防空疏散避難專區">防空疏散避難專區</a></li><li class="breadcrumb-item active" aria-current="page">內政部警政署防空疏散避難專區</li>            </ol>
-        </nav>
-        <div class="file_icon clearfix">
-            <ul>
-                <li class="xml">
-                    <a href="/ch/app/openData/artwebsite/data?module=artwebsite&serno=0492c1b9-2591-4418-af9f-73de33f32430&type=xml" target="_blank" title="開啟新視窗">
-                        <img src="/static/images/template/icon_xml.png" alt="xml"/>
-                    </a>
-                </li>
-                <li class="json">
-                    <a href="/ch/app/openData/artwebsite/data?module=artwebsite&serno=0492c1b9-2591-4418-af9f-73de33f32430&type=json" target="_blank" title="開啟新視窗">
-                        <img src="/static/images/template/icon_json.png" alt="json"/>
-                    </a>
-                </li>
-            </ul>
-        </div>
+        <a href="#" accesskey="c" class="accesskey" title="主要內容區" id="accesskey_c">:::</a>
         <h2 class="p_title">
-            <p>內政部警政署防空疏散避難專區</p>
+            <p>內政部警政署防空避難專區Civil Defense Shelters Of The NPA</p>
         </h2>
                 <div class="ap">
-                        <!--詳細內容-->
+<input type="hidden" id="mapurl" name="mapurl" value="">
+       
+<div class="row1">
+<div class="">
+         <strong>
+<ul>
+<li>本功能主要用於具有Google Maps App的行動載具（手機或平板），請在有網路環境下先開啟定位功能，並允許瀏覽器取用位置後，即可立即顯示您附近的防空避難處所。</li>
+<ul style="margin-left: -2.4em;list-style-type: disc;">
+    <li>This function is mainly used for mobile phones or tablets with Google Maps App.
+    Please turn on "Use location" to enable the function in the Internet environment and
+    allow the browser to access the location, then you can get some information about nearby shelters immediately.</li>
+</ul>
+<li>若Google Maps App無顯示防空避難處所，請再點選一次連結。</li>
+<ul style="margin-left: -2.4em;list-style-type: disc;">
+    <li>If the「 Google Maps App 」does not show the shelters, please click the link again.</li>
+</ul>
+</ul>
+
+        </strong>
+
+
+		</div>
+		<div class="">
+		 <div class="button" id="buttondiv">
+         <span class="go"><a id="go" href="/indexgo" title="一鍵顯示 GO!!">一鍵顯示 GO!!</a></span>
+        </div>
+		</div>
+		</div>
+        </div>
+            <!--詳細內容-->
             <div class="detail">
                 <div class="info">
-                                                                                                         <p class="color02"><i class="zi zi_squareHandCorrect"></i> 更新日期：111-07-22</p>
-                                                                                                                                                                                                                      <p class="color01"><i class="zi zi_circleVatar"></i> 發布單位：民防指揮管制所</p>
-                                                          </div>
+                                                                                     <p class="color02"> 更新日期：112-05-02</p>
+                                                                                                                                                              <p class="color01"> 發布單位：民防指揮管制所</p>
+                                                  </div>
             </div>
             <!--編輯器-->
-            <div class="editor"><div style="text-align: center;"><a href="/userfiles/chcdo/images/20220722102017672.jpg
-" style="display: inline-block;background-color: #ff9800;padding: 10px 15px;border-radius: 5px;margin: 0 0 10px 0;color: #000;font-weight: bold;"><font size="4">常見問答懶人包</font></a>
-<style type="text/css">.ed_table th,.ed_table td{
-padding: 10px !important;
-}
-</style>
+            <div class="editor"><div style="text-align: center;">
+<p style="
+    color: #093394;
+    font-size: 170%;
+    font-weight: bold;
+    margin: 0;
+">常見問答懶人包</p>
+
+<p style="
+    color: #ab6600;
+    font-size: 120%;
+    line-height: 100%;
+    font-weight: bold;
+">Short version of location settings</p>
 </div>
 
-<div class="ed_model02 clearfix" style="padding: 10px;background-color: #efefef;text-align: center;"><a href="/userfiles/chcdo/images/20220722102017672.jpg" title="常見問答懶人包"><img alt="常見問答懶人包" src="/userfiles/chcdo/images/20220721171614602.jpg" style="max-width: 315px;width: 100%;" /></a></div>
+<div class="ed_model04 clearfix" style="padding: 10px;background-color: #efefef;text-align: center;">
+<div class="ed_flex_box">
+<div class="box">
+<div class="ed_pic"><img alt="" src="/userfiles/chcdo/images/20220721171614602.jpg" style="max-width: 315px;width: 100%;" /></div>
+
+<div class="ed_txt"><a href="/userfiles/chcdo/images/20220722102017672.jpg" style="
+    background-color: #ff9800;
+    border-radius: 50px;
+    padding: 5px 15px;
+    display: inline-block;
+    color: #000;
+    font-weight: bold;
+    font-size: 120%;
+    margin: 10px 0;
+" title="如何開啟定位，ios用戶請點選設定、隱私權、定位服務設定，android用戶請點選設定、位置、開啟定位。">中文版</a></div>
+</div>
+
+<div class="box">
+<div class="ed_pic"><img alt="" src="/userfiles/chcdo/images/20230106111459948.jpg" style="max-width: 315px;width: 100%;" /></div>
+
+<div class="ed_txt"><a href="/userfiles/chcdo/images/20230106111545653.jpg" style="
+    background-color: #ff9800;
+    border-radius: 50px;
+    padding: 5px 15px;
+    display: inline-block;
+    color: #000;
+    font-weight: bold;
+    font-size: 120%;
+    margin: 10px 0;
+" title="如何開啟定位，ios用戶請點選設定、隱私權、定位服務設定，android用戶請點選設定、位置、開啟定位。">ENGLISH</a></div>
+</div>
+</div>
+<!--<div size="4"><a href="https://adr.npa.gov.tw/slogan" style="display: inline-block;background-color: #ff9800;padding: 10px 15px;border-radius: 5px;margin: 10px 0 10px 0;color: #000;font-weight: bold;" title="開啟定位懶人包-文字說明">開啟定位懶人包-文字說明</a></div>--></div>
 
 <div class="ed_model06 clearfix">
 <div class="table02 norwd">
 <table class="ed_table">
 	<tbody>
 		<tr>
-			<th width="10%">編號</th>
-			<th width="35%">地區</th>
-			<th width="35%">分區</th>
-			<th width="20%">Google My Maps連結</th>
+			<th width="10%">編號Number</th>
+			<th width="35%">地區<br />
+			Area</th>
+			<th width="35%">分區<br />
+			District</th>
+			<th width="20%">Google My Maps連結<br />
+			Google My Maps Link</th>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" colspan="1" data-th="編號" rowspan="3">1</td>
-			<td colspan="1" data-th="轄管警察機關" rowspan="3" style="text-align: center;">臺北市</td>
-			<td data-th="分區">北投區、士林區、中山區、大同區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1ceQ5gitm3HnFVXVwhzroV7uLM_obkDdd&amp;usp=sharing&amp;z=18" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td colspan="1" data-th="轄管警察機關" rowspan="3" style="text-align: center;">臺北市<br />
+			Taipei City</td>
+			<td data-th="分區">北投區、士林區、中山區、大同區<br />
+			Beitou District、Shilin District、Zhongshan District、Datong District</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1ceQ5gitm3HnFVXVwhzroV7uLM_obkDdd&amp;usp=sharing&amp;z=18" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
-			<td data-th="分區">中正區、萬華區、大安區、信義區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1gi1uuzzCxL8pKev6TXvgJU9KdA2ZLpyJ&amp;usp=sharing&amp;z=18" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="分區">中正區、萬華區、大安區、信義區<br />
+			Zhongzheng District、Wanhua District、Da&rsquo;an District、Xinyi District</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1gi1uuzzCxL8pKev6TXvgJU9KdA2ZLpyJ&amp;usp=sharing&amp;z=18" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
-			<td data-th="分區">內湖區、松山區、南港區、文山區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1bYwHYsY9FAcsWApuXcuAZtbJkzjJ-KLG&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="分區">內湖區、松山區、南港區、文山區<br />
+			Neihu District、Songshan District、Nangang District、Wenshan District</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1bYwHYsY9FAcsWApuXcuAZtbJkzjJ-KLG&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">2</td>
-			<td data-th="轄管警察機關" style="text-align: center;">新北市</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=16mK1e8ahEkNDFDxLTc4HITkffnxYKUUx&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">新北市<br />
+			New Taipei City</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=16mK1e8ahEkNDFDxLTc4HITkffnxYKUUx&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">3</td>
-			<td data-th="轄管警察機關" style="text-align: center;">桃園市</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/viewer?mid=1-Eh3c24YHl0bzldblfIE1hfS84VdJ9S5&amp;ll=24.965285745211222%2C121.21868299999998&amp;z=11" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">桃園市<br />
+			Taoyuan City</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/viewer?mid=1-Eh3c24YHl0bzldblfIE1hfS84VdJ9S5&amp;ll=24.965285745211222%2C121.21868299999998&amp;z=11" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" colspan="1" data-th="編號" rowspan="3">4</td>
-			<td colspan="1" data-th="轄管警察機關" rowspan="3" style="text-align: center;">臺中市</td>
-			<td data-th="分區">北區、西區、中區、東區、南區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1QTlJW03o_dVuYCOWw3hGbCRIviCdAmyf&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td colspan="1" data-th="轄管警察機關" rowspan="3" style="text-align: center;">臺中市<br />
+			Taichung City</td>
+			<td data-th="分區">北區、西區、中區、東區、南區<br />
+			North District、West District、Central District、East District、South District</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1QTlJW03o_dVuYCOWw3hGbCRIviCdAmyf&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
-			<td data-th="分區">北屯區、西屯區、南屯區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1gEs9Am-UxXbrpHPuf5em53NDoyXEC5vn&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="分區">北屯區、西屯區、南屯區<br />
+			Beitun District、Xitun District、Nantun District</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1gEs9Am-UxXbrpHPuf5em53NDoyXEC5vn&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
-			<td data-th="分區">其他地區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=131vXnT86fmix5AaRkYWx2o8SJCfkGDG1&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="分區">其他地區<br />
+			Other Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=131vXnT86fmix5AaRkYWx2o8SJCfkGDG1&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">5</td>
-			<td data-th="轄管警察機關" style="text-align: center;">臺南市</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1JFYLJ5I-lxVYuoTvdGMQpQty9DlMFkF0&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">臺南市<br />
+			Tainan City</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1JFYLJ5I-lxVYuoTvdGMQpQty9DlMFkF0&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">6</td>
-			<td data-th="轄管警察機關" style="text-align: center;">高雄市</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1boVpdJLyQpgUP3hahPlQ5-DKjx0Rggk6&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">高雄市<br />
+			Kaohsiung City</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1boVpdJLyQpgUP3hahPlQ5-DKjx0Rggk6&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">7</td>
-			<td data-th="轄管警察機關" style="text-align: center;">基隆市</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1UBZKihGrmIc6d5Fk39N67UCD0tDJxnIK&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">基隆市<br />
+			Keelung City</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1UBZKihGrmIc6d5Fk39N67UCD0tDJxnIK&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">8</td>
-			<td data-th="轄管警察機關" style="text-align: center;">新竹市</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1HV8blx0bWor4XnsAGT8CuPbg_XW_uW9e&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">新竹市<br />
+			Hsinchu City</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1HV8blx0bWor4XnsAGT8CuPbg_XW_uW9e&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">9</td>
-			<td data-th="轄管警察機關" style="text-align: center;">新竹縣</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1HjMrb9AjviPBMwrZVNJO3el7FK1alzlM&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">新竹縣<br />
+			Hsinchu County</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1HjMrb9AjviPBMwrZVNJO3el7FK1alzlM&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">10</td>
-			<td data-th="轄管警察機關" style="text-align: center;">苗栗縣</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1MIID8ChqxXMvAUs1gcjvKrHvsvtqyQ57&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">苗栗縣<br />
+			Miaoli County</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1MIID8ChqxXMvAUs1gcjvKrHvsvtqyQ57&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">11</td>
-			<td data-th="轄管警察機關" style="text-align: center;">彰化縣</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1VErNDQOseUEKSc3GFFu36CWqSApHG3j1&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">彰化縣<br />
+			Changhua County</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1VErNDQOseUEKSc3GFFu36CWqSApHG3j1&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">12</td>
-			<td data-th="轄管警察機關" style="text-align: center;">南投縣</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1JMWloPTpaMX2fs5EmciBDaLZukOArew9&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">南投縣<br />
+			Nantou County</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1JMWloPTpaMX2fs5EmciBDaLZukOArew9&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">13</td>
-			<td data-th="轄管警察機關" style="text-align: center;">雲林縣</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1SIgHI8kphgfnT08jn6iW5RD4CnZJpQqi&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">雲林縣<br />
+			Yunlin County</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1SIgHI8kphgfnT08jn6iW5RD4CnZJpQqi&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">14</td>
-			<td data-th="轄管警察機關" style="text-align: center;">嘉義市</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1AqUlu6v55_vTLPb1vCZgDFYJZ16GyvnC&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">嘉義市<br />
+			Chiayi City</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1AqUlu6v55_vTLPb1vCZgDFYJZ16GyvnC&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">15</td>
-			<td data-th="轄管警察機關" style="text-align: center;">嘉義縣</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1BU58Gx6dGkwxoVrRBTm79tCVLZ4v-XRB&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">嘉義縣<br />
+			Chiayi County</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1BU58Gx6dGkwxoVrRBTm79tCVLZ4v-XRB&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">16</td>
-			<td data-th="轄管警察機關" style="text-align: center;">屏東縣</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1-bLjHz5DIqwBDdq9KVfcVRUFQWkfllaK&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">屏東縣<br />
+			Pingtung County</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1-bLjHz5DIqwBDdq9KVfcVRUFQWkfllaK&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">17</td>
-			<td data-th="轄管警察機關" style="text-align: center;">宜蘭縣</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1k05exCJAJ6xGleQ0x2D3DXpD2hUXNNs6&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">宜蘭縣<br />
+			Yilan County</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1k05exCJAJ6xGleQ0x2D3DXpD2hUXNNs6&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">18</td>
-			<td data-th="轄管警察機關" style="text-align: center;">花蓮縣</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1aSsZ3GiwxZxY0hldnQ4ihpaDPX6m-RKk&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">花蓮縣<br />
+			Hualien County</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1aSsZ3GiwxZxY0hldnQ4ihpaDPX6m-RKk&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">19</td>
-			<td data-th="轄管警察機關" style="text-align: center;">臺東縣</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1sR8xCePEEMCcjHZjFEYomUhFF0HMCm_O&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">臺東縣<br />
+			Taitung County</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1sR8xCePEEMCcjHZjFEYomUhFF0HMCm_O&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">20</td>
-			<td data-th="轄管警察機關" style="text-align: center;">澎湖縣</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=12fE8l96VNLwrCcpmlzvdbwXc3Br3JDgB&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">澎湖縣<br />
+			Penghu County</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=12fE8l96VNLwrCcpmlzvdbwXc3Br3JDgB&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">21</td>
-			<td data-th="轄管警察機關" style="text-align: center;">金門縣</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1EXxSWBfhlxhzROwbbX97z-J5xqVdEsup&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">金門縣<br />
+			Kinmen County</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1EXxSWBfhlxhzROwbbX97z-J5xqVdEsup&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 		<tr>
 			<td class="ed_pc_center" data-th="編號">22</td>
-			<td data-th="轄管警察機關" style="text-align: center;">連江縣</td>
-			<td data-th="分區">全區</td>
-			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1jTNr02Y4mgPVqp-6fEZ4DaY6nCwLbBfm&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選</a></td>
+			<td data-th="轄管警察機關" style="text-align: center;">連江縣<br />
+			Lienchiang County</td>
+			<td data-th="分區">全區<br />
+			All Districts</td>
+			<td data-th="Google My Maps鏈結" style="text-align: center;"><a href="https://www.google.com/maps/d/edit?mid=1jTNr02Y4mgPVqp-6fEZ4DaY6nCwLbBfm&amp;usp=sharing" target="_self" title="請點選(Google My Maps鏈結)">請點選<br />
+			Click The Link</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -522,126 +571,38 @@ padding: 10px !important;
 </div>
 
 <div class="ed_model07 clearfix">
-<div class="ed_title01">注意事項：</div>
+<div class="ed_title01">注意事項(Note)：</div>
 </div>
 
 <div class="ed_model12 clearfix">
 <div class="item01">
 <p>一、</p>
 平時準備：<br />
-利用手機截圖或下載Google離線地圖標註辦公處所或住家附近之防空避難處所，預先儲存，以隨時或於網路斷線時查閱。</div>
+利用手機截圖或下載Google離線地圖標註辦公處所或住家附近之防空避難處所，預先儲存，以隨時或於網路斷線時查閱。<br />
+Use your mobile phone screenshot or download Google offline map to mark your office or air defense shelters near your home. Store it in advance for reference at any time or in case of Internet disconnection.</div>
 
 <div class="item01">
 <p>二、</p>
 緊急應變：<br />
-遇戰時或戰爭將發生時，除依平時自行儲存之資訊，儘速避難外，亦可依現地標示(黃色防空避難設備標誌牌)或聽從軍、憲、警及民防人員引導，進入防空避難處所避難。</div>
+遇戰時或戰爭將發生時，除依平時自行儲存之資訊，儘速避難外，亦可依現地標示(防空避難設備標誌牌)或聽從軍、憲、警及民防人員引導，進入防空避難處所避難。<br />
+In war time or war will occur, you can use above information to take refuge as soon as possible, can also take refuge in some buildings or basements with air defense shelters sign or follow the soldier, military police, police and civil defense personnel guidance entering the air defense shelters.</div>
 </div></div>
             <!--編輯器end-->
-            <div class="page">
-                <div class="button">
-                    <ul>
-                        <li class="back">
-                            <a href="javascript:window.history.go(-1);" title="回上一頁"><i class="zi zi_replyall"></i> 回上一頁</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
+
         </div>
-        <div class="info Update">
-            <ul>
-                <li><i class="zi zi_eye"></i> 瀏覽人次：<span class="text-secondary">32062</span></li>
-            </ul>
-        </div>
+
     </div>
-    <!-- fatfoot -->
-        <div class="fatfoot wow fadeInUp">
-        <div class="container"> <a class="btn" data-toggle="collapse" href="#fatfoot" role="button" aria-expanded="false" aria-controls="fatfoot"> 展開/收合 </a>
-            <div class="collapse " id="fatfoot">
-                <div class="card card-body">
-                    <div class="equal-height-thumbnail">
-                                                <ul>
-                            <li class="title"><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1709&amp;serno=9a261cd4-712f-434f-8069-7668619eef9b" title="民管誌"   >民管誌</a></li>
-                                                                                                <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1709&amp;serno=9a261cd4-712f-434f-8069-7668619eef9b" title="民管誌"   >民管誌</a></li>
-                                                                                    </ul>
-                                                <ul>
-                            <li class="title"><a href="/ch/app/folder/321" title="機關簡介"   >機關簡介</a></li>
-                                                                                                <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1710&amp;serno=30c3ca1f-5cbc-4ed3-b4f3-714575b8d717" title="首長介紹"   >首長介紹</a></li>
-                                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1711&amp;serno=4319754c-a505-4377-8b71-9ed6a6cc2153" title="副所長介紹"   >副所長介紹</a></li>
-                                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1712&amp;serno=9f7ebf45-9f39-4b79-b76e-f22715f2cb35" title="歷任正副所長"   >歷任正副所長</a></li>
-                                                                    <li><a href="/ch/app/folder/322" title="單位介紹"   >單位介紹</a></li>
-                                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1718&amp;serno=459883f1-d43e-404b-8120-0ef1455c40ae" title="本所位置"   >本所位置</a></li>
-                                                                                    </ul>
-                                                <ul>
-                            <li class="title"><a href="/ch/app/folder/323" title="公告訊息"   >公告訊息</a></li>
-                                                                                                <li><a href="/ch/app/news/list?module=news&amp;id=2866" title="警政消息"   >警政消息</a></li>
-                                                                    <li><a href="/ch/app/data/list?module=album&amp;id=2867" title="本所花絮"   >本所花絮</a></li>
-                                                                    <li><a href="/ch/app/data/list?module=wg014&amp;id=2869" title="人事動態"   >人事動態</a></li>
-                                                                    <li><a href="/ch/app/video/list?module=video&amp;id=2871" title="短片宣導"   >短片宣導</a></li>
-                                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1719&amp;serno=57df1761-fa2a-4f77-966d-ccb2d0fede56" title="政府網站資料開放宣告"   >政府網站資料開放宣告</a></li>
-                                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1720&amp;serno=589c0441-bc7b-4bfa-8066-944669487301" title="隱私權及安全政策"   >隱私權及安全政策</a></li>
-                                                                                    </ul>
-                                                <ul>
-                            <li class="title"><a href="/ch/app/folder/324" title="警報須知"   >警報須知</a></li>
-                                                                                                <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1721&amp;serno=3dc6d3fa-54e1-42d0-bdb5-b0692f30829e" title="認識警報"   >認識警報</a></li>
-                                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1722&amp;serno=7819d20d-bb44-46a8-bd01-c3a0dcb51e35" title="警報音符辨識方式及下載"   >警報音符辨識方式及下載</a></li>
-                                                                    <li><a href="https://data.moi.gov.tw/MoiOD/Data/DataDetail.aspx?oid=A98A502C-C685-4683-91DB-46BA3029CCEE" title="全國海嘯警報臺開放資料下載(開起新視窗)"  target=&#39;_blank&#39;   >全國海嘯警報臺開放資料下載</a></li>
-                                                                    <li><a href="https://www.tgos.tw/TGOS/Web/Metadata/TGOS_MetaData_View.aspx?MID=FEFC9347CD240699678718758DEC6925&amp;amp;S" title="全國海嘯警報臺圖資查詢(開起新視窗)"  target=&#39;_blank&#39;   >全國海嘯警報臺圖資查詢</a></li>
-                                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1723&amp;serno=e175f5b2-99bf-4715-a310-e9b6632c5061" title="海嘯警報發放時機與程序"   >海嘯警報發放時機與程序</a></li>
-                                                                                    </ul>
-                                                <ul>
-                            <li class="title"><a href="/ch/app/folder/325" title="資訊公開"   >資訊公開</a></li>
-                                                                                                <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=1725&amp;serno=b404c581-8e4e-436b-a0df-1a6c899f0fd0" title="公告事項"   >公告事項</a></li>
-                                                                    <li><a href="https://www.npa.gov.tw/ch/app/data/list?module=wg062&amp;id=2198" title="出版品(開起新視窗)"  target=&#39;_blank&#39;   >出版品</a></li>
-                                                                    <li><a href="/ch/app/folder/326" title="主計報告"   >主計報告</a></li>
-                                                                    <li><a href="/ch/app/data/list?module=govinfo&amp;id=2900" title="民防指揮管制所法規"   >民防指揮管制所法規</a></li>
-                                                                    <li><a href="/ch/app/data/list?module=govinfo&amp;id=2904" title="防情救災法規"   >防情救災法規</a></li>
-                                                                    <li><a href="/ch/app/data/list?module=govinfo&amp;id=2905" title="公益勸募公開徵信"   >公益勸募公開徵信</a></li>
-                                                                    <li><a href="/ch/app/data/list?module=govinfo&amp;id=2907" title="內部控制聲明書專區"   >內部控制聲明書專區</a></li>
-                                                                    <li><a href="/ch/app/folder/18258" title="防空疏散避難專區"   >防空疏散避難專區</a></li>
-                                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=18475&amp;serno=ccc6f86c-ef04-43c8-bfd9-6ac09b904be6" title="公職人員利益衝突迴避身分揭露專區"   >公職人員利益衝突迴避身分揭露專區</a></li>
-                                                                    <li><a href="/ch/app/artwebsite/view?module=artwebsite&amp;id=18556&amp;serno=92f8da64-fd4d-4a20-a2c8-dc1146366275" title="深化與普及政府文件標準格式(ODF-CNS15251)實施計畫(110-112年)"   >開放文件格式（ODF）宣導專區</a></li>
-                                                                                    </ul>
-                                                <ul>
-                            <li class="title"><a href="/ch/app/folder/2911" title="防災須知"   >防災須知</a></li>
-                                                                                                <li><a href="/ch/app/data/list?module=wg155&amp;id=2917" title="防災知識"   >防災知識</a></li>
-                                                                    <li><a href="/ch/app/data/list?module=wg156&amp;id=2935" title="國家防災日相關活動"   >國家防災日相關活動</a></li>
-                                                                                    </ul>
-                                                <ul>
-                            <li class="title"><a href="/ch/app/folder/328" title="便民服務"   >便民服務</a></li>
-                                                                                                <li><a href="/ch/app/folder/2938" title="所長信箱"   >所長信箱</a></li>
-                                                                    <li><a href="/ch/app/folder/329" title="地震海嘯資訊"   >地震海嘯資訊</a></li>
-                                                                    <li><a href="/ch/app/faq/list?module=faq&amp;id=2945" title="常見問題"   >常見問題</a></li>
-                                                                    <li><a href="/ch/app/bilingual/list?module=bilingual&amp;id=2946" title="雙語詞彙對照表"   >雙語詞彙對照表</a></li>
-                                                                                    </ul>
-                                                <ul>
-                            <li class="title"><a href="/ch/app/folder/331" title="網網相連"   >網網相連</a></li>
-                                                                                                <li><a href="/ch/app/webLink/list?module=webLink&amp;id=2952" title="警政連結"   >警政連結</a></li>
-                                                                    <li><a href="/ch/app/webLink/list?module=webLink&amp;id=2955" title="公務機關連結"   >公務機關連結</a></li>
-                                                                                    </ul>
-                                            </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--fatfoot end-->
+
         <footer class="wow fadeInUp">
-        <div class="linkbar">
-            <div class="container">
-                <div class="link">
-                    <a href="https://cdo.npa.gov.tw/ch/app/artwebsite/view?module=artwebsite&amp;id=1719&amp;serno=57df1761-fa2a-4f77-966d-ccb2d0fede56">[政府網站資料開放宣告]</a>
-                    <a href="https://cdo.npa.gov.tw/ch/app/artwebsite/view?module=artwebsite&amp;id=1720&amp;serno=589c0441-bc7b-4bfa-8066-944669487301">[隱私權及網站安全政策]</a>
-                                        <span style="color: transparent;"></span>
-                </div>
-            </div>
-        </div>
+
         <div class="container">
-            <div class="logo"><a href="/ch/index"><img src="/ch/index/viewBottomimage?module=websiteBottom" alt="內政部警政署民防指揮管制所全球資訊網"/></a></div>
+            <div class="logo"><img src="/static/images/index/logo1.png" alt="內政部警政署民防指揮管制所全球資訊網"/></div>
             <div class="editor"><div class="info clearfix">
 <div class="right">
 <div class="add">
 <p>內政部警政署民防指揮管制所版權所有</p>
 
-<p>地址：11681 臺北市文山區萬盛街15之3號<a href="https://goo.gl/maps/uAuiawbot2RJCsH87" target="_blank" title="Google Map(另開新視窗)"><img alt="Google Map(另開新視窗)" src="https://cdo.npa.gov.tw/userfiles/images/1spc_map.png" /></a></p>
+<p>地址：11681 臺北市文山區萬盛街15之3號<a href="https://goo.gl/maps/uAuiawbot2RJCsH87" target="_blank" title="Google Map(另開新視窗)"><img alt="Google Map(另開新視窗)" src="/static/images/index/1spc_map.png"></a></p>
 
 <p>總機：<a href="tel:0229349940">(02)29349940</a> 傳真：(02)29334452 政風檢舉電話：<a href="tel:0227332108">02-27332108</a></p>
 
@@ -651,46 +612,19 @@ padding: 10px !important;
 </div>
 
 <ul>
-	<li><a href="https://www.gov.tw/" target="_blank" title="我的E政府(另開新視窗)"><img alt="我的E政府(另開新視窗)" src="https://cdo.npa.gov.tw/userfiles/images/at01-min.png" /></a></li>
-	<li><a href="https://accessibility.ncc.gov.tw/Applications/Detail?category=20210419150333" target="_blank" title="無障礙網站(另開新視窗)"><img alt="通過AA檢測等級無障礙網頁檢測(另開新視窗)" src="https://cdo.npa.gov.tw/userfiles/images/at02-min.png" /></a></li>
+	<li><a href="https://www.gov.tw/" target="_blank" title="我的E政府(另開新視窗)"><img alt="我的E政府(另開新視窗)" src="/static/images/index/at01-min.png"></a></li>
+	<li><a href="https://accessibility.moda.gov.tw/Applications/Detail?category=20221116170418" target="_blank" title="無障礙網站(另開新視窗)"><img alt="通過AA檢測等級無障礙網頁檢測(另開新視窗)" src="/static/images/index/at02-min.png"></a></li>
 </ul>
 </div>
 </div></div>
         </div>
         <div class="Update">
             <div class="container">
-                            <p>更新日期：111年07月22日</p>                <p>瀏覽人次：135124</p>                        </div>
+                            <p>更新日期：112-05-02</p>
+                        </div>
         </div>
     </footer>
-        <!-- 左方分享區 -->
-        <div class="fast left">
-        <ul>
-                        <li class="fb">
-                <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <img src="/static/images/template/lefticon01.png" alt="Facebook">
-                </a>
-                <ul class="dropdown-menu">
-                                            <li><a href="https://www.facebook.com/CDOPOLICE/?ref=bookmarks" title="本所粉絲專頁(開啟新視窗)"  target="_blank">本所粉絲專頁</a></li>
-                                    </ul>
-            </li>
-                                    <li class="yt">
-                <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <img src="/static/images/template/lefticon02.png" alt="Youtube">
-                </a>
-                <ul class="dropdown-menu">
-                                            <li><a href="https://www.youtube.com/channel/UCHHzfIJJ1HAZt0Wnq9FS7yg/" title="本所影音頻道(開啟新視窗)"  target="_blank">本所影音頻道</a></li>
-                                    </ul>
-            </li>
-                                                                        <li class="assist">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="/static/images/template/lefticon03.png" alt="瀏覽輔助設定"></a>
-                <ul class="dropdown-menu">
-                    <li><a href="#" id="blackSet">瀏覽輔助設定</a></li>
-                    <li><a href="#" id="reduce">還原預設值</a></li>
-                </ul>
-            </li>
-        </ul>
-    </div>
-        <!-- 右方分享區 -->
+    
         <div class="fast right">
         <ul>
             <li><a href="#top" class="backtop">
@@ -701,151 +635,59 @@ padding: 10px !important;
     </div>
     <link rel="stylesheet" type="text/css" href="/static/css01/footer.css">
     <link rel="stylesheet" type="text/css" href="/static/css01/layout.css">
-    <link rel="stylesheet" type="text/css" href="/static/js/zico/css/zico.min.css">
     <link rel="stylesheet" type="text/css" href="/static/css01/equal_height.css">
-    <link rel="stylesheet" type="text/css" href="/static/css01/animate.css">
     <link rel="stylesheet" type="text/css" href="/static/footer_cdo.css">
     <style>
         .gsc-input {
             font-size: 100% !important;
         }
+        .button {
+            text-align: center;
+      }
+     .row1 {
+		border: 3px #ffc107 solid;
+		padding: 10px;
+		max-width: 500px;
+		margin: auto;
+	}
+	.row1 p {
+		color: #ad0000;
+		text-align: left;
+
+	}
+	.row1 ul {
+		color: #ad0000;
+		text-align: left;
+		list-style: trad-chinese-informal;
+	}
+	.go a {
+            display: inline-block;
+            background-color: #093394;
+            padding: 10px 15px;
+            border-radius: 5px;
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+            font-size: 110%;
+    }
+	.go a:hover {
+        background-color: #FF9800;
+		color: #000;
+     }
+
     </style>
 
-    <script src="/static/js/popper.min.js"></script>
     <script src="/static/js/bootstrap-4.4.1-dist/js/bootstrap.min.js" ></script>
-    <!--滾動視差-->
-    <script type="text/javascript" src="/static/js/skrollr-master/dist/skrollr.min.js"></script>
-    <script src="/static/js/wow.min.js"></script>
-    <script src="/static/js/megamenu-js-master/js/megamenu.js"></script>
-    <script type="text/javascript" src="/static/js/slick-1.6.0/slick/slick.min.js"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PBVQN6JS3Z"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-61HD01GKC9"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-PBVQN6JS3Z');
+        gtag('config', 'G-61HD01GKC9');
     </script>
-    <script>
-        $(document).ready(function() {
 
-            localStorage.removeItem('mykey');
 
-            console.log("gsc-i-id1="+document.getElementById("gsc-i-id1"));
-
-			$("body").on('click','.gsc-search-button',function(e) {
-                e.stopPropagation();
-                e.preventDefault;
-                $.ajax({
-                    url: "/ch/search/add?word="+document.getElementById("gsc-i-id1").value,
-                    type: "POST",
-                });
-			});
-
-			$("body").on('keyup','#gsc-i-id1',function(e) {
-                var word=$('#gsc-i-id1').val();
-			    var word_save=localStorage.getItem('mykey');
-			    if(word_save!='undefined'){
-			        var keys=word_save+word;
-			        localStorage.setItem('mykey', keys)
-			    }else{
-			        localStorage.setItem('mykey', word )
-			    }
-			});
-
-			$("#gsc-i-id1").keydown(function(e) {
-			    var word_save=localStorage.getItem('mykey');
-			    localStorage.removeItem('mykey');
-                e.stopPropagation();
-                e.preventDefault;
-                console.log('e.which='+e.which);
-				if(e.which == 13) {
-                    $.ajax({
-                        url: "/ch/search/add?word="+word_save,
-                        type: "POST",
-                    });
-                }
-			});
-
-			skrollr.init({
-				forceHeight: false,
-				smoothScrolling: true
-			});
-
-			function allowFormsInIscroll(){
-				[].slice.call(document.querySelectorAll('input, select, textarea')).forEach(function(el){
-    　　		el.addEventListener(('ontouchstart' in window)?'touchstart':'mousedown', function(e){
-       　		　 e.stopPropagation();
-					})
-				})
-			}
-			document.addEventListener('DOMContentLoaded', allowFormsInIscroll, false);
-
-            if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))){
-                new WOW().init();
-            };
-
-            $(".sbanner").slick({
-                dots: false,
-                arrows: true,
-                infinite: true,
-                slidesToShow: 4,
-                slidesToScroll: 1,
-                autoplay: true,
-                responsive: [
-                    {breakpoint:1100,settings: {slidesToShow:3,}},
-                    {breakpoint: 860,settings: {slidesToShow:2,}},
-                    {breakpoint: 600,settings: {slidesToShow:1,}}
-                ]
-            });
-
-            window.addEventListener('scroll', function(e){
-                var elements  = ['.menu'];
-                var distanceY = window.pageYOffset || document.documentElement.scrollTop, shrinkOn = 0;
-                if(distanceY > shrinkOn){
-                    for(k in elements) $(elements[k]).addClass('smaller');
-                }else{
-                    for(k in elements) if($(elements[k]).hasClass('smaller')) $(elements[k]).removeClass('smaller');
-                }
-            });
-
-            //$(".collapse").collapse();
-            //搜尋條件及fat收合
-            $('#fatfoot').collapse();
-            $('#search_list').collapse({toggle: false});
-
-            $('body').scrollspy({target: ".menu", offset:0});
-
-            $(".fast.right a").on('click', function(event) {
-                if (this.hash !== "") {
-                    event.preventDefault();
-                    var hash = this.hash;
-                    $('html, body').animate({
-                        scrollTop: $(hash).offset().top
-                    }, 800, function(){
-                        window.location.hash = hash;
-                    });
-                }
-            });
-
-            $("a#blackSet").on("click", function(e) {
-                createCookie('chblack', 'true', 30);
-                window.location.reload();
-            });
-
-            $("a#reduce").on("click", function(e) {
-                createCookie('chblack', "", -1);
-                window.location.reload();
-            });
-
-            setTimeout(function() {
-                $("#gsc-i-id1").attr({
-                    size: "100%"
-                });
-            }, 1000);
-
-        });
-    </script>
-    <script>LoadFont();</script>
-    </body>
+    
+</body>
 </html>
