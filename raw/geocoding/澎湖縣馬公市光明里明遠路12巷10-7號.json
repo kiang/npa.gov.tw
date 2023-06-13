@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "澎湖縣馬公市光明里明遠路12巷10-7號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[澎湖縣]\tT:1,V:1,R:1,S:-1,L:1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[澎湖縣]\t { 模糊比對 } (馬公市)\t找到符合的[鄉鎮市區]，(光明里)\t找到符合的[村里]，(明遠路)\t找到符合的[路街名]，(12巷)\t找到符合的[巷]，(10-7號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "澎湖縣馬公市光明里23鄰明遠路12巷10號",
+      "COUNTY": "澎湖縣",
+      "TOWN": "馬公市",
+      "VILLAGE": "光明里",
+      "NEIGHBORHOOD": "23鄰",
+      "ROAD": "明遠路",
+      "SECTION": "",
+      "LANE": "12巷",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "10號",
+      "X": 119.567920,
+      "Y": 23.571120,
+      "CODEBASE": "A1601-0968-00",
+      "CODE1": "A1601-10-010",
+      "CODE2": "A1601-10"
+    }
+  ]
+}

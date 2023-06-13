@@ -1,0 +1,73 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "南投縣草屯鎮富寮里富中正路71號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "2",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[南投縣]\tT:1,V:1,R:0,S:-1,L:-1,A:-1,SA:-1,T:-1,AR:-1,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[南投縣]\t { 模糊比對 } (草屯鎮)\t找到符合的[鄉鎮市區]，(富寮里)\t找到符合的[村里]，(富中正路)\t找不到符合的[路街名]，進行轉換搜尋[街變成路，路變成街]，進行轉換搜尋[路變成地區名]，轉換搜尋找不到符合的[路街名]，(71號)\t找到符合的[門牌號碼]，進行[單號過濾]，模糊比對找到 2 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "南投縣草屯鎮富寮里12鄰富中路71號",
+      "COUNTY": "南投縣",
+      "TOWN": "草屯鎮",
+      "VILLAGE": "富寮里",
+      "NEIGHBORHOOD": "12鄰",
+      "ROAD": "富中路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "71號",
+      "X": 120.706126,
+      "Y": 23.976026,
+      "CODEBASE": "A0803-0457-00",
+      "CODE1": "A0803-29-005",
+      "CODE2": "A0803-29"
+    },
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "南投縣草屯鎮富寮里24鄰富春路71號",
+      "COUNTY": "南投縣",
+      "TOWN": "草屯鎮",
+      "VILLAGE": "富寮里",
+      "NEIGHBORHOOD": "24鄰",
+      "ROAD": "富春路",
+      "SECTION": "",
+      "LANE": "",
+      "ALLEY": "",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "71號",
+      "X": 120.701567,
+      "Y": 23.980340,
+      "CODEBASE": "A0803-0379-00",
+      "CODE1": "A0803-15-009",
+      "CODE2": "A0803-15"
+    }
+  ]
+}
