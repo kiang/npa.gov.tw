@@ -30,7 +30,7 @@ foreach ($rows as $row) {
         }
     }
     foreach ($cols as $k => $v) {
-        $cols[$k] = str_replace(["\n", "\r"], '', $v);
+        $cols[$k] = str_replace(["\n", "\r", "\t"], '', $v);
     }
     $cnt = count($cols);
     if ($cnt === 5) {
