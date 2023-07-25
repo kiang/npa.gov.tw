@@ -20097,7 +20097,7 @@
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 縣立體育館<br>建築物名稱: 嘉義縣立體育館<br>電腦編號: 2-01-037<br>村里別: 竹圍里<br>地址: 嘉義縣朴子市竹圍里1鄰四維路1段460號<br>緯經度: 23.45891, 120.24725<br>地下樓層數: 地下1樓<br>可容納人數: 3251<br>備考: ]]></description>
+        <description><![CDATA[類別: 縣立體育館<br>建築物名稱: 嘉義縣立體育館<br>電腦編號: 2-01-037<br>村里別: 竹圍里<br>地址: 嘉義縣朴子市竹圍里1鄰四維路1段460號<br>緯經度: 23.45891, 120.24725<br>地下樓層數: 地下1樓<br>可容納人數: 3140<br>備考: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -20122,7 +20122,7 @@
             <value>地下1樓</value>
           </Data>
           <Data name="可容納人數">
-            <value>3251.0</value>
+            <value>3140.0</value>
           </Data>
           <Data name="備考">
             <value/>
@@ -22744,45 +22744,6 @@
         <Point>
           <coordinates>
             120.24611,23.48074,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>朴子分局</name>
-        <description><![CDATA[類別: 飯店<br>建築物名稱: 假期大飯店<br>電腦編號: 2-08-001<br>村里別: 六斗村<br>地址: 嘉義縣六腳鄉六斗村10鄰272號<br>緯經度: 23.54507, 120.29452<br>地下樓層數: 地下1樓<br>可容納人數: 115<br>備考: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>飯店</value>
-          </Data>
-          <Data name="建築物名稱">
-            <value>假期大飯店</value>
-          </Data>
-          <Data name="電腦編號">
-            <value>2-08-001</value>
-          </Data>
-          <Data name="村里別">
-            <value>六斗村</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義縣六腳鄉六斗村10鄰272號</value>
-          </Data>
-          <Data name="緯經度">
-            <value>23.54507, 120.29452</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>地下1樓</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>115.0</value>
-          </Data>
-          <Data name="備考">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.29452,23.54507,0
           </coordinates>
         </Point>
       </Placemark>
