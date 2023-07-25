@@ -1,0 +1,52 @@
+{
+  "Info": [
+    {
+      "IsSuccess": "True",
+      "InAddress": "彰化縣員林市員東路2段仁愛巷10弄7之1至8之4號",
+      "InSRS": "EPSG:4326",
+      "InFuzzyType": "[單雙號機制]+[最近門牌號機制]",
+      "InFuzzyBuffer": "0",
+      "InIsOnlyFullMatch": "False",
+      "InIsSupportPast": "True",
+      "InIsShowCodeBase": "True",
+      "InIsLockCounty": "True",
+      "InIsLockTown": "False",
+      "InIsLockVillage": "False",
+      "InIsLockRoadSection": "False",
+      "InIsLockLane": "False",
+      "InIsLockAlley": "False",
+      "InIsLockArea": "False",
+      "InIsSameNumber_SubNumber": "True",
+      "InCanIgnoreVillage": "True",
+      "InCanIgnoreNeighborhood": "True",
+      "InReturnMaxCount": "0",
+      "OutTotal": "1",
+      "OutMatchType": "模糊比對",
+      "OutMatchCode": "[彰化縣]\tT:1,V:-1,R:1,S:1,L:1,A:1,SA:-1,T:-1,AR:0,NO:1,E:-1,N:-1",
+      "OutTraceInfo": "[彰化縣]\t { 模糊比對 } (員林市)\t找到符合的[鄉鎮市區]，(員東路)\t找到符合的[路街名]，(2)\t找到符合的[路段]，(仁愛巷)\t找到符合的[巷]，(10弄)\t找到符合的[弄]，(七之一至)\t找不到符合的[地區]，進行轉換搜尋[路或街變成地區名]，轉換搜尋找不到符合的[地區]，(8之4號)\t找到符合的[門牌號碼]，模糊比對找到 1 筆符合的門牌地址。"
+    }
+  ],
+  "AddressList": [
+    {
+      "PERIOD": "",
+      "FULL_ADDR": "彰化縣員林市仁愛里13鄰員東路二段仁愛巷10弄8號之4",
+      "COUNTY": "彰化縣",
+      "TOWN": "員林市",
+      "VILLAGE": "仁愛里",
+      "NEIGHBORHOOD": "13鄰",
+      "ROAD": "員東路",
+      "SECTION": "2",
+      "LANE": "仁愛巷",
+      "ALLEY": "10弄",
+      "SUB_ALLEY": "",
+      "TONG": "",
+      "AREA": "",
+      "NUMBER": "8號之4",
+      "X": 120.578514,
+      "Y": 23.959059,
+      "CODEBASE": "A0709-0016-00",
+      "CODE1": "A0709-01-006",
+      "CODE2": "A0709-01"
+    }
+  ]
+}
