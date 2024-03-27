@@ -55,6 +55,7 @@ foreach ($rows as $row) {
         } else {
             $status = 'error';
         }
+        fputcsv($listFh, [$kmlUrl, $status]);
     } elseif ($cnt === 3) {
         $targetFile = $basePath . '/kml/' . $city . '_' . $cols[0] . '.kml';
         $kmlUrl = 'https://www.google.com/maps/d/u/0/kml?mid=' . $cols[1] . '&forcekml=1';
@@ -65,6 +66,6 @@ foreach ($rows as $row) {
         } else {
             $status = 'error';
         }
+        fputcsv($listFh, [$kmlUrl, $status]);
     }
-    fputcsv($listFh, [$kmlUrl, $status]);
 }
