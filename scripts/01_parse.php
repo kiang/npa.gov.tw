@@ -15,6 +15,7 @@ $pos = strpos($raw, '<table class="ed_table">');
 $posEnd = strpos($raw, '</table>', $pos);
 $rows = explode('</tr>', substr($raw, $pos, $posEnd - $pos));
 $city = '';
+$listFh = fopen($basePath . '/raw/list.csv', 'w');
 foreach ($rows as $row) {
     $cols = explode('</td>', $row);
     foreach ($cols as $k => $col) {
@@ -41,20 +42,29 @@ foreach ($rows as $row) {
         $cols[$k] = str_replace(["\n", "\r", "\t"], '', $v);
     }
     $cnt = count($cols);
+    $status = 'ok';
     if ($cnt === 5) {
         $city = $cols[1];
         $targetFile = $basePath . '/kml/' . $cols[1] . '_' . $cols[2] . '.kml';
-        $browser->request('GET', 'https://www.google.com/maps/d/u/0/kml?mid=' . $cols[3] . '&forcekml=1');
+        $kmlUrl = 'https://www.google.com/maps/d/u/0/kml?mid=' . $cols[3] . '&forcekml=1';
+
+        $browser->request('GET', $kmlUrl);
         $c = $browser->getResponse()->getContent();
         if (false === strpos($c, '你沒有存取這個文件的權限')) {
             file_put_contents($targetFile, $c);
+        } else {
+            $status = 'error';
         }
     } elseif ($cnt === 3) {
         $targetFile = $basePath . '/kml/' . $city . '_' . $cols[0] . '.kml';
-        $browser->request('GET', 'https://www.google.com/maps/d/u/0/kml?mid=' . $cols[1] . '&forcekml=1');
+        $kmlUrl = 'https://www.google.com/maps/d/u/0/kml?mid=' . $cols[1] . '&forcekml=1';
+        $browser->request('GET', $kmlUrl);
         $c = $browser->getResponse()->getContent();
         if (false === strpos($c, '你沒有存取這個文件的權限')) {
             file_put_contents($targetFile, $c);
+        } else {
+            $status = 'error';
         }
     }
+    fputcsv($listFh, [$kmlUrl, $status]);
 }
