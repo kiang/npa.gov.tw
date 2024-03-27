@@ -1,6 +1,7 @@
 <?php
+$basePath = dirname(__DIR__);
 $url = 'https://adr.npa.gov.tw/';
-$rawFile = __DIR__ . '/raw/page.html';
+$rawFile = $basePath . '/raw/page.html';
 file_put_contents($rawFile, file_get_contents($url));
 $raw = file_get_contents($rawFile);
 $pos = strpos($raw, '<table class="ed_table">');

@@ -1,10 +1,11 @@
 <?php
+$basePath = dirname(__DIR__);
 $config = require __DIR__ . '/config.php';
-$geocodingPath = __DIR__ . '/raw/geocoding';
+$geocodingPath = $basePath . '/raw/geocoding';
 if (!file_exists($geocodingPath)) {
     mkdir($geocodingPath, 0777, true);
 }
-$poolPath = __DIR__ . '/csv/pool';
+$poolPath = $basePath . '/csv/pool';
 if (!file_exists($poolPath)) {
     mkdir($poolPath, 0777, true);
 }
@@ -12,7 +13,7 @@ $addressCount = 0;
 $geocodingEnabled = true;
 
 $pool = [];
-foreach (glob(__DIR__ . '/csv/*.csv') as $csvFile) {
+foreach (glob($basePath . '/csv/*.csv') as $csvFile) {
     $p = pathinfo($csvFile);
     $city = mb_substr($p['filename'], 0, 3, 'utf-8');
     $fh = fopen($csvFile, 'r');

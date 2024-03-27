@@ -1,8 +1,9 @@
 <?php
+$basePath = dirname(__DIR__);
 $pairs = [
     '.' => '_'
 ];
-foreach (glob(__DIR__ . '/kml/*.kml') as $kmlFile) {
+foreach (glob($basePath . '/kml/*.kml') as $kmlFile) {
     $p = pathinfo($kmlFile);
     $xml = simplexml_load_file($kmlFile);
     if (isset($xml->Document->Folder)) {

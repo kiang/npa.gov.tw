@@ -1,9 +1,10 @@
 <?php
-$jsonPath = __DIR__ . '/docs/json';
+$basePath = dirname(__DIR__);
+$jsonPath = $basePath . '/docs/json';
 if (!file_exists($jsonPath)) {
     mkdir($jsonPath, 0777, true);
 }
-foreach (glob(__DIR__ . '/csv/pool/*.csv') as $csvFile) {
+foreach (glob($basePath . '/csv/pool/*.csv') as $csvFile) {
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
     $fc = [
