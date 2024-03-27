@@ -45,10 +45,16 @@ foreach ($rows as $row) {
         $city = $cols[1];
         $targetFile = $basePath . '/kml/' . $cols[1] . '_' . $cols[2] . '.kml';
         $browser->request('GET', 'https://www.google.com/maps/d/u/0/kml?mid=' . $cols[3] . '&forcekml=1');
-        file_put_contents($targetFile, $browser->getResponse()->getContent());
+        $c = $browser->getResponse()->getContent();
+        if (false === strpos($c, '你沒有存取這個文件的權限')) {
+            file_put_contents($targetFile, $c);
+        }
     } elseif ($cnt === 3) {
         $targetFile = $basePath . '/kml/' . $city . '_' . $cols[0] . '.kml';
         $browser->request('GET', 'https://www.google.com/maps/d/u/0/kml?mid=' . $cols[1] . '&forcekml=1');
-        file_put_contents($targetFile, $browser->getResponse()->getContent());
+        $c = $browser->getResponse()->getContent();
+        if (false === strpos($c, '你沒有存取這個文件的權限')) {
+            file_put_contents($targetFile, $c);
+        }
     }
 }
