@@ -8,6 +8,7 @@ use Symfony\Component\HttpClient\HttpClient;
 $browser = new HttpBrowser(HttpClient::create());
 
 $url = 'https://adr.npa.gov.tw/';
+$browser->request('GET', $url);
 $rawFile = $basePath . '/raw/page.html';
 file_put_contents($rawFile, file_get_contents($url));
 $raw = file_get_contents($rawFile);
@@ -44,6 +45,7 @@ foreach ($rows as $row) {
     $cnt = count($cols);
     $status = 'ok';
     if ($cnt === 5) {
+        sleep(1);
         $city = $cols[1];
         $targetFile = $basePath . '/kml/' . $cols[1] . '_' . $cols[2] . '.kml';
         $kmlUrl = 'https://www.google.com/maps/d/u/0/kml?mid=' . $cols[3] . '&forcekml=1';
@@ -57,6 +59,7 @@ foreach ($rows as $row) {
         }
         fputcsv($listFh, [$kmlUrl, $status]);
     } elseif ($cnt === 3) {
+        sleep(1);
         $targetFile = $basePath . '/kml/' . $city . '_' . $cols[0] . '.kml';
         $kmlUrl = 'https://www.google.com/maps/d/u/0/kml?mid=' . $cols[1] . '&forcekml=1';
         $browser->request('GET', $kmlUrl);
