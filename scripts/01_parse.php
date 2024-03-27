@@ -1,5 +1,12 @@
 <?php
 $basePath = dirname(__DIR__);
+require __DIR__ . '/vendor/autoload.php';
+
+use Symfony\Component\BrowserKit\HttpBrowser;
+use Symfony\Component\HttpClient\HttpClient;
+
+$browser = new HttpBrowser(HttpClient::create());
+
 $url = 'https://adr.npa.gov.tw/';
 $rawFile = $basePath . '/raw/page.html';
 file_put_contents($rawFile, file_get_contents($url));
@@ -37,9 +44,11 @@ foreach ($rows as $row) {
     if ($cnt === 5) {
         $city = $cols[1];
         $targetFile = __DIR__ . '/kml/' . $cols[1] . '_' . $cols[2] . '.kml';
-        file_put_contents($targetFile, file_get_contents('https://www.google.com/maps/d/u/0/kml?mid=' . $cols[3] . '&forcekml=1'));
+        $browser->request('GET', 'https://www.google.com/maps/d/u/0/kml?mid=' . $cols[3] . '&forcekml=1');
+        file_put_contents($targetFile, $browser->getResponse()->getContent());
     } elseif ($cnt === 3) {
         $targetFile = __DIR__ . '/kml/' . $city . '_' . $cols[0] . '.kml';
-        file_put_contents($targetFile, file_get_contents('https://www.google.com/maps/d/u/0/kml?mid=' . $cols[1] . '&forcekml=1'));
+        $browser->request('GET', 'https://www.google.com/maps/d/u/0/kml?mid=' . $cols[1] . '&forcekml=1');
+        file_put_contents($targetFile, $browser->getResponse()->getContent());
     }
 }

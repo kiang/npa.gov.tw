@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/browser-kit": "^6.4",
+        "symfony/http-client": "^6.4"
+    }
+}
