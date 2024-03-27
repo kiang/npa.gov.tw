@@ -43,11 +43,11 @@ foreach ($rows as $row) {
     $cnt = count($cols);
     if ($cnt === 5) {
         $city = $cols[1];
-        $targetFile = __DIR__ . '/kml/' . $cols[1] . '_' . $cols[2] . '.kml';
+        $targetFile = $basePath . '/kml/' . $cols[1] . '_' . $cols[2] . '.kml';
         $browser->request('GET', 'https://www.google.com/maps/d/u/0/kml?mid=' . $cols[3] . '&forcekml=1');
         file_put_contents($targetFile, $browser->getResponse()->getContent());
     } elseif ($cnt === 3) {
-        $targetFile = __DIR__ . '/kml/' . $city . '_' . $cols[0] . '.kml';
+        $targetFile = $basePath . '/kml/' . $city . '_' . $cols[0] . '.kml';
         $browser->request('GET', 'https://www.google.com/maps/d/u/0/kml?mid=' . $cols[1] . '&forcekml=1');
         file_put_contents($targetFile, $browser->getResponse()->getContent());
     }
