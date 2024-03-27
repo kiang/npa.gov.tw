@@ -18,8 +18,8 @@
     <meta name="DC.Relation" content="內政部警政署防空疏散避難專區" />
     <meta name="DC.Source" content="內政部警政署防空疏散避難專區" />
     <meta name="DC.Language" content="中文" />
-    <meta name="DC.coverage.t.min" content="2023-07-13" />
-    <meta name="DC.coverage.t.max" content="2023-07-13" />
+    <meta name="DC.coverage.t.min" content="2024-03-13" />
+    <meta name="DC.coverage.t.max" content="2024-03-13" />
     <meta name="DC.Rights" content="內政部警政署防空疏散避難專區" />
     <meta name="Category.Theme" content="170" />
     <meta name="Category.Cake" content="140" />
@@ -56,8 +56,7 @@
             } else {
               var RegionString = response.results[0].formatted_address;
             }
-            //console.log(RegionString);
-            RegionSearch(RegionString,varlat, varlon);
+                        RegionSearch(RegionString,varlat, varlon);
           } else {
             console.log("No results found form ReverseGeocode");
           }
@@ -71,52 +70,40 @@
       var taipei_area = ['北投區', '士林區', '中山區', '大同區', '中正區', '萬華區', '大安區', '信義區', '內湖區', '松山區'
         , '南港區', '文山區']
       var taichung_area = ['北區', '西區', '中區', '東區', '南區', '北屯區', '西屯區', '南屯區']
-      //like[台北市,臺北市,台中市,台中市]
-      //判斷需分區之縣市(台北,台中)
-      var like = [RegionString.includes('台北市'), RegionString.includes('臺北市'), RegionString.includes('台中市'), RegionString.includes('臺中市')]
-      if (like[0] || like[1]) { //台北
-        for (var i = 0; i < taipei_area.length; i++) {
+                  var like = [RegionString.includes('台北市'), RegionString.includes('臺北市'), RegionString.includes('台中市'), RegionString.includes('臺中市')]
+      if (like[0] || like[1]) {         for (var i = 0; i < taipei_area.length; i++) {
           if (RegionString.includes(taipei_area[i])) {
             flag = i;
             break;
           }
         }
         switch (true) {
-          case (flag >= 0 && flag < 4): //北投,士林,中山,大同
-            locurl = 'https://www.google.com/maps/d/edit?mid=1ceQ5gitm3HnFVXVwhzroV7uLM_obkDdd&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+          case (flag >= 0 && flag < 4):             locurl = 'https://www.google.com/maps/d/edit?mid=1ceQ5gitm3HnFVXVwhzroV7uLM_obkDdd&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
             break;
-          case (flag >= 4 && flag < 8): //中正,萬華,大安,信義
-            locurl = 'https://www.google.com/maps/d/edit?mid=1gi1uuzzCxL8pKev6TXvgJU9KdA2ZLpyJ&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+          case (flag >= 4 && flag < 8):             locurl = 'https://www.google.com/maps/d/edit?mid=1gi1uuzzCxL8pKev6TXvgJU9KdA2ZLpyJ&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
             break;
-          case (flag >= 8): //內湖,松山,南港,文山
-            locurl = 'https://www.google.com/maps/d/edit?mid=1bYwHYsY9FAcsWApuXcuAZtbJkzjJ-KLG&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+          case (flag >= 8):             locurl = 'https://www.google.com/maps/d/edit?mid=1bYwHYsY9FAcsWApuXcuAZtbJkzjJ-KLG&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
             break;
-          default://找不到分區將自動導向至臺北市政府警察局（一）
-            locurl = 'https://www.google.com/maps/d/edit?mid=1ceQ5gitm3HnFVXVwhzroV7uLM_obkDdd&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+          default:            locurl = 'https://www.google.com/maps/d/edit?mid=1ceQ5gitm3HnFVXVwhzroV7uLM_obkDdd&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
             console.log('didn\'t find' + RegionString);
         }
       }
-      else if (like[2] || like[3]) { //台中
-        for (var i = 0; i < taichung_area.length; i++) {
+      else if (like[2] || like[3]) {         for (var i = 0; i < taichung_area.length; i++) {
           if (RegionString.includes(taichung_area[i])) {
             flag = i;
             break;
           }
         }
         switch (true) {
-          case (flag >= 0 && flag < 5): //北區,西區,中區,東區,南區
-            locurl = 'https://www.google.com/maps/d/edit?mid=1QTlJW03o_dVuYCOWw3hGbCRIviCdAmyf&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+          case (flag >= 0 && flag < 5):             locurl = 'https://www.google.com/maps/d/edit?mid=1QTlJW03o_dVuYCOWw3hGbCRIviCdAmyf&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
             break;
-          case (flag >= 5): //北屯,西屯,南屯
-            locurl = 'https://www.google.com/maps/d/edit?mid=1gEs9Am-UxXbrpHPuf5em53NDoyXEC5vn&amp;usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
-            //document.getElementById('buttondiv1').style.display="none";
-            break;
-          default: //其他地區
-            locurl = 'https://www.google.com/maps/d/edit?mid=131vXnT86fmix5AaRkYWx2o8SJCfkGDG1&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+          case (flag >= 5):             locurl = 'https://www.google.com/maps/d/edit?mid=1gEs9Am-UxXbrpHPuf5em53NDoyXEC5vn&amp;usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
+                        break;
+          default:             locurl = 'https://www.google.com/maps/d/edit?mid=131vXnT86fmix5AaRkYWx2o8SJCfkGDG1&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
         }
       }
-      else {//判斷不分區之縣市
-        if (RegionString.includes('新北市'))
+      else {
+                if (RegionString.includes('新北市'))
           locurl = 'https://www.google.com/maps/d/edit?mid=16mK1e8ahEkNDFDxLTc4HITkffnxYKUUx&usp=sharing&z=18&ll='+varlat+'%2C'+varlon;
         else if (RegionString.includes('桃園市'))
           locurl = 'https://www.google.com/maps/d/viewer?mid=1-Eh3c24YHl0bzldblfIE1hfS84VdJ9S5&z=18&ll='+varlat+'%2C'+varlon;
@@ -153,11 +140,8 @@
         else if (RegionString.includes('澎湖縣'))
           locurl = 'https://www.google.com/maps/d/edit?mid=12fE8l96VNLwrCcpmlzvdbwXc3Br3JDgB&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
         else if (RegionString.includes('金門') || RegionString.includes('金沙鎮') || RegionString.includes('金湖鎮') || RegionString.includes('金寧鄉') || RegionString.includes('金城鎮') || RegionString.includes('烈嶼鄉') || RegionString.includes('烏坵鄉'))
-          locurl = 'https://www.google.com/maps/d/edit?mid=1EXxSWBfhlxhzROwbbX97z-J5xqVdEsup&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;//判斷無縣市之分區 金門 => 金沙，金湖，金寧，金城，列嶼，烏坵
-        else if (RegionString.includes('連江') || RegionString.includes('南竿鄉') || RegionString.includes('北竿鄉') || RegionString.includes('莒光鄉') || RegionString.includes('東引鄉'))
-          locurl = 'https://www.google.com/maps/d/edit?mid=1jTNr02Y4mgPVqp-6fEZ4DaY6nCwLbBfm&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;//判斷無縣市之分區 連江 => 南竿，北竿，莒光，東引
-        else  //找不到縣市將自動導向至臺北市政府警察局（一）
-          locurl = 'https://www.google.com/maps/d/edit?mid=1ceQ5gitm3HnFVXVwhzroV7uLM_obkDdd&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
+          locurl = 'https://www.google.com/maps/d/edit?mid=1EXxSWBfhlxhzROwbbX97z-J5xqVdEsup&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;        else if (RegionString.includes('連江') || RegionString.includes('南竿鄉') || RegionString.includes('北竿鄉') || RegionString.includes('莒光鄉') || RegionString.includes('東引鄉'))
+          locurl = 'https://www.google.com/maps/d/edit?mid=1jTNr02Y4mgPVqp-6fEZ4DaY6nCwLbBfm&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;        else            locurl = 'https://www.google.com/maps/d/edit?mid=1ceQ5gitm3HnFVXVwhzroV7uLM_obkDdd&usp=sharing&z=15&ll='+varlat+'%2C'+varlon;
       }
       if(locurl!=''){
 
@@ -177,12 +161,8 @@
       var longitude = "";
 
       if (!navigator.geolocation) {
-        //console.log("Geolocation is not supported by your browser");
-		//alert("抱歉，您尚未開啟GPS定位服務或不同意使用目前的位置資訊");
-        //return;
-      }
-		//navigator.geolocation.getCurrentPosition(success, error);
-		if (navigator.geolocation) {
+        		              }
+				if (navigator.geolocation) {
 			var geo = navigator.geolocation;
 			var option = {
 				enableAcuracy: false,
@@ -201,19 +181,12 @@
       };
 
       function error() {
-		//alert("目前網頁無法取得您的定位資訊，請確認您的GPS已開啟及允許瀏覽器取用定位後並重新載入網頁，或直接點選網頁中各地區的連結進行瀏覽。");
-        //console.log("error from GetGeocode.js");
-      };
+		              };
 
   </script>
         <link rel="stylesheet" href="/static/css01/editor_style.css">
     <link rel="stylesheet" href="/static/css01/editor_rwd.css" media="only screen and (max-width: 768px)">
     <link rel="stylesheet" href="/static/css01/ap.css">
-    <style>
-        .editor .ed_table th,.editor .ed_table td {
-            padding: 0.25em 0.5em !important;
-        }
-    </style>
 </head>
 <body data-0="background-position:center 0px;" data-100000="background-position:center -50000px;" class='home'>
     <div id="bg1" data-0="background-position:0px 0px;" data-end="background-position:0 -5000px;"></div>
@@ -235,12 +208,12 @@
             </div>
         </div>
     </header>
-        <!-- 主選單 -->
-
+        
         <div id="fs" class="container main font-medium">
         <a href="#" accesskey="c" class="accesskey" title="主要內容區" id="accesskey_c">:::</a>
         <h2 class="p_title">
             <p>內政部警政署防空避難專區Civil Defense Shelters Of The NPA</p>
+             <a href="/sitemap" title="防空避難專區網站導覽">(網站導覽)</a>
         </h2>
                 <div class="ap">
 <input type="hidden" id="mapurl" name="mapurl" value="">
@@ -272,15 +245,21 @@
 		</div>
 		</div>
         </div>
-            <!--詳細內容-->
-            <div class="detail">
+                        <div class="detail">
                 <div class="info">
-                                                                                     <p class="color02"> 更新日期：112-05-02</p>
+                                                                                     <p class="color02"> 更新日期：112-12-14</p>
                                                                                                                                                               <p class="color01"> 發布單位：民防指揮管制所</p>
                                                   </div>
             </div>
-            <!--編輯器-->
-            <div class="editor"><div style="text-align: center;">
+                        <div class="editor"><div class="ed_model02 clearfix mb-5">
+<div class="ed_flex_box">
+<div class="box">
+<div class="ed_pic"><img alt="" src="/userfiles/chcdo/images/20231130155118143.jpg" /></div>
+</div>
+</div>
+</div>
+
+<div style="text-align: center;">
 <p style="
     color: #093394;
     font-size: 170%;
@@ -328,8 +307,13 @@
 " title="如何開啟定位，ios用戶請點選設定、隱私權、定位服務設定，android用戶請點選設定、位置、開啟定位。">ENGLISH</a></div>
 </div>
 </div>
-<!--<div size="4"><a href="https://adr.npa.gov.tw/slogan" style="display: inline-block;background-color: #ff9800;padding: 10px 15px;border-radius: 5px;margin: 10px 0 10px 0;color: #000;font-weight: bold;" title="開啟定位懶人包-文字說明">開啟定位懶人包-文字說明</a></div>--></div>
 
+<div size="4"><a href="https://adr.npa.gov.tw/slogan" style="display: inline-block;background-color: #ff9800;padding: 10px 15px;border-radius: 5px;margin: 10px 0 10px 0;color: #000;font-weight: bold;" title="開啟定位懶人包-文字說明">開啟定位懶人包-文字說明</a></div>
+</div>
+<style type="text/css">.editor .ed_table th,.editor .ed_table td {
+    padding: 0.25em 0.5em !important;
+}
+</style>
 <div class="ed_model06 clearfix">
 <div class="table02 norwd">
 <table class="ed_table">
@@ -587,8 +571,7 @@ Use your mobile phone screenshot or download Google offline map to mark your off
 遇戰時或戰爭將發生時，除依平時自行儲存之資訊，儘速避難外，亦可依現地標示(防空避難設備標誌牌)或聽從軍、憲、警及民防人員引導，進入防空避難處所避難。<br />
 In war time or war will occur, you can use above information to take refuge as soon as possible, can also take refuge in some buildings or basements with air defense shelters sign or follow the soldier, military police, police and civil defense personnel guidance entering the air defense shelters.</div>
 </div></div>
-            <!--編輯器end-->
-
+            
         </div>
 
     </div>
@@ -620,7 +603,7 @@ In war time or war will occur, you can use above information to take refuge as s
         </div>
         <div class="Update">
             <div class="container">
-                            <p>更新日期：112-05-02</p>
+                            <p>更新日期：112-12-14</p>
                         </div>
         </div>
     </footer>
@@ -678,8 +661,7 @@ In war time or war will occur, you can use above information to take refuge as s
     </style>
 
     <script src="/static/js/bootstrap-4.4.1-dist/js/bootstrap.min.js" ></script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-61HD01GKC9"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-61HD01GKC9"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}

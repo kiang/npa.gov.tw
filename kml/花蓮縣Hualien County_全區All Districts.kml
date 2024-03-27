@@ -13742,231 +13742,33 @@
     <Folder>
       <name>署屬機關</name>
       <Placemark>
-        <name>一般建築</name>
-        <description><![CDATA[電腦編號: A0001<br>村里別: 民孝里<br>地址: 花蓮市民孝里港口路15號<br>緯度: 23.99795255<br>經度: 121.6348614<br>地下樓層數: 1<br>可容納人數: 290<br>轄管分局: 花蓮港務警察總隊保安警察隊<br>備註: ]]></description>
+        <name>花蓮車站</name>
+        <description><![CDATA[電腦編號: 鐵花001<br>里別: 國聯里<br>地址: 花蓮縣花蓮市國聯里035鄰國聯一路100號<br>緯經度: 23.99341,121.60127<br>地下樓層數: 1<br>可容納人數: 625<br>轄管分局: 花蓮分局<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="電腦編號">
-            <value>A0001</value>
+            <value>鐵花001</value>
           </Data>
-          <Data name="村里別">
-            <value>民孝里</value>
-          </Data>
-          <Data name="地址">
-            <value>花蓮市民孝里港口路15號</value>
-          </Data>
-          <Data name="緯度">
-            <value>23.99795255</value>
-          </Data>
-          <Data name="經度">
-            <value>121.6348614</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>290.0</value>
-          </Data>
-          <Data name="轄管分局">
-            <value>花蓮港務警察總隊保安警察隊</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            121.6348614,23.99795255,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>一般建築</name>
-        <description><![CDATA[電腦編號: A0002<br>村里別: 民德里<br>地址: 花蓮市民德里海岸路66號<br>緯度: 23.98065719<br>經度: 121.6200116<br>地下樓層數: 1<br>可容納人數: 2903<br>轄管分局: 花蓮港務警察總隊保安警察隊<br>備註: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="電腦編號">
-            <value>A0002</value>
-          </Data>
-          <Data name="村里別">
-            <value>民德里</value>
-          </Data>
-          <Data name="地址">
-            <value>花蓮市民德里海岸路66號</value>
-          </Data>
-          <Data name="緯度">
-            <value>23.98065719</value>
-          </Data>
-          <Data name="經度">
-            <value>121.6200116</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>2903.0</value>
-          </Data>
-          <Data name="轄管分局">
-            <value>花蓮港務警察總隊保安警察隊</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            121.6200116,23.98065719,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>一般建築</name>
-        <description><![CDATA[電腦編號: A0003<br>村里別: 民孝里<br>地址: 花蓮港區第12號碼頭<br>緯度: 24.0057702<br>經度: 121.6372858<br>地下樓層數: 1<br>可容納人數: 170<br>轄管分局: 花蓮港務警察總隊東堤中隊<br>備註: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="電腦編號">
-            <value>A0003</value>
-          </Data>
-          <Data name="村里別">
-            <value>民孝里</value>
-          </Data>
-          <Data name="地址">
-            <value>花蓮港區第12號碼頭</value>
-          </Data>
-          <Data name="緯度">
-            <value>24.0057702</value>
-          </Data>
-          <Data name="經度">
-            <value>121.6372858</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>170.0</value>
-          </Data>
-          <Data name="轄管分局">
-            <value>花蓮港務警察總隊東堤中隊</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            121.6372858,24.0057702,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>一般建築</name>
-        <description><![CDATA[電腦編號: 20<br>村里別: 瑞穗村<br>地址: 花蓮縣瑞穗村009鄰四維街13號<br>緯度: 23.49749<br>經度: 121.37714<br>地下樓層數: 1<br>可容納人數: 100<br>轄管分局: 鐵路警察局花蓮分局<br>備註: 瑞穗車站]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="電腦編號">
-            <value>20</value>
-          </Data>
-          <Data name="村里別">
-            <value>瑞穗村</value>
-          </Data>
-          <Data name="地址">
-            <value>花蓮縣瑞穗村009鄰四維街13號</value>
-          </Data>
-          <Data name="緯度">
-            <value>23.49749</value>
-          </Data>
-          <Data name="經度">
-            <value>121.37714</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>100.0</value>
-          </Data>
-          <Data name="轄管分局">
-            <value>鐵路警察局花蓮分局</value>
-          </Data>
-          <Data name="備註">
-            <value>瑞穗車站</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            121.37714,23.49749,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>一般建築</name>
-        <description><![CDATA[電腦編號: 21<br>村里別: 鳳智里<br>地址: 花蓮縣鳳林鎮鳳智里019鄰中山路43號<br>緯度: 23.74645<br>經度: 121.44701<br>地下樓層數: 1<br>可容納人數: 170<br>轄管分局: 鐵路警察局花蓮分局<br>備註: 鳳林車站]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="電腦編號">
-            <value>21</value>
-          </Data>
-          <Data name="村里別">
-            <value>鳳智里</value>
-          </Data>
-          <Data name="地址">
-            <value>花蓮縣鳳林鎮鳳智里019鄰中山路43號</value>
-          </Data>
-          <Data name="緯度">
-            <value>23.74645</value>
-          </Data>
-          <Data name="經度">
-            <value>121.44701</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>170.0</value>
-          </Data>
-          <Data name="轄管分局">
-            <value>鐵路警察局花蓮分局</value>
-          </Data>
-          <Data name="備註">
-            <value>鳳林車站</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            121.44701,23.74645,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>一般建築</name>
-        <description><![CDATA[電腦編號: 22<br>村里別: 國聯里<br>地址: 花蓮縣花蓮市國聯里035鄰國聯一路100號<br>緯度: 23.99341<br>經度: 121.60127<br>地下樓層數: 1<br>可容納人數: 750<br>轄管分局: 鐵路警察局花蓮分局<br>備註: 花蓮車站]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="電腦編號">
-            <value>22</value>
-          </Data>
-          <Data name="村里別">
+          <Data name="里別">
             <value>國聯里</value>
           </Data>
           <Data name="地址">
             <value>花蓮縣花蓮市國聯里035鄰國聯一路100號</value>
           </Data>
-          <Data name="緯度">
-            <value>23.99341</value>
-          </Data>
-          <Data name="經度">
-            <value>121.60127</value>
+          <Data name="緯經度">
+            <value>23.99341,121.60127</value>
           </Data>
           <Data name="地下樓層數">
-            <value>1</value>
+            <value>1.0</value>
           </Data>
           <Data name="可容納人數">
-            <value>750.0</value>
+            <value>625.0</value>
           </Data>
           <Data name="轄管分局">
-            <value>鐵路警察局花蓮分局</value>
+            <value>花蓮分局</value>
           </Data>
           <Data name="備註">
-            <value>花蓮車站</value>
+            <value/>
           </Data>
         </ExtendedData>
         <Point>
@@ -13976,30 +13778,172 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>交通部民用航空局</name>
-        <description><![CDATA[電腦編號: 12<br>村里別: 嘉里村<br>地址: 花蓮縣新城鄉嘉里村機場巷1號B1(航站地下停車場)<br>緯度: 24.02569807<br>經度: 121.6139004<br>地下樓層數: 地下1層<br>可容納人數: 26266<br>轄管分局: 航空警察局臺北分局<br>備註: ]]></description>
+        <name>吉安車站</name>
+        <description><![CDATA[電腦編號: 鐵花002<br>里別: 南昌村<br>地址: 花蓮縣吉安鄉南昌村南昌街200號<br>緯經度: 23.9682726, 121.5825944<br>地下樓層數: 1<br>可容納人數: 177<br>轄管分局: 花蓮分局<br>備註: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="電腦編號">
+            <value>鐵花002</value>
+          </Data>
+          <Data name="里別">
+            <value>南昌村</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣吉安鄉南昌村南昌街200號</value>
+          </Data>
+          <Data name="緯經度">
+            <value>23.9682726, 121.5825944</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>177.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>花蓮分局</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.5825944,23.9682726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳳林車站</name>
+        <description><![CDATA[電腦編號: 鐵花003<br>里別: 鳳智里<br>地址: 花蓮縣鳳林鎮鳳智里019鄰中山路43號<br>緯經度: 23.74645,121.44701<br>地下樓層數: 1<br>可容納人數: 132<br>轄管分局: 花蓮分局<br>備註: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="電腦編號">
+            <value>鐵花003</value>
+          </Data>
+          <Data name="里別">
+            <value>鳳智里</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣鳳林鎮鳳智里019鄰中山路43號</value>
+          </Data>
+          <Data name="緯經度">
+            <value>23.74645,121.44701</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>132.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>花蓮分局</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.44701,23.74645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瑞穗車站</name>
+        <description><![CDATA[電腦編號: 鐵花004<br>里別: 瑞穗村<br>地址: 花蓮縣瑞穗村009鄰四維街13號<br>緯經度: 23.49749,121.37714<br>地下樓層數: 1<br>可容納人數: 83<br>轄管分局: 花蓮分局<br>備註: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="電腦編號">
+            <value>鐵花004</value>
+          </Data>
+          <Data name="里別">
+            <value>瑞穗村</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣瑞穗村009鄰四維街13號</value>
+          </Data>
+          <Data name="緯經度">
+            <value>23.49749,121.37714</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>83.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>花蓮分局</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.37714,23.49749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富里車站</name>
+        <description><![CDATA[電腦編號: 鐵花005<br>里別: 富里鄉<br>地址: 花蓮縣富里鄉富里村車站接56號<br>緯經度: 23.17935,121.24864<br>地下樓層數: 1<br>可容納人數: 83<br>轄管分局: 花蓮分局<br>備註: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="電腦編號">
+            <value>鐵花005</value>
+          </Data>
+          <Data name="里別">
+            <value>富里鄉</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣富里鄉富里村車站接56號</value>
+          </Data>
+          <Data name="緯經度">
+            <value>23.17935,121.24864</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>83.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>花蓮分局</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.24864,23.17935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花蓮航站地下停車場</name>
+        <description><![CDATA[電腦編號: 12<br>里別: 嘉里村<br>地址: 花蓮縣新城鄉嘉里村機場巷1號B1<br>(花蓮航站地下停車場)<br>緯經度: 24.02569807167981, 121.61390040041867<br>地下樓層數: 1<br>可容納人數: 13680<br>轄管分局: 航空警察局臺北分局<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="電腦編號">
             <value>12</value>
           </Data>
-          <Data name="村里別">
+          <Data name="里別">
             <value>嘉里村</value>
           </Data>
           <Data name="地址">
-            <value>花蓮縣新城鄉嘉里村機場巷1號B1(航站地下停車場)</value>
+            <value>花蓮縣新城鄉嘉里村機場巷1號B1
+(花蓮航站地下停車場)</value>
           </Data>
-          <Data name="緯度">
-            <value>24.02569807</value>
-          </Data>
-          <Data name="經度">
-            <value>121.6139004</value>
+          <Data name="緯經度">
+            <value>24.02569807167981, 121.61390040041867</value>
           </Data>
           <Data name="地下樓層數">
-            <value>地下1層</value>
+            <value>1.0</value>
           </Data>
           <Data name="可容納人數">
-            <value>26266.0</value>
+            <value>13680.0</value>
           </Data>
           <Data name="轄管分局">
             <value>航空警察局臺北分局</value>
@@ -14010,7 +13954,115 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            121.6139004,24.02569807,0
+            121.613900400419,24.0256980716798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花蓮港務分公司</name>
+        <description><![CDATA[電腦編號: A0001<br>里別: 民德里<br>地址: 花蓮市民德里海岸路66號<br>緯經度: 23.980657190103116, 121.6200115881742<br>地下樓層數: 1<br>可容納人數: 2419<br>轄管分局: 保安警察隊<br>備註: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="電腦編號">
+            <value>A0001</value>
+          </Data>
+          <Data name="里別">
+            <value>民德里</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮市民德里海岸路66號</value>
+          </Data>
+          <Data name="緯經度">
+            <value>23.980657190103116, 121.6200115881742</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>2419.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>保安警察隊</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.620011588174,23.9806571901031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東部航務中心</name>
+        <description><![CDATA[電腦編號: A0002<br>里別: 民孝里<br>地址: 花蓮市民孝里港口路15號<br>緯經度: 23.99795255351382, 121.63486143101377<br>地下樓層數: 1<br>可容納人數: 242<br>轄管分局: 保安警察隊<br>備註: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="電腦編號">
+            <value>A0002</value>
+          </Data>
+          <Data name="里別">
+            <value>民孝里</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮市民孝里港口路15號</value>
+          </Data>
+          <Data name="緯經度">
+            <value>23.99795255351382, 121.63486143101377</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>242.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>保安警察隊</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.634861431014,23.9979525535138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中鋼花蓮石料廠</name>
+        <description><![CDATA[電腦編號: A0003<br>里別: 民孝里<br>地址: 花蓮港區第 12號碼頭<br>緯經度: 24.005770204138965, 121.63728584398469<br>地下樓層數: 1<br>可容納人數: 142<br>轄管分局: 東堤中隊<br>備註: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="電腦編號">
+            <value>A0003</value>
+          </Data>
+          <Data name="里別">
+            <value>民孝里</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮港區第 12號碼頭</value>
+          </Data>
+          <Data name="緯經度">
+            <value>24.005770204138965, 121.63728584398469</value>
+          </Data>
+          <Data name="地下樓層數">
+            <value>1.0</value>
+          </Data>
+          <Data name="可容納人數">
+            <value>142.0</value>
+          </Data>
+          <Data name="轄管分局">
+            <value>東堤中隊</value>
+          </Data>
+          <Data name="備註">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.637285843985,24.005770204139,0
           </coordinates>
         </Point>
       </Placemark>
