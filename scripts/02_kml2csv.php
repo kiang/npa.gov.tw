@@ -13,10 +13,10 @@ foreach (glob($basePath . '/kml/*.kml') as $kmlFile) {
             $folderName = strtr($folderName, $pairs);
             if (!isset($folderNameCount[$folderName])) {
                 $folderNameCount[$folderName] = 0;
-                $csvFile = __DIR__ . '/csv/' . $p['filename'] . '_' . $folderName . '.csv';
+                $csvFile = $basePath . '/csv/' . $p['filename'] . '_' . $folderName . '.csv';
             } else {
                 ++$folderNameCount[$folderName];
-                $csvFile = __DIR__ . '/csv/' . $p['filename'] . '_' . $folderName . $folderNameCount[$folderName] . '.csv';
+                $csvFile = $basePath . '/csv/' . $p['filename'] . '_' . $folderName . $folderNameCount[$folderName] . '.csv';
             }
             $fh = fopen($csvFile, 'w');
             $headerDone = false;
