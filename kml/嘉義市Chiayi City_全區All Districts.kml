@@ -18217,45 +18217,6 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <description><![CDATA[類別: 大樓<br>建築物名稱: <br>電腦編號: MMA0669<br>村里別: 新富里<br>地址: 嘉義市西區新富里新榮路52號<br>緯經度: 23.47405,120.44479<br>地下樓層數: 1<br>可容納人數: 611<br>備註: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="類別">
-            <value>大樓</value>
-          </Data>
-          <Data name="建築物名稱">
-            <value/>
-          </Data>
-          <Data name="電腦編號">
-            <value>MMA0669</value>
-          </Data>
-          <Data name="村里別">
-            <value>新富里</value>
-          </Data>
-          <Data name="地址">
-            <value>嘉義市西區新富里新榮路52號</value>
-          </Data>
-          <Data name="緯經度">
-            <value>23.47405,120.44479</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>611.0</value>
-          </Data>
-          <Data name="備註">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.44479,23.47405,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>第一分局</name>
         <description><![CDATA[類別: 一般建築<br>建築物名稱: <br>電腦編號: MMA0670<br>村里別: 新富里<br>地址: 嘉義市西區新富里民族路595號<br>緯經度: 23.47555,120.44588<br>地下樓層數: 1<br>可容納人數: 43<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
@@ -50044,7 +50005,7 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 學校<br>建築物名稱: 興安國小<br>電腦編號: MNA00091<br>村里別: 興安里<br>地址: 嘉義市東區興安里興安街35號<br>緯經度: 23.45983,120.45471<br>地下樓層數: 1<br>可容納人數: 51<br>備註: ]]></description>
+        <description><![CDATA[類別: 學校<br>建築物名稱: 興安國小<br>電腦編號: MNA00091<br>村里別: 興安里<br>地址: 嘉義市東區興安里興美六路2號<br>緯經度: 23.4592813, 120.4556327<br>地下樓層數: 1<br>可容納人數: 51<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -50060,10 +50021,10 @@
             <value>興安里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區興安里興安街35號</value>
+            <value>嘉義市東區興安里興美六路2號</value>
           </Data>
           <Data name="緯經度">
-            <value>23.45983,120.45471</value>
+            <value>23.4592813, 120.4556327</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -50077,13 +50038,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.45471,23.45983,0
+            120.4556327,23.4592813,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 學校<br>建築物名稱: 興安國小<br>電腦編號: MNA00092<br>村里別: 興安里<br>地址: 嘉義市東區興安里興安街35號<br>緯經度: 23.45983,120.45471<br>地下樓層數: 1<br>可容納人數: 878<br>備註: ]]></description>
+        <description><![CDATA[類別: 學校<br>建築物名稱: 興安國小<br>電腦編號: MNA00092<br>村里別: 興安里<br>地址: 嘉義市東區興安里興美六路2號<br>緯經度: 23.4594708, 120.4544927<br>地下樓層數: 1<br>可容納人數: 878<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -50099,10 +50060,10 @@
             <value>興安里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區興安里興安街35號</value>
+            <value>嘉義市東區興安里興美六路2號</value>
           </Data>
           <Data name="緯經度">
-            <value>23.45983,120.45471</value>
+            <value>23.4594708, 120.4544927</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -50116,7 +50077,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.45471,23.45983,0
+            120.4544927,23.4594708,0
           </coordinates>
         </Point>
       </Placemark>
@@ -98950,7 +98911,7 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 學校<br>建築物名稱: 興安國小<br>電腦編號: MNA0605<br>村里別: 興安里<br>地址: 嘉義市東區興安里興安街35號<br>緯經度: 23.45983,120.45471<br>地下樓層數: 1<br>可容納人數: 527<br>備註: ]]></description>
+        <description><![CDATA[類別: 學校<br>建築物名稱: 興安國小<br>電腦編號: MNA0605<br>村里別: 興安里<br>地址: 嘉義市東區興安里興美六路2號<br>緯經度: 23.4593822, 120.455119<br>地下樓層數: 1<br>可容納人數: 527<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -98966,10 +98927,10 @@
             <value>興安里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區興安里興安街35號</value>
+            <value>嘉義市東區興安里興美六路2號</value>
           </Data>
           <Data name="緯經度">
-            <value>23.45983,120.45471</value>
+            <value>23.4593822, 120.455119</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -98983,7 +98944,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.45471,23.45983,0
+            120.455119,23.4593822,0
           </coordinates>
         </Point>
       </Placemark>

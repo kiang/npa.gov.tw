@@ -2539,14 +2539,14 @@
       </Placemark>
       <Placemark>
         <name>水上分局</name>
-        <description><![CDATA[類別: 大樓<br>建築物名稱: 故宮蘭苑<br>電腦編號: 3-02-030<br>村里別: 安仁里<br>地址: 嘉義縣太保市安仁里祥和二路東段88號<br>緯經度: 23.45614, 120.29827<br>地下樓層數: 地下1樓<br>可容納人數: 1387<br>備考: ]]></description>
+        <description><![CDATA[類別: 大樓<br>建築物名稱: 蘭苑社區<br>電腦編號: 3-02-030<br>村里別: 安仁里<br>地址: 嘉義縣太保市安仁里祥和二路東段88號<br>緯經度: 23.45614, 120.29827<br>地下樓層數: 地下1樓<br>可容納人數: 1387<br>備考: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
             <value>大樓</value>
           </Data>
           <Data name="建築物名稱">
-            <value>故宮蘭苑</value>
+            <value>蘭苑社區</value>
           </Data>
           <Data name="電腦編號">
             <value>3-02-030</value>
@@ -19740,7 +19740,7 @@
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 教會<br>建築物名稱: 基督教長老教會(一)<br>電腦編號: 2-01-006<br>村里別: 平和里<br>地址: 嘉義縣朴子市平和里光復路13-1號<br>緯經度: 23.46595, 120.24604<br>地下樓層數: 地下1樓<br>可容納人數: 530<br>備考: <br>unnamed (1): ]]></description>
+        <description><![CDATA[類別: 教會<br>建築物名稱: 基督教長老教會(一)<br>電腦編號: 2-01-006<br>村里別: 平和里<br>地址: 嘉義縣朴子市平和里光復路13-1號<br>緯經度: 23.4658971, 120.2459381<br>地下樓層數: 地下1樓<br>可容納人數: 530<br>備考: <br>unnamed (1): ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -19759,7 +19759,7 @@
             <value>嘉義縣朴子市平和里光復路13-1號</value>
           </Data>
           <Data name="緯經度">
-            <value>23.46595, 120.24604</value>
+            <value>23.4658971, 120.2459381</value>
           </Data>
           <Data name="地下樓層數">
             <value>地下1樓</value>
@@ -19776,13 +19776,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.24604,23.46595,0
+            120.2459381,23.4658971,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>朴子分局</name>
-        <description><![CDATA[類別: 教會<br>建築物名稱: 基督教長老教會(二)<br>電腦編號: 2-01-007<br>村里別: 平和里<br>地址: 嘉義縣朴子市平和里光復路45號<br>緯經度: 23.46604, 120.24598<br>地下樓層數: 地下1樓<br>可容納人數: 96<br>備考: <br>unnamed (1): ]]></description>
+        <description><![CDATA[類別: 教會<br>建築物名稱: 基督教長老教會(二)<br>電腦編號: 2-01-007<br>村里別: 平和里<br>地址: 嘉義縣朴子市平和里光復路45號<br>緯經度: 23.4657932, 120.2455825<br>地下樓層數: 地下1樓<br>可容納人數: 96<br>備考: <br>unnamed (1): ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -19801,7 +19801,7 @@
             <value>嘉義縣朴子市平和里光復路45號</value>
           </Data>
           <Data name="緯經度">
-            <value>23.46604, 120.24598</value>
+            <value>23.4657932, 120.2455825</value>
           </Data>
           <Data name="地下樓層數">
             <value>地下1樓</value>
@@ -19818,7 +19818,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.24598,23.46604,0
+            120.2455825,23.4657932,0
           </coordinates>
         </Point>
       </Placemark>

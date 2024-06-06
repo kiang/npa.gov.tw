@@ -45,7 +45,6 @@ foreach ($rows as $row) {
     $cnt = count($cols);
     $status = 'ok';
     if ($cnt === 5) {
-        sleep(1);
         $city = $cols[1];
         $targetFile = $basePath . '/kml/' . $cols[1] . '_' . $cols[2] . '.kml';
         $kmlUrl = 'https://www.google.com/maps/d/u/0/kml?mid=' . $cols[3] . '&forcekml=1';
@@ -57,9 +56,8 @@ foreach ($rows as $row) {
         } else {
             $status = 'error';
         }
-        fputcsv($listFh, [$kmlUrl, $status]);
+        fputcsv($listFh, [$kmlUrl, $targetFile, $status]);
     } elseif ($cnt === 3) {
-        sleep(1);
         $targetFile = $basePath . '/kml/' . $city . '_' . $cols[0] . '.kml';
         $kmlUrl = 'https://www.google.com/maps/d/u/0/kml?mid=' . $cols[1] . '&forcekml=1';
         $browser->request('GET', $kmlUrl);
@@ -69,6 +67,9 @@ foreach ($rows as $row) {
         } else {
             $status = 'error';
         }
-        fputcsv($listFh, [$kmlUrl, $status]);
+        fputcsv($listFh, [$kmlUrl, $targetFile, $status]);
+    }
+    if (!empty($targetFile) && !file_exists($targetFile)) {
+        file_put_contents($targetFile, 'error');
     }
 }
