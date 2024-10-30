@@ -20284,7 +20284,7 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <description><![CDATA[類別: 一般建築<br>建築物名稱: <br>電腦編號: MMA0813<br>村里別: 番社里<br>地址: 嘉義市西區番社里西榮街232號<br>緯經度: 23.48005,120.44509<br>地下樓層數: 1<br>可容納人數: 194<br>備註: ]]></description>
+        <description><![CDATA[類別: 一般建築<br>建築物名稱: <br>電腦編號: MMA0813<br>村里別: 番社里<br>地址: 嘉義市西區番社里西榮街232號<br>緯經度: 23.48005,120.44509<br>地下樓層數: 1<br>可容納人數: 18<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -20309,7 +20309,7 @@
             <value>1.0</value>
           </Data>
           <Data name="可容納人數">
-            <value>194.0</value>
+            <value>18.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -37093,11 +37093,11 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <description><![CDATA[類別: 工廠<br>建築物名稱: <br>電腦編號: MMA1548<br>村里別: 西平里<br>地址: 嘉義市西區西平里博愛路二段567號<br>緯經度: 23.4678,120.42789<br>地下樓層數: 1<br>可容納人數: 114<br>備註: ]]></description>
+        <description><![CDATA[類別: 廠房<br>建築物名稱: <br>電腦編號: MMA1548<br>村里別: 西平里<br>地址: 嘉義市西區西平里博愛路二段567號<br>緯經度: 23.4678,120.42789<br>地下樓層數: 1<br>可容納人數: 114<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>工廠</value>
+            <value>廠房</value>
           </Data>
           <Data name="建築物名稱">
             <value/>
@@ -37366,11 +37366,11 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <description><![CDATA[類別: 一般建築<br>建築物名稱: <br>電腦編號: MMA1557<br>村里別: 西平里<br>地址: 嘉義市西區西平里博愛路二段567號<br>緯經度: 23.4678,120.42789<br>地下樓層數: 1<br>可容納人數: 221<br>備註: ]]></description>
+        <description><![CDATA[類別: 廠房<br>建築物名稱: <br>電腦編號: MMA1557<br>村里別: 西平里<br>地址: 嘉義市西區西平里博愛路二段567號<br>緯經度: 23.4678,120.42789<br>地下樓層數: 1<br>可容納人數: 221<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>一般建築</value>
+            <value>廠房</value>
           </Data>
           <Data name="建築物名稱">
             <value/>
@@ -42436,14 +42436,14 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <description><![CDATA[類別: 醫院<br>建築物名稱: 榮民醫院<br>電腦編號: MMA1708<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里世賢路二段600號<br>緯經度: 23.46755,120.42297<br>地下樓層數: 1<br>可容納人數: 133<br>備註: ]]></description>
+        <description><![CDATA[類別: 醫院<br>建築物名稱: 台中榮總嘉義分院<br>電腦編號: MMA1708<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里世賢路二段600號<br>緯經度: 23.46755,120.42297<br>地下樓層數: 1<br>可容納人數: 133<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
             <value>醫院</value>
           </Data>
           <Data name="建築物名稱">
-            <value>榮民醫院</value>
+            <value>台中榮總嘉義分院</value>
           </Data>
           <Data name="電腦編號">
             <value>MMA1708</value>
@@ -42514,14 +42514,14 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <description><![CDATA[類別: 醫院<br>建築物名稱: 榮民醫院<br>電腦編號: MMA1710<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里世賢路二段600號<br>緯經度: 23.46755,120.42297<br>地下樓層數: 1<br>可容納人數: 2766<br>備註: ]]></description>
+        <description><![CDATA[類別: 醫院<br>建築物名稱: 台中榮總嘉義分院<br>電腦編號: MMA1710<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里世賢路二段600號<br>緯經度: 23.46755,120.42297<br>地下樓層數: 1<br>可容納人數: 2766<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
             <value>醫院</value>
           </Data>
           <Data name="建築物名稱">
-            <value>榮民醫院</value>
+            <value>台中榮總嘉義分院</value>
           </Data>
           <Data name="電腦編號">
             <value>MMA1710</value>
@@ -42553,14 +42553,14 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <description><![CDATA[類別: 醫院<br>建築物名稱: 榮民醫院<br>電腦編號: MMA1711<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里世賢路二段600號<br>緯經度: 23.46755,120.42297<br>地下樓層數: 1<br>可容納人數: 5210<br>備註: ]]></description>
+        <description><![CDATA[類別: 醫院<br>建築物名稱: 台中榮總嘉義分院<br>電腦編號: MMA1711<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里世賢路二段600號<br>緯經度: 23.46755,120.42297<br>地下樓層數: 1<br>可容納人數: 5210<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
             <value>醫院</value>
           </Data>
           <Data name="建築物名稱">
-            <value>榮民醫院</value>
+            <value>台中榮總嘉義分院</value>
           </Data>
           <Data name="電腦編號">
             <value>MMA1711</value>
@@ -42592,14 +42592,14 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <description><![CDATA[類別: 醫院<br>建築物名稱: 榮民醫院<br>電腦編號: MMA1712<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里世賢路二段600號<br>緯經度: 23.46755,120.42297<br>地下樓層數: 1<br>可容納人數: 694<br>備註: ]]></description>
+        <description><![CDATA[類別: 醫院<br>建築物名稱: 台中榮總嘉義分院<br>電腦編號: MMA1712<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里世賢路二段600號<br>緯經度: 23.46755,120.42297<br>地下樓層數: 1<br>可容納人數: 694<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
             <value>醫院</value>
           </Data>
           <Data name="建築物名稱">
-            <value>榮民醫院</value>
+            <value>台中榮總嘉義分院</value>
           </Data>
           <Data name="電腦編號">
             <value>MMA1712</value>
@@ -42631,14 +42631,14 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <description><![CDATA[類別: 醫院<br>建築物名稱: 榮民醫院<br>電腦編號: MMA1713<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里世賢路二段600號<br>緯經度: 23.46755,120.42297<br>地下樓層數: 1<br>可容納人數: 1424<br>備註: ]]></description>
+        <description><![CDATA[類別: 醫院<br>建築物名稱: 台中榮總嘉義分院<br>電腦編號: MMA1713<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里世賢路二段600號<br>緯經度: 23.46755,120.42297<br>地下樓層數: 1<br>可容納人數: 1424<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
             <value>醫院</value>
           </Data>
           <Data name="建築物名稱">
-            <value>榮民醫院</value>
+            <value>台中榮總嘉義分院</value>
           </Data>
           <Data name="電腦編號">
             <value>MMA1713</value>
@@ -42670,14 +42670,14 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <description><![CDATA[類別: 醫院<br>建築物名稱: 榮民醫院<br>電腦編號: MMA1714<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里世賢路二段600號<br>緯經度: 23.46755,120.42297<br>地下樓層數: 1<br>可容納人數: 1135<br>備註: ]]></description>
+        <description><![CDATA[類別: 醫院<br>建築物名稱: 台中榮總嘉義分院<br>電腦編號: MMA1714<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里世賢路二段600號<br>緯經度: 23.46755,120.42297<br>地下樓層數: 1<br>可容納人數: 1135<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
             <value>醫院</value>
           </Data>
           <Data name="建築物名稱">
-            <value>榮民醫院</value>
+            <value>台中榮總嘉義分院</value>
           </Data>
           <Data name="電腦編號">
             <value>MMA1714</value>
@@ -42709,7 +42709,7 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <description><![CDATA[類別: 飯店<br>建築物名稱: 承億文旅嘉義商旅<br>電腦編號: MMA1715<br>村里別: 永和里<br>地址: 嘉義市西區永和里垂楊路866號<br>緯經度: 23.47305,120.43755<br>地下樓層數: 1<br>可容納人數: 138<br>備註: ]]></description>
+        <description><![CDATA[類別: 飯店<br>建築物名稱: 承億文旅嘉義商旅<br>電腦編號: MMA1715<br>村里別: 永和里<br>地址: 嘉義市西區永和里垂楊路866號<br>緯經度: 23.47305,120.43755<br>地下樓層數: 1<br>可容納人數: 1040<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -42734,7 +42734,7 @@
             <value>1.0</value>
           </Data>
           <Data name="可容納人數">
-            <value>138.0</value>
+            <value>1040.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -45361,14 +45361,14 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <description><![CDATA[類別: 醫院<br>建築物名稱: 榮民醫院<br>電腦編號: MMA1801<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里世賢路二段600號<br>緯經度: 23.46755,120.42297<br>地下樓層數: 1<br>可容納人數: 691<br>備註: ]]></description>
+        <description><![CDATA[類別: 醫院<br>建築物名稱: 台中榮總嘉義分院<br>電腦編號: MMA1801<br>村里別: 劉厝里<br>地址: 嘉義市西區劉厝里世賢路二段600號<br>緯經度: 23.46755,120.42297<br>地下樓層數: 1<br>可容納人數: 691<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
             <value>醫院</value>
           </Data>
           <Data name="建築物名稱">
-            <value>榮民醫院</value>
+            <value>台中榮總嘉義分院</value>
           </Data>
           <Data name="電腦編號">
             <value>MMA1801</value>
@@ -46687,7 +46687,7 @@
       </Placemark>
       <Placemark>
         <name>第一分局</name>
-        <description><![CDATA[類別: 公寓大廈<br>建築物名稱: 經國新城D<br>電腦編號: MMA1843<br>村里別: 培元里<br>地址: 嘉義市西區培元里永安街318號<br>緯經度: 23.47051,120.44459<br>地下樓層數: 1<br>可容納人數: 1038<br>備註: ]]></description>
+        <description><![CDATA[類別: 公寓大廈<br>建築物名稱: 經國新城D<br>電腦編號: MMA1843<br>村里別: 培元里<br>地址: 嘉義市西區培元里永安街318號<br>緯經度: 23.47051,120.44459<br>地下樓層數: 2<br>可容納人數: 1038<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -46709,7 +46709,7 @@
             <value>23.47051,120.44459</value>
           </Data>
           <Data name="地下樓層數">
-            <value>1.0</value>
+            <value>2.0</value>
           </Data>
           <Data name="可容納人數">
             <value>1038.0</value>
@@ -50005,7 +50005,7 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 學校<br>建築物名稱: 興安國小<br>電腦編號: MNA00091<br>村里別: 興安里<br>地址: 嘉義市東區興安里興美六路2號<br>緯經度: 23.4592813, 120.4556327<br>地下樓層數: 1<br>可容納人數: 51<br>備註: ]]></description>
+        <description><![CDATA[類別: 學校<br>建築物名稱: 興安國小<br>電腦編號: MNA00091<br>村里別: 興安里<br>地址: 嘉義市東區興安里興美六路2號<br>緯經度: 23.45928,120.45563<br>地下樓層數: 1<br>可容納人數: 51<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -50024,7 +50024,7 @@
             <value>嘉義市東區興安里興美六路2號</value>
           </Data>
           <Data name="緯經度">
-            <value>23.4592813, 120.4556327</value>
+            <value>23.45928,120.45563</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -50038,13 +50038,13 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.4556327,23.4592813,0
+            120.45563,23.45928,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 學校<br>建築物名稱: 興安國小<br>電腦編號: MNA00092<br>村里別: 興安里<br>地址: 嘉義市東區興安里興美六路2號<br>緯經度: 23.4594708, 120.4544927<br>地下樓層數: 1<br>可容納人數: 878<br>備註: ]]></description>
+        <description><![CDATA[類別: 學校<br>建築物名稱: 興安國小<br>電腦編號: MNA00092<br>村里別: 興安里<br>地址: 嘉義市東區興安里興美六路2號<br>緯經度: 23.45947,120.45449<br>地下樓層數: 1<br>可容納人數: 878<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -50063,7 +50063,7 @@
             <value>嘉義市東區興安里興美六路2號</value>
           </Data>
           <Data name="緯經度">
-            <value>23.4594708, 120.4544927</value>
+            <value>23.45947,120.45449</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -50077,7 +50077,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.4544927,23.4594708,0
+            120.45449,23.45947,0
           </coordinates>
         </Point>
       </Placemark>
@@ -59482,14 +59482,14 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 醫院<br>建築物名稱: 聖馬爾定醫院<br>電腦編號: MNA00569<br>村里別: 中山里<br>地址: 嘉義市東區中山里民權路60號<br>緯經度: 23.48418,120.46148<br>地下樓層數: 1<br>可容納人數: 66<br>備註: ]]></description>
+        <description><![CDATA[類別: 醫院<br>建築物名稱: 天主教聖馬爾定醫院<br>電腦編號: MNA00569<br>村里別: 中山里<br>地址: 嘉義市東區中山里民權路60號<br>緯經度: 23.48418,120.46148<br>地下樓層數: 1<br>可容納人數: 66<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
             <value>醫院</value>
           </Data>
           <Data name="建築物名稱">
-            <value>聖馬爾定醫院</value>
+            <value>天主教聖馬爾定醫院</value>
           </Data>
           <Data name="電腦編號">
             <value>MNA00569</value>
@@ -84559,7 +84559,7 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 公寓大廈<br>建築物名稱: 歐洲宮廷<br>電腦編號: MNA01574<br>村里別: 王田里<br>地址: 嘉義市東區王田里民權路22號至26號<br>緯經度: 23.48436,120.46506<br>地下樓層數: 1<br>可容納人數: 1392<br>備註: ]]></description>
+        <description><![CDATA[類別: 公寓大廈<br>建築物名稱: 歐洲宮廷<br>電腦編號: MNA01574<br>村里別: 王田里<br>地址: 嘉義市東區王田里民權路22號至26號<br>緯經度: 23.48439,120.46517<br>地下樓層數: 1<br>可容納人數: 1392<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -84578,7 +84578,7 @@
             <value>嘉義市東區王田里民權路22號至26號</value>
           </Data>
           <Data name="緯經度">
-            <value>23.48436,120.46506</value>
+            <value>23.48439,120.46517</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -84592,7 +84592,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.46506,23.48436,0
+            120.46517,23.48439,0
           </coordinates>
         </Point>
       </Placemark>
@@ -85183,14 +85183,14 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 一般建築<br>建築物名稱: 聖馬爾定醫院<br>電腦編號: MNA01611<br>村里別: 蘭潭里<br>地址: 嘉義市東區蘭潭里小雅路513巷12號<br>緯經度: 23.47669,120.46853<br>地下樓層數: 1<br>可容納人數: 108<br>備註: ]]></description>
+        <description><![CDATA[類別: 一般建築<br>建築物名稱: <br>電腦編號: MNA01611<br>村里別: 蘭潭里<br>地址: 嘉義市東區蘭潭里小雅路513巷12號<br>緯經度: 23.47669,120.46853<br>地下樓層數: 1<br>可容納人數: 108<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
             <value>一般建築</value>
           </Data>
           <Data name="建築物名稱">
-            <value>聖馬爾定醫院</value>
+            <value/>
           </Data>
           <Data name="電腦編號">
             <value>MNA01611</value>
@@ -87796,11 +87796,11 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 一般建築<br>建築物名稱: <br>電腦編號: MNA0279<br>村里別: 王田里<br>地址: 嘉義市東區王田里圓福街2號之1<br>緯經度: 23.48463,120.46444<br>地下樓層數: 1<br>可容納人數: 188<br>備註: ]]></description>
+        <description><![CDATA[類別: 公寓大廈<br>建築物名稱: <br>電腦編號: MNA0279<br>村里別: 王田里<br>地址: 嘉義市東區王田里圓福街2號之3<br>緯經度: 23.48447,120.46451<br>地下樓層數: 1<br>可容納人數: 188<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
-            <value>一般建築</value>
+            <value>公寓大廈</value>
           </Data>
           <Data name="建築物名稱">
             <value/>
@@ -87812,10 +87812,10 @@
             <value>王田里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區王田里圓福街2號之1</value>
+            <value>嘉義市東區王田里圓福街2號之3</value>
           </Data>
           <Data name="緯經度">
-            <value>23.48463,120.46444</value>
+            <value>23.48447,120.46451</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -87829,7 +87829,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.46444,23.48463,0
+            120.46451,23.48447,0
           </coordinates>
         </Point>
       </Placemark>
@@ -91345,7 +91345,7 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 公有建築<br>建築物名稱: 嘉義地方法院宿舍<br>電腦編號: MNA0376<br>村里別: 中山里<br>地址: 嘉義市東區中山里安樂街116巷12號<br>緯經度: 23.48311,120.45794<br>地下樓層數: 1<br>可容納人數: 480<br>備註: ]]></description>
+        <description><![CDATA[類別: 公有建築<br>建築物名稱: 嘉義地方法院宿舍<br>電腦編號: MNA0376<br>村里別: 中山里<br>地址: 嘉義市東區中山里安樂街116巷12號<br>緯經度: 23.48311,120.45794<br>地下樓層數: 1<br>可容納人數: 604<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -91370,7 +91370,7 @@
             <value>1.0</value>
           </Data>
           <Data name="可容納人數">
-            <value>480.0</value>
+            <value>604.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -91930,7 +91930,7 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 公寓大廈<br>建築物名稱: 大學堡<br>電腦編號: MNA0393<br>村里別: 中山里<br>地址: 嘉義市東區中山里新生路371號<br>緯經度: 23.48479,120.46049<br>地下樓層數: 1<br>可容納人數: 257<br>備註: ]]></description>
+        <description><![CDATA[類別: 公寓大廈<br>建築物名稱: 大學堡<br>電腦編號: MNA0393<br>村里別: 中山里<br>地址: 嘉義市東區中山里新生路371號<br>緯經度: 23.48479,120.46049<br>地下樓層數: 1<br>可容納人數: 298<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -91955,7 +91955,7 @@
             <value>1.0</value>
           </Data>
           <Data name="可容納人數">
-            <value>257.0</value>
+            <value>298.0</value>
           </Data>
           <Data name="備註">
             <value/>
@@ -98131,7 +98131,7 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 公寓大廈<br>建築物名稱: 林園帝國<br>電腦編號: MNA0578<br>村里別: 王田里<br>地址: 嘉義市東區王田里民權路28號<br>緯經度: 23.4845,120.4649<br>地下樓層數: 1<br>可容納人數: 750<br>備註: ]]></description>
+        <description><![CDATA[類別: 公寓大廈<br>建築物名稱: 林園帝國<br>電腦編號: MNA0578<br>村里別: 王田里<br>地址: 嘉義市東區王田里民權路28號<br>緯經度: 23.48439,120.46475<br>地下樓層數: 1<br>可容納人數: 750<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -98150,7 +98150,7 @@
             <value>嘉義市東區王田里民權路28號</value>
           </Data>
           <Data name="緯經度">
-            <value>23.4845,120.4649</value>
+            <value>23.48439,120.46475</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -98164,7 +98164,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.4649,23.4845,0
+            120.46475,23.48439,0
           </coordinates>
         </Point>
       </Placemark>
@@ -98911,7 +98911,7 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 學校<br>建築物名稱: 興安國小<br>電腦編號: MNA0605<br>村里別: 興安里<br>地址: 嘉義市東區興安里興美六路2號<br>緯經度: 23.4593822, 120.455119<br>地下樓層數: 1<br>可容納人數: 527<br>備註: ]]></description>
+        <description><![CDATA[類別: 學校<br>建築物名稱: 興安國小<br>電腦編號: MNA0605<br>村里別: 興安里<br>地址: 嘉義市東區興安里興美六路2號<br>緯經度: 23.45938,120.45512<br>地下樓層數: 1<br>可容納人數: 527<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -98930,7 +98930,7 @@
             <value>嘉義市東區興安里興美六路2號</value>
           </Data>
           <Data name="緯經度">
-            <value>23.4593822, 120.455119</value>
+            <value>23.45938,120.45512</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>
@@ -98944,7 +98944,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.455119,23.4593822,0
+            120.45512,23.45938,0
           </coordinates>
         </Point>
       </Placemark>
@@ -101251,7 +101251,7 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 一般建築<br>建築物名稱: <br>電腦編號: MNA0669<br>村里別: 興村里<br>地址: 嘉義市東區興村里溪興街231巷24弄35號<br>緯經度: 23.45257,120.45691<br>地下樓層數: 1<br>可容納人數: 1416<br>備註: ]]></description>
+        <description><![CDATA[類別: 一般建築<br>建築物名稱: <br>電腦編號: MNA0669<br>村里別: 興村里<br>地址: 嘉義市東區興村里溪興街231巷24弄35號等89戶<br>緯經度: 23.45257,120.45691<br>地下樓層數: 1<br>可容納人數: 1416<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -101267,7 +101267,7 @@
             <value>興村里</value>
           </Data>
           <Data name="地址">
-            <value>嘉義市東區興村里溪興街231巷24弄35號</value>
+            <value>嘉義市東區興村里溪興街231巷24弄35號等89戶</value>
           </Data>
           <Data name="緯經度">
             <value>23.45257,120.45691</value>
@@ -102343,7 +102343,7 @@
       </Placemark>
       <Placemark>
         <name>第二分局</name>
-        <description><![CDATA[類別: 飯店<br>建築物名稱: 耐斯王子大飯店<br>電腦編號: MNA0703<br>村里別: 義教里<br>地址: 嘉義市東區義教里新生路836號<br>緯經度: 23.49618,120.45354<br>地下樓層數: 4<br>可容納人數: 6236<br>備註: ]]></description>
+        <description><![CDATA[類別: 飯店<br>建築物名稱: 耐斯王子大飯店<br>電腦編號: MNA0703<br>村里別: 義教里<br>地址: 嘉義市東區義教里新生路836號<br>緯經度: 23.49664,120.45273<br>地下樓層數: 4<br>可容納人數: 6236<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -102362,7 +102362,7 @@
             <value>嘉義市東區義教里新生路836號</value>
           </Data>
           <Data name="緯經度">
-            <value>23.49618,120.45354</value>
+            <value>23.49664,120.45273</value>
           </Data>
           <Data name="地下樓層數">
             <value>4.0</value>
@@ -102376,7 +102376,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.45354,23.49618,0
+            120.45273,23.49664,0
           </coordinates>
         </Point>
       </Placemark>

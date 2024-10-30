@@ -160,7 +160,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>(未命名的圖層)</name>
+      <name>宜蘭縣政府警察局</name>
       <Placemark>
         <name>TNA0005</name>
         <address>宜蘭縣三星鄉大隱村大埔六路108巷16號</address>
@@ -3497,35 +3497,6 @@
         </ExtendedData>
       </Placemark>
       <Placemark>
-        <name>TQA0019</name>
-        <address>宜蘭縣蘇澳鎮蘇北里太平路17號</address>
-        <description><![CDATA[建築物名稱: 台灣土地銀行<br>座落: 宜蘭縣蘇澳鎮蘇北里太平路17號<br>緯度: 24.596<br>經度: 121.851<br>地下樓層數: 1<br>可容納人數: 176<br>管轄分局: 蘇澳分局]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱">
-            <value>台灣土地銀行</value>
-          </Data>
-          <Data name="座落">
-            <value>宜蘭縣蘇澳鎮蘇北里太平路17號</value>
-          </Data>
-          <Data name="緯度">
-            <value>24.5955728</value>
-          </Data>
-          <Data name="經度">
-            <value>121.8513324</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>176.0</value>
-          </Data>
-          <Data name="管轄分局">
-            <value>蘇澳分局</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
         <name>TQA0022</name>
         <address>宜蘭縣蘇澳鎮蘇西里蘇港路195號</address>
         <description><![CDATA[建築物名稱: 國泰人壽大樓<br>座落: 宜蘭縣蘇澳鎮蘇西里蘇港路195號<br>緯度: 24.594<br>經度: 121.846<br>地下樓層數: 1<br>可容納人數: 415<br>管轄分局: 蘇澳分局]]></description>
@@ -3577,35 +3548,6 @@
           </Data>
           <Data name="可容納人數">
             <value>152.0</value>
-          </Data>
-          <Data name="管轄分局">
-            <value>蘇澳分局</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>TQA0025</name>
-        <address>宜蘭縣蘇澳鎮蘇北里中山路96號之1</address>
-        <description><![CDATA[建築物名稱: 台灣企銀<br>座落: 宜蘭縣蘇澳鎮蘇北里中山路96號之1<br>緯度: 24.596<br>經度: 121.851<br>地下樓層數: 1<br>可容納人數: 259<br>管轄分局: 蘇澳分局]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱">
-            <value>台灣企銀</value>
-          </Data>
-          <Data name="座落">
-            <value>宜蘭縣蘇澳鎮蘇北里中山路96號之1</value>
-          </Data>
-          <Data name="緯度">
-            <value>24.5959569</value>
-          </Data>
-          <Data name="經度">
-            <value>121.8505713</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>259.0</value>
           </Data>
           <Data name="管轄分局">
             <value>蘇澳分局</value>
@@ -3809,64 +3751,6 @@
           </Data>
           <Data name="可容納人數">
             <value>1185.0</value>
-          </Data>
-          <Data name="管轄分局">
-            <value>蘇澳分局</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>TQA0073</name>
-        <address>宜蘭縣蘇澳鎮蘇西里中山路1段220號</address>
-        <description><![CDATA[建築物名稱: 中華電信<br>座落: 宜蘭縣蘇澳鎮蘇西里中山路1段220號<br>緯度: 24.596<br>經度: 121.836<br>地下樓層數: 1<br>可容納人數: 483<br>管轄分局: 蘇澳分局]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱">
-            <value>中華電信</value>
-          </Data>
-          <Data name="座落">
-            <value>宜蘭縣蘇澳鎮蘇西里中山路1段220號</value>
-          </Data>
-          <Data name="緯度">
-            <value>24.595725</value>
-          </Data>
-          <Data name="經度">
-            <value>121.835978</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>483.0</value>
-          </Data>
-          <Data name="管轄分局">
-            <value>蘇澳分局</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>TQA0074</name>
-        <address>宜蘭縣蘇澳鎮蘇西里中山路1段252號</address>
-        <description><![CDATA[建築物名稱: 宜蘭縣政府警察局蘇澳分局<br>座落: 宜蘭縣蘇澳鎮蘇西里中山路1段252號<br>緯度: 24.596<br>經度: 121.836<br>地下樓層數: 1<br>可容納人數: 255<br>管轄分局: 蘇澳分局]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱">
-            <value>宜蘭縣政府警察局蘇澳分局</value>
-          </Data>
-          <Data name="座落">
-            <value>宜蘭縣蘇澳鎮蘇西里中山路1段252號</value>
-          </Data>
-          <Data name="緯度">
-            <value>24.595725</value>
-          </Data>
-          <Data name="經度">
-            <value>121.835978</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>255.0</value>
           </Data>
           <Data name="管轄分局">
             <value>蘇澳分局</value>
@@ -4512,35 +4396,6 @@
         </ExtendedData>
       </Placemark>
       <Placemark>
-        <name>TQA0054</name>
-        <address>宜蘭縣蘇澳鎮龍德里自強路10號</address>
-        <description><![CDATA[建築物名稱: 中華電信<br>座落: 宜蘭縣蘇澳鎮龍德里自強路10號<br>緯度: 24.634<br>經度: 121.829<br>地下樓層數: 1<br>可容納人數: 570<br>管轄分局: 蘇澳分局]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱">
-            <value>中華電信</value>
-          </Data>
-          <Data name="座落">
-            <value>宜蘭縣蘇澳鎮龍德里自強路10號</value>
-          </Data>
-          <Data name="緯度">
-            <value>24.6338703</value>
-          </Data>
-          <Data name="經度">
-            <value>121.8291561</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>570.0</value>
-          </Data>
-          <Data name="管轄分局">
-            <value>蘇澳分局</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
         <name>TQA0055</name>
         <address>宜蘭縣蘇澳鎮龍德里德興八路5號</address>
         <description><![CDATA[建築物名稱: 新升股份有限公司<br>座落: 宜蘭縣蘇澳鎮龍德里德興八路5號<br>緯度: 24.636<br>經度: 121.83<br>地下樓層數: 1<br>可容納人數: 158<br>管轄分局: 蘇澳分局]]></description>
@@ -4708,35 +4563,6 @@
           </Data>
           <Data name="可容納人數">
             <value>1635.0</value>
-          </Data>
-          <Data name="管轄分局">
-            <value>蘇澳分局</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>TQA0066</name>
-        <address>宜蘭縣南澳鄉南澳村蘇花路二段181號</address>
-        <description><![CDATA[建築物名稱: 中華電信<br>座落: 宜蘭縣南澳鄉南澳村蘇花路二段181號<br>緯度: 24.464<br>經度: 121.799<br>地下樓層數: 1<br>可容納人數: 268<br>管轄分局: 蘇澳分局]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱">
-            <value>中華電信</value>
-          </Data>
-          <Data name="座落">
-            <value>宜蘭縣南澳鄉南澳村蘇花路二段181號</value>
-          </Data>
-          <Data name="緯度">
-            <value>24.4641976</value>
-          </Data>
-          <Data name="經度">
-            <value>121.7985772</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>268.0</value>
           </Data>
           <Data name="管轄分局">
             <value>蘇澳分局</value>
@@ -4998,64 +4824,6 @@
           </Data>
           <Data name="可容納人數">
             <value>573.0</value>
-          </Data>
-          <Data name="管轄分局">
-            <value>宜蘭分局</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>TMA0006</name>
-        <address>宜蘭縣宜蘭市新民里光復路50號</address>
-        <description><![CDATA[建築物名稱: 宜蘭分局<br>座落: 宜蘭縣宜蘭市新民里光復路50號<br>緯度: 24.755<br>經度: 121.755<br>地下樓層數: 1<br>可容納人數: 273<br>管轄分局: 宜蘭分局]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱">
-            <value>宜蘭分局</value>
-          </Data>
-          <Data name="座落">
-            <value>宜蘭縣宜蘭市新民里光復路50號</value>
-          </Data>
-          <Data name="緯度">
-            <value>24.7553737</value>
-          </Data>
-          <Data name="經度">
-            <value>121.7553875</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>273.0</value>
-          </Data>
-          <Data name="管轄分局">
-            <value>宜蘭分局</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>TMA0010</name>
-        <address>宜蘭縣宜蘭市大新里光復路48號</address>
-        <description><![CDATA[建築物名稱: 新光人壽<br>座落: 宜蘭縣宜蘭市大新里光復路48號<br>緯度: 24.755<br>經度: 121.753<br>地下樓層數: 1<br>可容納人數: 424<br>管轄分局: 宜蘭分局]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱">
-            <value>新光人壽</value>
-          </Data>
-          <Data name="座落">
-            <value>宜蘭縣宜蘭市大新里光復路48號</value>
-          </Data>
-          <Data name="緯度">
-            <value>24.755437</value>
-          </Data>
-          <Data name="經度">
-            <value>121.753156</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>424.0</value>
           </Data>
           <Data name="管轄分局">
             <value>宜蘭分局</value>
@@ -5586,15 +5354,14 @@
       </Placemark>
       <Placemark>
         <name>TMA0056</name>
-        <address>宜蘭縣宜蘭市神農里中山路二段432號</address>
-        <description><![CDATA[建築物名稱: 宜蘭市公所社會課<br>座落: 宜蘭縣宜蘭市神農里中山路二段432號<br>緯度: 24.752<br>經度: 121.753<br>地下樓層數: 1<br>可容納人數: 406<br>管轄分局: 宜蘭分局]]></description>
+        <description><![CDATA[建築物名稱: 宜蘭市公所社會課<br>座落: 宜蘭縣宜蘭市神農里中山路二段462號<br>緯度: 24.752<br>經度: 121.753<br>地下樓層數: 1<br>可容納人數: 406<br>管轄分局: 宜蘭分局]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱">
             <value>宜蘭市公所社會課</value>
           </Data>
           <Data name="座落">
-            <value>宜蘭縣宜蘭市神農里中山路二段432號</value>
+            <value>宜蘭縣宜蘭市神農里中山路二段462號</value>
           </Data>
           <Data name="緯度">
             <value>24.7519859</value>
@@ -5612,6 +5379,11 @@
             <value>宜蘭分局</value>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            121.753116,24.75256,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>TMA0057</name>
@@ -6311,7 +6083,6 @@
       </Placemark>
       <Placemark>
         <name>TMA0096</name>
-        <address>宜蘭縣宜蘭市神農里舊城南路1號</address>
         <description><![CDATA[建築物名稱: 消防局<br>座落: 宜蘭縣宜蘭市神農里舊城南路1號<br>緯度: 24.754<br>經度: 121.754<br>地下樓層數: 1<br>可容納人數: 491<br>管轄分局: 宜蘭分局]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
@@ -6337,6 +6108,11 @@
             <value>宜蘭分局</value>
           </Data>
         </ExtendedData>
+        <Point>
+          <coordinates>
+            121.7551913,24.7547654,0
+          </coordinates>
+        </Point>
       </Placemark>
       <Placemark>
         <name>TMA0097</name>
@@ -6426,35 +6202,6 @@
         </ExtendedData>
       </Placemark>
       <Placemark>
-        <name>TMA0100</name>
-        <address>宜蘭縣宜蘭市小東里光復路43號</address>
-        <description><![CDATA[建築物名稱: 土地銀行<br>座落: 宜蘭縣宜蘭市小東里光復路43號<br>緯度: 24.755<br>經度: 121.756<br>地下樓層數: 1<br>可容納人數: 794<br>管轄分局: 宜蘭分局]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱">
-            <value>土地銀行</value>
-          </Data>
-          <Data name="座落">
-            <value>宜蘭縣宜蘭市小東里光復路43號</value>
-          </Data>
-          <Data name="緯度">
-            <value>24.7550259</value>
-          </Data>
-          <Data name="經度">
-            <value>121.7556833</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>794.0</value>
-          </Data>
-          <Data name="管轄分局">
-            <value>宜蘭分局</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
         <name>TMA0110</name>
         <address>宜蘭縣宜蘭市大新里和睦路146號</address>
         <description><![CDATA[建築物名稱: 信用合作社<br>座落: 宜蘭縣宜蘭市大新里和睦路146號<br>緯度: 24.76<br>經度: 121.759<br>地下樓層數: 1<br>可容納人數: 398<br>管轄分局: 宜蘭分局]]></description>
@@ -6535,35 +6282,6 @@
           </Data>
           <Data name="可容納人數">
             <value>1605.0</value>
-          </Data>
-          <Data name="管轄分局">
-            <value>宜蘭分局</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>TMA0113</name>
-        <address>宜蘭縣宜蘭市民權里中山路二段305號</address>
-        <description><![CDATA[建築物名稱: 台灣企銀<br>座落: 宜蘭縣宜蘭市民權里中山路二段305號<br>緯度: 24.754<br>經度: 121.752<br>地下樓層數: 1<br>可容納人數: 285<br>管轄分局: 宜蘭分局]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱">
-            <value>台灣企銀</value>
-          </Data>
-          <Data name="座落">
-            <value>宜蘭縣宜蘭市民權里中山路二段305號</value>
-          </Data>
-          <Data name="緯度">
-            <value>24.7538649</value>
-          </Data>
-          <Data name="經度">
-            <value>121.7522621</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>285.0</value>
           </Data>
           <Data name="管轄分局">
             <value>宜蘭分局</value>
@@ -11224,15 +10942,15 @@
       </Placemark>
       <Placemark>
         <name>TMD0027</name>
-        <address>宜蘭縣宜蘭市延平里延平路50號</address>
-        <description><![CDATA[建築物名稱: 宜蘭高商設計館<br>座落: 宜蘭縣宜蘭市延平里延平路50號<br>緯度: 24.756<br>經度: 121.767<br>地下樓層數: 1<br>可容納人數: 248<br>管轄分局: 宜蘭分局]]></description>
+        <address>宜蘭縣宜蘭市成功里延平路50號</address>
+        <description><![CDATA[建築物名稱: 宜蘭高商設計館<br>座落: 宜蘭縣宜蘭市成功里延平路50號<br>緯度: 24.756<br>經度: 121.767<br>地下樓層數: 1<br>可容納人數: 248<br>管轄分局: 宜蘭分局]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱">
             <value>宜蘭高商設計館</value>
           </Data>
           <Data name="座落">
-            <value>宜蘭縣宜蘭市延平里延平路50號</value>
+            <value>宜蘭縣宜蘭市成功里延平路50號</value>
           </Data>
           <Data name="緯度">
             <value>24.7556631</value>
@@ -11709,35 +11427,6 @@
           </Data>
           <Data name="可容納人數">
             <value>60.0</value>
-          </Data>
-          <Data name="管轄分局">
-            <value>羅東分局</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>TPA0038</name>
-        <address>宜蘭縣羅東鎮公正里公正路158號</address>
-        <description><![CDATA[建築物名稱: 土地銀行羅東分行<br>座落: 宜蘭縣羅東鎮公正里公正路158號<br>緯度: 24.679<br>經度: 121.769<br>地下樓層數: 1<br>可容納人數: 389<br>管轄分局: 羅東分局]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱">
-            <value>土地銀行羅東分行</value>
-          </Data>
-          <Data name="座落">
-            <value>宜蘭縣羅東鎮公正里公正路158號</value>
-          </Data>
-          <Data name="緯度">
-            <value>24.678912</value>
-          </Data>
-          <Data name="經度">
-            <value>121.769111</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>389.0</value>
           </Data>
           <Data name="管轄分局">
             <value>羅東分局</value>
@@ -18647,35 +18336,6 @@
           </Data>
           <Data name="管轄分局">
             <value>礁溪分局</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>TQA0087</name>
-        <address>宜蘭縣南澳鄉澳花村和平路38-1號</address>
-        <description><![CDATA[建築物名稱: 中華電信<br>座落: 宜蘭縣南澳鄉澳花村和平路38-1號<br>緯度: 24.333<br>經度: 121.745<br>地下樓層數: 1<br>可容納人數: 248<br>管轄分局: 蘇澳分局]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱">
-            <value>中華電信</value>
-          </Data>
-          <Data name="座落">
-            <value>宜蘭縣南澳鄉澳花村和平路38-1號</value>
-          </Data>
-          <Data name="緯度">
-            <value>24.3326999</value>
-          </Data>
-          <Data name="經度">
-            <value>121.7450235</value>
-          </Data>
-          <Data name="地下樓層數">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數">
-            <value>248.0</value>
-          </Data>
-          <Data name="管轄分局">
-            <value>蘇澳分局</value>
           </Data>
         </ExtendedData>
       </Placemark>

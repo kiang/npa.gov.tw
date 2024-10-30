@@ -4766,8 +4766,8 @@
       </Placemark>
       <Placemark>
         <name>彰興里</name>
-        <address>南投市彰興里復興路711號</address>
-        <description><![CDATA[類別: 彰興國小<br>電腦編號: KMA00617<br>地址: 南投市彰興里復興路711號<br>緯經度: 23.918665, 120.679551<br>地下樓層數: 1<br>分配容量: 878<br>轄管分局: 南投分局<br>備註: ]]></description>
+        <address>南投市彰興里復興路669號</address>
+        <description><![CDATA[類別: 彰興國小<br>電腦編號: KMA00617<br>地址: 南投市彰興里復興路669號<br>緯經度: 23.919019, 120.681768<br>地下樓層數: 1<br>分配容量: 878<br>轄管分局: 南投分局<br>備註: ]]></description>
         <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
         <ExtendedData>
           <Data name="類別">
@@ -4777,10 +4777,10 @@
             <value>KMA00617</value>
           </Data>
           <Data name="地址">
-            <value>南投市彰興里復興路711號</value>
+            <value>南投市彰興里復興路669號</value>
           </Data>
           <Data name="緯經度">
-            <value>23.918665, 120.679551</value>
+            <value>23.919019, 120.681768</value>
           </Data>
           <Data name="地下樓層數">
             <value>1.0</value>

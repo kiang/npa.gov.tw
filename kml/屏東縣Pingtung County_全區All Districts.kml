@@ -2385,84 +2385,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>電力機構</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 台電公司/核三廠宿舍/A棟<br>電腦編號 serial number: QNA00026<br>村里別village: 南灣里<br>地址 address: 屏東縣恆春鎮南灣里13鄰南灣路387號<br>緯經度 latitude and longitude: 21.967670030520264, 120.75489493800836<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 42<br>轄管分局jurisdiction: 恆春分局<br>備駐 notes: 共有2處、總計可容納人數860人]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱the names of the buildings">
-            <value>台電公司/核三廠宿舍/A棟</value>
-          </Data>
-          <Data name="電腦編號 serial number">
-            <value>QNA00026</value>
-          </Data>
-          <Data name="村里別village">
-            <value>南灣里</value>
-          </Data>
-          <Data name="地址 address">
-            <value>屏東縣恆春鎮南灣里13鄰南灣路387號</value>
-          </Data>
-          <Data name="緯經度 latitude and longitude">
-            <value>21.967670030520264, 120.75489493800836</value>
-          </Data>
-          <Data name="地下樓層數number of basement levels">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數capacity">
-            <value>42.0</value>
-          </Data>
-          <Data name="轄管分局jurisdiction">
-            <value>恆春分局</value>
-          </Data>
-          <Data name="備駐 notes">
-            <value>共有2處、總計可容納人數860人</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.754894938008,21.9676700305203,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>電力機構</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 台電公司/核三廠宿舍/B棟<br>電腦編號 serial number: QNA00027<br>村里別village: 南灣里<br>地址 address: 屏東縣恆春鎮南灣里13鄰南灣路387號<br>緯經度 latitude and longitude: 21.966672173601992, 120.75431998985653<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 818<br>轄管分局jurisdiction: 恆春分局<br>備駐 notes: 共有2處、總計可容納人數860人]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱the names of the buildings">
-            <value>台電公司/核三廠宿舍/B棟</value>
-          </Data>
-          <Data name="電腦編號 serial number">
-            <value>QNA00027</value>
-          </Data>
-          <Data name="村里別village">
-            <value>南灣里</value>
-          </Data>
-          <Data name="地址 address">
-            <value>屏東縣恆春鎮南灣里13鄰南灣路387號</value>
-          </Data>
-          <Data name="緯經度 latitude and longitude">
-            <value>21.966672173601992, 120.75431998985653</value>
-          </Data>
-          <Data name="地下樓層數number of basement levels">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數capacity">
-            <value>818.0</value>
-          </Data>
-          <Data name="轄管分局jurisdiction">
-            <value>恆春分局</value>
-          </Data>
-          <Data name="備駐 notes">
-            <value>共有2處、總計可容納人數860人</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.754319989857,21.966672173602,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>飯店</name>
         <description><![CDATA[建築物名稱the names of the buildings: 福容大飯店<br>電腦編號 serial number: QNA00075<br>村里別village: 鵝鑾里<br>地址 address: 屏東縣恆春鎮鵝鑾里06鄰船帆路1000號<br>緯經度 latitude and longitude: 21.936975178717205, 120.81803650666635<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 1793<br>轄管分局jurisdiction: 恆春分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
@@ -12690,45 +12612,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>電信機構</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 交通部/枋山國際電台<br>電腦編號 serial number: QOA00048<br>村里別village: 內獅村<br>地址 address: 屏東縣獅子鄉內獅村07鄰內獅巷82號<br>緯經度 latitude and longitude: 22.273099201822646, 120.65666830985694<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 44<br>轄管分局jurisdiction: 枋寮分局<br>備駐 notes: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱the names of the buildings">
-            <value>交通部/枋山國際電台</value>
-          </Data>
-          <Data name="電腦編號 serial number">
-            <value>QOA00048</value>
-          </Data>
-          <Data name="村里別village">
-            <value>內獅村</value>
-          </Data>
-          <Data name="地址 address">
-            <value>屏東縣獅子鄉內獅村07鄰內獅巷82號</value>
-          </Data>
-          <Data name="緯經度 latitude and longitude">
-            <value>22.273099201822646, 120.65666830985694</value>
-          </Data>
-          <Data name="地下樓層數number of basement levels">
-            <value>1.0</value>
-          </Data>
-          <Data name="可容納人數capacity">
-            <value>44.0</value>
-          </Data>
-          <Data name="轄管分局jurisdiction">
-            <value>枋寮分局</value>
-          </Data>
-          <Data name="備駐 notes">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.656668309857,22.2730992018226,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>教會</name>
         <description><![CDATA[建築物名稱the names of the buildings: 基督長老教會/春日教會<br>電腦編號 serial number: QOA00082<br>村里別village: 春日村<br>地址 address: 屏東縣春日鄉春日村06鄰春日路98-1號<br>緯經度 latitude and longitude: 22.36845415926574, 120.62396034631203<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 315<br>轄管分局jurisdiction: 枋寮分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
@@ -13629,14 +13512,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>旅社
-吳周金香</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 金山旅社<br>吳周金香<br>電腦編號 serial number: QQA00034<br>村里別village: 潮州里<br>地址 address: 屏東縣潮州鎮潮州里02鄰建基路93號<br>緯經度 latitude and longitude: 22.550342263099658, 120.54188473655036<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 10<br>轄管分局jurisdiction: 潮州分局<br>備駐 notes: ]]></description>
+        <name>旅社</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 金山旅社<br>電腦編號 serial number: QQA00034<br>村里別village: 潮州里<br>地址 address: 屏東縣潮州鎮潮州里02鄰建基路93號<br>緯經度 latitude and longitude: 22.550342263099658, 120.54188473655036<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 10<br>轄管分局jurisdiction: 潮州分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>金山旅社
-吳周金香</value>
+            <value>金山旅社</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QQA00034</value>
@@ -15776,12 +15657,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>公寓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 潮州之聲廣播電台<br>電腦編號 serial number: QQA00030<br>村里別village: 三共里<br>地址 address: 屏東縣潮州鎮三共里05鄰朝昇路2號<br>緯經度 latitude and longitude: 22.554673868323047, 120.54714902198229<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 496<br>轄管分局jurisdiction: 潮州分局<br>備駐 notes: ]]></description>
+        <name>公司商辦</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 銘元畜牧有限公司<br>電腦編號 serial number: QQA00030<br>村里別village: 三共里<br>地址 address: 屏東縣潮州鎮三共里05鄰朝昇路2號<br>緯經度 latitude and longitude: 22.554673868323047, 120.54714902198229<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 496<br>轄管分局jurisdiction: 潮州分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>潮州之聲廣播電台</value>
+            <value>銘元畜牧有限公司</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QQA00030</value>
@@ -22997,7 +22878,7 @@
       </Placemark>
       <Placemark>
         <name>工廠</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 國統國際公司<br>電腦編號 serial number: QPA00059<br>村里別village: 新園村<br>地址 address: 屏東縣新園鄉新園村16鄰媽祖路400號<br>緯經度 latitude and longitude: 22.516344483776674, 120.4453393852495<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 157<br>轄管分局jurisdiction: 東港分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 國統國際公司<br>電腦編號 serial number: QPA00059<br>村里別village: 新園村<br>地址 address: 屏東縣新園鄉新園村16鄰媽祖路400號<br>緯經度 latitude and longitude: 22.516344483776674, 120.4453393852495<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 166<br>轄管分局jurisdiction: 東港分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
@@ -23019,7 +22900,7 @@
             <value>1.0</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>157.0</value>
+            <value>166.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>東港分局</value>
@@ -23075,7 +22956,7 @@
       </Placemark>
       <Placemark>
         <name>工廠</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 宏昇螺旋槳公司<br>電腦編號 serial number: QPA00061<br>村里別village: 新園村<br>地址 address: 屏東縣新園鄉新園村16鄰媽祖路408號<br>緯經度 latitude and longitude: 22.51511746350978, 120.44515258377066<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 33<br>轄管分局jurisdiction: 東港分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 宏昇螺旋槳公司<br>電腦編號 serial number: QPA00061<br>村里別village: 新園村<br>地址 address: 屏東縣新園鄉新園村16鄰媽祖路408號<br>緯經度 latitude and longitude: 22.51511746350978, 120.44515258377066<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 36<br>轄管分局jurisdiction: 東港分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
@@ -23097,7 +22978,7 @@
             <value>1.0</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>33.0</value>
+            <value>36.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>東港分局</value>
@@ -23468,7 +23349,7 @@
       </Placemark>
       <Placemark>
         <name>金融機構</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 兆豐商銀/屏東分行<br>電腦編號 serial number: QMA02026<br>村里別village: 大埔里<br>地址 address: 屏東縣屏東市大埔里07鄰民族路213號<br>緯經度 latitude and longitude: 22.67041175626547, 120.4845444131065<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 837<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 兆豐商銀/屏東分行<br>電腦編號 serial number: QMA02026<br>村里別village: 大埔里<br>地址 address: 屏東縣屏東市大埔里07鄰民族路213號<br>緯經度 latitude and longitude: 22.67041175626547, 120.4845444131065<br>地下樓層數number of basement levels: 1.2<br>可容納人數capacity: 878<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
@@ -23487,10 +23368,10 @@
             <value>22.67041175626547, 120.4845444131065</value>
           </Data>
           <Data name="地下樓層數number of basement levels">
-            <value>1</value>
+            <value>1.2</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>837.0</value>
+            <value>878.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -23584,12 +23465,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>商辦機構</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 新光商業樓<br>電腦編號 serial number: QMA02114<br>村里別village: 大埔里<br>地址 address: 屏東縣屏東市大埔里07鄰民族路337號<br>緯經度 latitude and longitude: 22.671014664595962, 120.48091958756117<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 43<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <name>民宅</name>
+        <description><![CDATA[建築物名稱the names of the buildings: —<br>電腦編號 serial number: QMA02114<br>村里別village: 大埔里<br>地址 address: 屏東縣屏東市大埔里07鄰民族路337號<br>緯經度 latitude and longitude: 22.671014664595962, 120.48091958756117<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 149<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>新光商業樓</value>
+            <value>—</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA02114</value>
@@ -23607,7 +23488,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>43.0</value>
+            <value>149.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -24482,7 +24363,7 @@
       </Placemark>
       <Placemark>
         <name>旅社</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 薇楓商旅<br>電腦編號 serial number: QMA00194<br>村里別village: 光榮里<br>地址 address: 屏東縣屏東市光榮里03鄰桂林街38號<br>緯經度 latitude and longitude: 22.672170366263053, 120.4850541849792<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 276<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 薇楓商旅<br>電腦編號 serial number: QMA00194<br>村里別village: 光榮里<br>地址 address: 屏東縣屏東市光榮里03鄰桂林街38號<br>緯經度 latitude and longitude: 22.672170366263053, 120.4850541849792<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 317<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
@@ -24504,7 +24385,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>276.0</value>
+            <value>317.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -24676,12 +24557,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>金融機構</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 國泰世華銀行/屏東分行<br>電腦編號 serial number: QMA02615<br>村里別village: 大同里<br>地址 address: 屏東縣屏東市大同里05鄰中正路89號<br>緯經度 latitude and longitude: 22.672518006385584, 120.48879881832356<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 166<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <name>旅宿</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 康橋商旅<br>電腦編號 serial number: QMA02615<br>村里別village: 大同里<br>地址 address: 屏東縣屏東市大同里05鄰中正路89號<br>緯經度 latitude and longitude: 22.672518006385584, 120.48879881832356<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 473<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>國泰世華銀行/屏東分行</value>
+            <value>康橋商旅</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA02615</value>
@@ -24699,7 +24580,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>166.0</value>
+            <value>473.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -24989,11 +24870,11 @@
       </Placemark>
       <Placemark>
         <name>商業大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 新光商業大樓<br>電腦編號 serial number: QMA00164<br>村里別village: 大同里<br>地址 address: 屏東縣屏東市大同里01鄰中華路15號<br>緯經度 latitude and longitude: 22.67180898443718, 120.48961005020638<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 83<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 新光人壽/屏東2大樓<br>電腦編號 serial number: QMA00164<br>村里別village: 大同里<br>地址 address: 屏東縣屏東市大同里01鄰中華路15號<br>緯經度 latitude and longitude: 22.67180898443718, 120.48961005020638<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 500<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>新光商業大樓</value>
+            <value>新光人壽/屏東2大樓</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA00164</value>
@@ -25011,7 +24892,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>83.0</value>
+            <value>500.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -25101,45 +24982,6 @@
         <Point>
           <coordinates>
             120.490307774667,22.6737528150456,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>旅社</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 台輪旅社<br>電腦編號 serial number: QMA00025<br>村里別village: 大同里<br>地址 address: 屏東縣屏東市大同里08鄰民族路159號<br>緯經度 latitude and longitude: 22.67014134829416, 120.48693799984119<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 72<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱the names of the buildings">
-            <value>台輪旅社</value>
-          </Data>
-          <Data name="電腦編號 serial number">
-            <value>QMA00025</value>
-          </Data>
-          <Data name="村里別village">
-            <value>大同里</value>
-          </Data>
-          <Data name="地址 address">
-            <value>屏東縣屏東市大同里08鄰民族路159號</value>
-          </Data>
-          <Data name="緯經度 latitude and longitude">
-            <value>22.67014134829416, 120.48693799984119</value>
-          </Data>
-          <Data name="地下樓層數number of basement levels">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數capacity">
-            <value>72.0</value>
-          </Data>
-          <Data name="轄管分局jurisdiction">
-            <value>屏東分局</value>
-          </Data>
-          <Data name="備駐 notes">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.486937999841,22.6701413482942,0
           </coordinates>
         </Point>
       </Placemark>
@@ -25262,7 +25104,7 @@
       </Placemark>
       <Placemark>
         <name>飯店</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 東星飯店<br>電腦編號 serial number: QMA00111<br>村里別village: 大同里<br>地址 address: 屏東縣屏東市大同里01鄰光復路18號<br>緯經度 latitude and longitude: 22.669362201979, 120.48889298318254<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 185<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 東星飯店<br>電腦編號 serial number: QMA00111<br>村里別village: 大同里<br>地址 address: 屏東縣屏東市大同里01鄰光復路18號<br>緯經度 latitude and longitude: 22.669362201979, 120.48889298318254<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 210<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
@@ -25284,7 +25126,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>185.0</value>
+            <value>210.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -25301,7 +25143,7 @@
       </Placemark>
       <Placemark>
         <name>飯店</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 飛馬飯店<br>電腦編號 serial number: QMA00129<br>村里別village: 大同里<br>地址 address: 屏東縣屏東市大同里06鄰光復路60號<br>緯經度 latitude and longitude: 22.669567118583288, 120.48715072162207<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 138<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 飛馬飯店<br>電腦編號 serial number: QMA00129<br>村里別village: 大同里<br>地址 address: 屏東縣屏東市大同里06鄰光復路60號<br>緯經度 latitude and longitude: 22.669567118583288, 120.48715072162207<br>地下樓層數number of basement levels: 1.2<br>可容納人數capacity: 346<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
@@ -25320,10 +25162,10 @@
             <value>22.669567118583288, 120.48715072162207</value>
           </Data>
           <Data name="地下樓層數number of basement levels">
-            <value>1</value>
+            <value>1.2</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>138.0</value>
+            <value>346.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -25339,8 +25181,47 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>寺廟</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 聖帝廟慈鳳宮文化大樓<br>電腦編號 serial number: QMA02182<br>村里別village: 大同里<br>地址 address: 屏東縣屏東市大同里11鄰永福路17號<br>緯經度 latitude and longitude: 22.671315559725485, 120.48729817549133<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 470<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="建築物名稱the names of the buildings">
+            <value>聖帝廟慈鳳宮文化大樓</value>
+          </Data>
+          <Data name="電腦編號 serial number">
+            <value>QMA02182</value>
+          </Data>
+          <Data name="村里別village">
+            <value>大同里</value>
+          </Data>
+          <Data name="地址 address">
+            <value>屏東縣屏東市大同里11鄰永福路17號</value>
+          </Data>
+          <Data name="緯經度 latitude and longitude">
+            <value>22.671315559725485, 120.48729817549133</value>
+          </Data>
+          <Data name="地下樓層數number of basement levels">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數capacity">
+            <value>470.0</value>
+          </Data>
+          <Data name="轄管分局jurisdiction">
+            <value>屏東分局</value>
+          </Data>
+          <Data name="備駐 notes">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.487298175491,22.6713155597255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>百貨公司</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 光南百貨公司<br>電腦編號 serial number: QMA02041<br>村里別village: 大同里<br>地址 address: 屏東縣屏東市大同里01鄰永福路31號<br>緯經度 latitude and longitude: 22.67159738249467, 120.48771176618237<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 173<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 光南百貨公司<br>電腦編號 serial number: QMA02041<br>村里別village: 大同里<br>地址 address: 屏東縣屏東市大同里01鄰永福路31號<br>緯經度 latitude and longitude: 22.67159738249467, 120.48771176618237<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 174<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
@@ -25362,7 +25243,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>173.0</value>
+            <value>174.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -26587,12 +26468,90 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>商業大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 商業娛樂樓<br>電腦編號 serial number: QMA02421<br>村里別village: 楠樹里<br>地址 address: 屏東縣屏東市楠樹里04鄰福建路78號<br>緯經度 latitude and longitude: 22.672291394588026, 120.49118593456332<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 442<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <name>診所</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 國新診所<br>電腦編號 serial number: QMA02196<br>村里別village: 楠樹里<br>地址 address: 屏東縣屏東市楠樹里04鄰福建路17號<br>緯經度 latitude and longitude: 22.671839797191993, 120.49225310716217<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 211<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>商業娛樂樓</value>
+            <value>國新診所</value>
+          </Data>
+          <Data name="電腦編號 serial number">
+            <value>QMA02196</value>
+          </Data>
+          <Data name="村里別village">
+            <value>楠樹里</value>
+          </Data>
+          <Data name="地址 address">
+            <value>屏東縣屏東市楠樹里04鄰福建路17號</value>
+          </Data>
+          <Data name="緯經度 latitude and longitude">
+            <value>22.671839797191993, 120.49225310716217</value>
+          </Data>
+          <Data name="地下樓層數number of basement levels">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數capacity">
+            <value>211.0</value>
+          </Data>
+          <Data name="轄管分局jurisdiction">
+            <value>屏東分局</value>
+          </Data>
+          <Data name="備駐 notes">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.492253107162,22.671839797192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>社區大樓</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 新堀江大樓<br>電腦編號 serial number: QMA02195<br>村里別village: 楠樹里<br>地址 address: 屏東縣屏東市楠樹里04鄰福建路62號<br>緯經度 latitude and longitude: 22.672024799459663, 120.49214246604544<br>地下樓層數number of basement levels: 1.2<br>可容納人數capacity: 896<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="建築物名稱the names of the buildings">
+            <value>新堀江大樓</value>
+          </Data>
+          <Data name="電腦編號 serial number">
+            <value>QMA02195</value>
+          </Data>
+          <Data name="村里別village">
+            <value>楠樹里</value>
+          </Data>
+          <Data name="地址 address">
+            <value>屏東縣屏東市楠樹里04鄰福建路62號</value>
+          </Data>
+          <Data name="緯經度 latitude and longitude">
+            <value>22.672024799459663, 120.49214246604544</value>
+          </Data>
+          <Data name="地下樓層數number of basement levels">
+            <value>1.2</value>
+          </Data>
+          <Data name="可容納人數capacity">
+            <value>896.0</value>
+          </Data>
+          <Data name="轄管分局jurisdiction">
+            <value>屏東分局</value>
+          </Data>
+          <Data name="備駐 notes">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.492142466045,22.6720247994597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>商業大樓</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 唐人街大廈<br>電腦編號 serial number: QMA02421<br>村里別village: 楠樹里<br>地址 address: 屏東縣屏東市楠樹里04鄰福建路78號<br>緯經度 latitude and longitude: 22.672291394588026, 120.49118593456332<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 407<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="建築物名稱the names of the buildings">
+            <value>唐人街大廈</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA02421</value>
@@ -26610,7 +26569,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>442.0</value>
+            <value>407.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -28655,7 +28614,7 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 富有名店大廈<br>電腦編號 serial number: QMA02064<br>村里別village: 公園里<br>地址 address: 屏東縣屏東市公園里06鄰中華路139號<br>緯經度 latitude and longitude: 22.676502588803366, 120.49118976007948<br>地下樓層數number of basement levels: 1.2<br>可容納人數capacity: 5333<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 富有名店大廈<br>電腦編號 serial number: QMA02064<br>村里別village: 公園里<br>地址 address: 屏東縣屏東市公園里06鄰中華路139號<br>緯經度 latitude and longitude: 22.676502588803366, 120.49118976007948<br>地下樓層數number of basement levels: 1.2.3<br>可容納人數capacity: 5333<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
@@ -28674,7 +28633,7 @@
             <value>22.676502588803366, 120.49118976007948</value>
           </Data>
           <Data name="地下樓層數number of basement levels">
-            <value>1.2</value>
+            <value>1.2.3</value>
           </Data>
           <Data name="可容納人數capacity">
             <value>5333.0</value>
@@ -29513,12 +29472,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>電力機構</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 台電公司<br>電腦編號 serial number: QMA02167<br>村里別village: 公園里<br>地址 address: 屏東縣屏東市公園里06鄰青島街35號<br>緯經度 latitude and longitude: 22.67820636507266, 120.48942422151609<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 66<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <name>水力機構</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 台灣自來水公司/屏東區管理處<br>電腦編號 serial number: QMA02167<br>村里別village: 公園里<br>地址 address: 屏東縣屏東市公園里06鄰青島街35號<br>緯經度 latitude and longitude: 22.678202006378342, 120.48943017366649<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 1439<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>台電公司</value>
+            <value>台灣自來水公司/屏東區管理處</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA02167</value>
@@ -29530,13 +29489,13 @@
             <value>屏東縣屏東市公園里06鄰青島街35號</value>
           </Data>
           <Data name="緯經度 latitude and longitude">
-            <value>22.67820636507266, 120.48942422151609</value>
+            <value>22.678202006378342, 120.48943017366649</value>
           </Data>
           <Data name="地下樓層數number of basement levels">
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>66.0</value>
+            <value>1439.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -29547,7 +29506,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.489424221516,22.6782063650727,0
+            120.489430173666,22.6782020063783,0
           </coordinates>
         </Point>
       </Placemark>
@@ -30879,7 +30838,7 @@
       </Placemark>
       <Placemark>
         <name>商業大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 國瓏萬通商業大樓<br>電腦編號 serial number: QMA02056<br>村里別village: 北勢里<br>地址 address: 屏東縣屏東市北勢里18鄰自由路450號<br>緯經度 latitude and longitude: 22.68306763838154, 120.49187450026926<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 656<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 國瓏萬通商業大樓<br>電腦編號 serial number: QMA02056<br>村里別village: 北勢里<br>地址 address: 屏東縣屏東市北勢里18鄰自由路450號<br>緯經度 latitude and longitude: 22.68306763838154, 120.49187450026926<br>地下樓層數number of basement levels: 1.2<br>可容納人數capacity: 1072<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
@@ -30898,10 +30857,10 @@
             <value>22.68306763838154, 120.49187450026926</value>
           </Data>
           <Data name="地下樓層數number of basement levels">
-            <value>1</value>
+            <value>1.2</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>656.0</value>
+            <value>1072.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -30957,7 +30916,7 @@
       </Placemark>
       <Placemark>
         <name>民宅</name>
-        <description><![CDATA[建築物名稱the names of the buildings: —<br>電腦編號 serial number: QMA02371<br>村里別village: 北勢里<br>地址 address: 屏東縣屏東市北勢里25鄰中正路379號<br>緯經度 latitude and longitude: 22.686084150831878, 120.49495281057082<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 118<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: —<br>電腦編號 serial number: QMA02371<br>村里別village: 北勢里<br>地址 address: 屏東縣屏東市北勢里25鄰中正路379號<br>緯經度 latitude and longitude: 22.686084150831878, 120.49495281057082<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 119<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
@@ -30979,7 +30938,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>118.0</value>
+            <value>119.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -30995,12 +30954,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>民宅</name>
-        <description><![CDATA[建築物名稱the names of the buildings: —<br>電腦編號 serial number: QMA02370<br>村里別village: 北勢里<br>地址 address: 屏東縣屏東市北勢里25鄰中正路379號之1<br>緯經度 latitude and longitude: 22.68598855586318, 120.49490653940623<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 100<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <name>藥局</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 大林中正藥局<br>電腦編號 serial number: QMA02370<br>村里別village: 北勢里<br>地址 address: 屏東縣屏東市北勢里25鄰中正路379號之1<br>緯經度 latitude and longitude: 22.68598855586318, 120.49490653940623<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 100<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>—</value>
+            <value>大林中正藥局</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA02370</value>
@@ -33882,11 +33841,11 @@
       </Placemark>
       <Placemark>
         <name>商業大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 中國人壽<br>電腦編號 serial number: QMA02168<br>村里別village: 大連里<br>地址 address: 屏東縣屏東市大連里16鄰瑞光路二段456號<br>緯經度 latitude and longitude: 22.68295802381605, 120.50518041059202<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 523<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 統一超商/元盛門市<br>電腦編號 serial number: QMA02168<br>村里別village: 大連里<br>地址 address: 屏東縣屏東市大連里16鄰瑞光路二段456號<br>緯經度 latitude and longitude: 22.68295802381605, 120.50518041059202<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 523<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>中國人壽</value>
+            <value>統一超商/元盛門市</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA02168</value>
@@ -34194,11 +34153,11 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 柏根大第大樓<br>電腦編號 serial number: QMA02071<br>村里別village: 大連里<br>地址 address: 屏東縣屏東市大連里13鄰興豐路155號<br>緯經度 latitude and longitude: 22.682624824540873, 120.50832205300352<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 388<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 箱根大第大樓<br>電腦編號 serial number: QMA02071<br>村里別village: 大連里<br>地址 address: 屏東縣屏東市大連里13鄰興豐路155號<br>緯經度 latitude and longitude: 22.682624824540873, 120.50832205300352<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 482<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>柏根大第大樓</value>
+            <value>箱根大第大樓</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA02071</value>
@@ -34216,7 +34175,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>388.0</value>
+            <value>482.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -34935,11 +34894,11 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 雙星大樓<br>電腦編號 serial number: QMA02073<br>村里別village: 大連里<br>地址 address: 屏東縣屏東市大連里22鄰德豐街140巷1～2號<br>緯經度 latitude and longitude: 22.679864815089132, 120.50758264898008<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 631<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 頂好雙星大樓/AB棟<br>電腦編號 serial number: QMA02073<br>村里別village: 大連里<br>地址 address: 屏東縣屏東市大連里22鄰德豐街140巷2號<br>緯經度 latitude and longitude: 22.679864815089132, 120.50758264898008<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 465<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>雙星大樓</value>
+            <value>頂好雙星大樓/AB棟</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA02073</value>
@@ -34948,7 +34907,7 @@
             <value>大連里</value>
           </Data>
           <Data name="地址 address">
-            <value>屏東縣屏東市大連里22鄰德豐街140巷1～2號</value>
+            <value>屏東縣屏東市大連里22鄰德豐街140巷2號</value>
           </Data>
           <Data name="緯經度 latitude and longitude">
             <value>22.679864815089132, 120.50758264898008</value>
@@ -34957,7 +34916,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>631.0</value>
+            <value>465.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -34969,6 +34928,45 @@
         <Point>
           <coordinates>
             120.50758264898,22.6798648150891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>社區大樓</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 頂好雙星大樓/DE棟<br>電腦編號 serial number: QMA02189<br>村里別village: 大連里<br>地址 address: 屏東縣屏東市大連里22鄰德豐街140巷3號<br>緯經度 latitude and longitude: 22.67996209258791, 120.5075970035376<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 500<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="建築物名稱the names of the buildings">
+            <value>頂好雙星大樓/DE棟</value>
+          </Data>
+          <Data name="電腦編號 serial number">
+            <value>QMA02189</value>
+          </Data>
+          <Data name="村里別village">
+            <value>大連里</value>
+          </Data>
+          <Data name="地址 address">
+            <value>屏東縣屏東市大連里22鄰德豐街140巷3號</value>
+          </Data>
+          <Data name="緯經度 latitude and longitude">
+            <value>22.67996209258791, 120.5075970035376</value>
+          </Data>
+          <Data name="地下樓層數number of basement levels">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數capacity">
+            <value>500.0</value>
+          </Data>
+          <Data name="轄管分局jurisdiction">
+            <value>屏東分局</value>
+          </Data>
+          <Data name="備駐 notes">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.507597003538,22.6799620925879,0
           </coordinates>
         </Point>
       </Placemark>
@@ -36222,11 +36220,11 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 康橋大廈<br>電腦編號 serial number: QMA01070<br>村里別village: 豐年里<br>地址 address: 屏東縣屏東市豐年里31鄰豐年街220號<br>緯經度 latitude and longitude: 22.68079890552384, 120.50480092303668<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 488<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 康橋DC大廈<br>電腦編號 serial number: QMA01070<br>村里別village: 豐年里<br>地址 address: 屏東縣屏東市豐年里31鄰豐年街220號<br>緯經度 latitude and longitude: 22.68079890552384, 120.50480092303668<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 513<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>康橋大廈</value>
+            <value>康橋DC大廈</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA01070</value>
@@ -36244,7 +36242,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>488.0</value>
+            <value>513.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -36256,6 +36254,240 @@
         <Point>
           <coordinates>
             120.504800923037,22.6807989055238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>社區大樓</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 國寶天廈大樓<br>電腦編號 serial number: QMA02192<br>村里別village: 豐年里<br>地址 address: 屏東縣屏東市豐年里15鄰豐華街1號<br>緯經度 latitude and longitude: 22.678937231842294, 120.50625374389<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 1065<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="建築物名稱the names of the buildings">
+            <value>國寶天廈大樓</value>
+          </Data>
+          <Data name="電腦編號 serial number">
+            <value>QMA02192</value>
+          </Data>
+          <Data name="村里別village">
+            <value>豐年里</value>
+          </Data>
+          <Data name="地址 address">
+            <value>屏東縣屏東市豐年里15鄰豐華街1號</value>
+          </Data>
+          <Data name="緯經度 latitude and longitude">
+            <value>22.678937231842294, 120.50625374389</value>
+          </Data>
+          <Data name="地下樓層數number of basement levels">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數capacity">
+            <value>1065.0</value>
+          </Data>
+          <Data name="轄管分局jurisdiction">
+            <value>屏東分局</value>
+          </Data>
+          <Data name="備駐 notes">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.50625374389,22.6789372318423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>社區大樓</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 屏東首席大樓<br>電腦編號 serial number: QMA02193<br>村里別village: 豐年里<br>地址 address: 屏東縣屏東市豐年里15鄰豐華街17號<br>緯經度 latitude and longitude: 22.678728862319463, 120.50563289396109<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 575<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="建築物名稱the names of the buildings">
+            <value>屏東首席大樓</value>
+          </Data>
+          <Data name="電腦編號 serial number">
+            <value>QMA02193</value>
+          </Data>
+          <Data name="村里別village">
+            <value>豐年里</value>
+          </Data>
+          <Data name="地址 address">
+            <value>屏東縣屏東市豐年里15鄰豐華街17號</value>
+          </Data>
+          <Data name="緯經度 latitude and longitude">
+            <value>22.678728862319463, 120.50563289396109</value>
+          </Data>
+          <Data name="地下樓層數number of basement levels">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數capacity">
+            <value>575.0</value>
+          </Data>
+          <Data name="轄管分局jurisdiction">
+            <value>屏東分局</value>
+          </Data>
+          <Data name="備駐 notes">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.505632893961,22.6787288623195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民宅</name>
+        <description><![CDATA[建築物名稱the names of the buildings: —<br>電腦編號 serial number: QMA01072<br>村里別village: 豐年里<br>地址 address: 屏東縣屏東市豐年里17鄰豐華街27號<br>緯經度 latitude and longitude: 22.67788157304685, 120.50213859611621<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 55<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="建築物名稱the names of the buildings">
+            <value>—</value>
+          </Data>
+          <Data name="電腦編號 serial number">
+            <value>QMA01072</value>
+          </Data>
+          <Data name="村里別village">
+            <value>豐年里</value>
+          </Data>
+          <Data name="地址 address">
+            <value>屏東縣屏東市豐年里17鄰豐華街27號</value>
+          </Data>
+          <Data name="緯經度 latitude and longitude">
+            <value>22.67788157304685, 120.50213859611621</value>
+          </Data>
+          <Data name="地下樓層數number of basement levels">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數capacity">
+            <value>55.0</value>
+          </Data>
+          <Data name="轄管分局jurisdiction">
+            <value>屏東分局</value>
+          </Data>
+          <Data name="備駐 notes">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.502138596116,22.6778815730469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>社區大樓</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 黑糖名廈<br>電腦編號 serial number: QMA02194<br>村里別village: 豐年里<br>地址 address: 屏東縣屏東市豐年里22鄰豐華街87號<br>緯經度 latitude and longitude: 22.678309413228433, 120.50382041623887<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 267<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="建築物名稱the names of the buildings">
+            <value>黑糖名廈</value>
+          </Data>
+          <Data name="電腦編號 serial number">
+            <value>QMA02194</value>
+          </Data>
+          <Data name="村里別village">
+            <value>豐年里</value>
+          </Data>
+          <Data name="地址 address">
+            <value>屏東縣屏東市豐年里22鄰豐華街87號</value>
+          </Data>
+          <Data name="緯經度 latitude and longitude">
+            <value>22.678309413228433, 120.50382041623887</value>
+          </Data>
+          <Data name="地下樓層數number of basement levels">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數capacity">
+            <value>267.0</value>
+          </Data>
+          <Data name="轄管分局jurisdiction">
+            <value>屏東分局</value>
+          </Data>
+          <Data name="備駐 notes">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.503820416239,22.6783094132284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>社區大樓</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 芳鄰大廈<br>電腦編號 serial number: QMA02197<br>村里別village: 豐年里<br>地址 address: 屏東縣屏東市豐年里22鄰豐華街101號<br>緯經度 latitude and longitude: 22.678567988824167, 120.50364913545324<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 173<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="建築物名稱the names of the buildings">
+            <value>芳鄰大廈</value>
+          </Data>
+          <Data name="電腦編號 serial number">
+            <value>QMA02197</value>
+          </Data>
+          <Data name="村里別village">
+            <value>豐年里</value>
+          </Data>
+          <Data name="地址 address">
+            <value>屏東縣屏東市豐年里22鄰豐華街101號</value>
+          </Data>
+          <Data name="緯經度 latitude and longitude">
+            <value>22.678567988824167, 120.50364913545324</value>
+          </Data>
+          <Data name="地下樓層數number of basement levels">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數capacity">
+            <value>173.0</value>
+          </Data>
+          <Data name="轄管分局jurisdiction">
+            <value>屏東分局</value>
+          </Data>
+          <Data name="備駐 notes">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.503649135453,22.6785679888242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>社區大樓</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 翠庭華廈<br>電腦編號 serial number: QMA02198<br>村里別village: 豐年里<br>地址 address: 屏東縣屏東市豐年里22鄰豐華街113號<br>緯經度 latitude and longitude: 22.678820008165683, 120.50349368250502<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 162<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="建築物名稱the names of the buildings">
+            <value>翠庭華廈</value>
+          </Data>
+          <Data name="電腦編號 serial number">
+            <value>QMA02198</value>
+          </Data>
+          <Data name="村里別village">
+            <value>豐年里</value>
+          </Data>
+          <Data name="地址 address">
+            <value>屏東縣屏東市豐年里22鄰豐華街113號</value>
+          </Data>
+          <Data name="緯經度 latitude and longitude">
+            <value>22.678820008165683, 120.50349368250502</value>
+          </Data>
+          <Data name="地下樓層數number of basement levels">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數capacity">
+            <value>162.0</value>
+          </Data>
+          <Data name="轄管分局jurisdiction">
+            <value>屏東分局</value>
+          </Data>
+          <Data name="備駐 notes">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.503493682505,22.6788200081657,0
           </coordinates>
         </Point>
       </Placemark>
@@ -36373,45 +36605,6 @@
         <Point>
           <coordinates>
             120.505072844001,22.6810063773414,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>民宅</name>
-        <description><![CDATA[建築物名稱the names of the buildings: —<br>電腦編號 serial number: QMA01072<br>村里別village: 豐年里<br>地址 address: 屏東縣屏東市豐年里17鄰豐華街27號<br>緯經度 latitude and longitude: 22.67788157304685, 120.50213859611621<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 55<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱the names of the buildings">
-            <value>—</value>
-          </Data>
-          <Data name="電腦編號 serial number">
-            <value>QMA01072</value>
-          </Data>
-          <Data name="村里別village">
-            <value>豐年里</value>
-          </Data>
-          <Data name="地址 address">
-            <value>屏東縣屏東市豐年里17鄰豐華街27號</value>
-          </Data>
-          <Data name="緯經度 latitude and longitude">
-            <value>22.67788157304685, 120.50213859611621</value>
-          </Data>
-          <Data name="地下樓層數number of basement levels">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數capacity">
-            <value>55.0</value>
-          </Data>
-          <Data name="轄管分局jurisdiction">
-            <value>屏東分局</value>
-          </Data>
-          <Data name="備駐 notes">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.502138596116,22.6778815730469,0
           </coordinates>
         </Point>
       </Placemark>
@@ -36807,7 +37000,7 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 翠堤春大樓<br>電腦編號 serial number: QMA00839<br>村里別village: 長春里<br>地址 address: 屏東縣屏東市長春里1鄰民生路12巷20號<br>緯經度 latitude and longitude: 22.6665188814989, 120.50177483505631<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 1557<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 翠堤春大樓<br>電腦編號 serial number: QMA00839<br>村里別village: 長春里<br>地址 address: 屏東縣屏東市長春里1鄰民生路12巷20號<br>緯經度 latitude and longitude: 22.666519954247867, 120.50177638828485<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 1555<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
@@ -36823,13 +37016,13 @@
             <value>屏東縣屏東市長春里1鄰民生路12巷20號</value>
           </Data>
           <Data name="緯經度 latitude and longitude">
-            <value>22.6665188814989, 120.50177483505631</value>
+            <value>22.666519954247867, 120.50177638828485</value>
           </Data>
           <Data name="地下樓層數number of basement levels">
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>1557.0</value>
+            <value>1555.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -36840,7 +37033,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.501774835056,22.6665188814989,0
+            120.501776388285,22.6665199542479,0
           </coordinates>
         </Point>
       </Placemark>
@@ -36997,45 +37190,6 @@
         <Point>
           <coordinates>
             120.498103827329,22.6701600837128,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>民宅</name>
-        <description><![CDATA[建築物名稱the names of the buildings: —<br>電腦編號 serial number: QMA00798<br>村里別village: 長春里<br>地址 address: 屏東縣屏東市長春里06鄰廣東路10號<br>緯經度 latitude and longitude: 22.668185085677667, 120.49815189664083<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 198<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱the names of the buildings">
-            <value>—</value>
-          </Data>
-          <Data name="電腦編號 serial number">
-            <value>QMA00798</value>
-          </Data>
-          <Data name="村里別village">
-            <value>長春里</value>
-          </Data>
-          <Data name="地址 address">
-            <value>屏東縣屏東市長春里06鄰廣東路10號</value>
-          </Data>
-          <Data name="緯經度 latitude and longitude">
-            <value>22.668185085677667, 120.49815189664083</value>
-          </Data>
-          <Data name="地下樓層數number of basement levels">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數capacity">
-            <value>198.0</value>
-          </Data>
-          <Data name="轄管分局jurisdiction">
-            <value>屏東分局</value>
-          </Data>
-          <Data name="備駐 notes">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.498151896641,22.6681850856777,0
           </coordinates>
         </Point>
       </Placemark>
@@ -37426,45 +37580,6 @@
         <Point>
           <coordinates>
             120.502737067805,22.6677989867812,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>公賣機構</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 屏東公賣分局<br>電腦編號 serial number: QMA00789<br>村里別village: 長春里<br>地址 address: 屏東縣屏東市長春里26鄰林森路17號<br>緯經度 latitude and longitude: 22.67093268270876, 120.4994883984934<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 71<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱the names of the buildings">
-            <value>屏東公賣分局</value>
-          </Data>
-          <Data name="電腦編號 serial number">
-            <value>QMA00789</value>
-          </Data>
-          <Data name="村里別village">
-            <value>長春里</value>
-          </Data>
-          <Data name="地址 address">
-            <value>屏東縣屏東市長春里26鄰林森路17號</value>
-          </Data>
-          <Data name="緯經度 latitude and longitude">
-            <value>22.67093268270876, 120.4994883984934</value>
-          </Data>
-          <Data name="地下樓層數number of basement levels">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數capacity">
-            <value>71.0</value>
-          </Data>
-          <Data name="轄管分局jurisdiction">
-            <value>屏東分局</value>
-          </Data>
-          <Data name="備駐 notes">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.499488398493,22.6709326827088,0
           </coordinates>
         </Point>
       </Placemark>
@@ -39537,11 +39652,11 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 緯城學府王朝大樓<br>電腦編號 serial number: QMA01003<br>村里別village: 豐田里<br>地址 address: 屏東縣屏東市豐田里01鄰瑞光路二段2巷7-1號<br>緯經度 latitude and longitude: 22.672495400301795, 120.510914113258<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 476<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 學府王朝大樓<br>電腦編號 serial number: QMA01003<br>村里別village: 豐田里<br>地址 address: 屏東縣屏東市豐田里01鄰瑞光路二段2巷7-1號<br>緯經度 latitude and longitude: 22.672495400301795, 120.510914113258<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 468<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>緯城學府王朝大樓</value>
+            <value>學府王朝大樓</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA01003</value>
@@ -39559,7 +39674,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>476.0</value>
+            <value>468.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -39576,7 +39691,7 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 登皇天廈<br>電腦編號 serial number: QMA02167<br>村里別village: 豐田里<br>地址 address: 屏東縣屏東市豐田里01鄰瑞光路二段2巷12號<br>緯經度 latitude and longitude: 22.672818638806483, 120.51102962264115<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 156<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 登皇天廈<br>電腦編號 serial number: QMA02167<br>村里別village: 豐田里<br>地址 address: 屏東縣屏東市豐田里01鄰瑞光路二段2巷12號<br>緯經度 latitude and longitude: 22.672818638806483, 120.51102962264115<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 360<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
@@ -39598,7 +39713,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>156.0</value>
+            <value>360.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -40551,7 +40666,7 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 大地名廈大樓<br>電腦編號 serial number: QMA01282<br>村里別village: 豐田里<br>地址 address: 屏東縣屏東市豐田里25鄰高豐街38號<br>緯經度 latitude and longitude: 22.6756102165438, 120.50183702609753<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 694<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 大地名廈大樓<br>電腦編號 serial number: QMA01282<br>村里別village: 豐田里<br>地址 address: 屏東縣屏東市豐田里25鄰高豐街38號<br>緯經度 latitude and longitude: 22.67562385909915, 120.50179294980354<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 296<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
@@ -40567,13 +40682,13 @@
             <value>屏東縣屏東市豐田里25鄰高豐街38號</value>
           </Data>
           <Data name="緯經度 latitude and longitude">
-            <value>22.6756102165438, 120.50183702609753</value>
+            <value>22.67562385909915, 120.50179294980354</value>
           </Data>
           <Data name="地下樓層數number of basement levels">
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>694.0</value>
+            <value>296.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -40584,7 +40699,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.501837026098,22.6756102165438,0
+            120.501792949804,22.6756238590992,0
           </coordinates>
         </Point>
       </Placemark>
@@ -41482,45 +41597,6 @@
         <Point>
           <coordinates>
             120.498469637504,22.6644215982708,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>工廠</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 宏青企業有限公司<br>電腦編號 serial number: QMA00882<br>村里別village: 橋南里<br>地址 address: 屏東縣屏東市橋南里19鄰工業路5號<br>緯經度 latitude and longitude: 22.663418097071474, 120.49903499664092<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 23<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱the names of the buildings">
-            <value>宏青企業有限公司</value>
-          </Data>
-          <Data name="電腦編號 serial number">
-            <value>QMA00882</value>
-          </Data>
-          <Data name="村里別village">
-            <value>橋南里</value>
-          </Data>
-          <Data name="地址 address">
-            <value>屏東縣屏東市橋南里19鄰工業路5號</value>
-          </Data>
-          <Data name="緯經度 latitude and longitude">
-            <value>22.663418097071474, 120.49903499664092</value>
-          </Data>
-          <Data name="地下樓層數number of basement levels">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數capacity">
-            <value>23.0</value>
-          </Data>
-          <Data name="轄管分局jurisdiction">
-            <value>屏東分局</value>
-          </Data>
-          <Data name="備駐 notes">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.499034996641,22.6634180970715,0
           </coordinates>
         </Point>
       </Placemark>
@@ -45074,45 +45150,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>公務機構</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 縣水土保持工作站<br>電腦編號 serial number: QMA01377<br>村里別village: 豐榮里<br>地址 address: 屏東縣屏東市豐榮里13鄰廣東路151號<br>緯經度 latitude and longitude: 22.674673178644817, 120.49994959664092<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 22<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱the names of the buildings">
-            <value>縣水土保持工作站</value>
-          </Data>
-          <Data name="電腦編號 serial number">
-            <value>QMA01377</value>
-          </Data>
-          <Data name="村里別village">
-            <value>豐榮里</value>
-          </Data>
-          <Data name="地址 address">
-            <value>屏東縣屏東市豐榮里13鄰廣東路151號</value>
-          </Data>
-          <Data name="緯經度 latitude and longitude">
-            <value>22.674673178644817, 120.49994959664092</value>
-          </Data>
-          <Data name="地下樓層數number of basement levels">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數capacity">
-            <value>22.0</value>
-          </Data>
-          <Data name="轄管分局jurisdiction">
-            <value>屏東分局</value>
-          </Data>
-          <Data name="備駐 notes">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.499949596641,22.6746731786448,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>民宅</name>
         <description><![CDATA[建築物名稱the names of the buildings: —<br>電腦編號 serial number: QMA01361<br>村里別village: 豐榮里<br>地址 address: 屏東縣屏東市豐榮里11鄰廣東路157巷16號<br>緯經度 latitude and longitude: 22.675069973098548, 120.49944646595252<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 51<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
@@ -45699,7 +45736,7 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 帝國新倫敦大廈<br>電腦編號 serial number: QMA02665<br>村里別village: 豐榮里<br>地址 address: 屏東縣屏東市豐榮里01鄰民享路66號<br>緯經度 latitude and longitude: 22.673051522621908, 120.4989369470196<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 1420<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 帝國新倫敦大廈<br>電腦編號 serial number: QMA02665<br>村里別village: 豐榮里<br>地址 address: 屏東縣屏東市豐榮里01鄰民享路66號<br>緯經度 latitude and longitude: 22.673051522621908, 120.4989369470196<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 1767<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
@@ -45721,7 +45758,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>1420.0</value>
+            <value>1767.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -46284,11 +46321,11 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 自立路社區大樓<br>電腦編號 serial number: QMA02114<br>村里別village: 豐榮里<br>地址 address: 屏東縣屏東市豐榮里8鄰自立路280號<br>緯經度 latitude and longitude: 22.675411804119385, 120.49750442974691<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 92<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 第一家庭大樓<br>電腦編號 serial number: QMA02114<br>村里別village: 豐榮里<br>地址 address: 屏東縣屏東市豐榮里8鄰自立路280號<br>緯經度 latitude and longitude: 22.675411804119385, 120.49750442974691<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 465<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>自立路社區大樓</value>
+            <value>第一家庭大樓</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA02114</value>
@@ -46306,7 +46343,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>92.0</value>
+            <value>465.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -47765,6 +47802,84 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>社區大樓</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 屏東禧市大樓<br>電腦編號 serial number: QMA01695<br>村里別village: 厚生里<br>地址 address: 屏東縣屏東市建國里04鄰公勇路77號<br>緯經度 latitude and longitude: 22.668698344414846, 120.48493692479903<br>地下樓層數number of basement levels: 1.2<br>可容納人數capacity: 5162<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="建築物名稱the names of the buildings">
+            <value>屏東禧市大樓</value>
+          </Data>
+          <Data name="電腦編號 serial number">
+            <value>QMA01695</value>
+          </Data>
+          <Data name="村里別village">
+            <value>厚生里</value>
+          </Data>
+          <Data name="地址 address">
+            <value>屏東縣屏東市建國里04鄰公勇路77號</value>
+          </Data>
+          <Data name="緯經度 latitude and longitude">
+            <value>22.668698344414846, 120.48493692479903</value>
+          </Data>
+          <Data name="地下樓層數number of basement levels">
+            <value>1.2</value>
+          </Data>
+          <Data name="可容納人數capacity">
+            <value>5162.0</value>
+          </Data>
+          <Data name="轄管分局jurisdiction">
+            <value>屏東分局</value>
+          </Data>
+          <Data name="備駐 notes">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.484936924799,22.6686983444148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>社區大樓</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 群峰大第大樓<br>電腦編號 serial number: QMA01693<br>村里別village: 厚生里<br>地址 address: 屏東縣屏東市建國里05鄰公勇路83號<br>緯經度 latitude and longitude: 22.668806205137276, 120.48415453901222<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 1293<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="建築物名稱the names of the buildings">
+            <value>群峰大第大樓</value>
+          </Data>
+          <Data name="電腦編號 serial number">
+            <value>QMA01693</value>
+          </Data>
+          <Data name="村里別village">
+            <value>厚生里</value>
+          </Data>
+          <Data name="地址 address">
+            <value>屏東縣屏東市建國里05鄰公勇路83號</value>
+          </Data>
+          <Data name="緯經度 latitude and longitude">
+            <value>22.668806205137276, 120.48415453901222</value>
+          </Data>
+          <Data name="地下樓層數number of basement levels">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數capacity">
+            <value>1293.0</value>
+          </Data>
+          <Data name="轄管分局jurisdiction">
+            <value>屏東分局</value>
+          </Data>
+          <Data name="備駐 notes">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.484154539012,22.6688062051373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>公務機構</name>
         <description><![CDATA[建築物名稱the names of the buildings: 屏東縣政府勞動暨青年發展處<br>電腦編號 serial number: QMA02084<br>村里別village: 建國里<br>地址 address: 屏東縣屏東市建國里01鄰自由路17號<br>緯經度 latitude and longitude: 22.665813673545173, 120.483740523969<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 1928<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
@@ -48702,11 +48817,11 @@
       </Placemark>
       <Placemark>
         <name>電信機構</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 中華電信/屏東服務處<br>電腦編號 serial number: QMA02122<br>村里別village: 永安里<br>地址 address: 屏東縣屏東市永安里15鄰棒球路10號<br>緯經度 latitude and longitude: 22.657943552193334, 120.48589830837989<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 333<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 中華電信/屏東營運處<br>電腦編號 serial number: QMA02122<br>村里別village: 永安里<br>地址 address: 屏東縣屏東市永安里15鄰棒球路10號<br>緯經度 latitude and longitude: 22.657943552193334, 120.48589830837989<br>地下樓層數number of basement levels: 1.2<br>可容納人數capacity: 938<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>中華電信/屏東服務處</value>
+            <value>中華電信/屏東營運處</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA02122</value>
@@ -48721,10 +48836,10 @@
             <value>22.657943552193334, 120.48589830837989</value>
           </Data>
           <Data name="地下樓層數number of basement levels">
-            <value>1</value>
+            <value>1.2</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>333.0</value>
+            <value>938.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -49443,11 +49558,11 @@
       </Placemark>
       <Placemark>
         <name>電信機構</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 中華電信/南區分公司<br>電腦編號 serial number: QMA02123<br>村里別village: 永安里<br>地址 address: 屏東縣屏東市永安里15鄰復興路420號<br>緯經度 latitude and longitude: 22.65800136688076, 120.48672560631917<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 250<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 中華電信/建國機房<br>電腦編號 serial number: QMA02123<br>村里別village: 永安里<br>地址 address: 屏東縣屏東市永安里15鄰復興路420號<br>緯經度 latitude and longitude: 22.65800136688076, 120.48672560631917<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 602<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>中華電信/南區分公司</value>
+            <value>中華電信/建國機房</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA02123</value>
@@ -49465,7 +49580,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>250.0</value>
+            <value>602.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -50374,84 +50489,6 @@
         <Point>
           <coordinates>
             120.479756604238,22.6516268266616,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 屏東禧市大樓<br>電腦編號 serial number: QMA01695<br>村里別village: 厚生里<br>地址 address: 屏東縣屏東市厚生里04鄰公勇路77號<br>緯經度 latitude and longitude: 22.668698344414846, 120.48493692479903<br>地下樓層數number of basement levels: 1.2<br>可容納人數capacity: 5162<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱the names of the buildings">
-            <value>屏東禧市大樓</value>
-          </Data>
-          <Data name="電腦編號 serial number">
-            <value>QMA01695</value>
-          </Data>
-          <Data name="村里別village">
-            <value>厚生里</value>
-          </Data>
-          <Data name="地址 address">
-            <value>屏東縣屏東市厚生里04鄰公勇路77號</value>
-          </Data>
-          <Data name="緯經度 latitude and longitude">
-            <value>22.668698344414846, 120.48493692479903</value>
-          </Data>
-          <Data name="地下樓層數number of basement levels">
-            <value>1.2</value>
-          </Data>
-          <Data name="可容納人數capacity">
-            <value>5162.0</value>
-          </Data>
-          <Data name="轄管分局jurisdiction">
-            <value>屏東分局</value>
-          </Data>
-          <Data name="備駐 notes">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.484936924799,22.6686983444148,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 群峰大第大樓<br>電腦編號 serial number: QMA01693<br>村里別village: 厚生里<br>地址 address: 屏東縣屏東市厚生里05鄰公勇路83號<br>緯經度 latitude and longitude: 22.668806205137276, 120.48415453901222<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 1293<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱the names of the buildings">
-            <value>群峰大第大樓</value>
-          </Data>
-          <Data name="電腦編號 serial number">
-            <value>QMA01693</value>
-          </Data>
-          <Data name="村里別village">
-            <value>厚生里</value>
-          </Data>
-          <Data name="地址 address">
-            <value>屏東縣屏東市厚生里05鄰公勇路83號</value>
-          </Data>
-          <Data name="緯經度 latitude and longitude">
-            <value>22.668806205137276, 120.48415453901222</value>
-          </Data>
-          <Data name="地下樓層數number of basement levels">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數capacity">
-            <value>1293.0</value>
-          </Data>
-          <Data name="轄管分局jurisdiction">
-            <value>屏東分局</value>
-          </Data>
-          <Data name="備駐 notes">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.484154539012,22.6688062051373,0
           </coordinates>
         </Point>
       </Placemark>
@@ -53304,11 +53341,11 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 永大路社區大樓<br>電腦編號 serial number: QMA02126<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里47鄰永大路114巷33號<br>緯經度 latitude and longitude: 22.659261244619497, 120.47624958761101<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 27<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 荷風雅築名廈<br>電腦編號 serial number: QMA02126<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里47鄰永大路114巷33號<br>緯經度 latitude and longitude: 22.659261244619497, 120.47624958761101<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 27<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>永大路社區大樓</value>
+            <value>荷風雅築名廈</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA02126</value>
@@ -54045,7 +54082,7 @@
       </Placemark>
       <Placemark>
         <name>飯店</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 富門大飯店<br>電腦編號 serial number: QMA01940<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里32鄰建南路6號<br>緯經度 latitude and longitude: 22.65367394209779, 120.47828556434912<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 692<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 富門大飯店<br>電腦編號 serial number: QMA01940<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里32鄰建南路6號<br>緯經度 latitude and longitude: 22.65367394209779, 120.47828556434912<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 266<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
@@ -54067,7 +54104,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>692.0</value>
+            <value>266.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -54435,11 +54472,11 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 武士大樓<br>電腦編號 serial number: QMA02125<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里36鄰和生路二段320-1號<br>緯經度 latitude and longitude: 22.654009227914813, 120.4763520979633<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 347<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 武士國宅名廈<br>電腦編號 serial number: QMA02125<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里36鄰和生路二段320-1號<br>緯經度 latitude and longitude: 22.654131574658308, 120.47644319741313<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 1967<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>武士大樓</value>
+            <value>武士國宅名廈</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA02125</value>
@@ -54451,13 +54488,13 @@
             <value>屏東縣屏東市大武里36鄰和生路二段320-1號</value>
           </Data>
           <Data name="緯經度 latitude and longitude">
-            <value>22.654009227914813, 120.4763520979633</value>
+            <value>22.654131574658308, 120.47644319741313</value>
           </Data>
           <Data name="地下樓層數number of basement levels">
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>347.0</value>
+            <value>1967.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -54468,7 +54505,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.476352097963,22.6540092279148,0
+            120.476443197413,22.6541315746583,0
           </coordinates>
         </Point>
       </Placemark>
@@ -54864,11 +54901,50 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 聯協建設大樓/A棟<br>電腦編號 serial number: QMA01751<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里23鄰武愛街226號<br>緯經度 latitude and longitude: 22.661061749184206, 120.4799427905919<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 65<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 聯協新家/第二代<br>電腦編號 serial number: QMA02085<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里23鄰武愛街222號<br>緯經度 latitude and longitude: 22.66067223826099, 120.47982120749379<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 356<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>聯協建設大樓/A棟</value>
+            <value>聯協新家/第二代</value>
+          </Data>
+          <Data name="電腦編號 serial number">
+            <value>QMA02085</value>
+          </Data>
+          <Data name="村里別village">
+            <value>大武里</value>
+          </Data>
+          <Data name="地址 address">
+            <value>屏東縣屏東市大武里23鄰武愛街222號</value>
+          </Data>
+          <Data name="緯經度 latitude and longitude">
+            <value>22.66067223826099, 120.47982120749379</value>
+          </Data>
+          <Data name="地下樓層數number of basement levels">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數capacity">
+            <value>356.0</value>
+          </Data>
+          <Data name="轄管分局jurisdiction">
+            <value>屏東分局</value>
+          </Data>
+          <Data name="備駐 notes">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.479821207494,22.660672238261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>社區大樓</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 聯協新家/第一代<br>電腦編號 serial number: QMA01751<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里23鄰武愛街226號<br>緯經度 latitude and longitude: 22.661061749184206, 120.4799427905919<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 228<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="建築物名稱the names of the buildings">
+            <value>聯協新家/第一代</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA01751</value>
@@ -54886,7 +54962,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>65.0</value>
+            <value>228.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -54898,45 +54974,6 @@
         <Point>
           <coordinates>
             120.479942790592,22.6610617491842,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 聯協建設大樓/B棟<br>電腦編號 serial number: QMA02085<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里23鄰武林街2號<br>緯經度 latitude and longitude: 22.66071410473432, 120.4799520841727<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 383<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱the names of the buildings">
-            <value>聯協建設大樓/B棟</value>
-          </Data>
-          <Data name="電腦編號 serial number">
-            <value>QMA02085</value>
-          </Data>
-          <Data name="村里別village">
-            <value>大武里</value>
-          </Data>
-          <Data name="地址 address">
-            <value>屏東縣屏東市大武里23鄰武林街2號</value>
-          </Data>
-          <Data name="緯經度 latitude and longitude">
-            <value>22.66071410473432, 120.4799520841727</value>
-          </Data>
-          <Data name="地下樓層數number of basement levels">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數capacity">
-            <value>383.0</value>
-          </Data>
-          <Data name="轄管分局jurisdiction">
-            <value>屏東分局</value>
-          </Data>
-          <Data name="備駐 notes">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.479952084173,22.6607141047343,0
           </coordinates>
         </Point>
       </Placemark>
@@ -55098,11 +55135,11 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 亞福建設大樓<br>電腦編號 serial number: QMA01792<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里44鄰武立街60號<br>緯經度 latitude and longitude: 22.658427624691402, 120.47527699349166<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 161<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 公園城堡大廈<br>電腦編號 serial number: QMA01792<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里44鄰武立街60號<br>緯經度 latitude and longitude: 22.658427624691402, 120.47527699349166<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 326<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>亞福建設大樓</value>
+            <value>公園城堡大廈</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA01792</value>
@@ -55120,7 +55157,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>161.0</value>
+            <value>326.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -55409,6 +55446,45 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>社區大樓</name>
+        <description><![CDATA[建築物名稱the names of the buildings: 公園城市大廈<br>電腦編號 serial number: QMA02188<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里34鄰武士街79號<br>緯經度 latitude and longitude: 22.654090972671167, 120.47657088331022<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 417<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="建築物名稱the names of the buildings">
+            <value>公園城市大廈</value>
+          </Data>
+          <Data name="電腦編號 serial number">
+            <value>QMA02188</value>
+          </Data>
+          <Data name="村里別village">
+            <value>大武里</value>
+          </Data>
+          <Data name="地址 address">
+            <value>屏東縣屏東市大武里34鄰武士街79號</value>
+          </Data>
+          <Data name="緯經度 latitude and longitude">
+            <value>22.654090972671167, 120.47657088331022</value>
+          </Data>
+          <Data name="地下樓層數number of basement levels">
+            <value>1</value>
+          </Data>
+          <Data name="可容納人數capacity">
+            <value>417.0</value>
+          </Data>
+          <Data name="轄管分局jurisdiction">
+            <value>屏東分局</value>
+          </Data>
+          <Data name="備駐 notes">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.47657088331,22.6540909726712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>民宅</name>
         <description><![CDATA[建築物名稱the names of the buildings: —<br>電腦編號 serial number: QMA01891<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里34鄰武士街90號<br>緯經度 latitude and longitude: 22.654980795925844, 120.47697736300725<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 97<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
@@ -55683,11 +55759,11 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 朋發建設大樓<br>電腦編號 serial number: QMA01959<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里36鄰武順街98號<br>緯經度 latitude and longitude: 22.655379581210912, 120.4738184579316<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 106<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 武順家園大廈<br>電腦編號 serial number: QMA01959<br>村里別village: 大武里<br>地址 address: 屏東縣屏東市大武里36鄰武順街86號<br>緯經度 latitude and longitude: 22.655327577609402, 120.47391133721747<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 381<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>朋發建設大樓</value>
+            <value>武順家園大廈</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA01959</value>
@@ -55696,16 +55772,16 @@
             <value>大武里</value>
           </Data>
           <Data name="地址 address">
-            <value>屏東縣屏東市大武里36鄰武順街98號</value>
+            <value>屏東縣屏東市大武里36鄰武順街86號</value>
           </Data>
           <Data name="緯經度 latitude and longitude">
-            <value>22.655379581210912, 120.4738184579316</value>
+            <value>22.655327577609402, 120.47391133721747</value>
           </Data>
           <Data name="地下樓層數number of basement levels">
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>106.0</value>
+            <value>381.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -55716,7 +55792,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            120.473818457932,22.6553795812109,0
+            120.473911337217,22.6553275776094,0
           </coordinates>
         </Point>
       </Placemark>
@@ -56658,11 +56734,11 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 四季雅築大樓<br>電腦編號 serial number: QMA02124<br>村里別village: 清溪里<br>地址 address: 屏東縣屏東市清溪里26鄰大武路299號<br>緯經度 latitude and longitude: 22.661534073526447, 120.47285312672352<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 138<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 四季雅築華廈<br>電腦編號 serial number: QMA02124<br>村里別village: 清溪里<br>地址 address: 屏東縣屏東市清溪里26鄰大武路299號<br>緯經度 latitude and longitude: 22.661534073526447, 120.47285312672352<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 453<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>四季雅築大樓</value>
+            <value>四季雅築華廈</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA02124</value>
@@ -56680,7 +56756,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>138.0</value>
+            <value>453.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -58413,11 +58489,11 @@
       </Placemark>
       <Placemark>
         <name>社區大樓</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 縣府美滿儷景大樓<br>電腦編號 serial number: QMA00757<br>村里別village: 空翔里<br>地址 address: 屏東縣屏東市空翔里11鄰迪化二街64號<br>緯經度 latitude and longitude: 22.682413186220064, 120.48171632128201<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 800<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 美滿儷景大廈<br>電腦編號 serial number: QMA00757<br>村里別village: 空翔里<br>地址 address: 屏東縣屏東市空翔里11鄰迪化二街64號<br>緯經度 latitude and longitude: 22.682413186220064, 120.48171632128201<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 753<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>縣府美滿儷景大樓</value>
+            <value>美滿儷景大廈</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA00757</value>
@@ -58435,7 +58511,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>800.0</value>
+            <value>753.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
@@ -58603,45 +58679,6 @@
         <Point>
           <coordinates>
             120.489048870044,22.6928157679626,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>寺廟</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 廣興宮<br>電腦編號 serial number: QMA00450<br>村里別village: 廣興里<br>地址 address: 屏東縣屏東市廣興里09鄰廣興96號<br>緯經度 latitude and longitude: 22.691331106991683, 120.48344348890323<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 500<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱the names of the buildings">
-            <value>廣興宮</value>
-          </Data>
-          <Data name="電腦編號 serial number">
-            <value>QMA00450</value>
-          </Data>
-          <Data name="村里別village">
-            <value>廣興里</value>
-          </Data>
-          <Data name="地址 address">
-            <value>屏東縣屏東市廣興里09鄰廣興96號</value>
-          </Data>
-          <Data name="緯經度 latitude and longitude">
-            <value>22.691331106991683, 120.48344348890323</value>
-          </Data>
-          <Data name="地下樓層數number of basement levels">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數capacity">
-            <value>500.0</value>
-          </Data>
-          <Data name="轄管分局jurisdiction">
-            <value>屏東分局</value>
-          </Data>
-          <Data name="備駐 notes">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.483443488903,22.6913311069917,0
           </coordinates>
         </Point>
       </Placemark>
@@ -59349,45 +59386,6 @@
       </Placemark>
       <Placemark>
         <name>民宅</name>
-        <description><![CDATA[建築物名稱the names of the buildings: —<br>電腦編號 serial number: QMA00529<br>村里別village: 瑞光里<br>地址 address: 屏東縣屏東市瑞光里19鄰民生路5號<br>緯經度 latitude and longitude: 22.661055746848973, 120.50910666945532<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 555<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="建築物名稱the names of the buildings">
-            <value>—</value>
-          </Data>
-          <Data name="電腦編號 serial number">
-            <value>QMA00529</value>
-          </Data>
-          <Data name="村里別village">
-            <value>瑞光里</value>
-          </Data>
-          <Data name="地址 address">
-            <value>屏東縣屏東市瑞光里19鄰民生路5號</value>
-          </Data>
-          <Data name="緯經度 latitude and longitude">
-            <value>22.661055746848973, 120.50910666945532</value>
-          </Data>
-          <Data name="地下樓層數number of basement levels">
-            <value>1</value>
-          </Data>
-          <Data name="可容納人數capacity">
-            <value>555.0</value>
-          </Data>
-          <Data name="轄管分局jurisdiction">
-            <value>屏東分局</value>
-          </Data>
-          <Data name="備駐 notes">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            120.509106669455,22.661055746849,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>民宅</name>
         <description><![CDATA[建築物名稱the names of the buildings: —<br>電腦編號 serial number: QMA00539<br>村里別village: 瑞光里<br>地址 address: 屏東縣屏東市瑞光里01鄰民生路6號之5<br>緯經度 latitude and longitude: 22.663475237211333, 120.5072663239073<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 44<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
@@ -59973,11 +59971,11 @@
       </Placemark>
       <Placemark>
         <name>郵務機構</name>
-        <description><![CDATA[建築物名稱the names of the buildings: 郵政總局/包裹集散處<br>電腦編號 serial number: QMA00554<br>村里別village: 瑞光里<br>地址 address: 屏東縣屏東市瑞光里13鄰民生東路3號<br>緯經度 latitude and longitude: 22.65675954543831, 120.51646584572504<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 1637<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
+        <description><![CDATA[建築物名稱the names of the buildings: 屏東郵局/郵務大樓<br>電腦編號 serial number: QMA00554<br>村里別village: 瑞光里<br>地址 address: 屏東縣屏東市瑞光里13鄰民生東路3號<br>緯經度 latitude and longitude: 22.65675954543831, 120.51646584572504<br>地下樓層數number of basement levels: 1<br>可容納人數capacity: 1024<br>轄管分局jurisdiction: 屏東分局<br>備駐 notes: ]]></description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <ExtendedData>
           <Data name="建築物名稱the names of the buildings">
-            <value>郵政總局/包裹集散處</value>
+            <value>屏東郵局/郵務大樓</value>
           </Data>
           <Data name="電腦編號 serial number">
             <value>QMA00554</value>
@@ -59995,7 +59993,7 @@
             <value>1</value>
           </Data>
           <Data name="可容納人數capacity">
-            <value>1637.0</value>
+            <value>1024.0</value>
           </Data>
           <Data name="轄管分局jurisdiction">
             <value>屏東分局</value>
