@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '8e89165ab4d797d92adcfa102d885bb11449193b',
+        'reference' => 'd71a64f56935c357deefc7512bcb5e823f711c53',
         'name' => '__root__',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '8e89165ab4d797d92adcfa102d885bb11449193b',
+            'reference' => 'd71a64f56935c357deefc7512bcb5e823f711c53',
             'dev_requirement' => false,
         ),
         'masterminds/html5' => array(
